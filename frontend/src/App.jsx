@@ -2,7 +2,7 @@ import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 import Navbar from './components/Navbar';
 import Links from './routes/Links';
-
+import "./App.css"
 
 const theme = createTheme({
   palette: {
