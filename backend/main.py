@@ -1,14 +1,14 @@
 from services.WatsonService.Watson import Watson
 from services.database.database import Database
-from fastapi import FastAPI, File, UploadFile
+from fastapi import FastAPI, HTTPException
 from fastapi.responses import JSONResponse
 import uvicorn
 import os
 
 app = FastAPI()
 
-watsonInstance = Watson()
-databaseInstance = Database()
+watson_instance = Watson()
+database_instance = Database()
 
 SAVE_DIRECTORY = "./files"
 if not os.path.exists(SAVE_DIRECTORY):
