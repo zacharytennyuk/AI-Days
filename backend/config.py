@@ -9,7 +9,6 @@ class Settings(BaseSettings):
     SLATE_MODEL_ID: str
 
     PINECONE_API_KEY: str
-    PINECONE_INDEX_NAME: str
 
     class Config:
         env_file = ".env"
