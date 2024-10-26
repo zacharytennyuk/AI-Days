@@ -1,3 +1,14 @@
 python3 -m venv venv
 source venv/bin/activate
-pip3 install -r requirements.txt
+
+
+pip install fastapi
+
+pip install uvicorn
+
+pip install python-multipart
+
+pip install requests
+
+pip install python-dotenv
+
