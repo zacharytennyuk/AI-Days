@@ -47,3 +47,32 @@ class Watson:
         except requests.exceptions.RequestException as e:
             print(f"Error querying Watson: {e}")
             return {"error": str(e)}
+
+    def generate_embedding(self, texts):
+        """
+        generate embeddings for a list of texts using the slate model.
+
+        :param: texts list of text strings to embed
+        :return: list of embedding vectors
+        """
+        url = f"{self.service_url}/ml/v1/embeddings?version=2022-06-01"
+        headers = {
+            "Authorization": f"Bearer {self.api_key}",
+            "Content-Type": "application/json",
+        }
+
+        data = {
+            "input": texts,
+            "model_id": self.slate_model_id,
+            "project_id": self.project_id,
+        }
+
+        try:
+            response = requests.post(url, headers=headers, json=data)
+            response.raise_for_status()
+            result = response.json()
+            embeddings = [item["embedding"] for item in result["data"]]
+            return embeddings
+        except requests.exceptions.RequestException as e:
+            logger.error(f"Error generating embeddings: {e}")
+            return None
