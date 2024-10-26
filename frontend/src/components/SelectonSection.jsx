@@ -68,22 +68,20 @@ const SelectonSection = () => {
                             <Button
                                 key={index}
                                 sx={{
-                                    borderRadius: '10%',
-                                    minWidth: '150px !important',
-                                    minHeight: '100px !important',
-                                    padding: '0 !important',
-                                    display: 'flex',
-                                    justifyContent: 'space-between',
-                                    paddingBottom: '16px !important',
-                                    paddingTop: '32px !important',
-                                    alignItems: 'center',
-                                    flexDirection: 'column',
+                                  borderRadius: '10%',
+                                  minWidth: '150px !important',
+                                  minHeight: '100px !important',
+                                  padding: '0 !important',
+                                  display: 'flex',
+                                  justifyContent: 'center',
+                                  alignItems: 'center',
+                                  flexDirection: 'column',
                                 }}
                                 variant="contained"
                                 onClick={handleScroll}
                             >
                                 <img src={disaster.image} alt={`${disaster.name} icon`} style={{ width: 30, height: 30 }} />
-                                <p>{disaster.name}</p>
+                                <Typography sx={{marginTop: "8px"}} variant="p">{disaster.name}</Typography>
                             </Button>
                         ))}
                     </Box>
@@ -99,9 +97,7 @@ const SelectonSection = () => {
                                     minHeight: '100px !important',
                                     padding: '0 !important',
                                     display: 'flex',
-                                    justifyContent: 'space-between',
-                                    paddingBlock: '16px !important',
-                                    paddingTop: '32px !important',
+                                    justifyContent: 'center',
                                     alignItems: 'center',
                                     flexDirection: 'column',
                                 }}
@@ -109,7 +105,7 @@ const SelectonSection = () => {
                                 onClick={handleScroll}
                             >
                                 <img src={disaster.image} alt={`${disaster.name} icon`} style={{ width: 30, height: 30 }} />
-                                <p style="">{disaster.name}</p>
+                                <Typography sx={{marginTop: "8px"}} variant="p">{disaster.name}</Typography>
                             </Button>
                         ))}
                     </Box>
