@@ -1,0 +1,2054 @@
+[ BASED ON DATA AS OF DECEMBER 31 , 2 022]
+2023 National Preparedness Report    This page intentionally left blank .
+Foreword
+2023 National Preparedness Report   1 I am pleased to announce the release of the 2023 National Preparedness Report (NPR). The 2023
+NPR is the 12th report released by the Federal Emergency Management Agen cy (FEMA) on the state
+of the nation’s preparedness  for all threats and hazards . Since FEMA began reporting over a decade
+ago, disasters like hurricanes  Sandy, Irma, Maria, Harvey, and Ian, the  coronavirus  disease 2019
+(COVID-19) pandemic, the 20 20 California wildfires , and the 2023 Hawaii  wildfire s have disrupted the
+lives of Americans across the nation and drastically increased the demands placed on the emergency management community. Climate change has led to more frequent and severe weather including heat
+and cold waves, hurricanes, droughts, and wildfires, among other hazards. In the face of these
+challenges, emergency managers must continue to adapt , forge new partnerships to mitigate threats
+and hazar ds, and anticipate post -disaster challenges to help individuals and communities.
+This year’s report provides a data-driven picture of national preparedness and emergency
+management trends. This includes focused discussions on four core capabilities (Fire
+Management and Suppression ; Logistics and
+Supply Chain Management; Public Health, Healthcare, and  Emergency Medical Services
+[EMS]; and Long -Term Vulnerability Reduction) that
+continue to challenge emergency managers, as well as concrete recommendations that partners and stakeholders across the whole community can take to increase their resilience. In our new normal,
+where disasters are more commonplace and
+devastating than  ever, we must all identify targeted
+hazard mitigation investments, leverage historic
+and future risk data, and provide equitable disaster risk reduction for socially vulnerable populations.
+Though these efforts can sometimes be challenging to implement in the short-term, they will lower the
+nation’s collective risk and bolster our long -term resiliency. We have a responsibility to one another to
+ensure everyone has the help they need before, during, and after disasters.
+
+While work remains, I am
+confident  that we will continue to grow ever more resilient as a nation .
+Introduction  & Executive Summary
+2023 National Preparedness Report   2 Through the NPR, FEMA  assesses the nation’s emergency management posture and identifies
+challenges and opportunities for improvement. FEMA has developed the NPR for the past eleven years
+as an annual requirement of Presidential Policy Directive 8 and in alignment with the  Post-Katrina
+Emergency Management Reform Act. The NPR provides partners across the nation with insights about
+risks and associated capabilities to support decisions about program priorities, resource allocations,
+and community actions. Whole community partners are the intended audience of the NPR —including
+all levels of government, individuals and families, community organizations and nonprofits, and
+businesses.
+The 2023 NPR  outlines the  nation's progress towards  achiev ing the National Preparedness Goal of “A
+secure and resilient nation with the capabilities required across the whole community to prevent,
+protect against, mitigate, respond to, and recover from the threats and hazards that pose the greatest risk”  as well as  recommendations for closing  remaining  gaps . This annual report draws upon various
+data sources, including open -source data, F EMA and community preparedness data sets , and
+submissions from federal departments and agencies. FEMA also recognizes critical infrastructure
+owners and operators as important partner s in emergency management and community resilience,
+but did not collect insights into preparedness from this group , as such research presently  extends
+beyond  the scope of this report.
+The NPR covers the domestic preparedness and emergency management challenges facing the nation. For information regarding international threats and hazards, refer to the 2023 Office of Director
+of National Intelligence Annual Threat Assessment . For information regarding homeland security
+threats and hazards, refer to the 2023 Quadrennial Homeland Security Review  and the  D epartment
+of Homeland Security ’s (DHS) 2023 Homeland Threat Assessment .
+The following sections provide an executive summary of  the 2023 NPR key findings,
+recommendations, and structure.
+1.
+
+Findings
+The nation continues to face several  challenges  and an evolving threat and hazard landscape ,
+including:
+Increasing Frequency,  Severity , and Cost of Disasters:  From January 2020 to December 2022, 60
+climate -related disasters caused 1, 460 fatalities  and 2,939 injuries .1,2 These disa sters have  all
+cost at least $1 billion each, marking a significant increase in costly climate -related disasters from
+2023 National Preparedness  Report   3 decades prior.1 Calendar year 2022 accounted for  18 climate -related disasters that cost at least
+$1 billion.3 Additionally, in 2016 at the peak of hurricane season, FEMA was managing 30 major
+disasters in 18 j oint field offices  (JFO). At the same point in 2023, FEMA was managing over twice
+the number of major disasters (i.e., 71) in 25 JFOs . FEMA is now in its sixth  year of operating with
+higher average daily deployments , which have doubled from 3,331 responders pre-2017, to 7,113
+responders post -2017.
+High Community -Level Risk: In 2022, communities identified cyberattacks, pandemics, and floods
+as most likely to occur and cyberattacks , pandemics, and earthquakes as most stress ful for one
+or more capabilities.4 In higher -risk areas  throughout the nation, communities report lower target
+achievement in capabilities like Long -Term Housing , Relocation Assistance , and Community
+Sheltering  than  the rest of the nation.4 Compounding this finding, these communities ’ most
+stressing  natural hazards (i.e., earthquakes, wildfires, and floods ) significantly impact disaster
+survivors’  access to housing or shelter.
+Ongoing  Individual and Household  Preparedness Gaps:  The 202 2 National Household Survey  on
+Disaster Preparedn ess found that 4 2 percent  of respondents plan to prepare for identified threats
+and hazards in the future but have  not started.5 The percentage of survey participants indicating
+they did not intend to prepare decreased from 17 percent  in 2017 to 9 percent  in 2020 but
+rebounded to 14 percent  in 2022.5
+Lack of Standardized  Building Code Adoption:  The inconsistent adoption of building codes  is one
+of the most significant factors that compound s risk and increases costs from natural hazards .
+
+Two
+out of three communities in the U nited States need to incorporate the latest building codes.6
+However, since the  federal  government does not have the authority to  enforce  building code s
+outside of tying incentives  for adoption to federal funding requirements,  and since no  federal
+agency is responsible for administering building codes at the national level, the responsibility for
+adopting the latest building codes falls to state, local, tribal, and territorial (SLTT)  government s.7
+This decentralization results in a wide variation in the adoption of model building codes and
+retention of hazard -resistant provisions in these model codes, code  enforcement and
+administration mechanisms, and funding for enforcement, administration, outreach , and support.7
+2. Recommendations
+The whole community  can drive  resilience in the face of our nation’s evolving threat and hazard
+landscape  through  the following actions :8
+Target Investments towards Particular  Core Capabilities  and Mission Areas : In the Response
+mission area, communities report low levels of grant investment (l ess than $7 million) and lower
+target achievement (less than 65  percent) in Mass Care Services  and Logistics and Supply Chain
+Management. Communities also consider Mass Care Se rvices a high priority capability. These
+capabilities , along with three of the four  Recovery core capabilities, fall within these ranges and
+may warrant that communities increase grant investments.
+Reduc e All-Hazards Challenges through Targeted Actions  and Increased  Coordination : These
+include expanding guidance on addressing climate impacts and conducting educational
+2023 National Preparedness  Report   4 awareness campaigns for SLTT governments  to help share existing resources for building code
+and infrastructure upgrades, cybersecurity, and training. Incorporating the needs of individuals
+with disabilities, older adults, and individuals with limited English proficiency, limited access to transportation, and limited access to financial resourc es, among others,  remains essential to
+ensuring equitable access to disaster risk reduction resources  and advancing environmental
+justice as a core part of disaster preparedness .
+
+In addition , federal agencies’ goals  should align to
+and support long -term  mitigation  efforts  addressing  communities ’ top five most challenging
+threats and hazards:  cyber -attacks, pandemics, flood s, active shooters , and earthquakes .
+4
+Address National Gaps to Prepare for Catastrophic Disasters:  Through the National  Stakeholder
+Preparedness Review , FEMA  has drawn qualitativei conclusions about the nation’s capability gaps
+and ability  to manage catastrophic d isasters and their impacts. Th ese steps  include investing more
+in coordination and communication systems with private sector entities, improving  federal
+interagency coordination and data collection, providing systems for sharing data across the government,  and increasing collaboration opportunities with SLTT governments, such as through
+more frequent, higher -quality  exercises.
+ The National Climate Resiliency Framework and Defining Resilience
+The 2023 National Climate Resiliency Framework defines resilience as “the ability to prepare for
+threats and hazards, adapt to changing conditions, and withstand and recover rapidly from adverse conditions and disruptions.”
+8 The Framework outlines six key objectives and actionable
+strategies to enhance and expedite progress in the realm of climate resilience:
+• Embed climate resilience into planning and management.
+• Increase resilience of the built environment to both acute climate shocks and chronic stressors.
+• Mobilize capital, investment, and innovation to advance climate resilience at scale.
+• Equip communities with information and resources needed to assess their climate risks and develop the climate resilience solutions most appropriate for them.
+• Protect and sustainably manage lands and waters to enhance resilience, while providing numerous other benefits.
+• Help communities become not only more resilient, but also more safe, healthy, equitable, and economically strong.
+3. Repor t Structure
+The 2023 NPR summarizes the progress made toward s building and sustaining the capabilities
+required  to prevent,  protect  against , mitigate, respond to, and recover from the threats and hazards
+that pose the greatest risk to the nation. This annual report offers practical insights into preparedness and capabilities at the federal, state, local, tribal, and territorial levels to support decisions about
+program priorities, resource allocations, and actions for increasing whole community resilience.
+
+The
+2023 National Preparedness  Report   5 NPR pulls from open -source data, FEMA community preparedness  data, and a federal interagency
+data call with submissions from departments and agencies  across the  federal government .
+The 2023 NPR covers calendar year 2022 and builds on content from previous NPRs to analyze trends
+over time. The report contains the following key sections:
+A Risks  section that outlines the nation’s most challenging threats and hazards , high-risk community
+target achievement, and levels of risk across the country.
+A Capabilities  section that describes  trends at the individual and community levels based on data from
+the 2022 National Household Survey on Disaster Preparedness, Threat and Hazard Identification and
+Risk Assessment  (THIRA) , Stakeholder Preparedness Review  (SPR), and National Stakeholder
+Preparedness Review (National SPR) .
+A Focus Areas  section that examines a subset of core capabilities chosen for discussion based on
+preparedness assessment findings  developed using  THIRA/SPR and National SPR  information . These
+four areas continue to challenge emergency management partners  working  to build and sustain
+capability and capacity. The se focus areas include:
+ Fire Management and Suppression
+ Logistics and Supply Chain Management
+ Public Health, Healthcare, and EMS
+ Long -Term Vulnerability Reduction
+Each Focus area contains more detailed information on risk, capabilities, and management
+opportunities related to the core capability, which whole community partners can utilize to develop
+strategies to reduce risk and bolster disaster resilience.
+A Conclusion  that summarizes  the report ’s key findings and recommendations .
+2023 National Preparedness Report   6 Table of Contents
+Foreword  ................................ ................................ ................................ ................................ ... 1
+Introduction & Executive Summary  ................................ ................................ .......................... 2
+1. Findings  ................................ ................................ ................................ ................................ ... 2
+2. Recommendations  ................................ ................................ ................................ .................. 3
+3. Report Structure  ................................ ................................ ................................ ...................... 4
+Risks  ................................ ................................ ................................ ................................ .......... 7
+4. Most Challenging Threats and Hazards  ................................ ................................ .................. 9
+5. Risk and Social Vulnerability Intersections  ................................ ................................ .......... 11
+Capabilities ................................ ................................ ................................ .............................. 13
+6. Individual and Household Preparedness  ................................ ................................ .............
+
+13
+7. Community Preparedness  ................................ ................................ ................................ .... 15
+8. National Preparedness  ................................ ................................ ................................ ......... 16
+Focus Areas  ................................ ................................ ................................ ............................. 19
+9. Fire Management and Suppression  ................................ ................................ ..................... 19
+10. Logistics and Supply Chain Management  ................................ ................................ ............ 23
+11. Public Health, Healthcare, and Emergency Medical Services  ................................ .............. 28
+12. Long -Term Vulnerability Reduction  ................................ ................................ ...................... 33
+Conclusion  ................................ ................................ ................................ ............................... 40
+References  ................................ ................................ ................................ ................................ .. i
+Risks
+2023 National Preparedness Report   7  Key Findings
+• The nation has experienced a rise in the frequency, severity,  and cost of climate -related
+disasters. From January  2020 to December 2023, 60 climate -related disasters caused 1, 460
+fatalities and 2,939 injuries .1,2 These climate -related disaster s have all cost at least $1 billion
+each , marking a significant increase in costly disasters from decades prior.1 Calendar Year
+2022 accounted for 18 climate -related disasters that cost at least $1 billion.3
+• In 2016 at the peak of hurricane season, FEMA was managing 30 major disasters in 18 JFO s.
+At the same point in 2023, FEMA was managing over twice the number of major disasters (i.e.,
+71) in 25 JFOs . FEMA is now in its sixth  year of operating with higher average daily deployments,
+which have doubled from 3,331 responders pre-2017, to 7,113 res ponders post -2017.
+• In 2022, communities most frequently reported cyberattacks, pandemics, and floods as most likely to occur, and cyberattacks, pandemics, and earthquakes as most stressing for one or
+more capabilities.
+4
+• Through 2 022 THIRA/SPR submissions, Western communities have identified specific
+challenges related to long-term housing, relocation assistance, and community sheltering. These challenges are noteworthy because Western communities
+report lower target
+achievement  levels in these critical areas than  other  communities across the nation.4
+Additionally, the Western U.S. faces unique natural hazards, including earthquakes, wildfires,
+and floods, which significant ly impact disaster survivors' acc ess to housing and shelter.4 This
+assessment focuses on the Western U.S.
+
+as a case study. While this assessment focuses on
+the Western U.S., it may not fully represent the broader housing issues faced by communities across the na tion.
+4
+In 2022, t
+he President declared 47 major climate -disasters , 10 emergencies , and 33 Fire
+Management Assistance Grants (FMAG) .9 These 57 major climate -related disasters and emergencies
+resulted in 474 deaths and a total cost of $165 billion— the third costliest year on record behind 2005
+and 2017 ( Figure 1).1
+2023 National Preparedness Report   8
+Figure 1: The number of billion -dollar climate -related disasters (adjusted by the Consumer
+Price Index, “a measure of the average change over time in the prices paid by urban
+consumers for a market basket of consumer goods and services. Indexes are available for t he
+U.S. and various geographic areas”) in the U.S. from 1980-2022. The y -axis indicates the
+number of disasters and the x -axis indicates the calendar year.1 The data  highlighted  is
+current as of 9/11/2023.
+In 2022, the  National Oceanic and Atmospheric Administration  (NOAA)  identified that  18 incidents
+resulted in losses exceeding $1 billion eac h.1,ii These 18 incide nts included one drought,  one flood,
+one wildfire, one winter storm , three tropical cyclones , and 11 severe storms ( Figure 2).1 NOAA
+reported that from 2020 to 2022, 60 climate -related disasters caused 1, 460 fatalities  and 2,939
+injuries .1,2 These disasters have all cost at least $1 billion each , marking a significant increase in costly
+climate -related disasters from decades prior.1 Previous decade totals for billion -dollar climate -related
+disasters (inflation -adjusted) were 33 (1980-1989 ), 57 (1990-1999), 67 (2000-2009), and 131
+(2010-2 019). Over these first three years of  the current decade (2020-2029), the United States has
+already surpassed the total number of billion -dollar disasters from each decade between 1980 and
+1999.
+
+Additionally, over the  last three years (2020- 2022) the U nited States  has already experienced
+approximately half of the total number of billion -dollar climate -related disasters that occurred in the
+previous d ecade (2010-2019).
+2023 National Preparedness Report   9
+Figure 2: 2022 billion- dollar weather and climate disasters.1
+Additionally, in 2016 at the peak of hurricane  season, FEMA was managing 30 major disasters in 18
+JFOs. At the same point in 2023, FEMA was managing over twice the number of major disasters (i.e.,
+71) in 25 JFOs . FEMA is now in its sixth  year of operating with higher average daily deployments, which
+have doubled from 3,331 responders pre-2017, to 7,113 res ponders post -2017.
+FEMA leverages data from the THIRA and SPR process to better understand the complex challenges
+communities face before, during, and after disasters , as well as their capability to manage them .iii The
+following sections explore key finding s related to risk from the THIRA/SPR data, as well as from FEMA’s
+National Risk Index (NRI).
+4. Most Challenging Threats and Hazards
+From 2019 to 2022, the five threats and hazards communities reported as most likely included
+cyberattacks, pandemics, floods, active shooter incidents, and earthquakes .4 Starting in 2020,
+communities reported pandemics as a likel y hazard more often than flooding and earthquakes.
+Communities also report on the threats and hazards that are most stressing for  their capabilities.4
+From 2019 to 202 1, communities chose cyberattacks and flooding as the two most stressing  threat
+and hazard types for their capabilities , while in 2022, communities chose cyberattacks and
+pandemics .4
+2023 National Preparedness Report   10  THIRA/SPR Terminology
+• Threat:  Indication of potential harm to life, information, operations, the environment, and/or
+property.4
+• Hazard:  A source or cause of harm or difficulty. A hazard also differs from a threat in that a threat
+is directed at an entity, asset, system, network, or geographic area. A hazard is not directed.4
+• Core Capability: The distinct critica l elements necessary to achieve the National Preparedness
+Goal.
+
+There are 32 core capabilities organized under five mission areas.4
+• Core Capability Target: A goal to manage the impact of a threat or hazard in a desired amount of
+time that is associated with each core capability. Communities create core capability targets using
+standardized target language.4 Core capability targets are used interchangeably with “capability
+goals” throughout this report.
+• (Capability) Target Achievement: The extent to which a community has achieved (as a percentage)
+a core capability target. This report uses the terms “high -achieving capabilities” and “low -achieving
+capabilities” to indicate whether a community is closer to or further away from achieving a core capability target.
+4
+• High -Risk Community: A community that is more vulnerable to, and less prepared for, the impacts
+of disasters, as assessed through FEMA’s National Risk Index. Conversely, a  low-risk community is
+less vulnerable and more prepared.10
+Figure 3 depicts the most challenging threats and hazards for communities . A total of 137
+communities  reported this data through THIRA/SPR in 2022.4
+Figure 3: Number of communities identifying specific threats and hazards as most likely to occur
+(blue) and most stressing (orange) —organized from greatest cumulative total  (likely + stressing)  to
+least —through the THIRA/SPR process in 2022.iv
+2023 National Preparedness Report   11 2022 THIRA/SPR data  shows  regionalv differences in the types of disasters communities report as
+most  challenging. For example, c ommunities across the West most frequently reported wildfires,
+cyberattacks, and earthquakes as their top threats and hazards o f concern . Communities in the
+Northeast and South  most frequently reported cyberattack s, pandemics, and hurricane s/typhoons ,
+whereas Midwest  communities most frequently reported cyberattacks, tornadoes, and pandemics  as
+their top threats and hazards of concern.
+
+Additionally, with regard to the lowest achieving capabilit y
+targets , communities in the West reported being further away from their capability goals than
+communities in the South, Midwest, and Northeast  (Figure 4).
+Figure 4: Target achievement percentages across communities in the Western United States
+(left) and for all other communities  besides  those in the Western United States  (right)
+associated with the lowest achieving  capabilit y targets  of Long -Term Housing, Resource
+Restoration, Relocation Assistance, Public Risk Awareness, and Community Sheltering. Dark
+gray indicates 0 -29 percent of targ et achievement; a greater percentage of communities in the
+Western United States reported this level of target achievement.
+5. Risk and Social Vulnerability  Intersections
+Every community across  the nation includes  populations that are more vulnerable to the impacts of
+disasters than others . Social factors such as high rates of poverty, lack of access to transportation,
+and limited housing options already make life difficult for individuals living in these communities . The
+impacts of disaster s compound these vulnerabilities,  causing  additional difficulty for these
+communities  as they work to respond to and recover in the aftermath of catastrophe .
+
+Emergency
+managers should  consider the intersection between risk and social vulnerability to ensure the meeting
+of all people ’s needs equitably.
+The NRI provides insights into which areas of the country (at the census tract level) are more vulnerable
+and less prepared based on the potential  environmental, social, and economic effects of 18 natural
+hazards .10 According to the NRI , many very h igh-risk census tracts are heavily concentrated in the
+2023 National Preparedness Report   12 Western United States  due to high population density along coastlines , high expected  annual
+economic losses (in dollars ) as a result of natural hazard s, and elevated levels of social vulnerability .10
+In this region, communities often cite  wildfires and earthquakes as their most likely and stressing
+natural hazards  within their THIRA/SPR submissions .4 Wildfires and earthquakes  can significantly
+impact housing , leading many disaster survivors to become displaced or require alternative shelter ,
+which can be a challeng ing prospect  for communities in the Western United States  that already
+possess lower capability compared to the rest of the country in areas like long -term housing,
+community sheltering, and relocation assistance .4
+The South , Midwes t, and  the states of Florida and Hawaii face similarly high -risk levels  as the Western
+United States  (Figure 5).10 These high -risk rankings are attribut able to natural hazards such as
+hurricanes /typhoons , tornadoes, and severe weather (e.g., strong winds, heat waves, and winter
+weather ), along with the high population density along coastlines and elevated levels of social
+vulnerability in these region s.10 Emergency managers across  the whole community can use the NRI
+and THIRA/SPR data to target support and investments to  reduce risk, lessen the impact of disasters,
+and improve resilience . Emergency managers may  also use FEMA's Resilience Analysis and Planning
+Tool and Climate Risk and Resilience Tool to assess community preparedness against several
+resiliency indicators and climate change data.11 When merged, these tools  can provide comprehensive
+climate analysis contextualized at the community level.11
+Figure 5: Variation in risk across the U.S. by census tract, based on March 2023
+data .
+
+A color scale denotes levels of risk, with dark red indicating very high -risk
+areas , yellow indicating relatively moderate risk  areas , and dark blue indicating
+very low risk  areas .vi National Risk Index
+Capabilities
+2023  National Preparedness Report   13 • According to data from FEMA’s 2022 National Household Survey on Disaster Preparedness, 42
+percent of respondents intend to prepare for identified threats and hazards sometime in the
+future but have not yet started , and 14 percent do not inten d to prepare .5 The percentage of
+survey participants indicating they did not intend to prepare decreased from 17 percent in 2017 to 9 percent in 2020 but rebounded to 14 percent in 2022.
+5
+• Communities report devoting most of their grant funding to specific core capabilities , including
+Planning , Operational Coordination , Physical Protective Measures , Intelligence and Information
+Sharing , and Interdiction and Disruption . Communities report high levels of funding and
+capability overall in the Cross -Cutting , Protection , and R esponse  mission areas.4
+• In the Response  mission area, c ommunities report low levels of  grant  investment (less than $7
+million) and lower target achievement (less than 65 percent) in Mass Care Services and
+Logistics and Supply Chain Management . Communities also consider Mass Care Services a
+high priority capabi lity. These  capabilities  and three of the four Recovery core capabilities  fall
+within these ranges and may warrant increased grant investments.
+• Federal subject -matter experts  (SME ) identified the most gaps in areas like planning  and
+organization, as well as  financial and resource capacity across  core capabilities  during the  first
+phase of the National SPR , which focused on Response and Recovery mission area
+preparedness for a catast rophic incident.
+As demonstrated by the THIRA/SPR and NRI, threat and hazard impacts vary by location, and
+capabilities to manage associated risk  can differ based on communities’ and individuals’ access to
+resources and levels of vulnerability. This section describes some of the tools and resources that the
+emergency management community uses to assess capability across the nation, and outlines individual, community , and national preparedness trends.
+6.
+
+Individual and Household  Preparedness
+Preparedness starts at the i ndividual and household  level  and can serve as a benchmark for capability
+trends in communities and regions across the nation. Since 2013, FEMA has collect ed information on
+individual preparedness actions, attitudes, and motivations across the United States  through its
+annual  National Household Survey  on Disaster Preparedness.5 In 2022, FEMA conducted the survey
+from February 10, 2022 to April 20, 2022, in both English and Spanish , and collected data from 7,145 Key Findings
+2023 National Preparedness Report   14 survey respondents across the country ( Figure 6).5 FEMA weighted responses by key demographic
+variab les to enhance the national representativeness of the data.5
+Figure 6: Demographic communities analyzed by FEMA  in the 2022 National
+Household Survey on Disaster Preparedness .
+Over the past six years,  FEMA  has asked survey  respondents to assess their preparedness ( Figure 7)
+to obtain insight into actual and perceived preparedness.5 The survey include s questions related to
+preparedness actions taken  and self-assess ed preparedness . From 2017 to 2020, a greater
+percentage of respondents indicated that they had taken three or more preparedness actions, but this
+percentage dropped below  2018 levels  by 2022. In 2022, 55 percent of adults surveyed stated they
+had pursued th ree or more of the twelve preparedness actions.vii Similarly, from 2017 to 2019 , FEMA
+observed  a steep increase in the percentage of respondents who indicated  (self-assessed)  that the y
+were prepared for a disaster. However, by 2022, this percentage had drop ped back  to the level it was
+in 2017. In 2022  only 45 percent of survey respondents indicated that they were  prepared for a
+disaster . Moreover, 42 percent of respondents indicated that they intend ed to prepare sometime in
+the future but have not yet started . The percentage of survey participants indicating they did not intend
+to prepare decreased from 17 percent in 2017 to 9 percent in 2020, but rebounded to 14 percent in
+2022.5
+2023 National Preparedness Report   15
+Figure 7: Findings from the 2022 National Household Survey on Disaster
+Preparedness on adult preparedness actions (left) and adults’ self-assessed
+preparedness (right).
+
+All responses are self -reported.5
+Although a variety of  factors may be contribut ing to the changes in preparedness that FEMA has
+recorded over time, one of the most significant factors was the  COVID- 19 pandemic. T he World Health
+Organization declared the coronavirus disease outbreak a public health emergency of international
+concern in January 2020 , and a pandemic in March 2020. Respondents' resources may have
+decreased due to the COVID -19 pandemic, and real -world emergencies could have altered their
+estimations of emergency preparedness. It is notable that the percentage of adult  respondents  who
+reported pursuing three or more actions dropped after 202 0, and that the percentage of adult
+respondents who reported  being  prepared for a disaster  began to drop  sharply  after 2019.5 Reduced
+preparedness —whether actual ( preparedness  actions) or perceived (self -assessed) —indicates
+potentially reduced  capability  at the individual and household  level, which in turn impacts community
+preparedness .
+7. Community Preparedness
+SLTT s leverage  federal grants to reduce risk, mitigate disaster  impa cts, and bolster capabilities . Figure
+8 displays the distribution of FEMA preparedness grants (i.e., non -disaster grants) by core capability in
+2022 alongside  average core capability target achievement s across 2022 THIRA/SPR submis sions  to
+help correlate funding allocation s’ implications on capability achievement .viii,ix
+The highest preparedness  grant investments (by total invested amount) are in the Cross -Cutting,
+Protection , and Response mission area core  capabilities, which corresp ondingly  include four  of the
+core capabilities that  communities report as being closest to achieving their goals. The highest
+achieving core capabilities include Situational Assessment, Threats and Hazards Identification,
+Operational Communications, Operational Coordination, and Planning .x Some of these core
+capabilities were identified as national priority areas for FEMA in FY2022.12
+The lowest  preparedness grant investments are in the Recovery  mission area, which likewise  include s
+two of the core capabilities in  which communities report being furthest away from achieving their goals
+– Housing and Natural and Cultural Resources .
+
+The  five lowest achieving capabilities overall include
+2023 National Preparedness Report   16 Housing, Natural and Cultural Resources,  Mass Care Services, Risk Management for P rotection
+Programs and Activities, and Logistics and Supply Chain Management .
+Figure 8: The relationship between grant program investments and average THIRA/SPR
+capability target achievement in 2022, organized by core capabilities and mission area.xi,xii
+In the  Response  mission area, communities report low levels of grant investment ( less than $7 million)
+and lower target achievement (less than 65  percent) in  Mass Care Services and Logistics and Supply
+Chain Management . Communities also consider Mass Care Services a high priority capability. These
+capabilities , along with three of the  four Recovery core capabilities, fall within these ranges and may
+warrant  that communities  increase  their  grant investments.
+8. National Prepa redness
+In 2022, FEMA, in coordination with SME s from across the federal government , completed an
+assessment of its capabilities to respond to catas trophic threats and hazards. Known as the  National
+SPR, this assessment summarizes high -level trends in capability gaps —determined by these SMEs —
+across planning, organization, equipment, training, exercise , capacity , and coordination  areas  for the
+2023 National Preparedness Report   17 selected core capabilities and national capability targets. Table 1 summarizes high-level gaps  and
+recommendations  at the national level across all core capabilities.
+Table 1: National -Level Capability Gaps and Recommendations Identified b y National SPR
+Working Groups  Planning  Preparing for Multi -State/Regional Incidents:  Plans should address state and regional
+planning and decision -making silos; competition for limited available resources; and
+population and commodity movements across borders.
+
+Plans should be inclusive of non -
+traditional partners to ensure a whole communi ty planning approach and establish/maintain
+unified operations and partnerships.
+Exploration of Cascading Impacts and Dependencies Within Communities:  Plans should
+address populations dependent on public transportation; public infrastructure dependencies
+across  SLTT s; loss of tax base; panic buying/hoarding; and surrounding states receiving
+overwhelming  amounts of evacuees .
+Policy, Guidance, and Governance: Plans should include frameworks for senior leadership on
+how to handle complex barriers during incidents; solutions to address evacuation hesitancy;
+and more federal guidance on 1) how to report information to senior leadership 2) hazardous materials (HAZMAT) detection and protective procedures for responders , and 3) evacuee
+tracking and reun ification.
+Continuity Planning:  Develop in -depth continuity planning between the multiple phases of
+emergency management . Organization  Adequate Staffing:  Federal, State, Local, Tribal, and Territoria l (FSLTT ) governments face
+challenges in employing and retaining enough skilled staff  in a post -pandemic, resource -
+constrained environment,  particularly for catastrophic incidents.
+Better Decision -Making: Increase training for senior leaders across FSLTT governments on
+how to make data -informed decisions using available and useful datasets.
+Strengthening Structures: Ensure unified command structures can address the size and
+scope of a multi -state catastrophic incident.
+Program Innovation: Ensure current programs are flexible and new programs incentivize
+FSLTT governments to participate in national -level exercises. Equipment  Specialized Equipment: SLTTs should review and ensure their access to medical, HAZMAT,
+urban search and rescue, and dredging equipment, even if this equipment is rarely used. Law
+enforcement partners who have seen growth in their role in emergency management should acquire specialized equipment to assist in response missions.
+Power: FSLTT governments should examine short -term power contingencies and innovate
+other solutions for long -term power outages.
+
+Training  Communications: Update communications -focused training programs to address gaps and
+ensure personnel are proficient in operational communications capabilities used during
+incidents  and planned events .
+2023 National Preparedness Report   18 Exercises  Preparing for Multi -State/Regional Incidents: Exercises should include competition for limited
+available resources across multiple impacted states, territories, and regions in conjunction
+with concurrent incident operations;  en masse population and commodity movements across
+borders; evacuation route support; surrounding community reception, tracking, and
+reunification; and establishing and maintaining unified operations and partnerships across state lines.
+Communications: Exercises should assess and document operational communications
+functions, systems, and personnel to ensure the ability to communicate (e.g., alerts,
+warnings, notifications, emerging technologies, and backup communications systems)  during
+incidents and planned events. Capacity  Economic Challenges: Pre-existing or recent economic challenges or vulnerabilities exist
+nationwide (e.g., the ongoing housing crisis, depletion  rate of resources during the pandemic ,
+and increasing requirements for sheltering ).
+Complex Incidents: Expand capacity for catastrophic incidents and augment resources via
+funding or contracts. Coordination  Cross -Sector Partnerships: FSLTT governments and private and nonprofit sectors should
+strengthen coordination efforts for disaster response and recovery. These groups should
+coordinate with local level emergency management SMEs and partners who may not normally play a role in emergency management.
+Limited Capability or Adequacy: Increase  storage in some areas for hazardous waste, build
+stockpiles for Protection or Prevention resources for responders, and upgrade equipment to advance capability and preparedness.
+The key capability gap s and recommendations listed above represent some of the most pressing areas
+identified by federal emergency management  SMEs for the federal government  to address  to better
+prepare the nation for catastrophic disasters.
+The following sections of this report similarly focus on several  pressing emergency management
+challenges and corresponding recommendations, but for the whole community . The “Focus Areas ”
+section examines a subset of four core capabilities : Fire Management and Suppression; Logistics and
+Supply Chain Management; Public Health, Healthcare, and Emergency Medical Services; and Long -
+Term Vulnerability Reduction. Each core capability focus area  includes an overview of associated risks,
+capabilit ies, and gaps.
+
+Each focus area  also  provides recommendations for FSLTT governments, non -
+governmental organizations ( NGO)/Voluntary Organizations Active in Disaster (VOAD), the private
+sector, and individua ls/households to help close capability gaps and build national resilience. T hese
+focus areas represent areas where: a) low average levels of capability  target achievement  exist,
+according to community SPR assessments , b) low levels of capabilit y exist , according to the National
+SPR assessment , and c) disaster s consistently challenge FSLTT capabilities .
+Focus Areas
+2023 National Preparedness Report   19 9. Fire Management and Suppression
+Fire Management and Suppression “provide[s] structural, wildland, and specialized firefighting
+capabilities to manage and suppress fires of all types, kinds, and complexities while protecting
+the lives, property, and environment in the affected area.”13
+9.1. Risk
+This core capability encompasses wildland and structural firefighting.
+
+Wildfires were the s ixth-most
+frequently identified hazard in 2022 THIRA/SPR community submissions (communities could choose
+more than one threat or hazard).4 In 2022, 35 percent of communities included wildfires in their THIRA
+submissions.4 In 2022, wildfires caused $3.1 billion in damages to infrastructure including public
+facilities and private residences, communi cation towers, power grids, water utilities, and modes of
+transportation.14,15
+Many regions across the U nited States  are experiencing hotter and more intense wildfires, driven  by
+the effects of prolonged drought and climate change.16 Wildfires have resulted in “more than double
+the average annual acreage burned in the 1990s.”17 From 2013 to 2022,  an average of 61,410
+wildfires occur red annual ly, impacting  an average of  7.2 million acres  annually .18 In 2021, over seven
+million acres burned across nearly 60,000 wildfires.17 Between 2018 and 2021, wildfires caused
+approximately $22 billion in property damage and over $257 million in crop damage across several states.
+19 The majority of these wildfires were avoidable ; according to the Department of the Interior,
+nearly nine out of 10 wildfires are caused by human actions.20
+More than 46 million individuals in 72,000 communities are vulnerable to significant wildfire
+exposure.14 Wildfires create challenges for all forms of infrastructure, especially for residential areas
+in the wildland -urban interface (WUI). The WUI is where structures and unde veloped wildland often
+merge through the development of suburbs . WUI regions are more likely to experience property
+damage and wildfire safety risks.14 WUI regions repres ent less than one-tenth of the U.S. land area,
+but are the site of 43 percent of new home development in recent years.14 In 2021, nearly 6,000
+structures burned because of wildfires,18 and 60 percent (3,577) of these burned structures were
+residential.21 The WUI is where structures and undeveloped wildland merge, and WUI regions are more
+likely to experience property damage and wildfire safety risks.
+
+The two types of WUI are defined by
+housing density interface (high -density development adjacent to undeveloped wildlands); and intermix
+(lower -density housing intermingled with undeveloped wildland).14
+2023 National Preparedness Report   20 9.2. Capabilities and Gaps
+In 2022 THIRA/SP R submissions, communities identified and associated n umerous planning,
+organization, equipment, training, and exercise ( POETE ) gaps  with wildfire s.xiii These gaps include:23
+ Limited inventory available for response efforts
+ Staffing challenges
+ Limited tracking data on fire parameters
+ Lack of consistent public warning tools (i.e., alert systems) across jurisdictions
+ Limited widely accepted interoperable (the ability of anyone to talk with whomever they need
+to, whenever they need to, when properly authorized ) data standards24
+ Difficulties tracking evacuation route status efforts
+Between 201 8 and 2022 , the number of communities reporting that they were closer to achieving
+their capability goals to manage fires decreased  from 66 to 64 percent.4 Fire Management and
+Suppression was not a reporting requirement for communities in 2020 and 2021, but was required in
+2022.xiv Despite this reported decrease in capability achievement  in 2022, grant investments in Fire
+Management and Suppression declined overall between 2017 and 2022.xv,xvi Decreased grant
+investments may pose challenges for SLTTs . These communities increasingly encounter far more
+equipment, cost, training shortfalls, and resource constraints when compared to federal firefighting
+agencies.21,25 However,  the recently enacted Bipartisan Infrastructure Law  (BIL) aims to address
+climate change and enhance wildfire -resilien t communities . The BIL  allocates $5 billion over the next
+five years for federal wildland fire management. This funding is designated for  both the Interior and
+Agriculture departments , both of which  oversee wildland fire programs.
+
+Under BIL, USDA's Forest
+Service is allotted  an extra $3.5 billion, while the Interior Department will receive about $1.5 billion
+for wildland fire management in the next five years  starting in 2022 .26
+While the federal government  holds responsibility for fire suppression, management, and mitigation
+across federal lands, SLTT governme nts are accountable for all non -federal lands.21 In 2022, t he Biden
+Administration  implemented the Wildland Fire Mitigation and Management Commission, established
+under the BIL . The Commission convened for its inaugural meeting in Salt Lake City, Utah, to formulate
+federal policy recommenda tions and strategies for addressing wildfires in the Western U.S., with a
+mandate to submit a report to Congress within a year .27 SLTT partners hav e jurisdiction over
+municipalities, WUI communities, and state and local forests or grass/rangeland on non -federal lands.
+They also support federal wildland fire operations for fire suppression and containment on federal lands. SLTT f ire departments deal with increased economic expenses to procure the resources
+necessary for wildland fire management. These resources include the tools, expertise, and personnel to make wildland landscapes more resilient to increasingly common climate str essors such as drought
+or extreme heat.
+28
+The U.S. Forest Service ( USFS ) encourages communities that actively manage wildlands to use
+methods such as chemical, biological, or mechanical fuel treatments or planned grazing to control and
+prevent fire spread  and for WUI fires including urban fires or conflagrations .29 The costs of active
+2023 National Preparedness Report   21 landscape management have increased over the past several decades as the wildfire season grows
+longer and wildfires become more severe.30 Managing large wildfires can require millions of dollars in
+equipment, hundreds of personnel, and adequate knowledge of terrain and local or invasive
+vegetation.28 The risk of simultaneous or unanticipated, human -caused wildfires can further
+exacerbate funding and resource limitations. Challenges also exist with funding for local st ructural
+firefighting.
+
+Local fire departments handle multiple other duties, including search and rescue and post -
+disaster operations, and funding is vital for those initiatives to continue.
+In recent years, SLTT governments have also faced challenges with planning efforts to address the
+access and functional needs (AFN) of individuals with disabilities, individuals with limited English
+proficiency, older adult , and those with limited access to transportation and/or limited access to
+financial resources  for emergencies . Populations with AFN are at increased risk of death, injury, and
+disproportionately higher material losses during emergencies  and will therefore  continue to be an
+important area of focus for emergency managers.xvii,32 Certain populations, including people with
+disabilities and people with limited English proficiency, have civil rights protections and require
+accessible and actionable emergency communication.32,33 In addition, t he percentage of the
+population who are older adults (who may not have access to the Internet or use technology as much
+as others) and individuals with disabilities will increase worldwide in the next decade.34,35 By 2034,
+adults 65 and older will outnumber those under 18 in the U nited States  for the first time, creating
+profound and unique challenges for the emergency management community.36 For example, older
+adults are much more likely to die in disasters ; more often have impaired mobility , cognition, or senses ;
+have uneven access to resources such as the internet and  income, and often have more limited social
+networks than younger populations .37
+Given the complexity  of challenges surrounding wildfire management, the federal government  has
+played a large role in bolstering SLTT capabilities. In 2022, the U.S. Department of Defense (DoD) finalized the National Defense Strategy (NDS). The NDS directs DoD to prioritize c loser coordination
+with interagency, private sector, and SLTT partners to enhance resilience at all levels.
+
+In 2022, over
+half the nation’s  National Guard  members , operating in their state -status, responded to multiple
+incidents including wildland fires.
+38 This transition will reduce interagency reliance on Defense Support
+of Civil Authorities and help build resilience across the firefighting community.
+DoD Joins the Wildfire Coordinating Group
+DoD joined the National Wildfire Coordinating Group (NWCG)  as a member on December 1, 2022.
+Including DoD as an NWCG member is a critical step to enhancing interagency collaboration to
+prepare fire -adapted communities, provide safe and effective wildfire response, and increase
+mission and landscape resilience. In supp ort of the NWCG mission, DoD and the National
+Geospatial -Intelligence Agency (NGA) are developing a plan to transition  the FireGuard program —
+a tool developed by the NGA for DoD missions —from the National Guard and NGA to the National
+Interagency Fire Cente r. NGA implemented FireGuard to facilitate the analysis, sharing, and use of
+data from multiple sources and sensors, including imagery from satellites and unmanned aircraft,
+to produce sanitized, unclassified products for firefighters.
+2023 National Preparedness Report   22 Another federal government initiative was the development of the Wildfire Risk to Communities
+website.39 Wildfire Risk to Communities is a free, easy -to-use website with interactive maps, charts,
+and resources to help communities understand, explore, and reduce wildfire risk. Under direction from
+Congress, the USFS designed a tool to help community leaders, such as elected officials, community
+planners, and fire managers.39 For the first time, the USFS mapped wildfire risk for communities
+nationwide.39
+9.3.
+
+Management Opportunities
+Table  2 summarizes the opportunities that FSLTT governments, NGOs,  VOADs,  the private sector,  and
+individuals/households can leverage to manage risk, build Fire Management and Suppression capability, and address capacity gaps to increase their overall resilience.
+Table 2: Fire Management and Suppression – Management Opportuniti es.
+Stakeholder
+Group  Management Opportunities
+Federal
+Government  • Continue access to funds for wildfire resiliency -building efforts through programs
+such as FEMA’s Building Resilient Infrastructure and Communities (BRIC) program
+and the USFS  Community Wildfire Defense Grant program.40
+• Leverage the establishment of the Wildland Fire Mitigation and  Management
+Commission , to coordinate and generate comprehensive federal policy
+recommendations and strategies aimed at effectively addressing wildfires in the
+Western United States.27
+• Continue  funding  for FMAG .
+
+Requests for FMAG  declarations  may be approved by
+a Regional Administrator on an expedited basis (i.e., while a fire is actively burning
+and threatening such destruction as would constitute a major disaster ).9
+• Strengthen federal coordination by better aligning agencies’ goals for wildfire risk
+mitigation, which would support air quality improvements and reduced risks to
+public health from wildfire smoke over the long term.41
+SLTT
+Governments  • Adopt stricter building codes and zoning across residential developments and
+commercial power (electrical utility) infrastructure, to inclu de mandatory use of
+fire-adapted materials (depending on the level of risk).6
+• Invest in more training and specialized programs for firefighting and rescue
+operations.4
+• Increase communication and collaboration efforts with volunteer and career  fire
+departments  to promote a whole community approach to plan for , mitigate , and
+respond to high wildfire risks  and support more fire -adapted communiti es.4
+• Engage  with the DHS Office for Civil Rights and Civil Liberties  for guidance on
+addressing the needs of vulnerable populations during wildfires and promot ing
+community resilience .42,43
+• Encourage individuals and households  to take research -based protective actions
+on FEMA’s Protective Actions Research site to safeguard themselves and their
+property .44
+• Use data from the 2022 National Household Survey on Disaster Preparedness to
+better understand gaps and opportunities for wildfire preparedness.5
+2023 National Preparedness Report   23 Stakeholder
+Group  Management Opportunities
+• Apply for Hazard Mitigation Grant Program  (HMGP)  Post Fire assistance for fire
+mitigation  projects.
+
+States, federally  recognized tribes, and territories affected by
+fires resulting in a FMAG  declaration are eligible.45
+NGOs,
+VOADs, and
+the Private
+Sector  • Protect  critical  transportation and communication s infrastructure  by replacing
+plastic culverts with concrete ones , and by completing proper defensible space s
+around assets like cell towers.46,47
+• Form public -private partnerships with local governments, investors, and utilities
+to help invest in forest management, such as the  Forest Resilience Bond, which
+assists in funding land management restoration projects.xviii,48
+• Mitigate power line vulnerability by removing trees near them and burying lines in
+high fire risk areas.49
+• Conduct thorough and regular inspections of al l rail components and follow
+inspector recommendations to reduce rail -caused fires.50
+• Communicate risks associated with the improper use of portable generators to
+the public.
+Individuals
+and
+Households  • Avoid activities involv ing fire or sparks when hot, dry, and windy  conditions exist .20
+• Work together with neighbors to  ensure that  leaves, debris, or other flammable
+materials are not around homes . FEMA’s Wildfire Protective Actions  webpage
+provides more information on creating a defensible space around your home .47
+• Create a household evacuation plan and f ollow evacuation orders from
+emergency management and FSLTT government officials.51
+• Do not park in tall grass if  authorities have issued a “fire weather watch” or “fire
+weather/red flag warning.” Vehicles’ exhaust systems are hot and can cause dry
+grass to catch on fire.52
+• Create copies of your documents and save them in a fire- and water -proof location
+or electronically.52
+• Gather supplies so that you have at least three days of emergency provisions  on
+hand, including particulate respirator masks; non-perishable food; bottled, boi led,
+or purified water; weather -appropriate clothing; flashlights; first aid supplies; and
+prescription needs.52
+10.
+
+Logistics and Supply Chain Management
+Logistics and Supply Chain Management aims to “deliver esse ntial commodities, equipment, and
+services in support of impacted communities and survivors, to include emergency power and fuel
+support, and the coordination of access to community staples; and synchronize logistics
+capabilities and enable the restoration  of impacted supply chains.”13
+10.1. Risk
+In previous years, communities identified Logistics and Supply Chain Management as a capability with
+middling target achievement. This continued in 2022, as slightly more than half ( 52 percent) of
+communities reported increasing their Logistics and Supply Chain target capabilities.4 However, fewer
+communities identified this cap ability as a high priority than in prior years. 85 percent of communities
+2023 National Preparedness Report   24 considered Logistics and Supply Chain Management a high priority in 2021 but only 5 8 percent of
+communities considered it a high priority in 2022.4
+Activities under Logistics and Supply Chain Management include:4
+ Managing transportation of materials from storage facilities and vendors to incident survivors
+ Providing logistical support to firefighters and other first responde rs
+ Coordinating the procurement of communications equipment and services
+ Managing electronic data interchanges to allow for end -to-end visibility and tracking of
+response resources
+Two ongoing challenges impede these activities —more destructive and frequen t threats and hazards
+exacerbated by climate change and pre-existing vulnerabilities including aging infrastructure and a
+lack of storage space. Both factors  can impede delivery of goods and services to emergency managers
+and disaster survivors.
+In recent years, some of the most challenging threats and hazards to this core capability have included
+drought, flooding, and rising sea levels.53 In 2022, abnormal drought conditions combined with record
+heat waves caused the Mississippi River’s water levels to recede, nearly approaching the record low
+set in 1988.54 The river receded to levels low enough for barges to get stuck in mud and sandbars,
+jeopardizing millions of tons of critical supplies that are transported via water from states in the upper
+and lower Mississippi River watershed. Ultimately, the U.S.
+
+Army  Corps of Engineers had to conduct
+emergency dredging at points where as many as 2,000 barges plateaued.54
+Since climate change will continue to make droughts along the Mississippi River more frequent, supply
+chain disruptions are likely to increase as well.53,54 Rising sea levels associated with climate change
+will potentially expose other transportation and l ogistics infrastructure, such as seaports, to damage,
+disruptions, and delays. However, i n a survey of 85 U.S. maritime infrastructure engineers, only 29
+percent said their organization had a sea level rise policy or document.53 This may indicate that
+nationally, many  organizations have not planned for  impacts related to sea level rise.
+Navigable waterways and viable port infrastructure are both vital components of the nation’s transportation and logistics infrastructure. If a  catastrophic  disaster occur red in the Mississippi River
+watershed region (e.g ., a New Madrid seismic incident ), FEMA could  face logistical challenges in
+delivering supplies to survivors. Moreover, a disaster in this region impacting several states can create resource competition, leading to unequal distributions of supplies, delaye d deliveries, and increased
+community vulnerability. In addition to these  natural  hazards, FEMA may face challenges with
+transportation and logistics due to vulnerabilities stemming from aging infrastructure, which are more
+susceptible to damage during dis asters.
+55
+The U.S. population has more than doubled since the 1960s when most of the nation’s major
+infrastructure systems were designed and built.56 Many systems are reaching the end of their lifespan
+and are dangerously overstretched.56 Aging rail infrastructure, roads, locks and dams, and bridges can
+become slow -moving disasters that cause shipping delays, longer commutes, and pose risks to local
+2023 National Preparedness Report   25 populations when they fail. For example, damaged and overcrowded transportation infr astructure can
+hinder first responders from delivering critical supplies and conducting lifesaving support activities —
+including evacuations and search and rescue operations —in a timely fashion. Similarly , failing
+infrastructure can cause cascading impacts that require first responders to transport and supply
+critical resources like generators and potable water for extended periods of time.
+
+For example, the
+August 2022 flooding incident in Jackson, Mississippi contributed to  equipment failures at one of the
+city's two main water treatment facilities, leading  to supply and sanitation challenges.57 During this
+incident, the city's 150,000 residents faced several weeks without access to safe drinking water.57 As
+a result, f ederal, state, and local government  agencies dis tributed more than 11 million bottles of
+water to residents  and brought resources in to complete emergency repairs to the plant and restore
+safe, reliable drinking water to the c ity.58,59
+When disasters impact a large geographic area, states may find themselves competing w ith
+neighboring states to procure these critical supplies, prolonging response and recovery efforts.
+Furthermore, as more disasters occur at the same time in different parts of the country, otherwise
+distant states contend for the same limited resources. H urricane season for the Gulf and Atlantic
+states in August and September overlaps with peak wildfire season for W estern states during the fall
+months. This overlap can delay already scarce resources like generators.60 In 2020, demand for
+portable air cleaners  due to the COVID -19 pandemic reduced their availability for heavy wildfire smoke
+on the West Coast.61 Simultaneous large -scale disasters with anticipated timeframes, like hurricanes
+or wildfires, can also divert supplies from less anticipated incidents and disasters, such as the severe
+flooding in Missouri and Ken tucky at the end of July 2022.62
+Another vulnerability in the U.S. supply chain is a lack of warehouse storage. U.S. storage facility space has decreased over the past several decades.
+63 In recent years, warehouse storage reach ed near
+capacity because the COVID -19 pandemic contributed to a drastic increase in e -commerce, online
+shopping, and costs for transporting goods in the U nited States . All these factors drove companies to
+lease more warehouse space for storage.64 Limited available storage and warehouse space can
+impact capacity building to respond effectively to disasters. Limited storage capacity can also increase
+costs and timelines for transporting critical supplies to impacted communities, exacerbating
+inequities, and prolonging recovery efforts. Finally, limited storage facilities around the U nited States
+can lead to emergency management budgetary strains, as renting additional storage space or transporting supplies over long distances can  become expensive.
+10.2.
+
+Capabilities and Gaps
+In their 2022 THIRA/SPR submissions , communities reported  that training  and exe rcises related to
+Logistics and Supply Chain Management often lack local and federal partners who can identify internal
+and external capabilities and know how to request them.4 For example, SLTTs need more federal
+guidance on how to incorporate impacts to U.S. ports stemming from sea level rise into trainings and
+exercises.4 Doing so will help SLTTs better understand risks to their ports and surroundin g
+communities and plan for how to mitigate  or respond to  these risks accordingly. Sea ports are subject
+to storm surges, ocean and river flooding, high winds, and tsunamis.65 Adapt ing to the changing
+2023 National Preparedness Report   26 climate requires increasing funding for port construction and repairs, which would increase resilience.
+In 2022 THIRA/SPR submissions, several states set goals to develop further exercises and training on
+distribution and stockpile mana gement, procurement processes, sheltering, and resource
+management.4
+Communities also reported gaps associated with standardizing training plans across jurisdictions and
+states that face similar disaster -related issues.25 In the 2022 THIRA/SPR, 6 9 communities out of 1 30
+(53 percent) reported training gaps , and 56 communities reported both planning and training gaps
+related to this capability.4 Many SLTTs are working to create in -state Emergency Management
+Assistance Compact exercises but currently lack resources to do so. Emergency management
+workforces exhibit  limited operational capacit y and require  additional funding to develop training and
+exercises. Many jurisdictions also have limited staff capacity, which creates issues with disaster
+response.25 Limited workforce capacity  can delay  delivery of time -sensitive relief supplies to surv ivors
+and supply  and equipment shortcomings compound this gap.
+In the 2022 THIRA/SPR, communities commonly identif ied storage capability gaps due to limited
+warehouse capacity throughout the nation.4 These capability gap s, couple d with more recent inflation
+and the increasing cost of renting  storage , led to resource limitations for domestic supply chains. As
+U.S.
+
+industrial construction decreas es annually due to increased interest rates, FSLTT solutions for
+expanding supply chain capacity will grow more  important.66 Inventory management negatively affects
+this core capability, especially for jurisdictions with limited financial resources.25 Inventory limitations
+have an array of consequences for nearly all supply chain sectors . Underreporting and incomplete data
+availability impact the accuracy of inventory management.
+Federal initiatives such as the 2022 Infrastructure Investment and J obs Act and the Creating Helpful
+Incentives to Produce Semiconductors and Science Act showcase a growing push for revitalizing
+domestic production and strengthening supply chains.67 Nevertheless, domestic manufacturing
+challenges highlight many of the national supply chain capacity gaps. Ongoing manufacturing gaps
+nationwide lead to inventory management, transportation, and capacity -building challenges. While
+accounting for around 20 percent of global cons umption, U.S. raw and technological production has
+decreased steadily since the 1990s.68 Today, the U nited States  produces 10 percent of electric
+vehicles, 7 percent of lithium-ion batteries, 12 per cent of semiconductors, and 4 percent of printed
+circuit boards globally.69 Limited domestic production of these goods impacts supply chain resiliency
+and critical infrastructure systems. Incr easing domestic production and capacity of consumer goods
+and advanced technology can minimize the disaster -related damages impacting the public and private
+sectors.69
+Supporting measures that  advance domestic technology production can help build capacity .
+Increasing domestic production can improve logistics capacity and lead to faster response times for
+the delivery of goods and service s to affected areas. T he increased availability of  these  critical goods
+like food, medical supplies, and water can help ensure the meeting of  demands for natural hazards
+and limit  associated long -term impacts on the private and public sector s.
+2023 National Preparedness Report   27 10.3.
+
+Management Opportunities
+Table 3 summarizes the opportunities that FSLTT governments, NGOs,  VOADs,  the private sector, and
+individuals/households can leverage to manage risk, build Logistics and Supply Chain Management
+capability, and address capacity gaps to increase their overall resilience.
+Table 3: Logistics and Supply Chain Management – Management Opportunities.
+Stakeholder
+Group  Management Opportunities
+Federal
+Government  • Develop new guidance —and review existing guidance —to address the impact of
+sea level rise on port and other supply-chain infrastructure.70 For example, the
+U.S. Climate Resilience Toolkit  and the accompanying Technical Application
+Guide  provide  guidance on supply chain risks and resilience topics.71,72
+• Continue federal investments in U.S. ports, like the Port Security Grant Program
+and the Port Infrastructure Development Program (PIDP) administered by FEMA
+and the Maritime Administration respectively.73 The PIDP is the largest
+investment in port reliability and efficiency in U.S. history, and such efforts
+continue to ensure the protection of port infrastructure and supply chain
+readiness.62
+• Promote water management practices that increase drought resilience among
+farmers and food supply chains.75
+SLTT
+Governments  • Create training opportunities and partnerships with federal partners to fund
+whole -community initiatives and develop actionable projects, including
+leveraging existing resources like the Department of Energy’s  (DOE) Energy
+Emergency A ssurance Coordinators (EEAC) program.76 The EEAC program
+involves stakeholders from all levels of government and public utilities to share
+information with each other and their communities before and during energy
+emergencies.76
+NGOs,
+VOADs, and
+the Private
+Sector  • Develop supply chain tools integrating real -time data that companies can
+leverage to facilitate coordination with partners and gain better visibility of all
+aspects of their products’ lifecycles.
+
+This would enable companies to identify
+disruptions, mitigate impacts, and improve productivity.77
+• Improve data sharing capabilities with SLTT agencies to allow for timely
+responses to  supply chain and logistics  disruptions .78
+• Take FEMA’ s Organizations Preparing for Emergency Needs training to learn
+more about how organizations can identify risks, locate resources, and take
+preparedness actions, including  how to mitigate disruptions to the supply
+chain.44
+Individuals
+and
+Households  • Consider federal and state funding (e.g., Small Business Administration  loans) for
+individuals and households that own small businesses to mitigate the impacts of
+supply chain bottlenecks.79
+• Obtain business insurance ; insurance may be available  from federal sources.80
+• Identify supplies already on hand, then gather enough supplies to last several
+days in the event of supply chain disruptions. Buy supplies slowly and do not buy more than you need.
+81
+• Use FEMA’s Are You Ready? Guide, which offers comprehensive information and
+recommendations on preparing for different types of disasters.81
+2023 National Preparedness Report   28 11. Public Health, Healthcare, and Emergency Medical
+Services
+Public Health, Healthcare, and E MS aim to “provide lifesaving medical treatment via [E MS] and
+related operations and avoid additional disease and injury by providing targeted public health,
+medical, and behavioral health support, and products to all affected populations.”13
+11.1. Risk
+In their 2022 THIRA/SPR community submissions, 52 percent of communities identified pandemics
+as a hazard of concern.4 COVID-19 remained the most significant hazard through 2022, with the
+highest recorded case count of the entire pandemic peaking the second week of January 2022 .4,82
+COVID-19 was either the underlying cause or a contributing factor in approximately 245,000 deaths
+between January and December, making it the fourth leading cause of death that year.83 New and
+emerging diseases are also an area of concern. Antimicrobial resistant organisms continue to rise and
+threaten human, animal, and environmental health.84 Increased use of antibiotics during COVID -19
+led to an increase in healthcare -associated, antimicrobial  resistant infections in U.S.
+
+hospitals.85 In
+May of 2022,  the world witnessed a global outbreak of  monkeypox ( Mpox ), a rare disease  endemic to
+several central and western African countries  but previously unrecognized as a potential source of a
+global outbreak.86 The Biden Administration implemented a targeted national Mpox vaccine strategy,
+scaled up decentralized testing, and continued provider education and community engagement across
+the country in response.87 The U.S. Department of Health and Human Services (HHS) “communicated
+public health information about the virus to patients and health care providers, provided access and
+substantially increased supply of vaccines and treatments, and significantly expanded  the availability
+of tests.”88
+Climate change can increase the likel ihood of pandemics and epidemics .89 Some studies estimate
+that the likelihood of a pandemic with a similar impact as COVID-19 increases by about  2 percent each
+year.90 As climate change modifies natural resource availability and alters ecosystems, wildlife and
+pathogens share  progressively limited spaces and interact in new and different ways. These
+increasingly shared habitats , coupled with impacted and limited resources, elevate infectious disease
+outbreak risks. These risks exist whether people have direct contact with animals or indirect contact through  shared environments.
+91 Existing infectious diseases, such as the rabies virus, are more likely
+to spread to new regions of the nation.92 These areas may be unaware of prevention tactics and
+unprepared to respond or adequately contain these outbreaks. Novel interactions between animals and humans can also lead to existing diseases from other countries making their way to the United
+States .
+92 Milder winters and extremely hot summers create the perfect conditions for insects like
+mosquitoes and ticks to reproduce, expand their habitats and spreading  diseases , such as Lyme and
+West Nile virus disease.88
+Besides its impact on infectious diseases, climate change can also stress public health sectors by creating or compounding chronic illnesses and emerging health challenges .
+
+Drought, flooding, and
+2023 National Preparedness Report   29 algal blooms can all contaminate and pollute water sources, impacting water safety requirements and
+causing illness among individuals in affected  regions.93 Every year, waterborne diseases cause 7.2
+million illnesses and $3 billion in healthcare costs.94 Likewise, poor air quality and extreme heat can
+increase airborne allergens and pollutants , elevat ing the risk and severity of respiratory diseases like
+asthma, cardiovascular diseases, and type 2 diabetes.95,96 Climate change can also affect the air we
+breathe indoors, where people spend about 90 percent of their time.97 Severe weather and flooding
+may increase the number of homes affected by water damage and mold growth , and w ildfire smoke
+can reduce indoor air quality.98 Furthermore, inadequate ventilation indoors can promote the spread
+of infectious diseases, including the virus that causes COVID -19.99
+The impacts of climate change can cause dramatic shifts in regional healthcare needs and exacerbate
+health and medical care inequities between advantaged and disadvantaged groups. For example,
+regions experiencing h igher levels of air pollution could face higher demand for respiratory care. In
+southern California, a 2021 study concluded that exposure to elevated levels of PM 2.5 (fine particulate
+matter in the air that is  2.5 microns or smaller in diameter) from wildf ire smoke can lead to increased
+respiratory hospitalizations from 1.3 percent to up to 10 percent, compared to 0.67 percent to 1.3
+percent associated with non -wildfire smoke PM 2.5 exposure.100 Similarly, regions experiencing more
+extreme heat may witness an increased demand for heat -related illness treatments. In Washington
+state, extreme heat in the summer of 2021 correlated  with a “69 -fold increase in  emergency
+department visits for heat stroke, heat exhaustion, and exacerbation of chronic medical conditions.”101
+Shifting demands on health care personnel may hinder access to services  through  longer wait times
+and higher costs  for care.
+
+Reduced access to healthcare services may heighten health disparities and
+diminish quality of care , resulting in poor health outcomes.102 Weather -related h azards such as poor
+air quality  and extreme heat disproportionately impact populations that already face inequitable health
+care access, lower access to public and human services, and poorer health outcomes before, during,
+and after disasters (i.e., underserved communities , communities with environmental justice concerns ,
+and other at-risk individuals).32 Vulnerable populations, especially the unhoused, elderly, very young,
+and those without access to air conditioning are more  at risk of experiencing adverse impacts.
+Healthcare Staffing Challenges  and Impacts
+The persistent shortage of physicians and healthcare professionals  compound s these climate
+change -related challenges. By 2034, the Association of American Medical Colleges estimates a
+projected shortage of 37,800 to 124,000 physicians.108 In addition, the American Association of
+Colleges o f Nursing has identified a scarcity of nursing faculty due to limited higher education
+capacity as a contributing factor to the nursing shortage.108 Pandemic-induced burnout among
+clinical staff contributes to this  shortage, with 40 percent of doctors reporting burnout in 2022.108
+Nurses also experience burnout at nearly 49 percent.108 Emotional exhaustion leads to medical
+errors, ca re delays, and professionals leaving the field. Hospital closures worsen the shortage,
+particularly in rural areas, limiting healthcare access for economically disadvantaged residents.108
+2023 National Preparedness Report   30 In addition to climate change -related hazards , threats such as cyberattacks can also threaten public
+health. In particular, attacks against hospital systems hinder medical care.103 For example, a 2020
+cyberattack against the University of Vermont Medical Center necessitated surgery rescheduling, and
+delayed radiation treatments.104 For a month afterward, employees did not have access to electronic
+medical records and other vital digital tools, and the attack cost  an estimated $50 million.
+
+Over several
+months in 2022, the Federal Bureau of Investigation conducted a disruption campaign against the
+Hive ransomware group which attacked school districts, financial firms, hospitals, and critical
+infrastructure; impacting over 1,500 victims in 80 countri es.106 “In one case, a hospital attacked by
+Hive ransomware had to resort to analog methods to treat existing patients and was unable to accept
+new patients immediately following the attack.”106
+11.2. Capabilities and Gaps
+In the 2022 SPR, communities  identified gaps related to  medical transportation, use of technology,
+equipment and staffing availability, communication and coordination, funding availability, and capacity
+building.25 Communities frequently report m edical staffing shortages; 62 out of 8 4 communities with
+public health organizational gaps identified staffing challenges, and seven of these  specifically
+mentioned EMS understaffing. Several communities also reported healthcare staffing to be a
+widespread problem. In March 2022, 23 percent of hospitals across the nation reported a critical
+staffing shortage and a decrease of nearly 105,000 employees since February 2020.107, 108 Such
+understaffing at medical, EMS, and long -term care facilities can lead to poor patient care and
+outcomes, including a higher number  of deaths.
+FSLTT governments can leverage many different resources to expand public health sector capacity.
+These include federal resources available to SLTTs through HHS’ Administration for Strategic Preparedness and Response (ASPR). P rograms that augmen t staffing include the National Disaster
+Medical Systems , Disaster Medical Assistance Teams , and the  U.S. Public Health Service
+(USPHS) .
+109, 110 The Medical Reserve Corps (MRC) is another community -based, volunteer program that
+is supported at the national level by the MRC Office within HHS ASPR.111 Multiple other HHS ASPR
+offices and components —including the Biomedical Advanced Research and Development Authority,
+the HHS Coordination Operations and Response Element, and the Office of Industrial Base Management and Supply Chain —support the develop ment, procurement, and distribution or
+coordination of medical countermeasures, and the Strategic National Stockpile as part of the federal medical response infrastructure.
+Furthermore, The Center for Disease Control and Prevention ( CDC) has existing resou rces that SLTT
+officials can use when  respond ing to public health emergencies .
+
+Specifically, the Community
+Assessment for Public Health Emergency Response (CASPER) offers real -time insights to inform public
+health officials and emergency managers regarding  impacted communities during disasters .
+112
+CASPER provides household -level da ta which helps identify information gaps, allocate resources, and
+initiate public health action ; facilitate disaster planning, response, and recovery activities;  and assess
+community needs. Additionally, CDC's National Environmental Public Health Tracking site provides up -
+to-date  data on real -time factors, including wildfire smoke and hurricane overlays, further enhancing
+2023 National Preparedness Report   31 the agency's emergency response capabilities .111 Public Health Emergenc y Preparedness (PHEP)
+grants are another critical source of funding for SLTT public health departments , which use PHEP
+grants  to fund staffing and obtain technical assistance to build and enhance public health
+preparedness and operational capabilities. The  CDC administers annual PHEP funding to all 50 states,
+eight U.S. territories,  all freely associated states,  and four large cities or counties.113, 114 Between 2021
+and 2022, PHEP funding increased by 2.2 percent for a total of $651, 488,620.113 The American
+Rescue Plan also provides funding through the CDC for states and local communities to hire personnel,
+enough for 8,600 staff.115 The federal government can support and collaborate with SLTTs by
+continuing to provid e these and other targeted  grant  fund s to enhance SLTT public health
+preparedness efforts.
+Communities identified e quipment as a persistent challenge for public health facilities in their 2022
+THIRA/SPR submissions.4 Public health facilities frequently face severe equipment shortages.
+Currently, the U.S.
+
+Food and Drug Administration ( FDA) medical device shortage tracker predicts that
+cardiac equipment, intensive care unit supplies, blood testing supplies, and laboratory storage devices
+will be in short supply in public health facilities during the first two quarters of FY2023.116 The FDA
+partners with state and local official s to mitigate medical equipment shortages.116 Through the Federal
+Food, Drug, and Cosmetic Act, the FDA created a new supply chain program to try to help prevent
+shortages of medical equipment.117
+Beyond physical e quipment challenges, hospitals face increasing cybersecurity vulnerabilities as a
+result of  unpatched medical devices , outdated software, and inadequate security features.118 In 2022,
+U.S. healthcare organizations experienced an 86 percent increase in cyberattacks, averaging 1,410
+cyberattacks per organization per week.119 The “healthcare sector ranked second out  of all sectors for
+the most cyberattacks in the U.S.”119 One of the ways  hospitals can strengthen their cybersecurity
+resiliency —which was identified as a concern in 2022 THIRA/SPR submis sions —is through federal
+grant programs. In September 2022, DHS  released a Notice of Funding Opportunity detailing the State
+and Local Cybersecurity Grant Program, which provides targeted cybersecurity investments (including
+those in public health) for sta tes, local governments, and U.S. territories.120 Among other outputs, this
+program will help states  establish state cybersecurity plans and provide funding for tra ining, thus
+increasing SLTT governments’ capabilities to protect against cyber threats.120 Using this grant
+program, states and local governments can assist health care organizations with increasing their
+cybersecurity resiliency .
+Community -based disease countermeasures developed over time are  successful at controlling the
+spread of many illnesses. For example, vector -borne diseases are those which are spread by animals
+and insects such as mosquitos, rats, ticks, and fleas.
+
+Individual or community protection measures include applying insect rep ellent, using environmentally benign pest control measures, and getting
+vaccinated against diseases common in the area in which one resides.
+121 CDC’s Division of Vector -
+Borne Diseases assists with community -based countermeasures by discovering, detecting, and
+preventing vector -borne diseases; developing and improving diagnostic tests; funding state, local, and
+territorial health departments; and responding to threa ts.122 As disease s wax and wane, so too does
+the demand for new disinfectants. In 2021, researchers at the University of Central Florida developed
+2023 National Preparedness Report   32 a nanoparticle -based disinfectant that can continuously kill viruses on a surface for up to seven
+days.123 Using the aforementioned community -based disease countermeasures, in addition to
+individuals masking in public when ill, can make the whole community safer from disease.
+11.3. Manageme nt Opportunities
+Table 4 summarizes the opportunities that FSLTT governments, NGOs, VOADs, the private sector, and
+individuals/households can leverage  to manage risk, build Public Health, Healthcare, and EMS
+capability, and address capacity gaps to increase their overall resilience.
+Table 4: Public Health, Healthcare, and E MS – Management Opportunities.
+Stakeholder
+Group  Management Opportunities
+Federal
+Government  • Suppo rt programs like the USPHS  and the Hospital Preparedness Program under
+the Administration for Strategic Preparedness and Response, and the CDC’s
+PHEP Cooperative Agreement . These programs bolster preparedness efforts at
+all levels of  government, aiding in readiness for various publ ic health challenges ,
+such as infectious diseases and other threats and  hazards .124,114
+• Review legislation to ensure that grants a nd federal programs account for the
+potential for emerging diseases, climate change impacts, and health equity.
+Additionally, l egislative updates could require  enhanced coordination between
+public health and emergency management partners to  effectively  address
+interdependencies and disaster consequences.
+• Leverage federal programs such as the  FDA Resilient Supply Chain Program to
+prevent medical supply shortages in the future.
+
+This program increases FDA’s
+capacity to disseminate supply disruption notifica tions for critical devices when
+a potential shortage  exists , removes time limitations in emergencies, and
+requires manufacturers to develop risk management plans and identify alternate
+suppliers.126
+• Continue education and support for SLTTs to ensure awareness of the
+Cybersecurity and Infrastructure Security Agen cy’s Priority Services program and
+access to priority telecommunications and restoration services during an
+incident or event.
+SLTT
+Governments  • Leverage federal grants to increase hospital capacity and address staffing needs
+at public health departments.
+• Strengthe n partnerships and communication channels between public health
+officials and their emergency management counterparts to ensure effectiv e
+coordination in disaster preparedness, response, and recovery efforts .
+• Provide cybersecurity training and resources for hospitals and include them in
+exercises.
+NGOs,
+VOADs, and
+the Private
+Sector  • Use the HHS  Security Risk Assessment Tool to identify potential cybersecurity
+risks.127
+• Identify ways to mitigate staffing shortages at private healthcare centers,
+including hosp itals, assisted living, and long -term care facilities.
+2023 National Preparedness Report   33 Stakeholder
+Group  Management Opportunities
+Individuals
+and
+Households  • Speak with a  doctor about establishing a  power outage plan for medical devices
+that need electricity and for refrigerated medicines.128
+• Prepare an emergency supply of prescription  medicines  (including for pets),
+backup power sources, and personal supplies to last at least three days .129
+• Follow public health guidance  to decrease public health -related risks .128
+• Take FEMA’s You Are the Help Until Help Arrives training, which prepares a person
+to act in emergency situations and provide lifesaving care before professional
+help arrives.130
+12. Long -Term Vulnerability Reduction
+Long -Term Vulnerability Reduction aims to “build and sustain resilient systems, communities,
+and critical infrastructure and key resources lifelines to reduce their vulnerability to natural,
+technological, and human -caused threats and hazards by lessening the likelihood, severity, and
+duration of the adverse consequences.”13
+12.1.
+
+Risk
+In 2022, 71 percent of communities identified Long -Term Vulnerability Reduction  as a capability with
+higher target achievement in their 2022 THIRA/SPR submissions.4 Closing gaps related to Long -Term
+Vulnerability Reduction is a major challenge for communities , as it requires significant financial and
+political investment at all levels of government, spanning diverse, interconnected issues. Natural
+hazards such as winter storms, extreme heat waves, floodi ng, and human -caused threats like physical
+attacks and cyberattacks on critical infrastructure challenge Long -Term Vulnerability Reduction
+capabilities. Inconsistent adoption of updated building codes— combined with the increasing rate and
+longevity of seve re disasters —compound these threats and hinder Long -Term Vulnerability Reduction.
+Between 2018 and 2021, winter storms caused approximately $801 million in property damage across 35 states.
+19 In December of 2022, an arctic blast impacted large areas of the U.S., causing low
+wind chill values, blizzards, heavy snowfall, and record -cold temperatures. During the arctic blast, more
+than 200 million people —about 60 percent of the U.S. population —were under a Winter Weather
+Advisory. The National Weather Service reported this was “one of the greatest extents of winter
+weather warnings and advisories ever.”131 The Tennessee Valley Authority, which provides power for
+ten million people in seven S outheastern states, e xperienced the highest 24- hour demand in its 90 -
+year history on December 23, 2022. The peak demand that day was thirty -six percent higher than its
+average winter peak load of 22,600 megawatts.132 The storm resulted in the deaths of 100 people;
+41 deaths were recorded in the Buffalo, New York region, where snowfall exceeded 56 inches over five days.
+133 The storm also hindered mobility, transportation, and emergency services across
+communities, leaving vulnerable populations, including seniors, homeless populations, and low -
+income families at risk.131
+2023 National Preparedness Report   34 In addition to winter storms, extreme heat can  threaten aging infrastructure systems and increase
+community and  individual vulnerability. Waves of extreme heat cause building materials to overheat,
+leading to building maintenance and cooling challenges.
+
+This drains power grid capacity and heightens
+the severity and frequency of blackouts.134 Concrete degradation on roads and runways due to
+extreme heat  can cause transpo rtation challenges and result  in issues with  timely r estor ation of  power
+grids.134 Extreme heat can increase crop mortality and decrease refrigeration capacity and water
+supplies, triggering increased food and health concerns for the general public.134 Extreme heat can
+also exacerbate preexisting chronic illnesses and health burdens, causing 700 deaths and 9,200 hospitalizations annually, more than any other severe weather incident.
+135, 136 During the record -
+breaking 2022 heat waves, adverse health effects disproportionately affected individual vulnerab ility.
+135 Recent New York City  focused studies concluded that black (non -Hispanic) individuals
+are more likely to lack access to air conditioning  and perish from extreme heat twice as frequently as
+other racial and ethnic groups  in the city .137 ,138 The ongoing threat of blackouts, limited air
+conditioning, and inaccessible water supplies caused by extreme heat can heig hten vulnerability
+among individuals with chronic health conditions and increases risk of dehydration, heat exhaustion,
+and stroke for affected populations.136
+Inland flooding, a byproduct of excessive rainfall that overflows rivers and damages communities, has becom e more common in the U nited States .
+139 In recent years, significantly more rainfall has  occurr ed
+in the Northeast and Midwest, leading to greater flood risks in those regions.140 Inland flooding can
+damage infrastructure and economies, and harm or displace indiv iduals in communities that are not
+equipped for such hazards .141 According to the Fourth National Climate Assessment, inland flood
+damage s cost more  than any other severe weather incident, averaging $6.9 billion annually from 1964
+to 2006.142 In 2021, non- coastal flooding accounted for over $5.1 billion in property damage across
+all 50 states.19 In 2022, a major inland river flood in eastern Kentucky caused 39 deaths, decimated
+entire communities, and caused signific ant financial damage for both businesses and individuals.143
+Evacuation efforts for displaced people necessitated  over 600 helicopter s and extensive swift water
+boat rescues .
+
+In Florida, inland flooding caused by Hurrica ne Ian cost insurers an estimated $57 billion
+and impacted communities miles from the coastlines.144
+The nation’s energy sector infrastructure is particularly vulnerable to natural threats and hazards.
+Nearly 70 perce nt of the national electrical grid is over 25 years old.145 Record heat waves, winter
+storms, and drought are pushing aging electrical grids to their breaking points, impacting all regions
+of the U nited States .146, 147 For example, the December 2022 arctic blast greatly impacted many power -
+generating centers, leaving 6.3 million h ouseholds without power during part of the storm.133 In
+September of 2022, California’s record -breaking heat waves sparked fears of blackouts and cascading
+impacts.148 The California state government imposed its highest level of energy emergency, urging
+consumers to halt energy consumption for extended periods of time.149 Power grids  also remain
+vulnerable to physical attacks. In 2022, 163 physical attacks on U.S. electrical grids occurred, representing a 77 percent spike from 2021.
+150 These attacks caused substantial econom ic damages
+and left hundreds or thousands of individuals vulnerable to disasters.151
+2023 National Preparedness Report   35 As areas of the United States  undergo desertification and experience rising sea levels and increasingly
+destructive storms, the most cost -effective way to safeguard people, livelihoods, and property from the
+effects of disasters is to adopt codes and standards— such as hazard-resilien t building codes —that
+reduce risk,  and promote smart land use  to encourage development in safer locations , and save
+energy.152 Building codes can provide insurance benefits for  residents and improve a community’s
+applications for federal mitigation grant funding, in addition to encouraging smart land use in high -
+hazard areas.152 The United States  spends billions of dollars each year rebuilding homes and other
+structures damaged or destroyed by hurricanes,153 sometimes rebuilding the same structure more
+than once.
+
+For this reason, the G overnment Accountability Office (GAO) recommend s that FEMA
+explore possible options to enhance property acquisitionsxix in flood and other hazard -prone areas .154
+The GAO also recommends that Congress consider provid ing FEMA  with the author ity or direction
+need ed to implement th ese options .154 The benefits of property a cquisition include eliminating flood -
+prone structures, reducing disaster response costs, and limiting the government's fiscal exposure to
+the flood insurance program.154
+The inconsistent adoption of building codes is one of the most significant factors that compounds risk and increases costs from natur al hazards. In the  United States,  two out of three communities need to
+incorporate the latest building codes.
+155 Responsibil ity for building code adoption falls largely on
+SLTTs.
+Modernizing Build ing Codes
+While the federal government can recommend implementing and designing building codes and developing incentive programs to encourage  hazard-resilient buildings for communities, it plays
+almost no primary role in building code enforcement. In 39 states, less  than 25 percent of the
+state’s communities are covered by the latest hazard -resistant codes, which means that over 75
+percent of communities in these states have not adopted the latest 2018 building code
+standards.
+6 Modernizing building codes can lead to reductions averaging $162 annually on
+household uti lity and energy bills and promote long-term community resiliency .6 On average,
+communities save around $1.6 billion in hazard damages by adopting modern building codes.6
+Communities that adopted 2018 or newer building codes anticipate saving about $132 billion through 2040.
+6
+C
+ommunities that do not implement current building codes face elevated natural hazard risk impacts .
+This is especially true in the Midwest, New England, the Mid -Atlantic, and across much of the South,
+where a significant portion of building infrastructure predates building code standards. Floodplain
+risks, especially inland flooding, are ever -growing in these regions as novel weather patterns, erosion,
+and severe weather increasingly threaten communities with outdated building infrastructure.156 Until
+recently, the se regions ’ flooding, tornadoes, and similar hazards were historically infrequent.
+
+A 2022
+study found that property and infrastructure damage increasingly occurs outside of the 100 -year
+floodplain zones identified by federal mapping systems.157 Buildings in these areas lack desig ns to
+withstand flooding, tornado, or hurricane impacts.157
+2023 National Preparedness Report   36 12.2. Capabilities and Gaps
+Building resilient systems, communities, and resources requires investing in capabilities to minimize
+long-term  threat and hazard impacts at all levels of government. Some gaps in capability originate
+from jurisdictional limitations, especially with building codes and infrastructure. For example, the
+federal government  can track building code adoption ( e.g., FEMA’s  Building Code Adoption Tracker
+program)158 and provide incentives and recommendations for creating or strengthening resiliency
+measures for SLTTs . However,  since the  federal  government does not have the authority to  enforce
+building code s outside of tying incentives for adoption to federal funding  requirements, the
+responsibility to enforce building code adoption falls under the purview of SLTTs. This decentralization
+results in  a wide variation in standards throughout regions and states.159, 6 SLTTs also  tend to  lack a
+centralized, state -wide report on building codes, and many municipalities lack the personnel and
+budget to analyze their capabilities comprehensively.25 Some states have created mandates bas ed on
+regional challenges. For example, California adopted building codes tailored for earthquake safety.160
+However, as disasters become more geographically unpredictable, non-standardization creates
+disaster recovery challenges and resource competition between jurisdictions.
+An additional factor that will complicate efforts to build resilience on a nation al level is climate change.
+Infrastructure, which is already vulnerable to climate change impacts, will become even more vulnerable in the future.
+
+Incorporating natural hazard risk assessment s into mitigation strategies can
+aid in a proactive adaptation th at anticipates future climate change impacts; reducing the costs of
+climate change for the United States’ road, rail, and coastal infrastructure by a factor of between three
+and six by 2090, compared with purely reactive adaptation.
+161, 162 Since 2021 , the federal government
+has required federal agencies to reduce vulnerability to future climate change impacts  such as flooding
+by prepar ing for and protect ing federally -funded buildings and projects from flood risks  through the
+Federal Flood Risk Management Standard.163
+In 2022, the A dministration announced 20 new actions taken by federal agencies to bolster the
+government’s climate resiliency.164 For SLTTs, ongoing disasters of growing magnitude and duration
+will likely continue straining the financial and personnel capacities of state and local emergency
+management institutions as climate change impacts increase. The federal government should define
+specific funding priorities to financ ially assist and support SL TTs in their climate transition planning.
+In addition, state mitigation plans are now required to consider equity and the impacts of climate
+change.165 FEMA strongly encourage s SLTTs  to develop and adopt updated building codes to enhance
+mitigation and resiliency.165 This holistic approach ensures that not only federal agencies but also
+state and local governments prioritize climate resilience and preparedness in building and infrastructure projects, acknowledging the crucial role of state -level mitigation efforts.
+165
+Disasters can exacerbate long -term vulnerability for individuals and communities. In resp onse, federal
+agencies created vulnerability reduction grant opportunities to strengthen recovery efforts for disaster -
+impacted communities.
+
+Grants developed by FEMA and the Department of Housing and Urban
+Development during the 1970s and 1980s, like the C ommunity Development Block Grant Disaster
+Recovery (CDBG -DR) or HMGP, continue to be crucial programs for distributing funding to disaster -
+impacted communities.166, 167 These grants allow communities to start their long -term vulnerability
+2023 National Preparedness Report   37 recovery process and promote hazard -mitigation strategies to reduce future disaster -related
+risks.166,167
+Grant activities include housing recovery, economic development, restoring impacted infrastructure,
+resiliency and mitigation activities, and equipment repairs and purchases.166 In FY2023, Congress
+appropriated $3 billion to assist in CD BG disaster incidents in 2022 or later, a $1 billion increase from
+FY2021.168 The HMGP encourages applicants to strengthen their mitigation strategies by incorporating
+actions that reduce long -term vulnerab ilities and link proposed actions to available federal
+assistance.169 These grants highlight federal initiatives that attempt to remedy long -term vulnerability
+across communities and strengthen community -level preparedness. For detailed information on
+existing and currently available federal funding opportunities, please refer to Grants.gov .
+Other disasters such as the COVID -19 pandemic have already complicated SLTTs’ ability to pursue
+long-term vulnerability reduction initiatives. For example, during the pandemic SLTT communities had
+limited access to Lon g-Term Vulnerability Reduction training and exercises. Communities also often
+lack state and federal resources to develop Long -Term Vulnerability Reduction training, policies, and
+resource distribution, and limited outreach with whole community input occur s across jurisdictions.25
+There are limited Long -Term Vulnerability Reduction exercises at the state and local levels.
+
+These
+exercises include educating local critical infrastructure managers and en gineers on the value of
+updating building codes through cost -benefit analysis, and building code regulatory engagement with
+feedback from nonprofit and private sectors.25
+Data sharing and communication challenges across federal and SLTT agencies are common capacity
+gaps.170 Transparent, comprehensive, and timely communication , and dat a sharing between the
+public and private sectors remains  important for preventing, protecting against, and mitigating the
+impacts of man -made threats such as  active shooters and  cyberattacks.171 Poorly time d emergency
+messages  can hinder public and private institutions’ ability to ensure financial and personal
+information security across their enterprises.172 Agencies across the federal government frequently
+collaborate  on improving interoperable and operable communication efforts. All levels of governmen t
+strive to develop and fortify resilient communication systems and networks during emergencies.
+The Emergency Communications Division of  the Cybersecurity and Infrastructure Security Agency
+(CISA ) plays a vital role in ensuring continuity of operations during conditions such as cyberattacks,
+mass gather ings, severe weather, or incidents  caused by human error. CISA promotes communication
+systems used by government officials and emergency responders for the safety, security, and resilience of the United States. When networks are degraded or congested, CISA provides three priority
+telecommunications services that allow critical personnel to communicate: Wireless Priority Service for wireless voice communications, Government Emergency Telecommunications Service for wireline voice communications, and Telecommu nications Service Priority for repair and installation of
+organizations’ critical voice and data circuits.
+173 These priority services mitigate c ommunication
+problems during emergencies. Data sharing and communication efforts, as outlined in CISA’s Strategic Plan 2023-2025, should also continue to be pursued to close capability gaps.
+174
+2023 National Preparedness Report   38 12.3.
+
+Management Opportunities
+Table 5 summarizes the opportunities that FSLTT governments, NGOs, VOADs, the private sector, and
+individuals/households can leverage to manage risk, build Long -Term Vulnerability Reduction
+capabilit y, and address capacity gaps to increase their overall resilience.
+Table 5: Long -Term Vulnerability Reduction – Management Opportunities.
+Stakeholder
+Group  Management Opportunities
+Federal
+Government  • Require increased resiliency and energy efficiency standards across newly
+constructed residential properties under the CDBG -DR funds.175
+• Continue to improve comprehensive extreme winter weather and extreme heat
+advisories that incorporate whole -community feedback and buy -in across federal
+agencies.
+• Develop and socialize existing resources to assist with building code and
+infrastructure upgrades, cybersecurity , and training.6
+• Support state/local adoption  of model building codes and retention of hazard -
+resistant provisions in those codes.6
+• Continue developing and enhancing environmental  justice tools and initiatives
+across all federal agencies  through Executive Order 14008 , including the
+Climate and Economic Justice Screening Tool and Environmental Justice
+Score card, and Executive Order 14096 .176,32
+SLTT
+Governments  • Adopt model building codes and retain hazard- resistant provisions in these
+codes .6
+• Explore non -federal building code funding opportunities outside the scope of the
+BRIC program, including HM GP funding for retrofitting and construction projects
+and the Public Assistance Program for building code  management and
+enforcement.177
+• Continue to work with local communities and state partners to develop a building
+code outreach and training strategy.
+• Explore funding opportunities to develop and strengthen  technical assistance
+programs at the SLTT level , which reduce vulnerabilities  for small business es,
+rural communities, and vulnerable populations . Potential  programs include  the
+U.S.
+
+Department of Treasury’s State Small Business Credit Initiative , and the  U.S.
+Department of Agriculture’s  Rural Energy Pilot Program .178,179
+• Provide FEMA’s Integrating the Needs of Children workshop, which promotes
+community planning, coordination, and integration of childr en’s needs during
+emergencies.180
+NGOs,
+VOADs, and
+the Private
+Sector  • Private sector builders should encourage clients to utilize up -to-date, hazard -
+resilient building codes, even when not required, to address consumers’ growing
+concerns over disaster damages due to climate change and establish mitigation
+as a standard practice.181 Furthermore, investing in up -to-date b uilding codes
+saves money in the long -term by reducing disaster -related repairs.
+• Collaborate with FSLTT  partners to promote up -to-date technology and strategies
+to promote vulnerability reduction measures.
+• Conduct vulnerability assessments and develop plan s to mitigate gaps.
+2023 National Preparedness Report   39 Stakeholder
+Group  Management Opportunities
+Individuals
+and
+Households  • Become familiar with local risks (threats and hazards) before they occur  and how
+to prepare for them . Leverage resources like Know Your Risk , Ready.gov , and the
+NRI.
+• Prepare a two -week emergency supply kit for all household members, including
+pets. Kits s hould include non -perishable food; bottled, boiled, or purified water;
+weather -appropriate clothing; flashlights and batteries; first aid supplies; thermal
+blankets; warming packs; prescription medicines; a battery -powered radio; and
+a small tool kit.182
+• When in doubt, throw it out.
+
+Discard  food that has been exposed to temperatures
+40 degrees  Fahrenheit  or higher for two hours or more, or has an unusual odor,
+color, or texture.182,183
+• Participate in a  Community Emergency Res ponse Team program, which educate
+volunteers about disaster preparedness for local threats and hazards.184
+• If eligible , apply for the Low -Income Home Energy Assistance Program to assist
+with lowering energy costs and reducing the risk of health and safety problems
+that arise from unsafe heating and cooling situations.185
+• Individuals and households that qualify should apply for the Weatherization
+Assistance Program, operated by DOE, to reduce energy costs by elevating the energy efficiency of their homes.
+186
+• Invest in home improvements including installing storm shut ters, reinforcing
+roofs, and adding insulation to reduce vulnerability to climate change and natural hazards .
+187 Talk with your local emergency manager and other community
+members to learn about local programs and funding.187
+• Reduce energy consumption by incorporating energy -efficient appliances,
+unplugging electronics when not in use, and reducing water usage.188
+Homeowners can apply for the Energy Efficient Home Improvement Credit for the two above recommendations, thus lowering costs for these improvements.
+189
+• Download FEMA’s Emergency Financial First Aid  Kit to help you organize
+important financial, medical, and household information.190
+Conclusion
+2023 National Preparedness Report   40 The 2023 NPR provides an overview of the nation’s current  disaster risk and capability landscape.
+Risks and capabilities inform emergency management decision -making and cannot be assess ed
+independently in a vacuum. All levels of government need to work together to ensure disaster
+preparedness  and resilience . Governments need to work with non -governmental partners and the
+private sector to ensure holistic preparedness and a full understan ding of both the impacts of disasters
+and the capabilities needed to manage them. Through the National SPR, FEMA most frequently found
+that FSLTTs  need to focus on areas like planning, organization, and financial and resource capacity .
+FEMA identified several key findings impacting emergency management today, including the increased frequency, severity, and cost of disasters ; high community -level risk; ongoing individual and household
+preparedness gaps; and lack ing building code adoption.
+
+To help the emergency management
+community form a clearer picture of risks and capabilities, and provide more specific management
+opportunities, FEMA chose to focus discussion on a subset of four core capabilities this y ear.
+Discussions within the focus areas illustrate the interconnection of systems and the potential for stress
+in one area to cascade to others, especially during disasters. For instance, chronic health conditions
+within the population can worsen because of wildfires, pressure supply chain s for medical supplies,
+and increase hospitalizations.
+The 2023 NPR identifies potential management opportunities that the federal government , SLTTs,
+NGOs, VOADs, private sector, individuals, and households can use to buil d capability and address
+capacity gaps. These management opportunities, along with  FEMA’s analysis of national preparedness
+data and capabilities,  inform the recommendations presented in this report , which  includ e:
+ Target ing investments towards Core  Capabi lities and Mission Areas
+ Reduc ing all-hazards c hallenges through t argeted a ctions and increased c oordination
+ Address ing n ational g aps to p repare for catastrophic d isasters
+Building community -wide resilience helps form the foundation for successful response and recovery
+efforts. By examining and approaching resilience holistically alongside partners, the emergency
+management community can increase disaster preparedness and take steps to decrease the impact of future incidents .
+Diverse  perspectives from the whole community bring fresh ideas and add to the accuracy and
+credibility of the NPR. Please feel welcome to email  npr@fema.dhs.gov  t
+o provide feedback on this
+report or make suggestions for future reports . Though FEMA will consider  all comments , respondents
+may not r eceive a  reply to their submitted feedback.
+References
+2023 National Preparedness Report   i 1. NOAA. NOAA National Centers for Environmental Information (NCEI) U.S. Billion -Dollar Weather
+and Climate Disasters (2023). doi:10.25921/stkw -7w73
+2. National Weather Service. Weather Related Fatality and Injury Statistics. Published 2021.
+Accessed February 9, 2023. https://www.weather.gov/hazstat/
+3. NOAA. 2022 U.S.
+
+billion-dollar weather and climate disasters in historical context | NOAA
+Climate.gov. Accessed March 22, 2023. http://www.climate.gov/news -features/blogs/2022 -
+us-billion -dollar -weather -and-climate -disasters -historical -context
+4. FEMA. 2022 THIRA/SPR . FEMA; 2022.
+5. FEMA. National Household Survey. Published Septem ber 1, 2023. Accessed October 17,
+2022. https://www.fema.gov/about/openfema/data -sets/national -household -survey
+6. FEMA. Building Codes Strategy. Accessed January 9, 2023. https://www.fema.gov/emergency -managers/risk -management/building -science/building -
+codes -strategy
+7. NIST. Understanding Building Codes. NIST . Published online June 16, 2022. Accessed
+February 15, 2023. https://www.nist.gov/buildings -construction/understanding -building-
+codes
+8. House TW. FACT SHEET: Biden -Harris Administration Hosts First -Ever White House Climate
+Resilience Summit and Releases National Climate Resilience Framework. The White House. Published September 28, 2023. Accessed October 6, 2023. https://www.whitehouse.gov/briefing-room/statements -releases/2023/09/28/fact -sheet -
+biden -harris -administration -hosts -first-ever -white -house -climate -resilience -summit -and-
+releases -national -climate -resilience -framework/
+9. FEMA. Fire Management Assistance Grants | FEMA.gov. Published August 30, 2023. Accessed September 27, 2023. https://www.fem a.gov/assistance/public/fire-management -
+assistance
+10. FEMA. National Risk Index. Accessed October 17, 2022. https://hazards.fema.gov/nri/
+11. Center for Climate Resilience and Decision Science. Climate Risk and Resilience Portal. Accessed July 27, 2023. h ttps://disgeoportal.egs.anl.gov/ClimRR/
+12. DHS.
+
+DHS Announces $1.6 Billion in Preparedness Grants. Published May 13, 2022. Accessed April 21, 2023. https://www.dhs.gov/news/2022/05/13/dhs -announces -16-
+billion -preparedness -grants
+2023 National Preparedness Report   ii 13. FEMA. Mission Areas an d Core Capabilities. Published July 20, 2020. Accessed March 22,
+2023. https://www.fema.gov/emergency -managers/national -preparedness/mission -core -
+capabilities
+14. USFA. Wildland Urban Interface (WUI) Issues and Resolutions Report. U.S. Fire Administration.
+Published June 7, 2022. Accessed January 5, 2023. https://www.usfa.fema.gov/stories/wui -
+report/index.html
+15. NOAA National Centers for Environmental Information. U.S. Billion -dollar Weather and Climate
+Disasters, 1980 - present (NCEI Accession 0209268). Published online 2023.
+doi:10.25921/STKW -7W73
+16. EPA, OAR. Climate Change Indicators: Wildfires. Published July 1, 2016. Accessed July 5, 2023. https://www.epa.gov/climate-indicators/climate -change -indicators -wildfires
+17. EPA. Wildfire Smoke Preparedness  in Community Buildings Grant Program. Published
+September 30, 2022. Accessed October 18, 2022. https://www.epa.gov/indoor -air-quality -
+iaq/wildfire -smoke -preparedness -community -buildings -grant -program
+18. Hoover K, Hanson L. Wildfire Statistics . Congressio nal Research Service; 2022.
+https://crsreports.congress.gov/product/pdf/IF/IF10244
+19. Arizona State University. SHELDUS . Arizona State University
+https://sheldus.asu.edu/SHELDUS/index.cfm?page=members
+20. DOI. 10 Tips to Prevent Wildfires. Published May 3 , 2021. Accessed March 21, 2023.
+https://www.doi.gov/blog/10 -tips-prevent -wildfires
+21.
+
+Hoover K. Federal Assistance for Wildfire Response and Recovery . Congressional Research
+Service; 2022. https://crsreports.congress.gov/product/pdf/IF/IF10732
+22. National Incident Management System | FEMA.gov. Accessed March 30, 2023. https://www.fema.gov/emergency -managers/nims
+23. FEMA. Wildland Urban Interface Fire Operational Requirements and Capability Analysis .
+FEMA; 2019.
+https://www.dhs.gov/sites/default/fi les/publications/wui_fire_report_of_findings_july_24_20
+19v2_508.pdf
+24. Communications Interoperability | Homeland Security. Accessed October 6, 2023. https://www.dhs.gov/science -and-technology/saver/communications -interoperability
+25. FEMA. 2023 National Preparedness Report Data Call . FEMA; 2023.
+26. Meet BIL: How the Bipartisan Infrastructure Law Supports Wildland Fire Management. Published January 24, 2022. Accessed October 6, 2023. https://www.doi.gov/wildlandfire/meet -bil-how -bipartisan -infras tructure -law-supports -
+wildland -fire-management
+27. DOI. Biden -Harris Wildland Fire Mitigation and Management Commission Charts Path Forward.
+Published September 14, 2022. Accessed September 27, 2023.
+2023 National Preparedness Report   iii https://www.doi.gov/pressreleases/biden -harris -wildland -fire-mitigation -and-management -
+commission -charts -path -forward
+28. DOI. 7 Burning Questions: Wildfires & Public Lands. Published April 21, 2017. Accessed
+March 24, 2023. https://www.doi.gov/blog/7-burning -questions -wildfires -public -lands
+29. Forests and Ran gelands. Map 1. National Priorities for Broad Scale Fuels Management.
+Accessed March 24, 2023.
+https://www.forestsandrangelands.gov/strategy/nationalpriorities.shtml#map1
+30. US Forest Service. Current Issues - Active Management. US Forest Service.
+
+Publish ed
+November 7, 2017. Accessed March 24, 2023. https://www.fs.usda.gov/managing -
+land/fire/wofambrief/current_issues
+31. Vulnerable Populations. National Center for Disaster Preparedness | NCDP. Accessed November 9, 2022. https://ncdp.columbia.edu/research/v ulnerable -populations/
+32. Executive Office of the President. Revitalizing Our Nation’s Commitment to Environmental
+Justice for All. Federal Register. Published April 26, 2023. Accessed September 21, 2023.
+https://www.federalregister.gov/documents/2023/04/ 26/2023-08955/revitalizing -our-
+nations -commitment -to-environmental -justice -for-all
+33. DOJ Civil Rights Division, Disability Rights Section. ADA Requirements: Effective Communication. ADA.gov. Published October 6, 2023. Accessed October 6, 2023.
+https://ww w.ada.gov/resources/effective -communication/
+34. NIH. World’s older population grows dramatically. National Institutes of Health (NIH).
+Published March 28, 2016. Accessed September 21, 2023. https://www.nih.gov/news -
+events/news -releases/worlds -older -popula tion-grows -dramatically
+35. Administration for Community Living. Projected Future Growth of Older Population. Published May 4, 2022. Accessed September 21, 2023. http://acl.gov/aging -and-disability -in-
+america/data-and -research/projected -future -growth -older -population
+36. FEMA. FEMA, AARP Release New Resources to Help Local Communities Protect Older Adults Before, During and After Natural Disasters | FEMA.gov. Accessed March 2, 2023.
+https://www.fema.gov/press -release/20220713/fema -aarp -release -new -resources -help -
+local -communities -protect -older -adults
+37. FEMA, AARP.
+
+Guide to Expanding Mitigation Making the Connection to Older Adults.
+https://www.fema.gov/sites/default/files/documents/fema_mitigation -guide_older -adults.pdf
+38. The National Guard. Guard Saved Lives, Property, Responding to 2022 Disasters. National
+Guard. Accessed July 21, 2023.
+https://www.nationalguard.mil/News/Article/3255837/guard -saved-lives -property -
+responding -to-2022 -
+disasters/https%3A%2F%2Fwww.nationalguard.mil%2FNews%2FArticle%2F3255837%2Fguard-saved-lives -property -responding -to-2022- disasters%2F
+39. USDA, US Forest Service. Wildfire Risk to Communities. Wildfire Risk to Communities.
+Accessed May 5, 2023. https://wildfirerisk.org/
+2023 National Preparedness Report   iv 40. Mitigation Framework Leadership Group. PRE FINAL DRAF T Progress Report to the White
+House: National Initiative to Advance Building Codes MitFLG . Mitigation Framework
+Leadership Group; 2022.
+41. GAO. Wildfire Smoke: Opportunities to Strengthen Federal Efforts to Manage Growing Risks |
+U.S. GAO. Published Marc h 28, 2023. Accessed April 21, 2023.
+https://www.gao.gov/products/gao-23- 104723
+42. USFA. Mitigating Wildfire Losses Incurred by Vulnerable Populations. U.S. Fire Administration. Published October 28, 2022. Accessed January 5, 2023. https://www.usfa.fema.g ov/blog/ci -
+102822.html
+43. DHS. Recommendations for Emergency Managers for Disaster Assistance to Survivors with
+Disabilities | Homeland Security. Accessed August 15, 2023.
+https://www.dhs.gov/publication/recommendations -emergency -managers -disaster -
+assista nce-survivors -disabilities
+44. FEMA. Preparedness Community. Accessed July 25, 2023.
+
+https://community.fema.gov/PreparednessCommunity/s/open -training?language=en_US
+45. FEMA. Hazard Mitigation Grant Program Post Fire | FEMA.gov. Accessed April 18, 2023.
+https://www.fema.gov/grants/mitigation/post -fire
+46. Swanger B. Plastic Culverts in Fire -Prone Areas:  Survey of State Practice. Published online
+July 29, 2019. https://dot.ca.gov/ -/media/dot -media/programs/research -innovation -system -
+information/documents/pr eliminary -investigations/plastic -culverts -in-fire-prone -areas -pi-
+0223- a11y.pdf
+47. FEMA. Wildfire | Mitigation (Property: Defensible Space). Accessed July 21, 2023.
+https://community.fema.gov/ProtectiveActions/s/article/Wildfire -Mitigation -Property -
+Defensi ble-Space
+48. Blue Forest. Forest Resilience Bond. Blue Forest Conservation. Accessed July 10, 2023. https://www.blueforest.org/forest -resilience -bond
+49. Associated Press. PG&E Will Bury 10,000 Miles of Power Lines So They Don’t Spark Wildfires.
+NPR. https://www.npr.org/2021/07/21/1019058925/utility -bury -power -lines -wildfires -
+california. Published July 21, 2021. Accessed January 9, 2023.
+50. Jennings J, Tut tle AE, Nichols MD, Davis G. Railroad Fire Prevention Field Guide. Published
+online April 1999.
+https://ia802309.us.archive.org/8/items/fppguidepdf100/fppguidepdf100.pdf
+51. Evacuation | Ready.gov. Accessed March 24, 2023. https://www.ready.gov/evacuation
+52. CDC. Safety During a Wildfire. Accessed March 21, 2023.
+https://www.cdc.gov/disasters/wildfires/duringfire.html
+53. Leslie J. How Climate Change Is Disrupting the Global Supply Chain.
+
+Yale Environment 360.
+Accessed February 13, 2023. https://e360.yale. edu/features/how -climate -change -is-
+disrupting -the-global-supply-chain
+2023 National Preparedness Report   v 54. McFall -Johnsen M, Rosa -Aquino P. Photos show the Mississippi River is so low that it’s
+grounding barges, disrupting the supply chain, and revealing a 19th -century shipwreck.
+Business  Insider. Accessed February 13, 2023. https://www.businessinsider.com/photos -dry-
+mississippi -river-waters -ground -barges -reveal -old-shipwreck -2022-10
+55. Martin B, Clark -Ginsberg A. Ohio’s Train Derailment —Not Spy Balloons —Is the Real National
+Security Thre at. Published February 20, 2023. Accessed February 21, 2023.
+https://www.rand.org/blog/2023/02/ohios -train -derailment -not-spy-balloons -is-the-real-
+national.html
+56. McBride J, Siripurapu A. The State of U.S. Infrastructure. Council on Foreign Relations.
+Accessed February 23, 2023. https://www.cfr.org/backgrounder/state -us-infrastructure
+57. Pierson B. Jackson, Mississippi water crisis prompts lawsuit for city, Siemens | Reuters.
+Published September 19, 2022. Accessed February 21, 2023.
+https://www.reuters.c om/legal/litigation/jackson -mississippi -water -crisis -prompts -lawsuit -city-
+siemens -2022- 09-19/
+58. FEMA. Mississippi Emergency Declaration. Published September 20, 2022. Accessed July 7, 2023. https://www.fema.gov/fact -sheet/mississippi -emergency -declaratio n-1
+59. JXN Water. Water system update: Thursday, September 1. City of Jackson. Published September 1, 2022. Accessed September 25, 2023. https://www.jacksonms.gov/water -
+system -update -thursday -morning/
+60.
+
+Koenig D. Supply chain issues could slow fix of Fl orida electric grid. AP NEWS. Published
+September 30, 2022. Accessed March 22, 2023. https://apnews.com/article/hurricanes -
+floods -storms -natural -disasters -climate -and-environment -
+3ef6b6c508f75da6a5b12bd60b2b05c0
+61. Indoor Air Quality Association. West Coa st Wildfires and Pandemic Lead to an Increase in
+Demand for Air Purifiers. Accessed September 25, 2023. https://iaqa.org/west -coast -
+wildfires -and-pandemic -lead -to-an-increase -in-demand -for-air-purifiers/
+62. Kentucky and Missouri Devastated by Flash Floodi ng. National Environmental Satellite, Data,
+and Information Service. Accessed March 22, 2023. https://www.nesdis.noaa.gov/news/kentucky -and-missouri -devastated-flash -flooding
+63. Selyukh A, Woods D. Full (ware)house. NPR.
+https://www.npr.org/2022/01/04/1070342216/full -ware -house. Published January 4,
+2022. Accessed February 23, 2023.
+64. Monteiro A. Covid E -Commerce Boom Sees U.S. Retailers Hunt for Warehouses.
+Bloomberg.com . https://www.bloomberg.com/news/newsletters/2022- 01-11/supply- chain -
+latest -covid -e-commerce -boom -sees -warehouse -demand -soar. Published January 11, 2022.
+Accessed September 25, 2023.
+65. UNCTAD. Climate change impacts on seaports: A growing threat to sustainable trade and
+development | UNCTAD. Published June 4, 2021. Accessed March 14, 2023.
+https://unctad.org/news/climate -change -impacts -seaports -growing -threat -sustainable -trade -
+and-development
+2023 National Preparedness Report   vi 66. LaRocco LA, Stanton A.
+
+There’s a new inflation warning for consumers coming from the supply
+chain. Published 1676294371. Accessed February 14, 2023. https://www.msn.com/en-
+us/money/news/there -s-a-new -inflation -warning -for-consumers -coming -from -the-supply-
+chain/ar -AA17qw3w
+67. The White House. FACT SHEET: CHIPS and Science Act Will Lower Costs, Create Jobs, Strengthen Supply Chains, and Counter Ch ina. The White House. Published August 9, 2022.
+Accessed October 14, 2022. https://www.whitehouse.gov/briefing -room/statements -
+releases/2022/08/09/fact -sheet -chips -and-science -act-will-lower -costs -create -jobs -
+strengthen -supply- chains -and-counter -china/
+68. Baily MN, Bosworth BP. US Manufacturing: Understanding Its Past and Its Potential Future.
+Journal of Economic Perspectives . 2014;28(1):3 -26. doi:10.1257/jep.28.1.3
+69. Paul S. Supply Chain Resiliency: Alleviating Backlogs and Strengthening Long -Term Security .
+U.S. Congress; 2022. https://www.finance.senate.gov/hearings/supply -chain -resiliency -
+alleviating-backlogs -and-strengthening -long -term -security
+70. ASME. Defending Infrastructure Against Sea Level Rise - ASME. Accessed March 22, 2023.
+https://www.asme. org/topics -resources/content/defending -infrastructure -against -sea-level -
+rise
+71. Sweet WV, Horton R, Kopp RE, LeGrande AN, Romanou A. Ch. 12: Sea Level Rise. Climate
+Science Special Report: Fourth National Climate Assessment, Volume I . U.S. Global Change
+Research Program; 2017. doi:10.7930/J0VM49F2
+72. Collini R, Carter J, Auermuller L, et al. Application Guide for the 2022 Sea Level Rise Technical
+Report.; 2022:42.
+
+https://aambpublicoceanservice.blob.core.windows.net/oceanserviceprod/hazards/sealevelr
+ise/n oaa-nos-techrpt02 -global -regional -SLR-scenarios -US-application -guide.pdf
+73. FEMA. Port Security Grant Program | FEMA.gov. Accessed March 1, 2023.
+https://www.fema.gov/grants/preparedness/port -security
+74. DOT. About Port Infrastructure Development Grants | MARAD. Accessed February 23, 2023.
+https://maritime.dot.gov/PIDPgrants
+75. USDA. USDA Agri -Food Supply Chain Assessment: Program and Policy Options for
+Strengthening Resilience . U.S. Department of Agriculture; 2022.
+https://www.hsdl.org/c/abstract?docid= 864506
+76. DOE. State, Local, Tribal, and Territorial (SLTT) Program. Energy.gov. Accessed April 3, 2023.
+https://www.energy.gov/ceser/state -local -tribal -and-territorial -sltt-program
+77. Lakovou E, White CC. A data -sharing approach for greater supply chain visibility. Brookings.
+Published September 14, 2022. Accessed February 17, 2023. https://www.brookings.ed u/techstream/a -data -sharing -approach -for-greater -supply-chain -
+visibility/
+78. Department of Homeland Security. State, Local, Tribal, and Territorial Information Sharing
+Program: Pilot Project Overview .; 2022. https://www.dhs.gov/sites/default/files/2022 -
+09/SLTT%20Information%20Sharing%20Program%20Pilot%20Project%20Overview.pdf
+2023 National Preparedness Report   vii 79. Federal Register. Coronavirus State and Local Fiscal Recovery Funds. Federal Register.
+Published January 27, 2022.
+
+Accessed March 22, 2023.
+https://www.federalregister.gov/documents/2022/01/27/2022-00292/coronavirus -state -
+and-local -fiscal -recovery -funds
+80. U.S. Small Business Administration. Get business insurance. SBA. Accessed March 22, 2023. https://www.sba.gov/business -guide/launch -your -business/get -business -insurance
+81. FEMA . Are You Ready? - A Guide to Citizen Preparedness | FEMA.gov. Accessed July 25, 2023.
+https://www.fema.gov/related -link/are -you-ready -guide -citizen -preparedness
+82. CDC. COVID Data Tracker. Centers for Disease Control and Prevention. Published March 28,
+2020. Accessed February 9, 2023. https://covid.cdc.gov/covid -data -tracker
+83. Ahmad FB, Cisewski JA, Xu J, Anderson RN. Provisional Mortality Data —  United States, 2022.
+MMWR Morb Mortal Wkly Rep . 2023;72. doi:10.15585/mmwr.mm7218a3
+84. Manesh A, Varghese G M. Rising antimicrobial resistance: an evolving epidemic in a pandemic.
+The Lancet Microbe. 2021;2(9):e419-e420. doi:10.1016/S2666-5247(21)00173-7
+85. CDC. COVID -19 Reverses Progress in Fight Against Antimicrobial Resistance in U.S. Centers for
+Disease Con trol and Prevention. Published September 9, 2022. Accessed July 7, 2023.
+https://www.cdc.gov/media/releases/2022/s0712 -Antimicrobial -Resistance.html
+86. CDC. Mpox in the U.S. Centers for Disease Control and Prevention. Published July 22, 2022. Accessed Feb ruary 22, 2023. https://www.cdc.gov/poxvirus/monkeypox/about/index.html
+87. The White House.
+
+FACT SHEET: Biden-Harris Administration’s Monkeypox Outbreak Response.
+The White House. Published June 28, 2022. Accessed February 22, 2023.
+https://www.whitehouse .gov/briefing -room/statements -releases/2022/06/28/fact -sheet -
+biden -harris -administrations -monkeypox -outbreak -response/
+88. HHS. FACT SHEET: U.S. Department of Health and Human Services Response to the Monkeypox Outbreak. HHS.gov. Published July 21, 2022. A ccessed February 22, 2023.
+https://www.hhs.gov/about/news/2022/07/21/fact -sheet -us-department -of-health -and-
+human -services -response -to-the-monkeypox -outbreak.html
+89. NSF. Study finds that climate change could spark the next pandemic | NSF - National Scien ce
+Foundation. Accessed September 27, 2023. https://new.nsf.gov/news/study -finds -climate -
+change -could -spark -next
+90. Duke University. What is the likelihood of another global pandemic like COVID -19? World
+Economic Forum. Published September 2, 2021. Access ed March 23, 2023.
+https://www.weforum.org/agenda/2021/09/pandemics -epidemics -disease -covid -likelyhood/
+91. CDC. Zoonotic Diseases | One Health | CDC. Published March 16, 2023. Accessed March 23, 2023. https://www.cdc.gov/onehealth/basics/zoonotic -diseases .html
+92. CDC. Climate change and infectious diseases | What We Do | NCEZID | CDC. Published
+August 2, 2022. Accessed March 17, 2023. https://www.cdc.gov/ncezid/what -we-do/climate -
+change -and-infectious -diseases/index.html
+2023 National Preparedness Report   viii 93. CDC. Causes and Ecosystem Impacts | Harmful Algal Blooms | CDC. Accessed March 21,
+2023.
+
+https://www.cdc.gov/habs/environment.html
+94. CDC. Waterborne Disease | What We Do | NCEZID | CDC. Published March 9, 2022. Accessed March 21, 2023. https://www.cdc.gov/ncezid/what -we-do/2021-
+highl ights/waterborne -disease.html
+95. Assistant Secretary for Health. Climate Change and Health Equity. HHS.gov. Published March
+30, 2022. Accessed March 21, 2023. https://www.hhs.gov/climate- change -health -equity -
+environmental -justice/climate -change -health -equity/index.html
+96. EPA, ORD. Research on Health Effects from Air Pollution. Published October 28, 2020.
+Accessed March 21, 2023. https://www.epa.gov/air -research/research -health -effects -air-
+pollution
+97. EPA, OAR. Indoor Air Quality and Climate Change. Pub lished January 27, 2021. Accessed April
+21, 2023. https://www.epa.gov/indoor -air-quality -iaq/indoor -air-quality -and-climate -change
+98. Liang Y, Sengupta D, Campmier MJ, Lunderberg DM, Apte JS, Goldstein AH. Wildfire smoke
+impacts on indoor air quality asse ssed using crowdsourced data in California. Proceedings of
+the National Academy of Sciences . 2021;118(36):e2106478118.
+doi:10.1073/pnas.2106478118
+99. CDC. COVID -19 and Your Health. Centers for Disease Control and Prevention. Published
+February 11, 2020. A ccessed September 21, 2023. https://www.cdc.gov/coronavirus/2019-
+ncov/prevent -getting -sick/improving -ventilation -in-buildings.html
+100. Aguilera R, Corringham T, Gershunov A, Benmarhnia T. Wildfire smoke impacts respiratory health more than fine particles from other sources: observational evidence from Southern
+California. Nat Commun . 2021;12(1):1493.
+
+doi:10.1038/s41467-021 -21708 -0
+101. Silberner J. Heat wave causes hundreds of deaths and hospitalizations in Pacific north west. BMJ. 2021;374:n1696. doi:10.1136/bmj.n1696
+102. Holmes TJ, Holt A, English DQ. Progress of Local Health Department Planning Actions for
+Climate Change: Perspectives from California, USA. International Journal of Environmental
+Research and Public Health . 2022;19(13):7984. doi:10.3390/ijerph19137984
+103. Skahill E, West DM. Why hospitals and healthcare organizations need to take cybersecurity
+more seriously. Brookings. Published August 9, 2021. Accessed February 9, 2023.
+https://www.brookings.edu/blog/techtank/2021/08/09/why -hospitals -and-healthcare -
+organi zations -need -to-take -cybersecurity -more -seriously/
+104. Barry E, Perlroth N. Patients of a Vermont Hospital Are Left ‘in the Dark’ After a Cyberattack.
+The New York Times . https://www.nytimes.com/2020/11/26/us/hospital -cyber -attack.html.
+Published November 26, 2020. Accessed November 14, 2023.
+105. Weiner S. The growing threat of ransomware attacks on hospitals. AAMC. Published July 20, 2021. Accessed February 23, 2023. https://www.aamc.org/news -insights/growing -threat -
+ransomware -attacks -hospitals
+2023 National Preparedness Report   ix 106. DOJ. U.S. Department of Justice Disrupts Hive Ransomware Variant. US Department of
+Justice. Published January 26, 2023. Accessed February 23, 2023.
+https://www.justice.gov/opa/pr/us -department -justice -disrupts -hive-ransomware -variant
+107. COVID -19 Reported Pat ient Impact and Hospital Capacity by State Timeseries |
+HealthData.gov. Accessed March 21, 2023.
+
+https://healthdata.gov/Hospital/COVID -19-
+Reported -Patient -Impact -and-Hospital -Capa/g62h -syeh
+108. Hughes S. AHA Letter Re: Challenges Facing America’s Health C are Workforce as the U.S.
+Enters Third Year of COVID -19 Pandemic | AHA. Published March 1, 2022. Accessed March
+21, 2023. https://www.aha.org/lettercomment/2022-03-01- aha-provides -information -
+congress -re-challenges -facing -americas -health
+109. HHS. NDMS | D isaster Medical Assistance Teams. Accessed May 1, 2023.
+https://aspr.hhs.gov:443/NDMS/Pages/dmat.aspx
+110. Commissioned Corps of the U.S. Public Health Service. Commissioned Corps of the U.S. Public Health Service. Accessed May 1, 2023. https://www.usphs.g ov/
+111. MRC | Home. Accessed April 26, 2023. https://aspr.hhs.gov:443/MRC/Pages/index.aspx
+112. CDC. Overview of CASPER. Published August 20, 2020. Accessed September 21, 2023. https://www.cdc.gov/nceh/casper/overview.htm
+113. Toles C (CDC/OPHPR/DSLR). PH EP Budget Period 4 (Fiscal Year 2022) Funding. Published
+online June 17, 2022:1-2.
+114. CDC. Public Health Emergency Preparedness (PHEP) Cooperative Agreement | CDC. Published February 21, 2023. Accessed February 22, 2023.
+https://www.cdc.gov/orr/readiness /phep/index.htm
+115. The White House. FACT SHEET: Biden-Harris Administration Announces American Rescue
+Plan’s Historic Investments in Community Health Workforce. The White House. Published
+September 30, 2022. Accessed April 17, 2023.
+
+https://www.whitehous e.gov/briefing -
+room/statements -releases/2022/09/30/fact -sheet -biden -harris -administration -announces -
+american-rescue -plans -historic -investments -in-community -health -workforce/
+116. Center for Devices and Radiological Health. Medical Device Shortages During t he COVID -19
+Public Health Emergency. FDA. Published online March 14, 2023. Accessed March 21, 2023.
+https://www.fda.gov/medical -devices/coronavirus -covid -19-and-medical -devices/medical -
+device -shortages -during -covid -19-public -health -emergency
+117. Center fo r Devices and Radiological Health. Medical Device Supply Chain Notifications During
+the COVID -19 Pandemic. FDA. Published February 1, 2023. Accessed March 28, 2023.
+https://www.fda.gov/medical -devices/coronavirus -covid -19-and-medical -devices/medical -
+device -supply-chain -notifications -during -covid -19-pandemic
+118. FBI PIN TLP White Unpatched and Outdated Medical Devices Provide Cyber Attack Opportunities Sept. 12, 2022 | AHA. Accessed July 6, 2023.
+https://www.aha.org/cybersecurity -government -intelligence -reports/2022 -09-12-fbi -pin-tlp-
+white -unpatched -and-outdated
+2023 National Preparedness Report   x 119. Pollack R. Keeping Hospitals and Patients Safe against Cyberattacks | AHA News. Accessed
+March 30, 2023. https://www.aha.org/news/perspective/2023-02- 03-keeping -hospitals -and-
+patients -safe-again st-cyberattacks
+120. FEMA. The Department of Homeland Security Notice of Funding Opportunity Fiscal Year 2022 State and Local Cybersecurity Grant Program | FEMA.gov.
+
+Accessed March 1, 2023.
+https://www.fema.gov/fact -sheet/department -homeland -security -notic e-funding -opportunity -
+fiscal -year -2022- state -and-local
+121. CDC. Detect & Prevent Vector -Borne Diseases. Division of Vector -Borne Diseases | NCEZID |
+CDC. Published August 11, 2022. Accessed April 21, 2023. https://www.cdc.gov/ncezid/dvbd/what -how/detect -prevent.html
+122. CDC. What We Do & How We Do It - Division of Vector -Borne Diseases. Division of Vector -
+Borne Diseases | NCEZID | CDC. Published April 13, 2022. Accessed April 21, 2023. https://www.cdc.gov/ncezid/dvbd/what -how/index.html
+123. University of  Central Florida. Long -lasting disinfectant promises to help fight pandemics.
+Phys.org. Published September 1, 2021. Accessed April 21, 2023. https://phys.org/news/2021 -09-long -lasting -disinfectant -pandemics.html
+124. Administration for Strategic Preparedn ess and Response. ASPR’s Hospital Preparedness
+Program (HPP). ASPR. Accessed March 27, 2023.
+https://aspr.hhs.gov:443/HealthCareReadiness/HPP/Pages/default.aspx
+125. USDA. USDA Announces Proposed Framework for Advancing Surveillance for SARS -CoV -2 and
+Othe r Emerging Zoonotic Diseases through the American Rescue Plan. Accessed April 3,
+2023. https://www.usda.gov/media/press -releases/2021/08/24/usda -announces -
+proposed -framework -advancing -surveillance -sars -cov-2
+126. Center for Devices and Radiological Health. Resilient Supply Chain Program for Medical
+Devices. FDA . Published online April 20, 2022.
+
+Accessed March 28, 2023.
+https://www.fda.gov/about -fda/cdrh -offices/resilient -supply-chain -program -medical -devices
+127. Pino L. Improving the Cybersecurity Posture o f Healthcare in 2022. HHS.gov. Published
+February 28, 2022. Accessed February 9, 2023.
+https://www.hhs.gov/blog/2022/02/28/improving -cybersecurity -posture -healthcare -
+2022.html
+128. Naveed MA, Shaukat R. Health literacy predicts Covid -19 awareness and prote ctive
+behaviours of university students. Health Information & Libraries Journal . 2022;39(1):46-58.
+doi:10.1111/hir.12404
+129. CDC. Take Action: Personal Needs | Prepare Your Health | CDC. Published February 7, 2022. Accessed March 21, 2023.
+https://www.cdc.gov/prepyourhealth/takeaction/personalneeds/index.htm
+130. FEMA. You Are the Help Until Help Arrives. Accessed July 25, 2023.
+https://community.fema.gov/PreparednessCommunity/s/until -help -arrives?language=en_US
+131. Ahn A. A huge storm brin gs icy temperatures and canceled flights to a majority of Americans.
+NPR. https://www.npr.org/2022/12/23/1145196907/a -huge -winter -storm -brings -icy-
+2023 National Preparedness Report   xi temperatures -and-snow -to-a-majority -of-americans. Published December 23, 2022. Accessed
+February 21, 2023.
+132. Why Tennessee Valley Authority ordered rolling blackouts in Nashville. Accessed February 21,
+2023. https://www.tennessean.com/story/news/local/2022/12/23/why -tennessee-valley -
+authority -ordered -rolling-blackouts -in-nashville/69754538007/
+133. Deliso M. B uffalo’s deadly blizzard by the numbers: What made the storm so historic - ABC
+News.
+
+Accessed February 17, 2023. https://abcnews.go.com/US/buffalos -deadly -blizzard -
+numbers -made -storm -historic/story?id=95945684
+134. CISA. Extreme Heat | CISA. Cybersecurity and Infrastructure Security Agency CISA. Accessed March 1, 2023. https://www.cisa.gov/topics/critical -infrastructure -security -and-
+resilience/extreme-weather -and-climate -change/extreme-heat
+135. Ross R. Effects of Heat Waves on Population Health: The Challe nges Facing
+Socioeconomically Vulnerable Groups  Living in Urban Areas Across Washington State .
+University of Washington; 2022. https://depts.washington.edu/uwchips/docs/hpwp -heat -
+waves.pdf
+136. CSBG -DCL-2022-41 Mitigating Heat Stress in Vulnerable Populat ions FY 2022. Published July
+27, 2022. Accessed February 23, 2023. https://www.acf.hhs.gov/ocs/policy -guidance/csbg -
+dcl-2022-41 -mitigating -heat -stress -vulnerable -populations -fy-2022
+137. Madrigano J, Lane K, Petrovic N, Ahmed M, Blum M, Matte T. Awareness,  Risk Perception, and
+Protective Behaviors for Extreme Heat and Climate Change in New York City. IJERPH .
+2018;15(7):1433. doi:10.3390/ijerph15071433
+138. NYC. 2022 New York City Heat -Related Mortality Report. NYC; 2022.
+https://nyccas.cityofnewyork.us/nycc as2022/report/1
+139. Khalid A, Hersher R. Because of climate change, inland flooding is becoming more common.
+NPR. https://www.npr.org/2022/07/29/1114417118/because- of-climate -change -inland -
+flooding -is-becoming -more-common. Published July 29, 2022. Accessed March 14, 2023.
+140. Hersher R. How climate change drives inland floods.
+
+NPR.
+https://www.npr.org/2022/08/03/1115384628/how -climate -change -drives -inland -floods.
+Published August 3, 2022. Accessed March 14, 2023.
+141. EPA, OAR. Climate Change Indicators: River Flooding. Published July 1, 2016. Accessed March
+14, 2023. https://www.epa.gov/climate-indicators/climate -change -indicators -river -flooding
+142. USGCRP. Fourth National Climate Assessment . U.S. Global Change Research Program,
+Washington, DC; 2018:1 -470. Accessed March 15, 2023. https://nca2018.globalchange.gov
+143. Department of Commerce, NOAA. Historic July 26th -July 30th, 2022 Eastern Kentucky
+Flooding. Accessed March 14, 2023. https://www.weather.gov/jkl/July2022Flooding
+144. Nickel R. For flooded i nland Florida, Hurricane Ian saved the worst for last. Reuters .
+https://www.reuters.com/business/environment/flooded -inland -florida -hurricane -ian-saved -
+worst -last-2022- 10-06/. Published October 6, 2022. Accessed March 14, 2023.
+2023 National Preparedness Report   xii 145. Collaboration and New T echnologies Critical for Grid Resilience, Stability and Renewable
+Energy Integration – AiDash and Schneider Electric. Published February 7, 2023. Accessed
+February 15, 2023. https://finance.yahoo.com/news/collaboration -technologies -critical -grid-
+resilience -080000477.html
+146. Office of Governor Newsom. As Heat Wave Grips Western U.S., Governor Newsom Takes
+Action to Increase Energy Supplies and Reduce Demand. California Governor. Published August 31, 2022. Accessed February 15, 2023. https://www.gov.ca.gov/ 2022/08/31/as -
+heat -wave -grips -western -u-s-governor -newsom -takes -action -to-increase -energy -supplies -and-
+reduce -demand/
+147. Neuman S.
+
+As a heat wave blankets much of the U.S., utilities are managing to keep up, for
+now. NPR. https://www.npr.org/2022/07/22/1112724801/heat -warning -heat -wave -
+advisory -power -grid. Published July 22, 2022. Accessed February 15, 2023.
+148. Chinowsky P. Intense heat waves and flooding are battering electricity and water systems, as
+America’s aging infrastructure sags under the press ure of climate change. Published
+September 7, 2022. Accessed February 23, 2023.
+https://www.preventionweb.net/news/intense -heat -waves -and-flooding -are-battering -
+electricity -and-water -systems -americas -aging
+149. California Skirts Blackouts With Heat Wave to  Test Grid Again. Bloomberg.com.
+https://www.bloomberg.com/news/articles/2022 -09-06/california -power -use-to-hit-record -
+raising -chance -of-blackouts -l7qiuo5t. Published September 6, 2022. Accessed February 23,
+2023.
+150. Pulver D, Hauck G. Power grid attacks  on substations increase across US: What to know.
+Published December 30, 2022. Accessed February 17, 2023. https://www.usatoday.com/story/news/nation/2022/12/30/power -grid-attacks -
+increasing/10960265002/
+151. ‘Extremely vulnerable’: Attacks on the US power  grid spiked an alarming 77% in 2022 —  here
+are 3 simple steps to prep for the next big outage. Published February 10, 2023. Accessed
+February 15, 2023. https://finance.yahoo.com/news/extremely -vulnerable -attacks -us-power -
+140000578.html
+152. Guide to Expan ding Mitigation: Making the Connection to Codes and Standards. Published
+online August 5, 2021.
+
+Accessed May 8, 2023.
+https://www.fema.gov/sites/default/files/documents/fema_guides -expanding -mitigation -
+codes -standards_08052021.pdf
+153. Lingle B, Kousky C, Shabman L. Federal Disaster Rebuilding Spending: A Look at the Numbers. Risk Management and Decision Processes Center. Published February 22, 2018.
+Accessed April 20, 2023. https://riskcenter.wharton.upenn.edu/lab -notes/federal -disaster -
+rebuilding -spending -look -numbers/
+154. GAO. Flood Mitigation: Actions Needed to Improve Use of FEMA Property Acquisitions | U.S.
+GAO. US Government Accountability Office. Published September 13, 2022. Accessed April 20, 2023. https://www.gao.gov/products/gao-22 -106037
+155. FEMA. Building Codes Adoption Playbook. FEMA; 2022. https://www.fema.gov/emergency -
+managers/risk -management/building -science
+2023 National Preparedness Report   xiii 156. FEMA. Understanding Flood Zones and Maps.; 2023. https://www.floodsmart.gov/flood -map -
+zone
+157. Study: U.S. Flood Damage Risk Is Underestimated. NC State News. Published February 22,
+2022. Accessed March 15, 2023. https://news.ncsu.edu/2022/02/study -u-s-flood -damage -
+risk-is-underestimated/
+158. FEMA. Nationwide Building Code Adoption Tracking | FEMA.gov. Accessed February 15, 2023.
+https://www.fema.gov/emergency -managers/risk -management/building -science/bcat
+159. Rowan L. Hazard -Resilient Buildings: Sustaining Occupancy and Function After a Natural
+Disast er. Congressional Research Service; 2022.
+https://crsreports.congress.gov/product/pdf/R/R47215
+160. California Siesmic Safety Commission. Homeowner’s Guide to Earthquake Safety | Seismic Safety Commission. Accessed March 2, 2023.
+
+https://ssc.ca.gov/forms_p ubs/hog/
+161. Council of Economic Advisers. Economic Report of the President. Published online March
+2023. https://www.whitehouse.gov/wp-content/uploads/2023/03/ERP -2023.pdf
+162. Neumann JE, Chinowsky P, Helman J, et al. Climate effects on US infrastructur e: the
+economics of adaptation for rail, roads, and coastal development. Climatic Change .
+2021;167(3):44. doi:10.1007/s10584-021 -03179- w
+163. FEMA. Federal Flood Risk Management Standard | FEMA.gov. Accessed June 26, 2023. https://www.fema.gov/floodplain -management/intergovernmental/federal -flood -risk-
+management -standard
+164. The White House. FACT SHEET: Biden-Harris Administration Strengthens the Federal Government’s Resilience to Climate Change Impacts. The White House. Published October 6,
+2022. Accessed  April 26, 2023. https://www.whitehouse.gov/briefing -room/statements -
+releases/2022/10/06/fact -sheet -biden -harris -administration -strengthens -the-federal -
+governments -resilience -to-climate -change -impacts/
+165. FEMA. State and Local Mitigation Planning  Policy  Guides: Summary of Changes. Published
+online April 2022. https://www.fema.gov/sites/default/files/documents/fema_mitigation -
+policies -summary -changes_042022.pdf
+166. HUD. Community Development Block Grant Disaster Recovery  Grant Funds. HUD.gov / U.S.
+Depar tment of Housing and Urban Development (HUD). Accessed April 13, 2023.
+https://www.hud.gov/program_offices/comm_planning/cdbg -dr
+167. FEMA. Hazard Mitigation Grant Program ( HMGP ) | FEMA.gov. Accessed April 12, 2023.
+https://www.fema.gov/grants/mitigation/h azard-mitigation
+168. HUD.
+
+CDBG -DR Active Disaster Grants and Grantee Contact Information. Accessed April 19,
+2023. https://www.hudexchange.info/programs/cdbg -dr/cdbg -dr-grantee -contact -information
+169. FEMA. Hazard Mitigation Assistance  Program and Polic y Guide. Published online March 23,
+2023. https://www.fema.gov/sites/default/files/documents/fema_hma -program -policy-
+guide_032023.pdf
+2023 National Preparedness Report   xiv 170. The White House. Drought Resilience Interagency Working Group 1 Year Summary Report.
+The White House; 2022. Accessed October 14, 2022. https://www.whitehouse.gov/wp -
+content/uploads/2022/05/DroughtIWGReport_Final_Embargoed -Until -June -1-at-6AM -ET.pdf
+171. The White House. FACT SHEET: Biden-Harris Administration Announces National Cybersecurity Strategy. The White House. Pu blished March 2, 2023. Accessed March 15, 2023.
+https://www.whitehouse.gov/briefing -room/statements -releases/2023/03/02/fact -sheet -
+biden -harris -administration -announces -national -cybersecurity -strategy/
+172. Department of Energy. Cybersecurity Consideration s for Distributed Energy Resources on the
+U.S. Electric Grid . Department of Energy; 2022.
+file:///C:/Users/Noah.Mulligan/Downloads/872040%20(1).pdf
+173. CISA. Priority Services | Cybersecurity and Infrastructure Security Agency CISA. Accessed April 19, 202 3. https://www.cisa.gov/topics/emergency -communications/priority -services
+174. CISA. CISA Strategic Plan 2023 -2025. CISA; 2022.
+https://www.cisa.gov/sites/default/files/2023 -01/StrategicPlan_20220912- V2_508c.pdf
+175. The White House.
+
+FACT SHEET: Biden-Harr is Administration Launches Initiative to Modernize
+Building Codes, Improve Climate Resilience, and Reduce Energy Costs. The White House.
+Published June 1, 2022. Accessed February 17, 2023. https://www.whitehouse.gov/briefing -
+room/statements -releases/2022/0 6/01/fact -sheet -biden -harris -administration -launches -
+initiative -to-modernize-building -codes -improve -climate -resilience -and-reduce -energy -costs/
+176. Environmental Justice. The White House. Accessed July 20, 2023.
+https://www.whitehouse.gov/environmentaljustice/
+177. FEMA. Building Code Funding Opportunities | FEMA.gov. Accessed March 22, 2023. https://www.fema.gov/emergency -managers/risk -management/building -science/funding -
+opportunities
+178. USDA. USDA Launches Pil ot Program to Deploy Renewable Energy Infrastructure to People in
+Rural Towns. Accessed July 20, 2023. https://www.usda.gov/media/press -
+releases/2022/01/19/usda -launches -pilot -program -deploy-renewable -energy -infrastructure
+179. Department of Commerce. Trea sury Announces Plans to Deploy $300 Million in Technical
+Assistance to Underserved Entrepreneurs and Very Small Businesses through the State Small Business Credit Initiative. U.S. Department of Commerce. Published April 28, 2022. Accessed July 20, 2023. ht tps://www.commerce.gov/news/press -releases/2022/04/treasury -
+announces -plans -deploy-300 -million -technical -assistance
+180. FEMA. Community Preparedness: Integrating the Needs of Children. Accessed July 25, 2023. https://community.fema.gov/PreparednessCommuni ty/s/communitypreparedness?language
+=en_US
+181. FEMA. 5 Reasons Building Codes Should Matter to You | FEMA.gov. Published September 29, 2021. Accessed March 22, 2023.
+
+https://www.fema.gov/blog/5-reasons -building -codes -
+should -matter -you
+2023 National Preparedness Report   xv 182. CDC. When the Power Goes Out | Natural Disasters and Severe Weather | CDC. Published
+September 9, 2021. Accessed March 21, 2023. https://www.cdc.gov/disasters/poweroutage/needtoknow.html
+183. HHS. Winter Weather Food Safety. FoodSafety.gov. Published January 3, 2019. Accessed July 25, 2023. https://www.foodsafety.gov/blog/winter -weather -food -safety
+184. FEMA. Community Emergency Response Team (CERT) | FEMA.gov. Accessed July 25, 2023. https://www.fema.gov/emergency -managers/individuals -communities/preparedness -
+activities -webinars/community -emergency -response -team
+185. Low Income Home Energy Assistance Program (LIHEAP). Published June 5, 2023. Accessed July 20, 2023. https://www.acf.hhs.gov/ocs/low -income -home -energy -assistance -program -
+liheap
+186. DOE. Weatherization Assis tance Program - FACT SHEET. Published online 2022.
+https://www.energy.gov/sites/default/files/2022-06/wap -fact-sheet_0622.pdf
+187. DOE. Home Energy Rebate Programs. Energy.gov. Published 2022. Accessed May 15, 2023. https://www.energy.gov/scep/home -energy -rebate -programs
+188. DOE. Reducing Electricity Use and Costs. Energy.gov. Accessed March 21, 2023. https://www.energy.gov/energysaver/reducing -electricity -use-and-costs
+189. Internal Revenue Service. Energy Efficient Home Improvement Credit. Published Apri l 27,
+2023. Accessed May 11, 2023. https://www.irs.gov/credits -deductions/energy -efficient -
+home -improvement -credit
+190. Emergency Financial First Aid Kit. Accessed July 25, 2023.
+
+https://community.fema.gov/PreparednessCommunity/s/emergency -financial -first-aid-
+kit?language=en_US
+i Qualitative means non -numeric data and methods that emphasize descriptions, interpretations, and meanings.
+ii Billion -dollar disaster figures are adjusted for inflation.3
+iii For additional information on the National Risk and Capability Assessment  and data limitations , please refer to the 2022
+NPR Appendix C: National Risk and Capability Assessment and Methodology  and Appendix D: Risk and Emergency
+Management . For information  on risk and emergency management terminology, please refer to the 2017 DHS Risk Lexicon .
+iv The THIRA/SPR Overview and Methodology can be found at https://www.fema.gov/sites/default/files/2020 -
+06/fema_national -thira -overview-methodology_2019_0.pdf
+v For the purposes of this report, geographic regions align to the parameters established by the U.S. Census Bureau  for the
+2020 U.S. Census. The Northeast region includes the communities of Connecticut, Maine, Massachusetts, New Hampshire,
+2023 National Preparedness Report   xvi
+New Jersey, New York, Pennsylvania, Rhode Island, Vermont, and cities and tribes within these states. The South reg ion
+includes the communities of Alabama, Arkansas, Delaware, the District of Columbia, Florida, Georgia, Kentucky, Louisiana,
+Maryland, Mississippi, North Carolina, Oklahoma, South Carolina, Tennessee, Texas, Virginia, and West Virginia and cities and trib es within these states. The Midwest region includes the communities of Illinois, Indiana, Iowa, Kansas, Michigan,
+Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, and cities and tribes within these states. The
+West region include s the communities of Alaska, Arizona, California, Colorado, Hawaii, Idaho, Montana, Nevada, New Mexico,
+Oregon, Utah, Washington, Wyoming, and cities and tribes within these states. For the purposes of this report, U.S. territories
+were excluded from th is analysis.
+vi These scales are based on a composite score that is determined by several factors, including expected annual loss (EAL) ,
+Social Vulnerability, and C ommunity Resilience. Composite scores of risk are not yet available for Puerto Rico, the U.S.
+
+Virgin
+Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, but will be available in the future.
+Census tracts and counties without Social V ulnerability or Community Resilience  data are given a rating of “Data Unavailable.”
+If a community has “Insufficient Data” to compute EAL or “Data Unavailable” for Social Vulnerability or Community Resilience,
+the community is  given a Risk Index rating of “Insufficient Data.” When a hazard type is not applicable or there are insufficient
+data for a community, EAL for that hazard type is simply not included in the community’s final summation and scoring. Refer to FEMA’s National Risk Index Technical Document ation for additional information.
+vii The 12 preparedness actions and associated percent of survey respondents who took these actions include: Assemble or
+Update Supplies (33 percent), Document and Insure Property (25 percent), Get Involved in Your Community  (10 percent),
+Know Evacuation Routes (28 percent), Make a Plan (41 percent), Make Your Home Safer (33 percent), Plan with Neighbors (12 percent), Practice Emergency Drills or Habits (16 percent), Safeguard Documents (29 percent), Save for a Rainy Day (36 percent), Sign up for Alerts and Warnings (46 percent), and Test Family Communication Plan (17 percent).
+viii To determine the average target achievement rate by core capability, FEMA first examined the data and capped all target
+achievement data values that were over 100 percent to a maximum value of 100 percent to avoid overestimations of target achievement capability. Afterwards, FEMA grouped actual community target achievement percentages by core capability, and then averaged those values to develop the av erage target achievement percentage for each core capability. Public Assistance
+and Individual Assistance are not factored into this graphic.
+ix All core capabilities listed within the “Cross -Cutting” area of Figure 8  apply to at least two of the five missi on areas.
+x Intelligence and Information Sharing is not applicable across all mission areas, only Prevention and Protection.
+
+All other
+core capabilities with the highest grant funding fall under the Cross -Cutting or Response mission areas  except  Threats and
+Hazards Identification, which falls under the Mitigation mission area .
+xi Target Achievement Percentage is calculated for each target and community by dividing the current capability of the
+community for that target by the capability target goal they have s et for themselves. In Figure 8 , the Target Achievement
+Percentage for each community is averaged together and presented by capability target. In some cases, communities exceeded their goals, leading to Target Achievement Percentages over 100%, which skewed  the average and made Target
+Achievement Percentages by capability target falsely high. To correct this, Target Achievement Percentages over 100% were truncated to 100% prior to averaging by capability target.
+xii This figure is based on an analysis of fundi ng sources including the State Homeland Security Program (SHSP), Urban Area
+Security Initiative (UASI), Nonprofit Security Grant Program (NSGP), Emergency Management Performance Grant (EMPG), and Homeland Security Grant Program (HSGP). Some of the federal grant funding amounts in this graphic may appear low for
+several reasons. First, these grants do not necessarily focus on specific core capabilities. Second, not all grants (e.g., ha zard
+2023 National Preparedness Report   xvii
+mitigation grants) are included in this list and specific core capabi lities may receive targeted funding from sources other than
+the grants listed above, which this graphic does not capture.
+xiii Functional areas are a key component of emergency management operations and are organized around a specific set of
+activities. Funct ional areas are often used to group related activities and resources needed to accomplish emergency
+management objectives.
+
+The National Incident Management System (NIMS) framework identifies five functional areas: 1)
+Command and Management, which involves establishing an organizational structure and process for overall incident management, direction, and control; 2) Communications and Information Management, which encompasses managing information and communication systems, equipment, and protocols during an  emergency; 3) Operations, which involves the
+coordination and management of the on- scene response activities, including resource management, logistics, and
+operational planning; 4) Planning, which focuses on developing and maintaining plans, collecting and analyzing data, and
+making decisions based on situational assessments; and 5) Logistics and Resource Management,  which involves acquiring
+and allocating resources, maintaining inventories, and providing facilities and support services during an emergency. These
+functional areas provide a common language and structure for emergency management activities and help ensure that all
+necessary functions are covered during an emergency.
+22
+xiv FEMA increased the number of targets states, territories, and UASIs were required to assess in the 2022 THIRA/SPR to 33
+(from 15 in 2021), including expanding some targets and/or decreasing capabilities. Tribal nations are only required to
+assess 12 targets.
+xv FEMA funds fire management programs not included in THIRA/SPR reporting  (i.e., the Staffing for Adequate Fire and
+Response [SAFER ] and Assistance to Firefighters Grant [AFG ] programs ).
+
+As of July 31, 2023, from 2017 to 2022, the SAFER
+grant program and the AFG  program released $1,895,643,892.51 and $1,885,770,481.65 of funding, respectively.
+xvi Grant funding sources for Fire Management and Suppression include the State Homeland Security Program, Urban Area
+Security Initiative, Operation Stonegarden, Nonprofit Se curity Grant Program, and Emergency Management Performance
+Grant.
+xvii The term “vulnerable population” is defined by the same metrics present in the 2022 NPR: “Populations that are less likely
+to be able to prepare for hazards; less likely to receive or be a ble to respond to warnings; more likely to die, suffer injuries,
+and have disproportionately higher material losses; have more psychological trauma; and face more obstacles during phases of response and recovery.”
+31
+xviii This statement does not constitute a federal endorsement of investment in this or any other particular financial
+instrument.
+xix For property acquisitions, FEMA provides funding for communities to purchase flood -prone properties and convert the land
+to undeveloped/green spaces.
+

@@ -1,0 +1,452 @@
+Hurricane season is the time of year when the tropical ocean waters warm
+and the atmospheric winds moisten. It is during this period that the eastern
+seaboard and gulf coast communities of the United States hope for a quiet
+season while governmental agencies prepare for the worst. Unlike natural di-
+sasters such as earthquakes and wildﬁres, the destructive paths of hurricanes
+can be predicted to some degree. Preparedness and adherence to recommen-
+ded evacuation orders can and do save lives. Like other disasters, however,
+nature is an unpredictable force that can result in signiﬁcant destruction,
+injury, and loss of life [1]. Systems at multiple levels, not the least of which
+is medical, may be stressed and must execute well-designed and practiced
+plans to function optimally. Plans are built on experience and on what to ex-
+pect. For medical systems, these plans include the prehospital emergency
+medical systems, hospitals, and individual physicians. Although medical
+needs can vary as much as the strength of the storm, similarities exist across
+all windstorms. Knowledge of and preparation for these needs are what build
+eﬀective plans.
+* Corresponding author.
+
+Division of Trauma, Burns, and Surgical Critical Care,
+Department of Surgery, University of Miami Miller School of Medicine, PO Box 016960
+(D-40), Miami, FL 33101.
+E-mail address: dshatz@miami.edu (D.V. Shatz).
+0039-6109/06/$ - see front matter  2006 Elsevier Inc. All rights reserved.
+doi:10.1016/j.suc.2006.02.010 surgical.theclinics.com
+546 SHATZ et al
+What is a hurricane?
+A hurricane is a tropical storm with winds that have reached a sustained
+speed of 74 miles per hour (mph) or more. Hurricane winds blow in a large
+spiral around a relatively calm center known as the ‘‘eye.’’ The eye is gener-
+ally 20 to 30 miles wide, and the storm may extend outward 400 miles. As
+a hurricane nears land, it can bring torrential rains, high winds, and storm
+surges. A single hurricane can last for more than 2 weeks over open waters
+and can run a path across the entire length of the eastern seaboard. August
+and September are peak months during the hurricane season, which lasts
+from June 1 through November 30.
+Windstorms are classiﬁed by category based on the speed of the sustained
+winds (Saﬃr-Simpson Hurricane Scale). Tropical depressions are organized
+systems of clouds and thunderstorms with a deﬁned circulation and maxi -
+mum sustained winds of 38 mph or less. A tropical storm is an organized
+system of strong thunderstorms with a deﬁned circulation and maximum
+sustained winds of 39 to 73 mph. Intense tropical weather systems with
+a well-deﬁned circulation and maximum sustained winds of 74 mph or
+higher become hurricanes. Hurricanes are called typhoons in the western
+Paciﬁc, whereas similar storms in the Indian Ocean are called cyclones.
+Although the most destructive hurricanes aﬀecting the United States form
+in the Atlantic Ocean, hurricanes can also form in the Gulf of Mexico, the
+Indian Ocean, the Caribbean Sea, and the Paciﬁc Ocean.
+
+Hurricane winds
+in the Northern Hemisphere circulate in a counterclockwise motion around
+the hurricane’s eye, whereas hurricane winds in the Southern Hemisphere cir-
+culate clockwise. Natural phenomena that aﬀect a storm include temperature
+of the water, the Gulf Stream, and steering wind currents. Powered by heat
+from the sea, storms are steered by the easterly trade wind, the temperate
+westerlies, and by their own ferocious energy. Around their core, winds
+grow with great velocity, generating violent seas. Moving ashore, they sweep
+the ocean inward while spawning tornadoes and producing torrential rains
+and ﬂoods. In addition to the violent winds, the storm surge, which generates
+subsequent ﬂooding, is the major source of destruction on land.
+Although the damage inﬂicted by a hurricane diﬀers with the terrain it
+encounters, the structural integrity of the buildings hit, the population den-
+sity, the tide levels at the time of landfall, and the potential property damage
+and ﬂooding expected along the coast can be estimated. Category 1 storms,
+with winds of 74 to 95 mph, produce no real damage to building structures;
+damage is limited primarily to unanchored mobile homes, shrubbery, and
+trees. Some coastal road ﬂooding and minor pier damage may occur. Cate-
+gory 2 storms (winds 96–110 mph) result in some rooﬁng material, door,
+and window damage. Considerable devastation to vegetation, mobile
+homes, and piers can be expected. Coastal and low-lying escape routes ﬂood
+2 to 4 hours before the arrival of the center of the storm, and small craft in
+unprotected anchorages break their moorings. Category 3 hurricanes (winds
+547 HURRICANE DISASTER RESPONSE
+111–130 mph) cause some structural damage to small residences and utility
+buildings, with a minor amount of curtainwall (non–weight-bearing panels
+suspended on the exterior of multistory structures between supporting col-
+umns) failures. Mobile homes are destroyed. Flooding near the coast de-
+stroys smaller structures, with larger structures damaged by ﬂoating
+debris.
+
+Terrain lower than 5 feet above sea level may be ﬂooded 8 miles
+or more inland. As the winds increase to 131 to 155 mph (category 4),
+more extensive curtainwall failures occur, with some complete roof structure
+failure on small residences. Major erosion of the beach and major damage to
+lower ﬂoors of structures near the shore can be expected. Terrain lower than
+10 feet above sea level may be ﬂooded, requiring massive evacuation of res-
+idential areas as far as 6 miles inland. Top-level hurricanes (category 5: sus-
+tained winds O155 mph) produce complete roof failure on many residences
+and industrial buildings. Some complete building failures, with small utility
+buildings blown over or away, can be seen. Major damage occurs to lower
+ﬂoors of all structures located less than 15 feet above sea level and within
+500 yards of the shoreline, which may require massive evacuation of residen-
+tial areas on low ground within 5 to 10 miles of the shoreline.
+Prestorm medical issues
+With current-day communications, an approaching storm should be
+a surprise to no one. The National Hurricane Center, located in Miami,
+Florida, tracks storms from their inception, and has performed well in pre-
+dicting the power and anticipated landfall location of most recent storms.
+With these predictions comes the ability to prepare, which for most involves
+the accumulation of supplies (water, food, ﬂashlights, batteries), the secur-
+ing of property (debris removal and placement of hurricane shutters), and
+evacuation. An adequate supply of prescription medications and supplies
+(syringes for diabetics, dressings for those who have recent wounds) must
+be anticipated and obtained. For those planning to weather the storm at
+home, placing these supplies in a safe room (away from windows and out-
+side doors) should be done. Adequate supplies of fuel for personal vehicles
+and generators (in the event of power loss) need to be obtained before the
+storm arrives. These activities, representing only a partial list of the imme-
+diate preparation required, produce a very stressful environment.
+As anxiety levels mount, errors occur that can lead to medical emergen-
+cies. Hurricane shutters can cause serious injury.
+
+These shutters are made of
+aluminum with very sharp edges and, in bulk, can be very heavy. Falling
+shutters have resulted in extensive lacerations and even death from head in-
+juries. As people rush to accomplish their goals, motor vehicle accidents are
+also a concern.
+As the storm approaches, emergency medical support disappears. Heli-
+copters are typically grounded when wind speeds approach 45 mph. Opera -
+tion of high-proﬁle ground ambulances becomes risky at wind speeds of
+548 SHATZ et al
+45 mph, and dispatch of ﬁre suppression units may terminate at wind speeds
+of 55 mph. Persons who have serious illness and injuries at this point
+become nontransportable.
+Weathering the storm
+The excitement of increasing winds and rain can be quickly replaced by
+substantial concern when that rain becomes torrential and the winds rattle
+structures. Fear that those structures may fail begins to mount. As power
+lines are downed, communication with relatives and news agencies is lost,
+and protective structures are left in darkness. Structures built to hurricane
+standards often do well; however, for structures not typically in hurri-
+cane-prone areas and those not built to the stringent standards of hurricane
+building codes, structure failure can occur. Total roof failure exposes those
+inside to ﬂying debris. Many have been injured or killed when falling trees
+struck and collapsed houses. Reports of people wishing to go outside to ex-
+perience the storm and being struck by ﬂying debris (often with fatal results)
+are frequent.
+Poststorm problems
+As the storm passes, a sense of relief is quickly followed by one of awe or
+one of despair at ﬁrst sight of the resulting damage. Here is where the real
+medical problems begin.
+Power outages may be limited to neighborhoods or entire counties, last-
+ing hours to months. With the lack of power comes the loss of refrigeration
+of food and medications, air conditioners, and lights. Those fortunate
+enough to have generators (17.5% in Florida following hurricanes Charley,
+Frances, Ivan, and Jeanne) [1] can spare some of these inconveniences, but
+generators are a risk unto themselves.
+
+Standard generators run on gasoline.
+Spilling gasoline onto a hot engine while attempting to reﬁll the tank can
+lead to a burned victim. Despite the seemingly appropriate placement of
+generators away from living quarters, carbon monoxide is still a cause of
+fatal and nonfatal poisonings after hurricanes. One hundred sixty-seven such
+poisonings (including six fatalities) were treated in Florida in the aftermath
+of the four hurricanes of the summer of 2004 [2]. Although common knowl-
+edge might predict otherwise, 5% of those using generators placed them
+indoors [2]. Fifty-one cases of carbon monoxide poisoning were reported
+following Hurricane Katrina in 2005 in the states of Louisiana, Mississippi,
+and Alabama. Burns resulting from alternate sources of heat for cooking,
+such as barbeques and butane/propane stoves, are also frequent.
+Downed power lines are also a source of injury. Contact with any struc-
+tures charged by these lines leads to electrocution injury. In areas ﬂooded by
+the storm, those entering the water to work or play are subject to lethal elec-
+trocution if that water is energized by a downed power line.
+549 HURRICANE DISASTER RESPONSE
+Clearing and repairing the damage to one’s property can be arduous
+work. As noted, hurricanes occur during the summer months when the
+heat and humidity are at their highest. Many people are not accustomed
+to heavy workloads in these environments and, as a result, suﬀer heat disor-
+ders. Cardiac events also increase in frequency. Roof and tree damage leads
+to people climbing to heights not frequented by most. Falls from roofs and
+ladders are commonly seen in the aftermath of a storm. For some, only
+a home remedy is required, but for others, the injury is a signiﬁcant lacera-
+tion, fracture, or worse, brain injury or other form of life-threatening inter-
+nal injury.
+The debris after a hurricane is frequently in the form of shrubbery and
+fallen trees. Clearing these often requires knives, handsaws, machetes, and
+chain saws. Many people rent chain saws but have little or no experience
+using them.
+
+As one might imagine, a spectrum of lacerations, some quite
+severe, results from the use of these tools.
+Preparation is key
+Preparation is the key to minimizing injury and death from the destruc-
+tive forces of a hurricane; however, as witnessed in the days surrounding the
+approach of Hurricanes Katrina and Rita toward the cities within Louisiana
+and Texas, and Hurricane Wilma in Florida during the summer of 2005,
+preparation can be formidable on a public health level. Evacuation plans
+must include those unable to evacuate themselves, including the healthy
+who do not have personal transportation and the residents and patients
+of nursing homes, group homes, hospices, and hospitals. Despite mandatory
+evacuation orders by local oﬃcials to those in predicted high-risk areas,
+a signiﬁcant percentage of these residents do not heed these orders. As a re-
+sult, call volumes for prehospital providers increase markedly. Although
+some patients acquire only minor injuries, many suﬀer chronic problems
+and have nowhere to go. The elderly are deposited in hospital emergency
+departments by family members, expecting a safe refugedall this at a time
+when the hospitals themselves may be trying to evacuate. As seen during the
+hurricanes of 2005, many nursing homes had evacuation plans that included
+agreements with transportation companies, but because those companies
+had contracted with several nursing homes simultaneously, they did not
+have the capability of evacuating all of the patients in time.
+Hospital disaster plans usually include a plan to discharge or transfer less
+acute patients to nonaﬀected facilities. Critical patients, however, are fre-
+quently not able to be transferred due to their acuity, and are rightfully
+left in place. Hurricanes can bring storm surges, heavy rains, and ﬂooding,
+and hospitals with ground-based helipads are unable to evacuate patients by
+air if those helipads are under water. Most hospitals have ground-level or
+basement emergency generators that can similarly ﬂood and become nonop-
+erational. Although the Joint Commission for the Accreditation of Health
+550 SHATZ et al
+Care Organizations requires that hospitals have fuel for those generators, no
+minimum amount is speciﬁed.
+
+The American Institute of Architects guide-
+lines state that hospitals should have a minimal storage capacity to permit
+continuous operation for at least 24 hours [3] in accordance with National
+Fire Protection Association (NFPA) 99, NFPA 101, and NFPA 110. Flor-
+ida Building Code speciﬁes a requirement for a fuel supply stored on-site to
+fuel generators for 100% load for 72 hours of actual demand load for all
+patient areas (Florida Building Code Section 419.4.2.9.2) for nursing homes
+(Florida Building Code Section 420.3.25) and hospitals (Florida Building
+Code Section 419.3.18). (NFPA 110 Section 2-2.3 requires a Class 48 gener-
+ator, deﬁned as having a fuel tank size of 48 hours, with an additional 33%
+over the 48 hours required as per Section 3-4.2.3. This requirement equates
+to 64 hours of fuel, but for simplicity, 72 hours is the standard). What if
+evacuation resources are not available until after that fuel is exhausted?
+Some health care facilities in New Orleans following Hurricane Katrina
+had accumulated a supply of food and water but had stored them in base-
+ment facilities, only to have them destroyed by ﬂoodwaters [4]. Even gener-
+ator power can fail, leaving ventilators that lack backup batteries without
+a power source and, therefore, nonoperational. The usual 1:2 ICU nurse-
+to-patient ratio suddenly becomes unmanageable when ventilated patients
+require human-assisted ventilation with bag-valve-masks.
+Special needs, hospice, nursing home, and hospitalized patients should
+probably be evacuated in larger storms, but many older adults requiring
+no special needs choose to remain in the area. During and after the storm,
+however, barriers to medical care for pre-existing needs can prove fatal [5].
+Food, water, and medications can be destroyed in the storm, and isolation
+because of ﬂooding or area destruction can prevent access to medical care.
+Because hurricanes tend to be summertime events, excessive heat can prove
+to be fatal in those who have frail health.
+
+As seen in Hurricane Katrina,
+even those in a normal state of health can succumb to the high temperatures
+produced in attics during attempts to escape rising ﬂoodwaters.
+Although hospitals are on the high-priority list for restoration of support,
+lower-proﬁle hospices, assisted living facilities, and skilled nursing facilities
+are often delayed in regaining necessary power and supplies. Outpatient di-
+alysis centers are another signiﬁcant area of need. Most hospitals are not
+equipped to handle a large number of chronic dialysis patients if the outpa-
+tient centers should become nonfunctional. For this reason, if advance
+warning is available, these patients should be dialyzed at their respective
+centers before the event occurs and be prepared to not be dialyzed for up
+to 3 days after; adherence to a proper emergency renal diet is necessary
+[6]. All Medicare-certiﬁed outpatient dialysis centers are required to have
+at least one backup facility [7], and this information must be passed on to
+the patients. Similar arrangements need to made for chemotherapy patients
+and other chronic needs patients. Oxygen supplies for health care facilities
+and those on home oxygen must also be kept current.
+551 HURRICANE DISASTER RESPONSE
+Coordination of the poststorm medical needs response should occur
+through the local and state Emergency Operations Centers. Emergency
+Support Function (ESF) 8 is the designated group within the disaster
+response organization responsible for this coordination and should be
+updated regularly with the functional status of all health care facilities
+within the aﬀected areas. These facilities include all emergency medical ser-
+vices ground and air systems, bed surge capacities of hospitals, burn beds,
+acute care beds, skilled nursing and assisted living facilities, and a listing of
+all blood centers, dialysis centers, and outpatient chemotherapy and radia-
+tion centers.
+Anticipation of blood needs is yet another task for hospitals. One of the
+many challenges facing resumption of clinical surgical services is blood
+product availability. All community-wide blood drives are usually sus-
+pended, which means that all blood products need to be delivered from re-
+mote locations.
+
+This delay in delivery is especially problematic for platelets,
+which have a shelf life of only 5 days.
+Local and state disaster response
+As outlined previously, hurricanes may pass into the history books as
+nothing more than a stressful threat or as the most devastating natural di-
+saster in United States history. The degree of poststorm response is dictated
+by the degree of destruction.
+Area hospital emergency rooms can quickly become busy. In the early
+hours and days after the storm, many of the visits are for injuries. In the
+authors’ experience, these patients can be taken to areas of the hospital
+other than the emergency room (for instance, the recovery room if elective
+surgical cases are suspended) in an eﬀort to oﬄoad the increasing surge on
+the emergency department. Because hospital registration is often the bottle-
+neck to rapid care, wounds can be triaged and addressed ﬁrst by surgeons
+brought in speciﬁcally for this reason, patients can be given a supply of an-
+tibiotics, and registration can be handled as the patients exit the area. In
+any large-scale disaster, medical care must be streamlined and sometimes
+inventive.
+Medical licenses are issued by the state, which should allow personnel to
+practice anywhere within that state. The limitations to outside physician and
+nursing assistance, therefore, are at the individual hospital level. Emergency
+suspension of the requirement of hospital privileges allows personnel from
+unaﬀected areas to ﬁll positions in the hospital temporarily vacated by med-
+ical personnel whose own lives have been disrupted by the storm. This
+waiver allows for the reopening of hospitals and much needed medical
+care in the immediate vicinity of the aﬀected area.
+Knowledge of the operational status of near and distant area facilities
+allows for expedited transfer or transport of patients to functional medical
+care facilities. Figs. 1 and 2 from the Department of Health and Human
+552 SHATZ et al
+Fig. 1. Operational status of hospitals by state following Hurricane Katrina/Rita. (From US
+Department of Health and Human Services, Washington, DC.)
+Services Critical Infrastructure Data System demonstrate the local, state,
+and national availability of medical care for hurricane victims following
+Hurricane Rita in 2005.
+
+A means of rapidly assessing the needs of the
+aﬀected area also allows proper resource deployment and use [8].
+Federal disaster assistance
+In December 2004, the National Response Plan (NRP) [9] became oper-
+ational, with a 4-month phase-in period, after which the previous Federal
+Response Plan, the US Government Domestic Terrorism Concept of
+Operations Plan, and the Federal Radiological Emergency Response Plan
+became obsolete. This document, based on the National Incident Manage-
+ment System, provides a framework within which disaster response can
+operate at all levels (local, state, tribal, federal, private sector, and nongov-
+ernmental organizations) and is designed to function in an all-hazards envi-
+ronment. With this plan comes deﬁnitions of roles and responsibilities of key
+authorities.
+Although hurricanes allow for more planning and preparation than other
+natural disasters, much of the initial poststorm response lies in the hands of
+local authorities who are usually ﬁrst on scene. This response includes an
+initial damage assessment, the subsequent restoration of power outages,
+553 HURRICANE DISASTER RESPONSE
+Fig. 2. Operational status of hospitals during Hurricane Rita. (From US Department of Health
+and Human Services, Washington, DC.)
+the clearing of roads to allow the safe movement of traﬃc and rescue per-
+sonnel, and the establishment of a law enforcement presence to prevent un-
+lawful acts. In the event that local resources are overwhelmed, state
+assistance is requested. As outlined in the NRP, the governor, as the state’s
+chief executive oﬃcer, is responsible for coordinating the state’s resources
+‘‘to address the full spectrum of actions to prevent, prepare for, respond
+to, and recover from incidents in an all-hazards context’’ [9]. If and when
+it becomes clear that state assets have been exceeded or exhausted, federal
+assistance can be requested by the governor. The process for this request
+and assistance is outlined in the Robert T. Staﬀord Disaster Relief and As-
+sistance Act [10]. This federal assistance can be extensive and can include
+medical care.
+Within the NRP are 15 ESFs.
+
+These ESFs, in their partial or full activa-
+tion, provide a coordinated assistance mechanism for local, state, and tribal
+governments for recovery from any and all disasters. Two of these 15 ESFs
+provide medical assistance. Activation of ESF 9 (Urban Search and Rescue)
+mobilizes elite teams trained in the specialized area of heavy structure col-
+lapse. These teams provide primarily search and rescue capabilities but in-
+clude a component of medical personnel for the treatment of rescued
+victims; however, their supplies and capabilities are limited. Within ESF 8
+(Public Health and Medical Services) is the National Disaster Medical
+554 SHATZ et al
+System and the network of Disaster Medical Assistance Teams (DMATs).
+These DMATs consist of medical personnel from all areas of emergency
+medical care, including physicians, nurses, radiology and respiratory ther-
+apy technicians, and laboratory personnel. These teams deploy with their
+personnel and equipment and are capable of independent function as a ﬁeld
+hospital in a parking lot or in ﬁlling personnel positions in existing hospitals.
+These teams were used extensively in the hurricanes of 2004 and especially
+in those of 2005. Over 64,000 patients were treated by the deployed DMAT
+teams in the 6 weeks following the landfall of Hurricanes Katrina and Rita
+in 2005 [11]. Military assets have also been successfully deployed following
+major storms [12] and can provide supplies, air support, manpower, and law
+enforcement resources.
+The future
+Every disaster carries with it new challenges that have never been seen or
+perhaps never been considered. As such, every disaster provides a teaching
+environment from which we can and should learn. Hurricane Katrina pro-
+vided a signiﬁcant classroom from which we can change future policy.
+Few disasters in the United States have brought the infrastructure of an
+entire city to its knees as occurred in New Orleans in the summer of 2005.
+Few have produced the numbers of victims of that storm. A considerable
+amount of time and brainpower has been devoted over the years to preparing
+for disasters, but more postincident planning should be stressed. Although
+communication has long been a recognized problem in the postdisaster set-
+ting, transportation becomes a formidable issue in a large-scale disaster
+that aﬀects thousands and eliminates the basic support structures.
+
+Before
+and after a storm, huge numbers of people must be evacuated by public
+and private transportation. Even those who heed evacuation demands ﬁnd
+themselves caught in interminable traﬃc jams. Eﬀective plans that allow
+for proper evacuation must be developed, and adequate numbers of vehicles
+used for postevent evacuation must be rapidly mobilized.
+After victims are removed from immediate danger, they are frequently
+deposited in areas while awaiting deﬁnitive evacuation. Mass care of these
+potential thousands must be prepared for. Casualty collection points must
+be identiﬁed before the event and must be staﬀed and equipped properly
+with basic-needs medical care. These collection points can range in function
+from treatment areas to morgues. Mass casualty triage must be used eﬀec-
+tively. Although most physicians are accustomed to treating the most severely
+sick and injured ﬁrst, it is diﬃcult for this practice to happen in these settings.
+Those in need of advanced medical care may fall into triage categories in
+which care will not be rendered, and physicians must be trained to deal with
+this scenario. Shelters should be identiﬁed for prestorm evacuees and the
+potential hundreds or thousands displaced from their homes after the storm.
+555 HURRICANE DISASTER RESPONSE
+Summary
+The preparation and rebuilding in the wake of a devastating hurricane
+can be a challenge at all levels. The summer of 2004 proved how frequently
+these preparations might need to happen, and the hurricanes of 2005 dem-
+onstrated how extensive these preparations should be and the cost of inad-
+equate preparation. Medical care is a very large component of the disaster
+plan for hurricanes and must include not only supplies but also personnel.
+Personal and professional limitations can impede the response of valuable
+personnel to distant sites, but one must remember that the local response
+falls in the hands of those ﬁrst on site (ie, those who reside in the area).
+Proper planning and eﬀective drills can mitigate the extent of damage to
+structures and human life, and when deemed necessary, eﬀective evacuation
+of at-risk areas is crucial.
+
+In the end, nature is much too powerful a force for
+us to ﬁghtdwe can only be prepared to respond to and bend with the po-
+tentially devastating forces directed our way.
+References
+[1] Epidemiologic assessment of the impact of four hurricanes dFlorida, 2004. MMWR Morb
+Mortal Wkly Rep 2005;54(28):693–7.
+[2] Carbon monoxide poisoning from hurricane-associated use of portable generators dFlorida,
+2004. MMWR Morb Mortal Wkly Rep 2005;54(28):697–700.
+[3] Guidelines for design and construction of hospital and health care facilities. Washington,
+DC: American Institute of Architects; 2001. Chapter 7.
+[4] Rohde D, McNeil DG, Abelson R, et al. Storm and crisis. The victims: vulnerable, and
+doomed in the storm. New York Times. Section A, page 1, column 1. September 19, 2005.
+[5] Rapid assessment of the needs and health status of older adults after Hurricane Charleyd
+Charlotte, DeSoto, and Hardee Counties, Florida, August 27–31, 2004. MMWR Morb
+Mortal Wkly Rep 2004;53(36):837–40.
+[6] Preparing for emergencies: a guide for people on dialysis: Department of Health and Hu-
+man Services, Center for Medicare and Medicated Services; 2002. Publication #CMS
+10150. Available at: http://new.cms.hhs.gov/MLNProducts/downloads/10150.pdf or http://
+medicare.gov/Publications/Pubs/pdf/10150.pdf . Accessed March 29, 2006.
+[7] Code of Federal Regulations, Title 42, Volume 2, Section 405.2160, Conditions for Coverage
+of Suppliers of End-Stage Renal Disease (ESRD) Services–Aﬃliation agreement or arrange-
+ment. Revised October 1, 2003. U.S. Government Printing Oﬃce. Washington DC.
+[8] Waring S, Zakos-Feliberti A, Wood R, et al.
+
+The utility of geographic information systems
+(GIS) in rapid epidemiological assessments following weather-related disasters: methodo-
+logical issues based on the Tropical Storm Allison experience. Int J Hyg Environ Health
+2005;208(1–2):109–16.
+[9] National Response Plan. Available at: http://www.dhs.gov/interweb/assetlibrary/
+NRP_FullText.pdf . Accessed March 29, 2006.
+[10] Robert T. Staﬀord Disaster Relief and Assistance Act. Pub L No. 93-288, 88 Stat 143 (1974)
+(codiﬁed as amended at 42 USC x5121-5206, and scattered sections of 12 USC, 16 USC, 20
+USC, 26 USC, 38 USC [2002]).
+[11] National Disaster Medical System Resource Status Report, October 15, 2005.
+[12] D’Amore AR, Hardin CK. Air Force expeditionary medical support unit at the Houston
+ﬂoods: use of a military model in civilian disaster response. Mil Med 2005;170(2):103–8.
+

@@ -1,3 +1,4 @@
 watson*
-.env
-__pycache__
+backend/.env
+__pycache__/
+*.py[cod]

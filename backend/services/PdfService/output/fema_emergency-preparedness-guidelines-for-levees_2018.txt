@@ -1,0 +1,1033 @@
+Emergency
+Preparedness
+Guidelines
+for Levees
+A Guide for Owners and Operators
+January 2018
+Emergency Preparedness Guidelines for Levees
+   i
+ Preface
+Responsibility for flood risk management in the United States is shared between Federal, State,
+and local government agencies ; private -sector stakeholders ; and the general public . Federal
+agencies such as the U .S. Army Corps of Engineers (USACE) and the Federal Emergency
+Management Agency (FEMA) have programs to assist states and communities in reducing flood
+damages and promoting sound flood risk management. The authority to deter mine how land is
+used in floodplains and to enforce flood -wise requirements is entirely the responsibility of State
+and local governments . As emergency preparedness constitutes an important element of a
+comprehensive flood risk management framework, public  and private l evee owners  and
+operators should consider undertaking emergency plan ning efforts in order to properly respond
+to potential flood events , and other natural or manmade incidents that could result in human
+casualties, property destruction, and economic losses .
+This document , which  was prepared under the auspices of the Levee  Sub-Sector Coordinating
+Council and Levee Sub -Sector Government Coordinating Council , aims to assist public and
+private stakehol ders that have responsibilities as owners or operators in managing levees,
+floodwalls, pumping stations , and any other components of flood risk management systems. The
+intent of this document is to provide guidance in  preparing for , and responding to , potential
+natural and manmade incidents  at levees .
+This document includes basic recommendations regarding how to plan and prepare for high
+water  events  and identifies some practical steps that could be considered before, during, and after
+such events . The document also provide s some basic guidance on how to develop an emergency
+preparedness plan and introduces basic security concepts . Some sections are loosely adopted
+from the National Incident Management System  (NIMS)  that was re-issued by FEMA  in 20 17,
+and is based on the Incident Command System  (ICS) . This document also utilizes material from
+the Dam s Sector Crisis Management Handbook.
+Public and private stakeholders with responsibilities as owners or operators in managing levees
+are encouraged to review and apply this guidance to their facility, as appropriate .
+
+Stakeholders
+are also urged to actively coordinate emergency plans with the appropriate State  or local
+emergency management organization s in order to follow the corresponding emergency planning
+requirements.
+For additional information, please contact the Dams Sector -Specific Agency at
+dams@hq.dhs.gov .
+Emergency Preparedness Guidelines for Levees
+   ii
+This page intentionally left blank
+Emergency Preparedness Guidelines for Levees
+   iii
+ Table of Contents
+I. Emergency Preparedness  ................................ ................................ ................................ ........................... 1
+II. Developing an Emergency Preparedness Plan  ................................ ................................ .......................... 3
+III. Security Awareness  ................................ ................................ ................................ ................................ .. 7
+IV. Developing a Security Plan  ................................ ................................ ................................ ...................... 9
+V. Importance of Evacuation Plans  ................................ ................................ ................................ ............. 11
+VI. Importance of Training and Exercises  ................................ ................................ ................................ .... 13
+VII. Importance of Community Outreach  ................................ ................................ ................................ ... 17
+VIII. Managing Incidents: Structure and Responsibilities  ................................ ................................ ........... 19
+Appendix A: Flood -Fighting Equipment  ................................ ................................ ................................ ...... 23
+Appendix B: Flood -Fighting Response Activities  ................................ ................................ ......................... 27
+Emergency Preparedness Guidelines for Levees
+   iv
+This page intentionally left blank
+Emergency Preparedness Guidelines for Levees
+   1
+ I. Emergency Preparedness
+Many of the Nation’s levees are designed and built to help control or contain the flow of water
+and reduce flood risk in communities. Throughout the United States , levees have prevented
+flooding on countless occasions. However, there are risks  associated with levees . Even highly
+engineered structures can experience extraordinary conditions and possibly  fail. I t is important
+that levee owners and operators, community officials, and people who live in leveed areas are
+prepared for the possibility  of levee failure or other emergency. Levees that fail often do so
+catastrophically.
+The U.S. Department of Homeland Security  (DHS)  considers  levees to be part of the Nation’s
+critical infrastructure and collaborates with corresponding public and private partners to identify
+levees that pr esent the greatest risk to the N ation .
+
+DHS also coordinate s corresponding protective
+programs that utilize an all -hazards approach  to risks  (considering manmade and natural
+incidents ). This collaborati on highlights the importance of protecting  and ensuring the safety of
+the Nation’s levees with contribution from all levels of government and the private sector. As
+demonstrated during Hurricane Katrina  in 2005 , however,  breaching of levees and subsequent
+flooding is still a possibility regardless of elaborate protection and safety programs . It is,
+therefore,  incumbent upon all levee owners  and operators to maintain an effective emergency
+preparedness plan.
+Preparedness actions are aimed at planning, org anizing, training, equipping, exercising,
+evaluating, and implementing corrective actions to ensure effective coordination during incident
+response. Preparedness activities may include development of emergency plans, communication
+strategies , exercises , and training emergency response teams ; as well as management and
+stockpile of disaster supplies and equipment. Emergency preparedness plans are intended to
+provide a clear  and effective structure with which  to manage an emergency. For levee systems,
+emerge ncy preparedness plan s focus on actions that may be considered during a flooding event.
+While flooding caused by a levee breach is the most common emergency facing a levee, the plan
+should also consider other  potential emergency situations.
+Large levee systems with multiple pump ing stations  and drains require more detailed plans than
+smaller systems. As a minimum,  however,  levee owners and operators should maintain at least
+an organizational chart or roster  with lists or maps of important project feature s. If possible ,
+emergency planning efforts should also address issues related to delegation of authority and
+responsibility , with periodic updates to account for change s in personnel.
+Emergency preparedness efforts may also consider short -term situation s that might arise during
+the life of the project. For example, if a culvert that runs through a levee is being replaced, a plan
+may be needed in case there is a flood during the construction period, during which time levee
+integrity is lacking.
+Emergency planning may cover other key aspects such as potential assembly or staging areas for
+flood ing events,  location of earth borrow sites, and procedures for maintaining records of
+Emergency Preparedness Guidelines for Levees
+   2
+ equipment, manpower, and supplies.
+
+Understanding no plan can guarantee that a levee system
+will not fail under all circumstances, levee owners  and operators  are encouraged to work with
+local public safety officials to assist them in developing effective evacuation plans.
+Figure 1  - Sacramento River at Miller Park, Sacramento, California
+(Source: U.S. Army Corps of Engineers  Digital Visual Library , 2010 )
+Emergency Preparedness Guidelines for Levees
+   3
+ II. Developing an Emergency Preparedness Plan
+An emergency preparedness plan, also referred to as an emergency action plan , should address  a
+variety of issues including evacuation activities , communication  protocols  with local emergency
+operations centers and the general public, individual roles and responsibilities during an
+emergency, and supplies and materials that may be needed. The plan will vary depending on how
+a community is organized , but should  establish priorities for responding to an emergency such
+as:
+ Protection of life and property ;
+ Communication of hazardous conditions to public agencies and the  public ; and
+ Restoration of normal operations .
+The plan should identify the local emergency management agency  that will respond to and
+manage an emergency , as well as describe how emergency conditions are identified and
+reported. It should clearly identify who has the  authority to activate the emergency preparedness
+plan and provide a broad description of the conditions that will require activation of the  plan,
+such as adverse weather projections, increased water flows, potential or actual levee breaches ,
+etc. These criteria should be very general , as the decision to activate an emergency preparedness
+plan ultimately resides with the informed judgment of senior management .
+One critical element of the emergency preparedness plan is the identification of an  emergency
+operations center where key personnel can coordinate the response. This can be as basic as a
+command vehicle or a conference room. The location selected should contain  sufficient
+resources to manage an emergency (e.g., backup power, communications tools , inundation maps,
+engineering records, lists of vendors, and emergency inventory resources ).
+
+While not always
+practical, the identification of an alternate emergency operations center is also recommended in
+the event that  the primary location is unavailable.
+The plan should also address steps to be taken prior to an emergency, such as establishing close
+working relationships with State and local emergency management and public safety agencies.
+While government agencies a re responsible for declaring the need to evacuate a given area, levee
+owners  and operators are encouraged to establish communication with residents and businesses
+whose properties could  potential ly be impacted by a levee breach.
+Plan Development
+A person with a sufficient level of authority should be assigned to develop and maintain the
+emergency preparedness plan based on guidance from senior management. The plan should be
+created by levee personnel  with assistance and input from local emergency responders and other
+community members who maintain responsibilities during an emergency situation. Development
+of emergency plans should be actively coordinate d with the appropriate State  or local emergency
+management organization s that can also advise of  any State  or local emergency planning
+requirements.
+Emergency Preparedness Guidelines for Levees
+   4
+ In developing an emergency  preparedness plan, personnel should engage all critical aspects of
+the organization, including operations and maintenance, engineering, and key support operations
+such as purchasing, facilities, and information technology. Levee personnel responsible for
+managing external relations may also play an important role in the development of an emergency
+preparedness plan . Once the plan has been complete d, it should be reviewed periodically,
+annually at a minimum  and approved  by senior management. The plan should also be exercised
+with all st akeholders on a scheduled basis.
+Plan Management
+An emergency preparedness  plan should be reviewed periodically , after events triggering its
+activation , or after unusual or unanticipated  incident s.
+Periodic plan updates should include verification that  sources of emergency equipment, contact
+names , and telephone numbers are current . The resource and personnel information should be
+located in a separate document for security and privacy purposes. A review of evacuation routes
+and emergency shelter locati ons should be established to determine if they fulfill the evacuation
+and sheltering needs of the community. If changes are made, they should be cleared for
+dissemination and provided to the general public.
+After an actual even t or exercise, levee person nel should closely examine actions taken to
+determine whether they were effective and efficient.
+
+Given that floods may occur decades apart,
+it is important that information be recorded for use in future planning efforts. Debriefing
+sessions, with all parti cipants represented, provide valuable feedback on lessons learned.
+Information obtained during the se sessions may include actions that worked well, areas for
+improvement, and recommendations to resolve any outstanding issues  or concerns.
+Organizational Chart/ Roster
+One key component is the development of an emergency notification organizational chart
+(“flowchart ”) to establish who will be notified by whom and in what priority. The flowchart
+should  include names and essential contact information (e.g.,  home, office, mobile , and pager
+numbers) , and should also include essential public agencies that need to be notified. The
+flowchart should be kept internal and the document should be appropriately marked  (e.g., For
+Internal  Use Only , For Official Use Only , or any other relevant designation) .
+It is strongly recommended that levee owner s and operator s compile a directory including
+telephone numbers for the  area’s  emergency operation s center, local contractors, flood fight
+supply and equipment vendors, Red Cross, Salvation Army, hospitals, railroad  and highway
+departments, and police and fire departments. In many communities, the corresponding
+emergency services organizations may be able to provide this information  in support of
+emergency preparedness planni ng efforts .
+Emergency Preparedness Guidelines for Levees
+   5
+ Important Project Features
+As a basic planning  recommendation , levee owner s and operator s should  develop and maintain
+either a list or annotated map that describes each project feature and areas of concern during a
+flood event. The list should clearly note:
+ Low areas ;
+ Areas subject to boils ;
+ Areas of known seepage ;
+ Areas of recent rodent activity ;
+ Alternate access points to the levee (should the primary  access point become impassible) ;
+ Locations of drains that should be checked for closure ; and
+ Available sources and locations of sandbags, pumps , and other supplies .
+Along with this information, levee owners and operators  should develop and maintain a detailed
+table of project features  that may need to be closed, such as  floodgates , flap gates , etc.
+
+This table
+should denote  the river level or other indicator s that would signal at what point  each feature
+should  be closed. Moreover,  the highway or railroad departments need to be contacted prior to
+closing roads or railroad tracks running through levees and floodwalls.
+Annual Inspections
+Levee owners  and operators  should consider a pre -flood  season inspection program for flood
+control projects. When conducting  pre-flood  season inspections, levee personnel  should
+document the condition of the project in an annual inspection report and also in the emergency
+preparedness plan. Appropriate items to document in this report include:
+ Name/location of the levee ;
+ Date of inspection ;
+ Name of inspector ;
+ Project features that were inspected ;
+ Overall condition of project features ;
+ Maintenance that has been completed ;
+ Maintenance that is currently being performed ;
+ Maintenance items that need to be accomplished in the future ;
+ Photographs showing flood damages, deficiencies, and overall
+project condition ; and
+ Maintenance costs incurred for the flood control project that year .
+Emergency Preparedness Guidelines for Levees
+   6
+Figure 2  - Levee inspection by boat  (Source: U.S. Army Corps of Engineers
+Digital Visual Library , 2010)
+Emergency Preparedness Guidelines for Levees
+   7
+ III. Security Awareness
+In addition to natural hazards, criminal or terrorist acts may also pose a potential threat to levees.
+Historically, terrorist groups have conducted surveillance of potential infrastructure targets.
+These efforts can be conducted over many months or even years. Additional surveillance may be
+conducted immediately  prior to the attack to assess any security e nhancements that have been
+implemented and to adjust the attack plan if necessary. Although there is no  credible information
+indicating that terrorists have identified levees as potential targets, levee owners  and operators
+should be aware of the possibili ty of a terrorist attack targeting levees and other flood risk
+reduction structures. Moreover, security protocols should be captured in a comprehensive
+preparedness program.
+Awareness and continuous vigilance are vital to enhancing the security of levees  and supporting
+facilities.
+
+As such, suspicious activities should be immediately reported to the corresponding
+local law enforcement, Federal Bureau of Investigation  (FBI) , or State and local Fusion Centers.
+Levee personnel should be alert to the following  signs of possible surveillance attempts,
+particularly during periods of potential flooding or heightened national threat advisories:
+ Presence of strangers or unknown vehicles in areas near or adjacent to the levee,
+particularly if observed over the cours e of multiple days.
+ Individuals in accessible areas open to the public who do not fit the normal profile or
+behavior of walkers, joggers, boaters, or cyclists.
+ Persons using cameras, video devices, or optical equipment to photograph or diagram
+levee struct ures or their support systems such as pumps, gates, electrical components, or
+communications facilities.
+ Aircraft or U nmanned Aircraft Systems (UAS)  flyover in restricted airspace; boat
+encroachment into restricted areas, or unusual recovering or tossing of items.
+ Unusual maintenance activities (e.g., road repairs) near the asset.
+ Cuts in fencing or gates, particularly to key areas of the levee structure with no resulting
+theft, vandalism, or other petty criminal activity.
+ Unusual requests for information from persons approaching levee employees, friends, or
+family members ; or calling, visiting, or sending e -mails with questions regarding the
+operation of the levee.
+ Theft of marked vehicles, work clothes, or identification cards from levee  personnel ,
+contractors, or oth er authorized personnel.
+ Persons attempting unauthorized access (i.e. criminal hacking) of computers, systems, or
+websites looking for personal information, maps, or other targeting examples.
+The above list should not be considered all -inclusive, and pers onnel should use good judgment
+and experience to identify activities that are deemed to be suspicious.
+
+Some of these activities are
+difficult to pinpoint, especially in recreational areas, since many of the items used in surveillance
+efforts are  also commo nly used by campers, hikers, and nature photographers.
+When reporting a suspicious activity, personnel should be prepared to provide detailed
+information regarding the suspicious behavior and a description of the person s, vehicles, etc.
+Emergency Preparedness Guidelines for Levees
+   8
+ Any type of photog raphic evidence could effectively enhance the report, but care should be taken
+to ensure that personnel safety is not compromised. DHS , in coordination with public and private
+stakeholders, also developed a suspicious activity reporting tool available thro ugh the Homeland
+Security Information Network -Critical Sectors (HSIN -CI) Dams Portal.1 This reporting tool is
+intended to provide real -time awareness of potential suspicious activi ties occurring at the
+Nation’s dams and levees , thus providing the opportunity to evaluate reports from a broad range
+of agencies and organizations . The tool is not intended to replace other reporting mechanisms,
+but rather enhance them by ensuring that levee owners  and operators have the capability to
+evaluate reports fr om other stakeholders, agencies, and organizations  in an effort to improve
+situational awareness . This information may also assist in determining whether operational
+changes or enhanced pr otective measures are warranted.
+Figure 3  - Preparing for flooding in Fargo, North Dakota
+(Source: FEMA Photo Library , 2010 )
+1 HSIN -CI Dams Portal is a Web -based system that provides situational awareness and facilitates information sharing and collaboration with
+public and private stakeholder s, domestically and internationally. For access, contact the Dams Sector -Specific Agency within the U.S.
+Department of Homeland Security at dams@hq.dhs.gov .
+Emergency Preparedness Guidelines for Levees
+   9
+ IV. Developing a Security Plan
+To ensure all personnel are aware of established security measures and protocols, including
+proper procedures for reporting suspicious activities, l evee owners  and operators may choose to
+develop a security plan.
+
+The availability of a security plan can contribute greatly to the
+improvement of security as it details roles and responsibilities, physical and cybersecurity
+requirements, coordination with law enforcement officials, and procedures for reporting
+suspicious activities.
+Levee owners  and operators who desire more information about  the development of a security
+plan should review the Levee Security Plan Template available through the HSIN -CI Dams
+Portal. This template is intended to serve as a practical tool to assist in the development of a
+security plan if it is deemed that one is necessary. Although it provides a general outline of a
+basic security plan, the document is not intended to be inclusive, and some  of its elements may
+not be relevant to a particular levee system. The template, which  include s sample language for
+consideration, highlights the fact that a team approach is highly recommended in the
+development of any security planning effort. Such a tea m could include representation of
+multiple disciplines and different organizational elements, as well as the corresponding law
+enforcement agencies.
+The scope and content of the plan should be commensurate with the size and complexity of the
+facility. The  plan should clearly outline employee responsibilities as they relate to security, and
+should also address coordination mechanisms with the corresponding law enforcement
+jurisdictions.
+Basic elements of the security plan may include:
+ Coordination with law enforcement agencies ;
+ Reporting and managing security incidents ;
+ Physical security ;
+ Communications and cybersecurity ;
+ Employee/ contractor identification ;
+ Security contracting ; and
+ Coordination with emergency  and o perational plans.
+The plan may describe any physical security measures that are routinely in place during normal
+operations , as well as the person responsible for those measures. Protective measures that may be
+considered include replacing and/or upgrading lock systems, ins talling gates or barriers to
+prevent vehicle entry to important facilities, and deploying security systems such as cameras,
+alarms, and access control systems. In addition, the plan should address any security issues
+associated with visitor access, recreat ion areas, tours , or other routine activities.
+
+The plan should
+also address the linkage between security activities and the levee’s overall emergency
+preparedness plan.
+Emergency Preparedness Guidelines for Levees
+   10
+Figure 4  - Law enforcement agencies assisting with flood response
+in South Kingston,  Rhode Island  (Source: FEMA  Photo Library , 2010 )
+Emergency Preparedness Guidelines for Levees
+   11
+ V. Importance of Evacuation Plans
+During Hurricane Katrina in August 2005, the mayor of New Orleans ordered a mandatory
+evacuation of the entire city. Although not all residents heeded the warning, the evacuation that
+took place prevented an even worse catastrophe. This event illustrates the importance of having
+an effective evacuation plan to ensure that the area is properly evacuated in anticipation of a
+flooding event. This process requires collab oration among the levee owner s and operator s, local
+law enforcement officials, emergency management agencies, and other appropriate entities.
+Government agencies are responsible for declaring the evacuation of  a given area and will, in
+many instances, al ready have evacuation  plans in place. If, however,  levee owner s and operator s
+are unsure if this type of emergency planning has occurred, they are encouraged to contact the
+appropriate  local emergency management agency to verify the status of existing plans . As a
+general recommendation, the development of evacuation plans should be done in coordination
+with the corresponding l evee owner s and operator s. This ensures  that levee monitoring protocols
+and notification procedures for communicating levee statu s to emergency response personnel  are
+carried out effectively during an emergency .
+While not responsible for developing an evacuation plan, levee owners  and operators  are
+encouraged to maintain close contact with appropriate government agencies during eme rgencies
+to provide timely and accurate information on levee conditions . An effective evacuation plan
+should be included in the emergency preparedness plan or at a minimum , referenced. If the
+evacuation plan is a separate document, the emergency preparedness plan should inform
+personnel as to its location.
+ Figure 5  - Road in Red Wing, Minnesota, is closed due to flooding
+(Source: FEMA  Photo Library , 2010 )
+Emergency Preparedness Guidelines for Levees
+   12
+This page intentionally left blank
+Emergency Preparedness Guidelines for Levees
+   13
+ VI.
+
+Importance of Training and Exercises
+Depending on the characteristics of the levee system, some personnel may need training  to
+operate, maintain, and patrol  the levee  system . It is recommended that training and exercises be
+periodically conducted  in order to demonstrate how to operate the closure structures, respond to
+sandboils , and patrol the area during a flood. A plan developed for a flood response is not
+sufficient  unless it has been  practiced and communicated to those who will execute the  plan’s
+procedures . Training and exercises also inform personnel  about the time and resources necessary
+to complete certain tasks. Important practical considerations and physical limitations that could
+be easily overlooked in a plan are often  identified  during an exercise.
+As general guidance , basic training and exercise activities could include :
+ Physical operation of project features (e.g., sluice gates, pumping stations, closure
+structures );
+ Notification of emergency response personnel ;
+ Test of communications/backup communications s ystem ;
+ Mobilization of monitoring teams and monitoring project features ;
+ Basic flood fight techniques ;
+ Coordination and control (between volunteers, patrols, operators, nearby levee districts,
+highway department, State emergency operations center, etc) ; and
+ Dissemination of information to the public .
+Exercises can be made  more elaborate  by includ ing other emergencies that could  take place
+during a flood (e.g., car accidents or gas spills occurring when interior streets or evacuation
+routes are flooded ). Representatives from the relevant government agencies or response
+organizations may be able to assist  in planning more complex exercises. Levee owners  and
+operators  are also encouraged to involve  the State and  local emergency operations center.
+There are various types of e xercises that can be conducted to test emergency preparedness plans,
+including :2
+ Workshop : This is a discussion -based exercise often employed to determine objectives,
+develop scenarios, and define evaluation criteria in support of additional exercise
+activities. A workshop may also be used to familiarize staff with their roles and
+responsibilities, develop standard operating procedures (SOPs), or generate improvement
+plans.
+
+To be effective, workshops must be highly focused on a spec ific issue, and the
+desired outcome must be clearly defined.
+ Tabletop Exercise : This is a discussion -based exercise that typically involves key
+personnel discussing hypothetical scenarios in an informal setting. Participants are
+encouraged to discuss issu es in depth and develop decisions slowly , avoiding the
+spontaneous decision making  behaviors  that often  occur under actual or simulated
+2 Homeland Security Exercise and Evaluation Program (HSEEP) , Volume I: HSEEP Overview and Exercise Program Management, April 2013.
+Emergency Preparedness Guidelines for Levees
+   14
+ emergency conditions. Players apply their knowledge and skills to a list of problems
+presented by the exercise facilitat or, and the proposed solutions are discussed as a group.
+ Functional Exercise : This is an operations -based exercise characterized by  an actual
+response to emergency conditions. This type of exercise , in which m ovement of
+personnel and equipment is simulated , replicates operation al realities  through a scenario
+that requi res rapid and effective response  by trained personnel in a time -constrained
+environment.
+ Full-Scale Exercise : This exercise includes  all the elements of a functional exercise  as
+well as  actual deployment of field resources and engagement by outside parties , such as
+government agencies . This is an operations -based exercise in which p ersonnel and
+resources are mobilized and deployed to the scene where they conduct their activities as
+if a real incident had occurred . This is the most resource intensive exercise format , and
+must be carefully controlled to ensure that persons who are not part of the exercise are
+informed and do not believe there is a real emergency.
+Exercise activities may include participation in State and local emergency exercises where levee
+personnel  can interact with multiple public safety agencies. Additional opportunities to identify
+improvement actions may be found through the review of the le vee emergency preparedness plan
+after an activation  triggered by a real -world incident .
+Figure 6  - Government representatives, non -governmental organizations, and
+private industry partners participating at an exercise in Baton Rouge, Louisiana
+(Source: FEMA  Photo Library , 2006 )
+Documentation of exercise activities is important to identify shortfalls that may exist in planning
+and coordination, training, personnel, equipment, and facilities.
+
+Immediately following the
+exercise , participants should  conduct a “Hot Wash” to allow  each individual to provide
+observations of what they considered to be challenge s or success es that may not have been
+captured in formal evaluations. The info rmation provided in the Hot Wash should be included in
+an After Action Report. After action reviews can provide valuable feedback on the effectiveness
+Emergency Preparedness Guidelines for Levees
+   15
+ of policies and procedures, identification of areas for improvement , and suggestions to correct
+deficiencies. Lessons learned during exercise s should be incorporated into th e emergency
+preparedness plan and subsequent training sessions.
+Emergency Preparedness Guidelines for Levees
+   16
+This page intentionally left blank
+Emergency Preparedness Guidelines for Levees
+   17
+ VII. Importance of Community Outreach
+Many owners  and operators  experience  difficulties obtaining the necessary funding and support
+need ed to make repairs and improvements  to their respective levees . The best examples of well -
+supported levee systems  are those that have ensured that local businesses and citizens understand
+the flood hazard and the importance of the corresponding flood control system. While public
+awareness activities are not required, the key to ensuring support from your community lies in
+promoting a public awareness of the situation. Levee owner s and operator s may be able to
+promote a greater awareness of key is sues through publications and planned public meetings, as
+described below :
+Provide Public Materials
+Many people , especially those living downstream of a levee,  will take the time to read brochures
+detailing local flood protection if material is made available . Levee owner s and operator s might
+also release annual newsletters or articles for newspapers.
+
+Information should be presented on
+the following topics:
+ Leveed a rea;
+ How the system works ;
+ Potential i mpact on the community and ongoing costs for regular operation and
+maintenance ;
+ Consequences of levee  failure;
+ Local flood evacuation plans ;
+ Historical overview of past floods and experiences ; and
+ Flood response plans and procedures  – how the community can contribute .
+Schedule Public Meetings
+Unless there  is an actual flood, attendance at public meetings on flood control may be minimal ,
+especially if the public is not properly informed on the issue . Levee owner s and operator s may
+find it useful to combine such meetings with discussions on local  industry or other issues, or to
+raise certain issues during community events. To bolster additional community preparedness,
+levee personnel might ask to become involved with their public safety community’s annual or
+special public awareness programs.
+Awa reness of Adjacent Systems
+Personnel  need to understand how adjacent sections of levees or components on private property
+impact the larger system. Even though these components might not be situated within the area of
+responsibility, the community could still be flooded if adjacent systems do  not operate properly.
+Emergency Preparedness Guidelines for Levees
+   18
+Figure 7  - Volunteers raising emergency levee in Valley City, North Dakota
+(Source: U.S. Army Corps of Engineers  Digital Visual Library , 2011 )
+Emergency Preparedness Guidelines for Levees
+   19
+ VIII. Managing Incidents: Structure and Responsibilities
+As previously stated, the responsibility for responding effectively to a levee -related emergency is
+shared between levee owner s and operator s and local emergency management agencies . This
+includes ensuring that an emergency preparedness plan has been dev eloped, personnel are
+trained on  the plan, emergency operations centers are identified and maintained, and the plan is
+periodically exercised  and updated . A specific person must be assigned dir ect responsibility for
+coordinating these activities.
+The emergency preparedness plan should include guidance  for determining when the plan will be
+activated and who is responsible for the activation. It should clearly indicate who is in charge  of
+the response and that the necessary operational and support personnel are  notified .
+
+It must also
+ensure that local emergency response activities are coordinated with the State and local
+emergency management agencies , public safety officials , and other levee systems  where
+appropriate. While local emergency management officials are often responsible for
+communica ting with the general public, levee owners  and operators should ensure that those
+announcements are based on accurate information and should be p repared to communicate
+directly with the public , when necessary .
+The basic incident management structure , identified in both the National Incident Management
+System ( NIMS ) and Incident Command System ( ICS), consist s of the following elements:
+ Incident Command er (individual  in charge) ;
+ Operations (direction of field response) ;
+ Planning (report status and develop ment of response strategy) ;
+ Logistics (material, contractor and other support) ; and
+ Finance  / Administration (general support and identify ing financial impacts) .
+Incident Commander
+There should  only be one individual  in charge of managing an emergency , and t he emergency
+preparedness plan should clearly designate that  individual . While this may be senior
+management , it may not always be the  case. Under the NIMS/ICS structure , this person is
+designated as the Incident Commander although other designations more consistent with the
+levee system  management  structure are also appropriate. Levee owner s and operator s should also
+identify other indi viduals  who can serve  as alternates in the event the designated incident
+commander is not available , or to relieve that person if  the situation continues for an extended
+period of time .
+The Inci dent Commander is responsible for  determining if the emergency preparedness plan
+should be activated.
+
+This could be based on potential flooding, sudden structural break, request
+from the State or local emergency management agency , or a number of other situations  that, in
+management’s  judgment, requires activation of the plan .
+Once the emergency preparedness plan is activated, the Incident Commander will be in charge of
+the overall emergency response effort , and will coordinate activities to identify and implement a
+Emergency Preparedness Guidelines for Levees
+   20
+ response strategy, establish priorities , and resolv e any issues within the emergency management
+structure.
+The Incident Commander is also responsible for coordinating  and communicating the response
+with the State and local emergency management agency, other government entit ies, adjacent
+levee systems,  etc. In certain circumstances , these duties may be assigned to one or more people
+such as a city/county liaison ( liaison officer) or a person responsible for external
+communications ( public information officer) . Levee system  owners and operators are strongly
+encouraged to establish relationships with State and local emergency management  agencies  and
+public safety  officials  prior to an emergency in order to facilitate  the appropriate response during
+an actual event.
+Individual s designated as public information officers should have experience and/or training in
+effective communications . They will be the primary points of contact to the public for the levee
+system  during an emergency , and it is essential that messag es are  both accurate and timely.
+Furthermore, e mployee and public safety is critical  during an emergency . Therefore, it is
+important that responsibility for safety issues be given to a designated person who reports to the
+Incident Commander.
+Operations Section
+The Operations section  is responsible for activities directly associated with responding to the
+emergency. These commonly include assessing the impact to the levee system  and other
+facilities, dispatching repair crews and equipment, identifying materials and contractor resource
+requirements, and moving toward full restoration of normal operations.
+This section is typically headed by the person responsible for day -to-day o perations,
+maintenance , and/or construction activities  for the levee system .
+
+As is the case with all
+emergency management positions, a number of alternates should be designated to ensure
+someone is always available and to provide relief  as the emergency co ntinues .
+Depending on the size of the levee system , the Operations section can consist of a single person
+or a number of people separated  by function ( e.g., maintenance, construction, water supply ), by
+geogra phical segments ( e.g., North and S outh levee operations) , or in any manner that works
+within the organizational structure of the levee system .
+Planning Section
+The Planning section collects, evaluates, and disseminates information regarding the nature of
+the emergency. This information is used to pr ovide status reports within the emergency
+management organization so that all members are informed of the nature of the emergency and
+the progress  being  made . This could include manpower requirements, facilities impacted,
+materials requirements , etc. Docum entation and status reports will greatly assist levee personnel
+in maintaining a record of actions taken during the course of the emergency.
+Under the NIMS/ICS structure, the Planning section, in coordination with other parts of the
+management team, develops an overall strategy for responding to the emergency. However, that
+Emergency Preparedness Guidelines for Levees
+   21
+ responsibility  can be assigned elsewhere such as  with the Incident Commander or the Operations
+section.
+The person responsible for the Planning section will vary depending on the size and complexity
+of the lev ee system . One possibility  is the person responsible for engineering support , due to
+their close working relationship with operations staff and technical knowledge of the levee
+system . In a smaller system , this function could be combined  into the Operations section.
+Logistics Section
+This section is responsible for meeting emergency support requirements. These needs will vary
+greatly , particularly in a sustained emergency situation. Examples include obtaining or
+contracting for critical equipment and construction materials, fuel, transportation, emergency
+communications, food serv ices, medical services, and  other items  needed by the responding
+individuals .
+This section should be led by the person responsible for general support services.
+
+While the
+makeup of this section will vary depending on the size and complexity of the levee system , input
+will be needed from personnel  knowledgeable  in the areas of warehouse operations, purchasing,
+facilities management, vehicle operations, telecommunications, and IT support.
+Finance/Administrative Section
+This section is responsible for providing financial and general administrative support during an
+emergency. The Finance/Administrative section is particularly responsible for capturing the costs
+associated with the emergency and ensuring that there are sufficient financial resourc es to
+manage the incident . This  include s ensuring that payroll and ve ndor payment obligations are
+met, obtaining additional cash or lines of credit to support emergency expenses, managing claims
+issues , etc. This section is also responsible for providing general administrative support such as
+clerical staffing.
+The leader of this section should be the person responsible for financial matters for the levee
+system . Other individuals who could take on this role are  those responsible for payroll, vendor
+payments, and claims management.
+Emergency Preparedness Guidelines for Levees
+   22
+Figure 8  - Incident Commander observes damage caused by flooding
+in Westminster, Vermont (Source: FEMA  Photo Library , 2011 )
+Emergency Preparedness Guidelines for Levees
+   23
+ Appendix A: Flood -Fighting Equipment3
+Although each flood is unique, proper planning will improve response time and success. Levee
+owners  and operators should maintain a  stockpile of necessary supplies and equipment used to
+respond to typical high -water events. In a flood, stockpiled materials will provide the capability
+to quickly initiate a preliminary response while additional mate rials and equipment are being
+delivered.
+The s pecific requirement for supplies depend s on the size of the levee system  and on past flood
+events. The best way to determine the necessary quantities is to look at the supplies that were
+utilized during previous floods. For example, if the levee system  historically uses 1,500 sandbags
+in a flood response, a stockpile of 1,500 sandbags should be maintained in a protected area.
+Sandbags
+As stated above, levee owners  and operators should maintain an adequate supply of sandbags to
+respond  to typical high -water events. Polypropylene and burlap are both suitable materials for
+sandbags used in flood fighting activities.
+
+All sandbags have a limited shelf life  and should be
+inspected annually and replaced when necessary. The stockpile of sandbags should be stored in a
+dry, protected  location that does not expose the sandbags to sunlight . Continued sunlight and
+weather will rapidly deteriorate the sandbag material.
+Plastic Sheeting
+There are many applications for plastic sheeting during flood fights. If it is typically used in a
+community during a flood fight and there is any doubt about  its availability during an
+emergency, it should be stockpiled in preparation of an event. Six mil limeter  (6 mm)
+polyethylene sheeting is the minimum  thickness recommended for flood fighting applications.
+Sandbag Filling Equipment and Supplies
+If the lev ee system contains areas where  large quantities of sandbags will be needed, a reliable
+method for filling them is also needed . Levee owner s and operator s may consider investing in
+equipment that will assist in completing this task in a more expeditious man ner. There are
+several types of sandbagging machines available commercially , as well as other tactics utilizing
+common equipment that can be employed to enhance sandbag filling efficiency.
+Emergency Lighting
+It is strongly recommended that levee systems contain  emergency lighting that is readily
+available for use during flood fights.
+3 Levee Owner’s Manual for Non -Federal Flood Control Works,
+http://www.nws.usace.army.mil/Portals/27/docs/emergency/LeveeOwnersManual(final).pdf
+Emergency Preparedness Guidelines for Levees
+   24
+Expedient Flood Fight Products
+Industry has developed several temporary flood protection products that have proven to be
+effective, and in many cases, more expedient to install than traditional sandbag levees. There are
+numerous manufacturers of these products, although they typically fall into several primary
+categories: water -filled bladders, lined baskets that can be filled with sand or other material , and
+a wide varie ty of portable flood walls.
+Communication System
+A reliable communication system is vital to  coordinating flood fighting efforts and for calling for
+assistance when needed. Cellular telephones work very well , but are limited in their capacity for
+communi cating with multiple people at one time, potentially hindering rapid wide -spread
+communication during emergencies.
+
+Levee systems  may also experience  a service  disruption
+during an incident if telephone traffic is very heavy . Given these potential problems, two -way
+radios are preferable as they are extremely reliable for short distances and can broadcast to
+several people at once.
+Without a reliable communication system, any flood fighting effort will be much more difficult
+and will probably require additional manpower. Advances in communication technology are now
+enabling various communication s systems to “speak ” with one another without requiring  a
+separate radio for each system. Many county and municipal public safety orga nizations are
+replacing legacy communication s systems with these newer systems ; in many instances, specific
+facilities such as nuclear power plants and prisons have been included in these upgrades . Levee
+owner s may consider updating their systems  to help c onsolidate communications.
+Riprap for Erosion
+It is recommended that the levee owner s and operator s develop plans to address erosion that may
+occur during a flood emergency. It might not always be necessary to stockpile riprap, but it is
+important to know the location and telephone numbers of local quarries capable of supplying
+riprap during an emergency. Some levee systems maintain a supply of gravel on site in order to
+ensure  levee access routes during an emergency.
+Floatation Vests
+The safety of wor kers and volunteers should always be the highest priority during a flood fight.
+Floatation coats or vests are recommended and should be worn at all times when working near
+the riverward crest of the levee, riverward side slope, or near fast moving water. F loodwaters can
+quickly sweep a person downstream, and hypothermia can set in quickly in cold water
+conditions.
+Pumps
+Similar to sandbags, pumps are a critical part of any flood fighting effort. Pumps aid in
+evacuating water inside the levee systems caused  by interior drainage and/or seepage through the
+Emergency Preparedness Guidelines for Levees
+   25
+ levees. Care should be taken to anchor pump discharge hoses to prevent water discharge from
+eroding levee material. Communities that experience frequent flooding should consider
+purchasing one or more pumps that meet their specific requirements .
+
+If additional pumps are
+needed during a flood fight, the State or local government may make them available ; although
+access will be prioritize d during an e mergency .
+Sources of Borrow Material
+Borrow sites for emergen cy levee repairs or construction should be identified in advance  of a
+flood event . Special c onsideration should be given to accessing the borrow site, as well as
+accessibility from the borrow site to the levee.
+Emergency Preparedness Guidelines for Levees
+   26
+This page intentionally left blank
+Emergency Preparedness Guidelines for Levees
+   27
+ Appendix B: Flood -Fighting Response Activities4
+Phase I: Preliminary Response Activities
+Upon receipt of official information forecasting imminent high water, levee owner s and
+operator s should quickly mobilize a response team. All personnel involved in flood fighting
+operation s should also be alerted immediately. If the levee system stretches  many miles, definite
+sections of the levee should be assigned to individual  levee personnel.
+There are many ways that the State  and local government  can assist during a flood. For example,
+the State may provide trucks, tractors, radios, helicopters for emergency inspections, support
+from the National Guard, and financial assistance. If a levee system  owner  runs out of supplies
+needed for a flood fight,  it is advisable to ask for assistance  from  State  and local  governments; if
+necessary, the State government will coordinate additional assistance from the Federal
+government . Levee owners  and operators are also strongly encouraged to foster  relationships
+with local emergency managers and the State emergency operations center ; it is also advisable to
+include these stakeholders in exercises to ensure all personnel are prepared to respond to an
+incident in a unified and coordinated manner . Emergency managers a nd emergency management
+personnel should be kept informed of the condition of levee  systems  and ongoing situational
+updates during a flood response.
+
+It is vital that owners  and operators be aware of the type of
+support th at State  and local governments  can provide, and who m to contact in order to receive
+the necessary support.
+In addition , during Phase I, levee personnel  should:
+ Review emergency  preparedness  plans and lessons from previous incidents and exercises
+and identify problem areas.
+ Verify tha t personnel have access to gate keys, current rosters, listing of project features
+and closings, plans, and other critical items.
+ Coordinate efforts with communities upstream and downstream ;
+ Alert the community to the potential for flooding. This will give  them advance warning
+to take action and minimize potential damage to business es and home s.
+ Ensure State and local emergency operations center s are informed of the situation ; and
+ Begin documenting the situation , and  send situation reports to the State or local
+emergency operations center, as appropriate .
+Initial Project Inspection
+As soon as notification of high water condition s is received, levee personnel should conduct
+thorough inspections of relevant areas , omitting nothing from th e inspection based on adequate
+performance during past high water events. In addition to the items that are typically inspected
+during patrols (listed below), special attention should to be given to the following items during
+4 U.S. Army Corps of Engineers, Emergency Flood Fight Training Manual ,
+http://cdm16021.contentdm.oclc.org/cdm/ref/collection/p16021coll11/id/1
+Emergency Preparedness Guidelines for Levees
+   28
+ this initial inspection (note t hat several of these items can and should be accomplished annually
+and not only during a high water prediction):
+ Condition of any recent levee repairs ;
+ Water conditions and any accumulation of trash, debris, ice, etc.
+
+;
+ Transportation: roads, rail, and water access ;
+ Material: identify location, quantity, and conditions of all necessary tools and materials
+(e.g., sacks, sandbags, lumber, and lights ) and distribute and store them at points where
+maintenance is anticipated.
+ Communication: locate and check a ll two -way radios and telephones ; and
+ Drainage structures: most drainage structures are situated to convey interior drainage
+from low points of the protected area through the levee by gravity flow. Due to  the
+location, drainage structures are generally sub ject to inundation at lower stages than most
+other project features, and special attention should  be given to flap gates and other
+drainage structures that might not be accessible later.
+Additional activities to complete during Phase I include :
+ Review as signments for patrols, closings, etc. ;
+ Obtain lists of all construction equipment, motorboats, cars, earthmoving equipment , and
+trucks that can be made available.
+ Assess needed support ( e.g., vehicles, radios) ;
+ Verify serviceability of flood fighting equip ment ;
+ Record ga uge readings and monitor river stages ;
+ Close the levee to the public ;
+ Install levee or floodwall closures as necessary. All road closings should be coordinated
+with the corresponding authorities before limiting road or rail access through the levee .
+ Remove all hazardous materials and/or explosives from the vicinity of the levee.
+Patrols
+In order to minimize damage and prevent the levee from failing, any problems must be detected
+early and resolved accordingly . The entire levee should be p atrolled at least once per day during
+Phase I and continu e during Phase II. Patrols should be conducted by teams rather than
+individuals. Many of the tasks typically accomplished during high water inspections and patrols
+are listed below. The following sec tion lists some typical responsibilities of patrols.
+Patrol Responsibilities
+General items
+ Record ga uge readings (hourly) ;
+ Inspect fences on the riverside of the levee frequently to make sure they are free from
+debris.
+
+If debris does collect along the fence, it must be cleared immediately or the fence
+must be cut to free the debris and decrease the possibility of damage to the levee.
+Emergency Preparedness Guidelines for Levees
+   29
+  Verify that all necessary access roads and ramps along the levee are usable or will be
+satisfactorily conditioned.
+ Take p hotographs of all signific ant issues (use date/ time stamp feature on the camera ,
+when possible).
+Levees
+ Look for sandboils or unusual wet areas landward of the landside toe ;
+ Look for slides or s lough ing in levee side slopes ;
+ Look for wave wash or scouring  of the riverside levee slope ;
+ Look for low areas in levee crown ;
+ Monitor relief wells (flowing/non -flowing) ;
+ Check flap/sluice gates for proper closure ; and
+ Check gap closures (stoplog/sandbag, etc).
+Floodwalls
+ Look for saturated areas or sandboils landw ard of the floodwall ;
+ Look for settlement (movement) of the floodwall ;
+ Look for bank caving that may affect the structural stability of the floodwall ;
+ Inspect toe drain risers (discharging/non -discharging) ;
+ Inspect the landside of floodwall for any leakage, especially around the monolith joints ;
+ Inspect for wet areas, soft areas, seeps, and sink holes landward of the toe of the
+floodwall ; and
+ Check gap closures (stoplog/sandbag, etc).
+Pump Stations
+ Verify proper ventilation (e.g., fans, vents) of the pumping plant to prevent overheating
+of pump motors.
+ Look for sink holes or wet areas around the perimeter of the pumping plant, and/or
+settlement of the pump house . All of these conditions could potentially be the result of
+separation in the conduits.
+
+If separation is suspected, pumps and motors should be shut
+down until an engineering review can be conducted to analyze the condition.
+ Verify that assigned operators are on duty 24 hours daily.
+Equipment for Patrols
+ Portable radio or cell phone ;
+ Watch ;
+ Log book ;
+ Patrolling instructions ;
+ Plan of action for patrolling ;
+ Plans of flood control project ;
+ Operation and Maintenance Manual for the project ;
+ Weather gear ;
+ Flashlights ;
+ Record Log ;
+ Life j ackets ;
+Emergency Preparedness Guidelines for Levees
+   30
+  Probing rod ;
+ Short wooden stakes ;
+ 40 feet of  one-half inch (½”) nylon safety line to connect team members ;
+ Camera ;
+ Field boots ; and
+ Hard hats .
+Safety/Security Precautions
+Members of the patrol team should walk side -by-side with one person on the  waterside of the
+levee near the surface , one at the top of the levee, and one  on the landside toe of the levee. The
+team should move slowly enough to enable  the member closest to the water to probe below the
+surface with a rod in order to discover  any erosion that may be taking place. The person closest
+to the wat er should be  wearing a safety line.
+The person walking closest to the water should be especially observant of floating objects. The
+limbs and roots of a floating tree that ha ve been uprooted can extend above the water surface and
+strike anyone walking along the edge of the water. To increase the chance of identifying floating
+objects, it is best to walk upstream when patrolling the waterside of the levee.
+When patrolling floodw alls, the patrol should not attempt to walk along the top of the wall, but
+rather concentrate on potential problem areas on the landside (inside) of the wall.
+
+Where the wall
+is more than five feet above the landside ground level, it is recommended that obs ervation points
+be selected approximately every 100 yards, and ladders should be used to observe the waterside
+of the floodwall.
+Each person on the patrol should be thoroughly familiar with the community evacuation plan and
+signals. If evacuation is neces sary, the patrolling organization should move to a predetermined
+location and keep the team intact. When returning to the levees and floodwalls, physical
+conditions may be considerably different from those observed prior to the evacuation, especially
+if the levee was overtopped. If overtopping occurs during nightfall, it is recommended that the
+patrols not resume until daylight, though there may be cases where this recommendation cannot
+be followed.
+Patrols should also be watchful for anyone that seems out  of place, or any activity that seems
+suspicious. Some individuals , terrorists or otherwise, may try to take advantage of already
+dangerous situations on levees or floodwalls. Any suspicious activities observed by the patrol
+should be reported immediately to the local law enforcement agency, State and local fusion
+centers, or the FBI.
+General Maintenance Activities
+Once the initial inspection has been completed, levee personnel should consider addressing any
+pressing maintenance issues before the river rises further . Emergency maintenance activities are
+no substitute for normal annual maintenance, and many of the activities listed below  should not
+wait until high water  conditions.
+Emergency Preparedness Guidelines for Levees
+   31
+ Drainage structures are generally subject to inundation at lower stages than most other
+features of the flood control project . Therefore,  any potential maintenance problems
+should be identified and corrected as quickly as possible before the water rises. All flap
+gates that are in critical or questionable condition  should be m anually checked  and
+repair ed as needed. Sluice gates should be inspected before the outlet end of the structure
+becomes submerged, and any trash, debris, or other potential obstruction present should
+be removed. If, for any reason, the gate system on a dra inage structure fails to operate
+and cannot be repaired because of high water, immediate consideration should be given
+to blocking the structure opening by other means.
+
+If stream stages permit, the outlet end
+of the structure should be blocked using timber , metal plates, tarps, sandbags, or other
+means. If efforts to plug the outlet structure fail, immediate action should be taken to
+build a sandbag or earth ring around the inlet structure. While the primary concern in
+blocking the structures is to prevent high stages of the river from flowing into protected
+areas, emergency closures should be such that they can be readily removed after the river
+recedes.
+ Immediate attention should be given to the grade line of each levee section or profile by
+comparison of  existing grades with those shown in  ‘as built’ record drawings. Fill any
+holes, gullies, and washes in the levee crown, embankments, and landside berms with
+compacted fill material if possible, or otherwise fill them with sandbags .
+ Examine all drainage d itches on the landside of the levee and remove any obstructions.
+Be prepared to construct seepage drainage ditches, but not until actual seepage appears.
+Excavation of ditches near the levee or in the long berm area is hazardous and should not
+be undertake n except under direct supervision of appropriate personnel.
+ Repair all levee settlement or depressions that have been worn down below levee grade.
+Materials used to fill holes and depressions should be obtained from distant sources (not
+adjacent to a levee system) unless it has been determined that borrowing in are as adjacent
+to the levee will not adversely affect its stability or the control of underseepage. Avoid
+taking material for these repairs from the area adjacent to the levee, particularly in the
+area of the seepage berm, except under direct supervision of a ppropriate personnel. The
+fill material should be compacted and protected from wave wash and other erosion as
+necessary.
+Interaction with the public
+The patrol team may encounter  observers on the levees or at  the floodwalls. If there are many
+observers, it is recommended that an additional person be assigned to each patrol team  to act as a
+safety officer . The patrol team , however,  is not responsible to order observers off the levees and
+floodwalls.
+
+It is recommend ed that each team carry and distribute instruction cards describing the
+community evacuation plan  in order to inform observers of the potential danger .
+Emergency Preparedness Guidelines for Levees
+   32
+ Phase II: Full Response Activities
+Continuing Activities
+ Patrol continuously, 24  hours per day, 7 days per week  (as the situation requires) ,
+especially if there are ponding areas during high water .
+ Ensure all of the closures and gates are in place, and all maintenance is complete as
+described in Phase I : Preliminary Response Activities .
+ Remove padlocks from access gates to facilitate patrols ;
+ Monitor inventory of flood fighting equipment, materials , and supplies as they are used ;
+ Keep the public informed of the current situation through the media, if warranted ;
+ Repair any erosion and seepage pro blems identified by patrols as quickly as possible ;
+ Ensure competent pumping station operators are on duty whenever it appears that an
+operation is imminent  during flooding events , even when station operation has been
+automated. Operators should thoroughly  understand the manner in which the pumping
+station was designed to operate and be capable of manual operation should automated
+equipment or sensors fail.
+ Use of portable pumps may be needed to pump water over the levee if water is ponding
+in undesirable a reas or is rising too quickly in ponding areas.
+ Monitor debris basins and trash  racks for sediment and accumulated debris ; and
+ Remove debris from trash  racks at pumping stations periodically when the station is in
+operation. As debris and sediment continue to be deposited in the basin, debris loads will
+substantially block racks, and sediment deposits will block the entrance to the basin,
+forcing the flow against the sides. Any large accumulation of debris on racks or flow
+directed on the sides of basins will cause local erosion and scour. Levees and concrete
+structures that are part of the debris basin facility will need to be closely monitored to
+ensure optimal performance.
+Evacuation Plan Activation
+Levee personnel  should be ready to evacuate the area.
+
+Consider the following points:
+ Coordinate evacuation with police, fire department, and first responders  immediately ;
+ Follow the predetermined routes ; and
+ Meet in predetermined locations and immediately confirm the safety of all levee
+personnel.
+Volunteer Assistance
+If it becomes necessary to recruit volunteers during the flood fight, there are a number of steps
+that can be taken to organize their support.
+ Identify primary and alternate assembl y areas with adequat e parking ;
+ Arrange transportation, subsistence, and shelter for the labor force , as appropriate ;
+Emergency Preparedness Guidelines for Levees
+   33
+  Contact media to request that volunteers report to the designated assembly area, bringing
+flashlight s, work gloves, rain gear, shovel s, etc.
+ Maintain a sign-in roster at assembly area to account for volunteers and personnel (name,
+home telephone number, address, work group assignment , etc).
+ Identify staging areas away from the work site but as close to the flood fight locations as
+possible , and with clear  access to roads. Separate areas in the staging site should be
+established for:
+o Sandbag filling ;
+o Carrying and loading ;
+o Materials stockpiles ;
+o Rest and breaks ; and
+o First aid .
+ Establish an emergency operations center to oversee the flood fight operations an d for
+interagency coordination. This operations center should be staffed 24 hours daily until the
+situation is resolved.
+
+Consider equipping the emergency operations center with:
+o Radios and telephones for communication ;
+o Television and/or radio to monitor weather and river forecasts ;
+o Emergency generator in case of power outages ;
+o Flashlights ;
+o Administrative supplies ;
+o Levee operations and maintenance manuals ;
+o Emergency preparedness  plans ;
+o Past flood reports / after action reports ;
+o State  and local  maps , utility, flood plain, and levee maps ; and
+o Telephone books, rosters  list, and a directory listing numbers for railroad /
+highway departments (needed when closing access), local contractors, Red Cross,
+Salvation Army, hospitals, police , fire departments, State and local e mergency
+operations centers, and other critical numbers .
+ Establish traffic patterns that will be used to move sandbags from the staging area to the
+work site. If conditions permit, one -way traffic patterns should be established on the
+levee  system if trucks are going to be used to transport the filled sandbags .
+ Be certain that the people laying sandbags are well supervised by a trained individual .
+Phase III: Post -Response Activities
+Once the water has subsided, the area should be returned to the pre -flood condition by taking the
+following measures:
+ Reopen any sluice gates that were closed once the water on the river side has receded to
+three inches (3”) below the pond level on the protected side.
+ Open all closure structures and properly store all components ;
+Emergency Preparedness Guidelines for Levees
+   34
+  Remove and properly dispose of a ll temporary protection measures (e.g. , sandbags and
+material placed during temporary levee raises) .
+ Take an inventory of all remaining flood fight equipment, sandbags, plastic, and other
+supplies. Rep air or replace damaged equipment, and restock supplies such as sandbags or
+plastic in preparation for the next flood event.
+ Salvage any materials and supplies (e.g.
+
+, wood from flashboards) ;
+ Return all borrowed equipment ;
+ Identify whether remaining materials can be reused within the community ;
+ Inspect the entire flood control work, noting locations of damage and the extent of
+damage at each location.
+ Meet with key personnel, volunteer representatives, and community partners  soon after
+the event to debrief, share remaining concerns, and discuss lessons learned during the
+event.
+ Revise local emergency  preparedness  plans to account for lessons learned and changes to
+recommended procedures.
+ Document the event: keep a map record of the levee, indicating ar eas that were in distress
+at the time of the flooding. This is useful for making repairs or improvements, and for use
+as a guide to focus attention on these areas during the next flood event.
+ Locate and keep records of the flood’s high water marks  for futu re planning ; keep these
+records along with any rainfall and river data you may have gathered.
+ Make repairs to the levee as soon as possible in preparation for a future flood  incident;
+and
+ Initiate  actions to provide permanent flood protection  measures  if the existing system
+relies heavily on temporary solutions during emergencies.
+

@@ -1,0 +1,2042 @@
+Emergency Management
+Guide for Business and Emergency Management
+Guide for Business and Emergency Management
+Industry
+A Step-by-Step Approach to Emergency Planning, Response
+and Recovery for Companies of All Sizes
+FEMA 141/October 1993
+A STEP-BY-STEP APPROACH TO EMERGENCY PLANNING,
+RESPONSE AND RECOVERY FOR COMPANIES OF ALL SIZES
+Sponsored by a Public-Private Partnership with the Federal Emergency Management Agency
+Special thanks to the following organizations for supporting the development, promotion and
+distribution of the Emergency Management Guide for Business & Industry:
+American Red Cross
+American Insurance Association
+Building Owners and Managers Association International
+Chemical Manufacturers Association
+Fertilizer Institute
+National Association of Manufacturers
+National Commercial Builders Council
+of the National Association of Home Builders
+National Coordinating Council on Emergency Management
+National Emergency Management Association
+National Industrial Council — State Associations Group
+New Jersey Business & Industry Association
+Pacific Bell
+Pennsylvania Emergency Management AgencyBUSINESS &&INDUSTRYEMERGENCY MANAGEMENT GUIDE FOR
+The Emergency Management Guide for Business & Industry was produced by the Federal Emergency Management Agency
+(FEMA) and supported by a number of private companies and associations representing business and industry.
+The approaches described in this guide are recommendations, not regulations. There are no reporting requirements, nor will
+following these principles ensure compliance with any Federal, State or local codes or regulations that may apply to your facility.
+FEMA is not a regulatory agency. Specific regulatory issues should be addressed with the appropriate agencies such as the
+Occupational Safety and Health Administration (OSHA) and the Environmental Protection Agency (EPA).
+Prepared under FEMA Contract EMW-90-C-3348 by:
+Thomas Wahle
+Ogilvy Adams & Rinehart
+Washington, D.C.
+(202) 452-9419Gregg Beatty
+Roy F. Weston, Inc.
+Rockville, Maryland
+(301) 646-6855
+INTRODUCTION
+About This Guide .........................................................................................................................................5
+What Is an Emergency?
+
+.................................................................................................................................5What Is Emergency Management?................................................................................................................6Making the “Case” for Emergency Management..........................................................................................6
+SECTION 1:  4 STEPS IN THE PLANNING PROCESS
+STEP 1 - ESTABLISH A PLANNING TEAM
+Form the Team ..............................................................................................................................................9
+Establish Authority .....................................................................................................................................10Issue a Mission Statement ...........................................................................................................................10Establish a Schedule and Budget.................................................................................................................10
+STEP 2 - ANALYZE CAPABILITIES AND HAZARDS
+Where Do You Stand Right Now? ....................................................................................................................... 11
+Review Internal Plans and Policies.............................................................................................................11
+Meet with Outside Groups..........................................................................................................................11Identify Codes and Regulations ..................................................................................................................12Identify Critical Products, Services and Operations...................................................................................12Identify Internal Resources and Capabilities ..............................................................................................12Identify External Resources.........................................................................................................................13Do an Insurance Review .............................................................................................................................13
+Conduct a Vulnerability Analysis ......................................................................................................................... 14
+List Potential Emergencies............................................................................................................................14
+Estimate Probability ......................................................................................................................................15Assess the Potential Human Impact.............................................................................................................15Assess the Potential Property Impact ...........................................................................................................15Assess the Potential Business Impact ...........................................................................................................16Assess Internal and External Resources........................................................................................................16Add the Columns..........................................................................................................................................16TABLE OF CONTENTS
+STEP 3 - DEVELOP THE PLAN
+Plan Components ......................................................................................................................................................... 17
+Executive Summary ......................................................................................................................................17
+Emergency Management Elements...............................................................................................................17Emergency Response Procedures ..................................................................................................................18Support Documents ......................................................................................................................................18
+The Development Process ...................................................................................................................................... 19
+Identify Challenges and Prioritize Activities ...............................................................................................19
+Write the Plan ..............................................................................................................................................19Establish a Training Schedule.......................................................................................................................19Continue to Coordinate with Outside Organizations ..................................................................................19Maintain Contact with other Corporate Offices..........................................................................................20Review, Conduct Training and Revise .........................................................................................................20Seek Final Approval .....................................................................................................................................20Distribute the Plan........................................................................................................................................20
+STEP 4 - IMPLEMENT THE PLAN
+Integrate the Plan into Company Operations ................................................................................................. 21
+Conduct Training .......................................................................................................................................................... 22
+Planning Considerations...............................................................................................................................22
+Training Activities ........................................................................................................................................22Employee Training ........................................................................................................................................23
+Evaluate and Modify the Plan ................................................................................................................................
+
+24
+SECTION 2:  EMERGENCY MANAGEMENT CONSIDERATIONS
+Direction and Control ................................................................................................................................................ 27
+Emergency Management Group (EMG) ......................................................................................................27
+Incident Command System (ICS)................................................................................................................28Emergency Operations Center (EOC) .........................................................................................................28Planning Considerations...............................................................................................................................29Security .........................................................................................................................................................29Coordination of Outside Response...............................................................................................................29
+Communications ........................................................................................................................................................... 31
+Contingency Planning ..................................................................................................................................31
+Emergency Communications ........................................................................................................................31Family Communications...............................................................................................................................32Notification...................................................................................................................................................32Warning.........................................................................................................................................................32
+Life Safety ........................................................................................................................................................................ 33
+Evacuation Planning ....................................................................................................................................33
+Evacuation Routes and Exits........................................................................................................................33Assembly Areas and Accountability............................................................................................................34Shelter ..........................................................................................................................................................34Training and Information.............................................................................................................................34Family Preparedness .....................................................................................................................................34
+Property Protection .................................................................................................................................................... 35
+Planning Considerations ..............................................................................................................................35
+Protection Systems .......................................................................................................................................35Mitigation.....................................................................................................................................................35Facility Shutdown.........................................................................................................................................36Records Preservation ....................................................................................................................................37
+Community Outreach ................................................................................................................................................. 39
+Involving the Community............................................................................................................................39
+Mutual Aid Agreements...............................................................................................................................39Community Service......................................................................................................................................40Public Information .......................................................................................................................................40Media Relations............................................................................................................................................41
+Recovery and Restoration ........................................................................................................................................ 43
+Planning Considerations ..............................................................................................................................43
+Continuity of Management..........................................................................................................................43Insurance ......................................................................................................................................................44Employee Support.........................................................................................................................................44Resuming Operations ...................................................................................................................................45
+Administration and Logistics .................................................................................................................................
+
+47
+Administrative Actions................................................................................................................................47
+Logistics ........................................................................................................................................................47
+SECTION 3:  HAZARD-SPECIFIC INFORMATION
+Fire ......................................................................................................................................................................................51
+Hazardous Materials Incidents ..............................................................................................................................53
+Floods and Flash floods ............................................................................................................................................55
+Hurricanes .......................................................................................................................................................................57
+Tornadoes ........................................................................................................................................................................59
+Severe Winter Storms ...............................................................................................................................................61
+Earthquakes ...................................................................................................................................................................63
+Technological Emergencies ....................................................................................................................................65
+SECTION 4:  INFORMATION SOURCES
+Additional Readings from FEMA ...........................................................................................................................69
+Ready-to-Print Brochures ..........................................................................................................................................71
+Emergency Management Offices ..........................................................................................................................73
+APPENDIX
+Vulnerability Analysis Chart
+Training Drills and Exercises Chart
+INTRODUCTION. A hurricane blasts through South Florida causing
+more than $25 billion in damages.
+A fire at a food processing plant results in 25 deaths, a company out of
+business and a small town devastated.
+A bombing in the World Trade Center results in six deaths, hundreds of injuries
+and the evacuation of 40,000 people.
+A blizzard shuts down much of the East Coast for days. More than 150 lives are
+lost and millions of dollars in damages incurred.INTRODUCTION
+Every year emergencies take
+their toll on business and industry— in lives and dollars. But some-thing can be done. Business andindustry can limit injuries anddamages and return more quicklyto normal operations if they planahead.
+About This Guide
+This guide provides step-by-
+step advice on how to create andmaintain a comprehensive emer-gency management program. Itcan be used by manufacturers, cor-porate offices, retailers, utilities orany organization where a sizablenumber of people work or gather.
+Whether you operate from a
+high-rise building or an industrialcomplex; whether you own, rentor lease your property; whetheryou are a large or small company;the concepts in this guide willapply.
+To begin, you need not have
+in-depth knowledge of emergencymanagement.
+
+What you need isthe authority to create a plan anda commitment from the chiefexecutive officer to make emer-gency management part of yourcorporate culture.
+If you already have a plan, use
+this guide as a resource to assessand update your plan.The guide is organized as follows:
+Section 1: 4 Steps in the
+Planning Process — how to form a
+planning team; how to conduct avulnerability analysis; how todevelop a plan; and how to imple-ment the plan. The informationcan be applied to virtually any typeof business or industry.
+Section 2 :  Emergency Management
+Considerations — how to build
+such emergency management capabilities as life safety, propertyprotection, communications andcommunity outreach.
+Section 3 :  Hazard-Specific
+Information — technical informa-
+tion about specific hazards yourfacility may face.
+Section 4: Information Sources
+— where to turn for additionalinformation.
+What Is an Emergency?
+An emergency is any un-
+planned event that can causedeaths or significant injuries toemployees, customers or the public; or that can shut down yourbusiness, disrupt operations, causephysical or environmental damage, or threaten the facility’sfinancial standing or public image.
+PAGE 5
+Obviously, numerous events can
+be “emergencies,” including:
+• Fire• Hazardous materials incident• Flood or flash flood• Hurricane• Tornado• Winter storm• Earthquake• Communications failure• Radiological accident• Civil disturbance• Loss of key supplier or customer• Explosion
+The term “disaster” has been
+left out of this document becauseit lends itself to a preconceivednotion of a large-scale event, usu-ally a “natural disaster.”  In fact,each event must be addressedwithin the context of the impact ithas on the company and the com-munity. What might constitute anuisance to a large industrial facil-ity could be a “disaster” to a smallbusiness.
+What Is Emergency
+Management?
+Emergency management is the
+process of preparing for, mitigat-ing, responding to and recoveringfrom an emergency.
+Emergency management is a
+dynamic process. Planning,though critical, is not the onlycomponent. Training, conductingdrills, testing equipment and coor-dinating activities with the com-munity are other important func-tions.
+
+Making the “Case”
+for EmergencyManagement
+To be successful, emergency
+management requires upper management support. The chiefexecutive sets the tone by autho-rizing planning to take place anddirecting senior management toget involved.
+When presenting the “case” for
+emergency management, avoiddwelling on the negative effects of an emergency (e.g., deaths,fines, criminal prosecution) andemphasize the positive aspects ofpreparedness. For example:
+• It helps companies fulfill their
+moral responsibility to protectemployees, the community andthe environment.
+• It facilitates compliance with
+regulatory requirements ofFederal, State and local agencies.
+• It enhances a company’s ability
+to recover from financial losses,regulatory fines, loss of marketshare, damages to equipment or products or business interrup-tion.
+• It reduces exposure to civil or
+criminal liability in the event ofan incident.
+• It enhances a company’s image
+and credibility with employees,customers, suppliers and thecommunity.
+• It may reduce your insurance
+premiums.
+PAGE 6
+STEP 1
+Establish a Planning Team
+STEP 2
+Analyze Capabilities and Hazards
+STEP 3
+Develop the Plan
+STEP 4
+Implement the Plan4 STEPS IN THE PLANNING PROCESS1SECTION
+Here’s one example of a planning team.Form the Team
+The size of the planning team
+will depend on the facility’s opera-tions, requirements and resources.Usually involving a group of people is best because:
+• It encourages participation and
+gets more people invested inthe process.
+• It increases the amount of time
+and energy participants are ableto give.
+• It enhances the visibility and
+stature of the planning process.
+• It provides for a broad perspec-
+tive on the issues.
+Determine who can be an
+active member and who can servein an advisory capacity. In mostcases, one or two people will bedoing the bulk of the work.
+
+Atthe very least, you should obtaininput from all functional areas.Remember:
+• Upper management• Line management• Labor• Human Resources• Engineering and maintenance• Safety, health and environmen-
+tal affairs• Public information officer
+• Security• Community relations• Sales and marketing• Legal• Finance and purchasing
+Have participants appointed in
+writing by upper management.
+Their job descriptions could
+also reflect this assignment.ESTABLISH A PLANNING TEAM .There must be an individual
+or group in charge of developing the emergency management plan. The follow-ing is guidance for making the appointment.ESTABLISH
+A PLANNINGTEAM
+PAGE 9S T E P 1
+MANAGEMENT & PERSONNEL
+Line Management
+Labor Representative
+Human Resources
+SUPPORT SERVICES
+Engineering
+Legal
+Purchasing/Contracts
+Finance
+Maintenance
+Computer
+Data MaintenanceEMERGENCY RESPONSE
+Safety & Health
+Medical
+Security
+Environmental AffairsCOMMUNICATIONS
+Public Relations
+Public Information Officer
+SAFETY OFFICER/
+PLANNING TEAM
+ää
+ääää
+ä
+ä
+ääCOMMUNITY
+Emergency Manager
+Fire & Police
+Other Response Organizations
+PAGE 10Establish a Schedule
+and Budget
+Establish a work schedule and
+planning deadlines. Timelinescan be modified as prioritiesbecome more clearly defined.
+Develop an initial budget for
+such things as research, printing,seminars, consulting services andother expenses that may be neces-sary during the developmentprocess.Establish Authority
+Demonstrate management’s
+commitment and promote anatmosphere of cooperation by“authorizing” the planning groupto take the steps necessary todevelop a plan. The group shouldbe led by the chief executive orthe plant manager.
+Establish a clear line of authori-
+ty between group members andthe group leader, though not sorigid as to prevent the free flow ofideas.
+Issue a Mission
+Statement
+Have the chief executive or
+plant manager issue a missionstatement to demonstrate thecompany’s commitment to emer-gency management.
+
+The state-ment should:
+• Define the purpose of the plan
+and indicate that it will involvethe entire organization
+• Define the authority and struc-
+ture of the planning group
+Review Internal Plans
+and Policies
+Documents to look for include:
+• Evacuation plan• Fire protection plan• Safety and health program• Environmental policies• Security procedures• Insurance programs• Finance and purchasing
+procedures
+• Plant closing policy• Employee manuals• Hazardous materials plan• Process safety assessment• Risk management plan• Capital improvement program• Mutual aid agreementsMeet with Outside
+Groups
+Meet with government agen-
+cies, community organizations andutilities. Ask about potentialemergencies and about plans andavailable resources for respondingto them. Sources of informationinclude:
+• Community emergency
+management office
+• Mayor or Community
+Administrator’s office
+• Local Emergency Planning
+Committee  (LEPC)
+• Fire Department• Police Department• Emergency Medical Services
+organizations
+• American Red Cross• National Weather Service• Public Works Department• Planning Commission• Telephone companies• Electric utilities• Neighboring businessesANALYZE CAPABILITIES AND HAZARDS. This step
+entails gathering information about current capabilities and about possible hazards and emergencies, and then conducting a vulnerability analysis to determine the facility’s capabilities for handling emergencies.S T E P  2
+ANALYZE
+CAPABILITIESAND HAZARDS
+PAGE 11WHERE DO YOU STAND RIGHT NOW?
+While researching potential emer-
+gencies, one facility discovered thata dam — 50 miles away — posed athreat to its community.
+
+The facili-ty was able to plan accordingly.
+PAGE 12Identify Internal
+Resources andCapabilities
+Resources and capabilities that
+could be needed in an emergencyinclude:
+• Personnel — fire brigade, haz-
+ardous materials response team,emergency medical services,security, emergency manage-ment group, evacuation team,public information officer
+• Equipment — fire protection
+and suppression equipment,communications equipment,first aid supplies, emergencysupplies, warning systems,emergency power equipment,decontamination equipment
+• Facilities — emergency operat-
+ing center, media briefing area,shelter areas, first-aid stations,sanitation facilities
+• Organizational capabilities —
+training, evacuation plan,employee support system
+• Backup systems — arrange-
+ments with other facilities toprovide for:
+uPayroll
+uCommunications
+uProduction
+uCustomer services
+uShipping and receiving
+uInformation systems support
+uEmergency power
+uRecovery supportIdentify Codes and
+Regulations
+Identify applicable Federal,
+State and local regulations suchas:
+• Occupational safety and health
+regulations
+• Environmental regulations• Fire codes• Seismic safety codes• Transportation regulations• Zoning regulations• Corporate policies
+Identify Critical
+Products, Servicesand Operations
+You’ll need this information to
+assess the impact of potentialemergencies and to determine theneed for backup systems. Areas toreview include:
+• Company products and services
+and the facilities and equip-ment needed to produce them
+• Products and services provided
+by suppliers, especially solesource vendors
+• Lifeline services such as electri-
+cal power, water, sewer, gas,telecommunications and trans-portation
+• Operations, equipment and
+personnel vital to the contin-ued functioning of the facilityOne way to increase response
+capabilities is to identify employeeskills (medical, engineering, communications, foreign lan-guage) that might be needed in anemergency.
+Identify External
+Resources
+There are many external
+resources that could be needed inan emergency.
+
+In some cases, for-mal agreements may be necessaryto define the facility’s relationshipwith the following:
+• Local emergency management
+office
+• Fire Department• Hazardous materials response
+organization
+• Emergency medical services• Hospitals• Local and State police• Community service organiza-
+tions
+• Utilities• Contractors• Suppliers of emergency
+equipment
+• Insurance carriers
+PAGE 13Do an Insurance
+Review
+Meet with insurance carriers to
+review all policies. (See Section 2:Recovery and Restoration.)
+PAGE 14CONDUCT A VULNERABILITY ANALYSIS
+•Geographic — What can hap-
+pen as a result of the facility’slocation? Keep in mind:
+uProximity to flood plains,
+seismic faults and dams
+uProximity to companies thatproduce, store, use or trans-port hazardous materials
+uProximity to major trans-portation routes and airports
+uProximity to nuclear powerplants
+•Technological — What could
+result from a process or systemfailure? Possibilities include:
+uFire, explosion, hazardous
+materials incident
+uSafety system failure
+uTelecommunications failure
+uComputer system failure
+uPower failure
+uHeating/cooling system failure
+uEmergency notification system failure
+•Human Error — What emer-
+gencies can be caused byemployee error? Are employeestrained to work safely? Do theyknow what to do in an emer-gency?
+Human error is the single
+largest cause of workplaceemergencies and can resultfrom:
+uPoor training
+uPoor maintenance
+uCarelessness
+uMisconduct
+uSubstance abuse
+uFatigueThe next step is to assess the
+vulnerability of your facility —the probability and potentialimpact of each emergency. Usethe Vulnerability Analysis Chartin the appendix section to guidethe process, which entails assign-ing probabilities, estimatingimpact and assessing resources,using a numerical system. Thelower the score the better.
+List Potential
+Emergencies
+In the first column of the chart,
+list all emergencies that couldaffect your facility, including thoseidentified by your local emergencymanagement office.
+
+Considerboth:
+• Emergencies that could occur
+within your facility
+• Emergencies that could occur
+in your community
+Below are some other factors to
+consider.
+•Historical — What types of
+emergencies have occurred inthe community, at this facilityand at other facilities in thearea?
+uFires
+uSevere weather
+uHazardous material spills
+uTransportation accidents
+uEarthquakes
+uHurricanes
+uTornadoes
+uTerrorism
+uUtility outages
+•Physical — What types of
+emergencies could result fromthe design or construction ofthe facility? Does the physicalfacility enhance safety?Consider:
+uThe physical construction of
+the facility
+uHazardous processes orbyproducts
+uFacilities for storing com-bustibles
+uLayout of equipment
+uLighting
+uEvacuation routes and exits
+uProximity of shelter areas
+•Regulatory — What emergen-
+cies or hazards are you regulatedto deal with?
+Analyze each potential emer-
+gency from beginning to end.Consider what could happen as aresult of:
+uProhibited access to the
+facility
+uLoss of electric power
+uCommunication lines down
+uRuptured gas mains
+uWater damage
+uSmoke damage
+uStructural damage
+uAir or water contamination
+uExplosion
+uBuilding collapse
+uTrapped persons
+uChemical releaseEstimate Probability
+In the Probability column, rate
+the likelihood of each emergency’soccurrence. This is a subjectiveconsideration, but useful nonethe-less.
+Use a simple scale of 1 to 5 with
+1 as the lowest probability and 5 asthe highest.
+Assess the Potential
+Human Impact
+Analyze the potential human
+impact of each emergency — thepossibility of death or injury.
+Assign a rating in the Human
+Impact column of theVulnerability Analysis Chart. Usea 1 to 5 scale with 1 as the lowestimpact and 5 as the highest.
+Assess the Potential
+Property Impact
+Consider the potential property
+for losses and damages. Again,assign a rating in the PropertyImpact column, 1 being the lowest impact and 5 being thehighest.
+
+Consider:
+• Cost to replace• Cost to set up temporary
+replacement
+• Cost to repair
+PAGE 15TYPE OF EMERGENCY ProbabilityHuman
+ImpactProperty
+ImpactBusiness
+ImpactInternal
+ResourcesExternal
+Resources Total
+51High Impact Low Impact 51Weak
+ResourcesStrong
+Resources 51High LowA bank’s vulnerability analysis
+concluded that a “small” fire couldbe as catastrophic to the businessas a computer system failure. The planning group discoveredthat bank employees did not knowhow to use fire extinguishers, andthat the bank lacked any kind ofevacuation or emergency responsesystem.
+A full-page chart is located in the Appendix
+PAGE 16If the answers are yes, move on
+to the next assessment. If theanswers are no, identify what canbe done to correct the problem.For example, you may need to:
+• Develop additional emergency
+procedures
+• Conduct additional training• Acquire additional equipment• Establish mutual aid agree-
+ments
+• Establish agreements with
+specialized contractors
+Add the Columns
+Total the scores for each emer-
+gency. The lower the score thebetter. While this is a subjectiverating, the comparisons will helpdetermine planning and resourcepriorities — the subject of thepages to follow.Assess the Potential
+Business Impact
+Consider the potential loss of
+market share. Assign a rating inthe Business Impact column.Again, 1 is the lowest impact and5 is the highest. Assess theimpact of:
+• Business interruption• Employees unable to report to
+work
+• Customers unable to reach
+facility
+• Company in violation of
+contractual agreements
+• Imposition of fines and
+penalties or legal costs
+• Interruption of critical supplies• Interruption of product
+distribution
+Assess Internal and
+External Resources
+Next assess your resources and
+ability to respond. Assign a scoreto your Internal Resources andExternal Resources. The lowerthe score the better.
+To help you do this, consider
+each potential emergency frombeginning to end and eachresource that would be needed torespond.
+
+For each emergency askthese questions:
+• Do we have the needed
+resources and capabilities torespond?
+• Will external resources be able
+to respond to us for this emer-gency as quickly as we mayneed them, or will they haveother priority areas to serve?When assessing resources, remem-
+ber that community emergencyworkers — police, paramedics, fire-fighters — will focus their responsewhere the need is greatest. Or theymay be victims themselves and be unable to respond immediately.That means response to your facili-ty may be delayed.
+Your plan should include the
+following basic components.
+Executive Summary
+The executive summary gives
+management a brief overview of:
+• The purpose of the plan• The facility’s emergency
+management policy
+• Authorities and responsibilities
+of key personnel
+• The types of emergencies that
+could occur
+• Where response operations will
+be managedEmergency
+Management Elements
+This section of the plan briefly
+describes the facility’s approach tothe core elements of emergencymanagement, which are:
+• Direction and control• Communications• Life safety• Property protection• Community outreach• Recovery and restoration• Administration and logistics
+These elements, which are
+described in detail in Section 2, arethe foundation for the emergencyprocedures that your facility willfollow to protect personnel andequipment and resume operations.DEVELOP THE PLAN. You are now ready to develop an emergency
+management plan.
+
+This section describes how.S T E P 3
+DEVELOP
+THEPLAN
+PAGE 17PLAN COMPONENTS
+Support Documents
+Documents that could be
+needed in an emergency include:
+•Emergency call lists —  lists
+(wallet size if possible) of allpersons on and off site whowould be involved in respond-ing to an emergency, theirresponsibilities and their 24-hour telephone numbers
+•Building and site maps that
+indicate:
+uUtility shutoffs
+uWater hydrants
+uWater main valves
+uWater lines
+uGas main valves
+uGas lines
+uElectrical cutoffs
+uElectrical substations
+uStorm drains
+uSewer lines
+uLocation of each building
+(include name of building,street name and number)
+uFloor plans
+uAlarm and enunciators
+uFire extinguishers
+uFire suppression systems
+uExits
+uStairways
+uDesignated escape routes
+uRestricted areas
+uHazardous materials (includ-ing cleaning supplies andchemicals)
+uHigh-value items
+•Resource lists — lists of major
+resources (equipment, supplies,services) that could be neededin an emergency; mutual aidagreements with other compa-nies and government agenciesEmergency Response
+Procedures
+The procedures spell out how
+the facility will respond to emer-gencies.
+
+Whenever possible,develop them as a series of check-lists that can be quickly accessedby senior management, depart-ment heads, response personneland employees.
+Determine what actions would
+be necessary to:
+• Assess the situation• Protect employees, customers,
+visitors, equipment, vitalrecords and other assets, partic-ularly during the first three days
+• Get the business back up and
+running
+Specific procedures might be
+needed for any number of situa-tions such as bomb threats or tor-nadoes, and for such functions as :
+• Warning employees and
+customers
+• Communicating with personnel
+and community responders
+• Conducting an evacuation and
+accounting for all persons inthe facility
+• Managing response activities• Activating and operating an
+emergency operations center
+• Fighting fires• Shutting down operations• Protecting vital records• Restoring operations
+PAGE 18Some facilities are required to
+develop:
+nEmergency escape procedures
+and routes
+nProcedures for employees who
+perform or shut down critical oper-ations before an evacuation
+nProcedures to account for all
+employees, visitors and contractorsafter an evacuation is completed
+nRescue and medical duties for
+assigned employees
+nProcedures for reporting emer-
+gencies
+nNames of persons or depart-
+ments to be contacted for informa-tion regarding the planIn an emergency, all personnelshould know:  1. What is my role?2. Where should I go?
+The following is guidance for
+developing the plan.
+Identify Challenges
+and PrioritizeActivities
+Determine specific goals and
+milestones. Make a list of tasks tobe performed, by whom and when.Determine how you will addressthe problem areas and resourceshortfalls that were identified inthe vulnerability analysis.
+Write the Plan
+Assign each member of the
+planning group a section to write.Determine the most appropriateformat for each section.
+Establish an aggressive timeline
+with specific goals. Provideenough time for completion ofwork, but not so much as to allowassignments to linger. Establish aschedule for:
+• First draft• Review• Second draft• Tabletop exercise• Final draft• Printing• DistributionEstablish a Training
+Schedule
+Have one person or department
+responsible for developing a train-ing schedule for your facility.
+
+Forspecific ideas about training, referto Step 4.
+Coordinate with
+Outside Organizations
+Meet periodically with local
+government agencies and commu-nity organizations. Inform appro-priate government agencies thatyou are creating an emergencymanagement plan. While theirofficial approval may not berequired, they will likely havevaluable insights and informationto offer.
+Determine State and local
+requirements for reporting emer-gencies, and incorporate theminto your procedures.
+Determine protocols for turn-
+ing control of a response over tooutside agencies. Some detailsthat may need to be worked outare:
+• Which gate or entrance will
+responding units use?
+• Where and to whom will they
+report?
+• How will they be identified?• How will facility personnel
+communicate with outsideresponders?
+• Who will be in charge of
+response activities?
+Determine what kind of identi-
+fication authorities will require toallow your key personnel into yourfacility during an emergency.
+PAGE 19THE DEVELOPMENT PROCESS
+Your emergency planning priori-
+ties may be influenced by govern-ment regulation. To remain incompliance you may be requiredto address specific emergencymanagement functions that mightotherwise be a lower priorityactivity for that given year.Determine the needs of disabledpersons and non-English-speakingpersonnel. For example, a blindemployee could be assigned apartner in case an evacuation isnecessary.
+The Americans with Disabilities
+Act (ADA) defines a disabledperson as anyone who has a physi-cal or mental impairment thatsubstantially limits one or moremajor life activities, such as see-ing, hearing, walking, breathing,performing manual tasks, learn-ing, caring for oneself or working.
+PAGE 20Seek Final Approval
+Arrange a briefing for the chief
+executive officer and senior man-agement and obtain writtenapproval.
+Distribute the Plan
+Place the final plan in three-
+ring binders and number all copiesand pages.
+
+Each individual whoreceives a copy should be requiredto sign for it and be responsible forposting subsequent changes.
+Determine which sections of
+the plan would be appropriate toshow to government agencies(some sections may refer to corpo-rate secrets or include private list-ings of names, telephone numbersor radio frequencies).
+Distribute the final plan to:
+• Chief executive and senior
+managers
+• Key members of the company’s
+emergency response organiza-tion
+• Company headquarters• Community emergency
+response agencies (appropriatesections)
+Have key personnel keep a
+copy of the plan in their homes.
+Inform employees about the
+plan and training schedule.Maintain Contact with
+Other CorporateOffices
+Communicate with other
+offices and divisions in your com-pany to learn:
+• Their emergency notification
+requirements
+• The conditions where mutual
+assistance would be necessary
+• How offices will support each
+other in an emergency
+• Names, telephone numbers and
+pager numbers of key personnel
+Incorporate this information
+into your procedures.
+Review, Conduct
+Training and Revise
+Distribute the first draft to
+group members for review. Reviseas needed.
+For a second review, conduct a
+tabletop exercise with manage-ment and personnel who have akey emergency managementresponsibility. In a conferenceroom setting, describe an emer-gency scenario and have partici-pants discuss their responsibilitiesand how they would react to thesituation. Based on this discus-sion, identify areas of confusionand overlap, and modify the planaccordingly.Consolidate emergency plans for
+better coordination.
+
+Stand-aloneplans, such as a Spill PreventionControl and Countermeasures(SPCC) plan, fire protection planor safety and health plan, shouldbe incorporated into one compre-hensive plan.
+Emergency planning must
+become part of the corporate culture.
+Look for opportunities to build
+awareness; to educate and trainpersonnel; to test procedures; toinvolve all levels of management,all departments and the communi-ty in the planning process; and tomake emergency managementpart of what personnel do on aday-to-day basis.
+Test how completely the plan
+has been integrated by asking:
+• How well does senior manage-
+ment support the responsibili-ties outlined in the plan?
+• Have emergency planning con-
+cepts been fully incorporatedinto the facility’s accounting,personnel and financial proce-dures?
+• How can the facility’s processes
+for evaluating employees anddefining job classifications bet-ter address emergency manage-ment responsibilities?• Are there opportunities for dis-
+tributing emergency prepared-ness information through cor-porate newsletters, employeemanuals or employee mailings?
+• What kinds of safety posters or
+other visible reminders wouldbe helpful?
+• Do personnel know what they
+should do in an emergency?
+• How can all levels of the orga-
+nization be involved in evaluat-ing and updating the plan?IMPLEMENT THE PLAN. Implementation means more than simply
+exercising the plan during an emergency. It means acting on recommendationsmade during the vulnerability analysis, integrating the plan into company oper-ations, training employees and evaluating the plan.S T E P 4
+IMPLEMENT
+THE PLAN
+PAGE 21INTEGRATE THE PLAN INTO COMPANY OPERATIONS
+PAGE 22Training Activities
+Training can take many forms:
+•Orientation and Education
+Sessions — These are regularly
+scheduled discussion sessions toprovide information, answerquestions and identify needsand concerns.
+•Tabletop Exercise — Members
+of the emergency managementgroup meet in a conferenceroom setting to discuss theirresponsibilities and how theywould react to emergency sce-narios. This is a cost-effectiveand efficient way to identifyareas of overlap and confusionbefore conducting moredemanding training activities.
+•Walk-through Drill — The
+emergency management groupand response teams actuallyperform their emergencyresponse functions.
+
+This activ-ity generally involves morepeople and is more thoroughthan a tabletop exercise.
+•Functional Drills — These
+drills test specific functionssuch as medical response, emer-gency notifications, warningand communications proce-dures and equipment, thoughnot necessarily at the sametime. Personnel are asked toevaluate the systems and iden-tify problem areas.Everyone who works at or visits
+the facility requires some form oftraining. This could include peri-odic employee discussion sessionsto review procedures, technicaltraining in equipment use foremergency responders, evacuationdrills and full-scale exercises.Below are basic considerations fordeveloping a training plan.
+Planning
+Considerations
+Assign responsibility for devel-
+oping a training plan. Considerthe training and informationneeds for employees, contractors,visitors, managers and those withan emergency response role iden-tified in the plan.
+Determine for a 12 month
+period:
+• Who will be trained• Who will do the training• What training activities will be
+used
+• When and where each session
+will take place
+• How the session will be evalu-
+ated and documented
+Use the Training Drills and
+Exercises Chart in the appendixsection to schedule training activ-ities or create one of your own.
+Consider how to involve com-
+munity responders in trainingactivities.
+Conduct reviews after each
+training activity. Involve bothpersonnel and community respon-ders in the evaluation process.CONDUCT TRAINING
+•Evacuation Drill — Personnel
+walk the evacuation route to adesignated area where proce-dures for accounting for all per-sonnel are tested.
+
+Participantsare asked to make notes as theygo along of what might becomea hazard during an emergency,e.g., stairways cluttered withdebris, smoke in the hallways.Plans are modified accordingly.
+•Full-scale Exercise — A real-
+life emergency situation is simulated as closely as possible.This exercise involves companyemergency response personnel,employees, management andcommunity response organizations.Employee Training
+General training for all employ-
+ees should address:
+• Individual roles and responsi-
+bilities
+• Information about threats,
+hazards and protective actions
+• Notification, warning and com-
+munications procedures
+• Means for locating family
+members in an emergency
+• Emergency response procedures• Evacuation, shelter and
+accountability procedures
+• Location and use of common
+emergency equipment
+• Emergency shutdown
+procedures
+The scenarios developed during
+the vulnerability analysis canserve as the basis for trainingevents.
+PAGE 23January February March April May June July August September October November December
+MANAGEMENT
+ORIENTATION/REVIEW
+EMPLOYEE
+ORIENTATION/REVIEW
+CONTRACTOR
+ORIENTATION/REVIEW
+COMMUNITY/MEDIA
+ORIENTATION/REVIEW
+MANAGEMENT
+TABLETOP EXERCISE
+RESPONSE TEAM
+TABLETOP EXERCISE
+WALK-THROUGH
+DRILL
+FUNCTIONAL
+DRILLS
+EVACUATION
+DRILL
+FULL-SCALE
+EXERCISEOSHA training requirements are
+a minimum standard for manyfacilities that have a fire brigade,hazardous materials team,
+
+rescueteam or emergency medicalresponse team.
+A full-page chart is located in the Appendix
+PAGE 24In addition to a yearly audit,
+evaluate and modify the plan atthese times:
+• After each training drill or
+exercise
+• After each emergency• When personnel or their
+responsibilities change
+• When the layout or design of
+the facility changes
+• When policies or procedures
+change
+Remember to brief personnel
+on changes to the plan.Conduct a formal audit of the
+entire plan at least once a year.Among the issues to consider are:
+• How can you involve all levels
+of management in evaluatingand updating the plan?
+• Are the problem areas and
+resource shortfalls identified inthe vulnerability analysis beingsufficiently addressed?
+• Does the plan reflect lessons
+learned from drills and actualevents?
+• Do members of the emergency
+management group and emer-gency response team under-stand their respective responsi-bilities?, Have new membersbeen trained?
+• Does the plan reflect changes
+in the physical layout of thefacility? Does it reflect newfacility processes?
+• Are photographs and other
+records of facility assets up todate?
+• Is the facility attaining its train-
+ing objectives?
+• Have the hazards in the facility
+changed?
+• Are the names, titles and tele-
+phone numbers in the plan current?
+• Are steps being taken to incor-
+porate emergency managementinto other facility processes?
+• Have community agencies and
+organizations been briefed onthe plan? Are they involved inevaluating the plan?When siting a new location, con-
+duct a hazard analysis of the area.Modify your plan when a new sitebecomes operable. EVALUATE AND MODIFY THE PLAN
+This section describes the core operational considera-
+tions of emergency management. They are:• Direction and Control• Communications• Life Safety• Property Protection• Community Outreach• Recovery and Restoration• Administration and LogisticsEMERGENCY MANAGEMENT CONSIDERATIONS2SECTION
+FUNCTION
+PAGE 27DIRECTION AND CONTROL. Someone must be in charge in an emer-
+gency. The system for managing resources, analyzing information and makingdecisions in an emergency is called direction and control.
+The direction and control system described below assumes a facility of
+sufficient size.
+
+Your facility may require a less sophisticated sys tem, though
+the principles described here will still apply.
+The configuration of your sys-
+tem will depend on many factors.Larger industries may have theirown fire team, emergency medicaltechnicians or hazardous materialsteam, while smaller organizationsmay need to rely on mutual aidagreements. They may also beable to consolidate positions orcombine responsibilities. Tenantsof office buildings or industrialparks may be part of an emergencymanagement program for theentire facility.
+Emergency
+Management Group(EMG)
+The EMG is the team responsi-
+ble for the big picture. It controlsall incident-related activities. The Incident Commander (IC)oversees the technical aspects ofthe response.
+The EMG supports the IC by
+allocating resources and by inter-facing with the community, themedia, outside response organiza-tions and regulatory agencies.The EMG is headed by the
+Emergency Director (ED), whoshould be the facility manager.The ED is in command and con-trol of all aspects of the emer-gency.
+
+Other EMG membersshould be senior managers whohave the authority to:
+• Determine the short- and long-
+term effects of an emergency
+• Order the evacuation or
+shutdown of the facility
+• Interface with outside organiza-
+tions and the media
+• Issue press releases
+The relationship between the
+EMG and the IC is shown inFigure 1.DIRECTION
+AND CONTROL
+Figure 1:  Relationship between the EMG
+and the IC.
+EMERGENCY MANAGEMENT GROUP (EMG)
+EMERGENCY
+DIRECTORINCIDENT
+COMMANDERFACILITY MANAGER
+AFFECTED AREA UNIT
+MANAGER/SUPT.SAFETY OFFICER
+SECURITY COORDINATOR
+SAFETY & HEALTH
+COORDINATOR
+ENVIRONMENTAL
+COORDINATOR
+MAINTENANCE
+COORDINATOR
+HUMAN RESOURCES
+COORDINATOR
+PLANNING & LOGISTICS
+COORDINATOR
+ENVIRONMENTAL
+COORDINATOREMERGENCY OPERATIONS GROUP (EOG)
+ä ä
+OPERATIONS OFFICER
+EMERGENCY MEDICAL
+TECHNICIANS TEAM FIRE/HAZMAT
+(FIRE BRIGADE) ä
+ä
+ä
+ä
+ä
+ä
+ääää
+ää
+PUBLIC RELATIONS
+COORDINATORä
+PAGE 28Incident Command
+System (ICS)
+The ICS was developed specifi-
+cally for the fire service, but itsprinciples can be applied to allemergencies.
+
+The ICS providesfor coordinated response and aclear chain of command and safeoperations.
+The Incident Commander (IC)
+is responsible for front-line man-agement of the incident, for tacti-cal planning and execution, fordetermining whether outside assis-tance is needed and for relayingrequests for internal resources oroutside assistance through theEmergency Operations Center(EOC).
+The IC can be any employee,
+but a member of managementwith the authority to make deci-sions is usually the best choice.
+The IC must have the capabili-
+ty and authority to:
+• Assume command
+• Assess the situation• Implement the emergency
+management plan
+• Determine response strategies• Activate resources• Order an evacuation• Oversee all incident response
+activities
+• Declare that the incident is “over”Emergency Operations
+Center (EOC)
+The EOC serves as a central-
+ized management center for emer-gency operations. Here, decisionsare made by the EMG based uponinformation provided by the ICand other personnel. Regardlessof size or process, every facilityshould designate an area wheredecision makers can gather duringan emergency.
+The EOC should be located in
+an area of the facility not likely tobe involved in an incident, per-haps the security department, themanager’s office, a conferenceroom or the training center. Analternate EOC should be designat-ed in the event that the primarylocation is not usable.
+Each facility must determine its
+requirements for an EOC basedupon the functions to be per-formed and the number of peopleinvolved. Ideally, the EOC is adedicated area equipped withcommunications equipment, refer-ence materials, activity logs andall the tools necessary to respondquickly and appropriately to anemergency.
+EOC Resources:
+nCommunications equipment
+n  A copy of the emergency
+management plan and EOCprocedures
+nBlueprints, maps, status boards
+nA list of EOC personnel and
+descriptions of their duties
+nTechnical information and data
+for advising responders
+nBuilding security system
+information
+nInformation and data manage-
+ment capabilities
+nTelephone directories
+nBackup power, communica-
+tions and lighting
+nEmergency suppliesIn a hazardous materials accident,an off-site medic was exposed tothe spilled material and requiredhospitalization.
+
+It was determinedthat the person was able to enterthe hazardous area unprotectedbecause no one among a host ofmanagers and facility responderswas “in charge” at the scene.
+PAGE 29Planning
+Considerations
+To develop a direction and
+control system:
+• Define the duties of personnel
+with an assigned role. Establishprocedures for each position.Prepare checklists for all proce-dures.
+• Define procedures and respon-
+sibilities for fire fighting, med-ical and health, and engineer-ing.
+• Determine lines of succession
+to ensure continuous leader-ship, authority and responsibili-ty in key positions.
+• Determine equipment and sup-
+ply needs for each responsefunction.
+• At a minimum, assign all
+personnel responsibility for:
+uRecognizing and reporting an
+emergency
+uWarning other employees inthe area
+uTaking security and safetymeasures
+uEvacuating safely
+• Provide training.Security
+Isolation of the incident scene
+must begin when the emergency isdiscovered. If possible, the discov-erer should attempt to secure thescene and control access, but noone should be placed in physicaldanger to perform these functions.
+Basic security measures include:
+• Closing doors or windows• Establishing temporary barriers
+with furniture after people havesafely evacuated
+• Dropping containment materi-
+als (sorbent pads, etc.) in thepath of leaking materials
+• Closing file cabinets or desk
+drawers
+Only trained personnel should
+be allowed to perform advancedsecurity measures. Access to thefacility, the EOC and the incidentscene should be limited to personsdirectly involved in the response.
+Coordination of
+Outside Response
+In some cases, laws, codes, prior
+agreements or the very nature ofthe emergency require the IC toturn operations over to an outsideresponse organization.
+When this happens, the proto-
+cols established between the facili-ty and outside response organiza-tions are implemented. The facili-ty’s IC provides the community’sIC a complete report on the situation.
+The facility IC keeps track of
+which organizations are on-siteand how the response is beingcoordinated.
+
+This helps increasepersonnel safety and accountabili-ty, and prevents duplication ofeffort.Keep detailed logs of actions
+taken during an emergency.Describe what happened, deci-sions made and any deviationsfrom policy. Log the time foreach event.
+COMMUNICATIONS
+PAGE 31FUNCTIONCOMMUNICATIONS. Communications are essential to any
+business operation. A communications failure can be a disaster in itself, cutting off vital business activities.Communications are needed to report emergencies, to warn personnel of thedanger, to keep families and off-duty employees informed about what’s happen-ing at the facility to coordinate response actions and to keep in contact with customers and suppliers.
+Contingency Planning
+Plan for all possible contingen-
+cies from a temporary or short-term disruption to a total commu-nications failure.
+• Consider the everyday func-
+tions performed by your facilityand the communications, bothvoice and data, used to supportthem.
+• Consider the business impact if
+your communications wereinoperable. How would thisimpact your emergency opera-tions?
+• Prioritize all facility communi-
+cations. Determine whichshould be restored first in anemergency.
+• Establish procedures for restor-
+ing communications systems.
+• Talk to your communications
+vendors about their emergencyresponse capabilities. Establishprocedures for restoring services.
+• Determine needs for backup
+communications for each busi-ness function.
+
+Options includemessengers, telephones,portable microwave, amateurradios, point-to-point privatelines, satellite, high-frequencyradio.Emergency
+Communications
+Consider the functions your
+facility might need to perform inan emergency and the communi-cations systems needed to supportthem.
+Consider communications
+between:
+• Emergency responders• Responders and the Incident
+Commander (IC)
+• The IC and the Emergency
+Operations Center (EOC)
+• The IC and employees• The EOC and outside response
+organizations
+• The EOC and neighboring
+businesses
+• The EOC and employees’
+families
+• The EOC and customers• The EOC and media
+PAGE 32Methods of communication
+include:
+• Messenger • Telephone • T wo-way radio • FAX machine• Microwave• Satellite• Dial-up modems• Local area networks• Hand signals
+Family
+Communications
+In an emergency, personnel will
+need to know whether their fami-lies are okay. Taking care of one’sloved ones is always a first priority.
+Make plans for communicating
+with employees’ families in anemergency.
+Also, encourage employees to:
+• Consider how they would com-
+municate with their families incase they are separated fromone another or injured in anemergency.
+• Arrange for an out-of-town
+contact for all family membersto call in an emergency.
+• Designate a place to meet fami-
+ly members in case they cannotget home in an emergency.
+Notification
+Establish procedures for
+employees to report an emergency.Inform employees of procedures.Train personnel assigned specificnotification tasks.
+Post emergency telephone
+numbers near each telephone, onemployee bulletin boards and inother prominent locations.Maintain an updated list of
+addresses and telephone and pagernumbers of key emergencyresponse personnel (from withinand outside the facility).
+Listen for tornado, hurricane
+and other severe weather warningsissued by the National WeatherService.
+Determine government agen-
+cies’ notification requirements inadvance.
+
+Notification must bemade immediately to local gov-ernment agencies when an emer-gency has the potential to affectpublic health and safety.
+Prepare announcements that
+could be made over public addresssystems.
+Warning
+Establish a system for warning
+personnel of an emergency. Thesystem should:
+• Be audible or within view by all
+people in the facility
+• Have an auxiliary power supply• Have a distinct and recogniz-
+able signal
+Make plans for warning persons
+with disabilities. For instance, aflashing strobe light can be used to warn hearing-impaired people.
+Familiarize personnel with
+procedures for responding whenthe warning system is activated.
+Establish procedures for
+warning customers, contractors,visitors and others who may notbe familiar with the facility’swarning system.
+Test your facility’s warning
+system at least monthly.Test communications often. A
+research firm discovered in a drillthat its two-way radio system didnot work, limiting communica-tions between the EmergencyOperating Center (EOC) and theIncident Commander (IC) to a single telephone line. TheEmergency Management Grouphad failed to provide a backupradio for the EOC. Fortunately,this was discovered during training.
+Test alarm systems monthly. Onecompany conducted its first test ofa sophisticated alarm system 21years after the system wasinstalled. Rather than alarm bells,the system played Christmasmusic.
+LIFE SAFETY. Protecting the health and safety of everyone in the
+facility is the first priority during an emergency.LIFE
+SAFETY
+PAGE 33FUNCTION
+Evacuation Planning
+One common means of protec-
+tion is evacuation. In the case offire, an immediate evacuation to apredetermined area away from thefacility may be necessary. In ahurricane, evacuation couldinvolve the entire community andtake place over a period of days.
+To develop an evacuation poli-
+cy and procedure:
+• Determine the conditions
+under which an evacuationwould be necessary.
+• Establish a clear chain of com-
+mand. Identify personnel withthe authority to order an evacu-ation. Designate “evacuationwardens” to assist others in anevacuation and to account forpersonnel.
+• Establish specific evacuation
+procedures.
+
+Establish a systemfor accounting for personnel.Consider employees’ trans-portation needs for community-wide evacuations.
+• Establish procedures for assist-
+ing persons with disabilities andthose who do not speakEnglish. • Post evacuation procedures.
+• Designate personnel to contin-
+ue or shut down critical opera-tions while an evacuation isunderway. They must be capa-ble of recognizing when toabandon the operation andevacuate themselves.
+• Coordinate plans with the local
+emergency management office.
+Evacuation Routes and
+Exits
+Designate primary and sec-
+ondary evacuation routes andexits. Have them clearly markedand well lit. Post signs.
+Install emergency lighting in
+case a power outage occurs duringan evacuation.
+Ensure that evacuation routes
+and emergency exits are:
+• Wide enough to accommodate
+the number of evacuating personnel
+• Clear and unobstructed at all
+times
+• Unlikely to expose evacuating
+personnel to additional hazards
+Have evacuation routes evalu-
+ated by someone not in your organization.Consider how you would access
+important personal informationabout employees (home phone,next-of-kin, medical) in an emer-gency. Storing information oncomputer disks or in sealedenvelopes are two options.
+PAGE 34Assembly Areas and
+Accountability
+Obtaining an accurate account
+of personnel after a site evacua-tion requires planning and practice.
+• Designate assembly areas where
+personnel should gather afterevacuating.
+• Take a head count after the
+evacuation. The names andlast known locations of person-nel not accounted for should bedetermined and given to theEOC. (Confusion in theassembly areas can lead tounnecessary and dangeroussearch and rescue operations.)
+• Establish a method for account-
+ing for non-employees such assuppliers and customers.
+• Establish procedures for further
+evacuation in case the incidentexpands.
+
+This may consist ofsending employees home bynormal means or providingthem with transportation to anoff-site location.
+Shelter
+In some emergencies, the best
+means of protection is to takeshelter either within the facility oraway from the facility in a publicbuilding.
+• Consider the conditions for
+taking shelter, e.g., tornadowarning.
+• Identify shelter space in the
+facility and in the community.Establish procedures for send-ing personnel to shelter.
+• Determine needs for emergency
+supplies such as water, food andmedical supplies.• Designate shelter managers, if
+appropriate.
+• Coordinate plans with local
+authorities.
+Training and
+Information
+Train employees in evacuation,
+shelter and other safety proce-dures. Conduct sessions at leastannually or when:
+• Employees are hired• Evacuation wardens, shelter
+managers and others with spe-cial assignments are designated
+• New equipment, materials or
+processes are introduced
+• Procedures are updated or
+revised
+• Exercises show that employee
+performance must be improved
+Provide emergency information
+such as checklists and evacuationmaps.
+Post evacuation maps in strate-
+gic locations.
+Consider the information needs
+of customers and others who visitthe facility.
+Family Preparedness
+Consider ways to help employ-
+ees prepare their families for emer-gencies. This will increase theirpersonal safety and help the facili-ty get back up and running.Those who are prepared at homewill be better able to carry outtheir responsibilities at work. Search and rescue should be con-
+ducted only by properly trainedand equipped professionals. Deathor serious injury can occur whenuntrained employees reenter adamaged or contaminated facility.A gas explosion and fire in a nurs-ing home caused the evacuationof all patients, most of whom weredisabled. Because the staff hadtrained for this scenario, allpatients were evacuated safely.
+Planning
+Considerations
+Establish procedures for:
+• Fighting fires• Containing material spills• Closing or barricading doors
+and windows
+• Shutting down equipment• Covering or securing
+equipment
+• Moving equipment to a safe
+location
+Identify sources of backup
+equipment, parts and supplies.
+Designate personnel to autho-
+rize, supervise and perform a facili-ty shutdown.
+
+Train them to rec-ognize when to abandon theeffort.
+Obtain materials to carry out
+protection procedures and keepthem on hand for use only inemergencies.Protection Systems
+Determine needs for systems to
+detect abnormal situations, pro-vide warning and protect property.Consider:
+• Fire protection systems• Lightning protection systems• Water-level monitoring systems• Overflow detection devices• Automatic shutoffs• Emergency power generation
+systems
+Consult your property insurer
+about special protective systems.
+Mitigation
+Consider ways to reduce the
+effects of emergencies, such as mov-ing or constructing facilities awayfrom flood plains and fault zones.Also consider ways to reduce thechances of emergencies fromoccurring, such as changingprocesses or materials used to runthe business.PROPERTY PROTECTION.
+Protecting facilities, equipment and vital
+records is essential to restoring operations once an emergency has occurred.
+
+PROPERTY
+PROTECTION
+PAGE 35FUNCTION
+PAGE 36Consider physical retrofitting
+measures such as:
+• Upgrading facilities to with-
+stand the shaking of an earth-quake or high winds
+• “Floodproofing” facilities by
+constructing flood walls orother flood protection devices(see Section 3 for additionalinformation)
+• Installing fire sprinkler systems• Installing fire-resistant materi-
+als and furnishing
+• Installing storm shutters for all
+exterior windows and doors
+There are also non-structural
+mitigation measures to consider,including:
+• Installing fire-resistant materi-
+als and furnishing
+• Securing light fixtures and
+other items that could fall orshake loose in an emergency
+• Moving heavy or breakable
+objects to low shelves
+• Attaching cabinets and files to
+low walls or bolting themtogether
+• Placing Velcro strips under
+typewriters, tabletop computersand television monitors
+• Moving work stations away
+from large windows
+• Installing curtains or blinds
+that can be drawn over win-dows to prevent glass fromshattering onto employees
+• Anchoring water heaters and
+bolting them to wall studs
+Consult a structural engineer orarchitect and your community’s
+building and zoning offices foradditional information.
+Facility Shutdown
+Facility shutdown is generally a
+last resort but always a possibility.Improper or disorganized shut-down can result in confusion,injury and property damage.
+Some facilities require only
+simple actions such as turning offequipment, locking doors andactivating alarms. Others requirecomplex shutdown procedures.
+Work with department heads to
+establish shutdown procedures.Include information about whenand how to shut off utilities.Identify:
+• The conditions that could
+necessitate a shutdown
+• Who can order a shutdown• Who will carry out shutdown
+procedures
+• How a partial shutdown would
+affect other facility operations
+• The length of time required for
+shutdown and restarting
+Train personnel in shutdown
+procedures.
+
+Post procedures.
+PAGE 37Records Preservation
+Vital records may include:
+• Financial and insurance infor-
+mation
+• Engineering plans and drawings• Product lists and specifications • Employee, customer and suppli-
+er databases
+• Formulas and trade secrets• Personnel files
+Preserving vital records is
+essential to the quick restorationof operations. Analyzing vitalrecords involves:
+1. Classifying operations into
+functional categories, e.g.,finance, production, sales,administration
+2. Determining essential functions
+for keeping the business up andrunning, such as finance, pro-duction, sales, etc.
+3. Identifying the minimum infor-
+mation that must be readilyaccessible to perform essentialfunctions, e.g., maintainingcustomer collections mayrequire access to account state-ments
+4. Identifying the records that
+contain the essential informa-tion and where they are located
+5. Identifying the equipment and
+materials needed to access anduse the informationNext, establish procedures for
+protecting and accessing vitalrecords. Among the manyapproaches to consider are:
+• Labeling vital records• Backing up computer systems• Making copies of records• Storing tapes and disks in
+insulated containers
+• Storing data off-site where they
+would not likely be damaged byan event affecting your facility
+• Increasing security of computer
+facilities
+• Arranging for evacuation of
+records to backup facilities
+• Backing up systems handled by
+service bureaus
+• Arranging for backup power
+COMMUNITY
+OUTREACH
+PAGE 39FUNCTION
+Involving the
+Community
+Maintain a dialogue with com-
+munity leaders, first responders,government agencies, communityorganizations and utilities, includ-ing:
+• Appointed and elected leaders• Fire, police and emergency
+medical services personnel
+• Local Emergency Planning
+Committee (LEPC) members
+• Emergency management
+director
+• Public Works Department• American Red Cross• Hospitals• Telephone company• Electric utility• Neighborhood groups
+Have regular meetings with
+community emergency personnelto review emergency plans andprocedures. Talk about whatyou’re doing to prepare for andprevent emergencies.
+
+Explainyour concern for the community’swelfare.
+Identify ways your facility could
+help the community in a commu-nity-wide emergency.Look for common interests and
+concerns. Identify opportunitiesfor sharing resources and informa-tion.
+Conduct confidence-building
+activities such as facility tours.Do a facility walk-through withcommunity response groups.
+Involve community fire, police
+and emergency management per-sonnel in drills and exercises.
+Meet with your neighbors to
+determine how you could assisteach other in an emergency.
+Mutual Aid
+Agreements
+To avoid confusion and conflict
+in an emergency, establish mutualaid agreements with local responseagencies and businesses.
+These agreements should:
+• Define the type of assistance • Identify the chain of command
+for activating the agreement
+• Define communications
+procedures
+Include these agencies in facili-
+ty training exercises wheneverpossible.COMMUNITY OUTREACH. Your facility’s relationship with the commu-
+nity will influence your ability to protect personnel and property and return tonormal operations. This section describes ways to involve outside organizations in the emergencymanagement plan.
+Mutual aid agreements can
+address any number of activities orresources that might be needed inan emergency. For example:
+nProviding for firefighting and
+HAZMAT response.
+n  Providing shelter space, emer-
+gency storage, emergency supplies,medical support.
+nBusinesses allowing neighbors
+to use their property to accountfor personnel after an evacuation.
+PAGE 40Community Service
+In community-wide emergen-
+cies, business and industry areoften needed to assist the commu-nity with:
+• Personnel• Equipment• Shelter• Training• Storage• Feeding facilities• EOC facilities• Food, clothing, building
+materials
+• Funding• Transportation
+While there is no way to pre-
+dict what demands will be placedon your company’s resources, givesome thought to how the commu-nity’s needs might influence yourcorporate responsibilities in anemergency.
+
+Also, consider theopportunities for community ser-vice before an emergency occurs.Public Information
+When site emergencies expand
+beyond the facility, the communi-ty will want to know the nature ofthe incident, whether the public’ssafety or health is in danger, whatis being done to resolve the prob-lem and what was done to preventthe situation from happening.
+Determine the audiences that
+may be affected by an emergencyand identify their informationneeds. Include:
+• The public• The media• Employees and retirees• Unions• Contractors and suppliers• Customers• Shareholders• Emergency response
+organizations
+• Regulatory agencies• Appointed and elected officials• Special interest groups • NeighborsThe community wants to know:
+nWhat does the facility do?
+nWhat are the hazards?
+nWhat programs are in place to
+respond to emergencies?
+nHow could a site emergency
+affect the community?
+nWhat assistance will be
+required from the community?
+PAGE 41Media Relations
+In an emergency, the media are
+the most important link to thepublic. Try to develop and main-tain positive relations with mediaoutlets in your area. Determinetheir particular needs and inter-ests.
+
+Explain your plan for pro-tecting personnel and preventingemergencies.
+Determine how you would
+communicate important publicinformation through the media inan emergency.
+• Designate a trained spokes-
+person and an alternate
+spokesperson
+• Set up a media briefing area• Establish security procedures• Establish procedures for ensur-
+ing that information is com-plete, accurate and approvedfor public release
+• Determine an appropriate and
+useful way of communicatingtechnical information
+• Prepare background informa-
+tion about the facilityWhen providing information to
+the media during an emergency:
+Do’s
+• Give all media equal access to
+information.
+• When appropriate, conduct
+press briefings and interviews.Give local and national mediaequal time.
+• Try to observe media deadlines.• Escort media representatives to
+ensure safety.
+• Keep records of information
+released.
+• Provide press releases when
+possible.
+Don’ts
+• Do not speculate about the
+incident.
+• Do not permit unauthorized
+personnel to release informa-tion.
+• Do not cover up facts or mis-
+lead the media.
+• Do not place blame for the
+incident.Press releases about facility-gener-
+ated emergencies should describewho is involved in the incidentand what happened, includingwhen, where, why and how.
+FUNCTION
+Planning
+Considerations
+Consider making contractual
+arrangements with vendors forsuch post-emergency services asrecords preservation, equipmentrepair, earthmoving or engineering.
+Meet with your insurance carri-
+ers to discuss your property andbusiness resumptions policies (seethe next page for guidelines).
+Determine critical operations
+and make plans for bringing thosesystems back on-line. The processmay entail:
+• Repairing or replacing
+equipment
+• Relocating operations to an
+alternate location
+• Contracting operations on a
+temporary basis
+Take photographs or videotape
+the facility to document companyassets. Update these records regularly.Continuity of
+Management
+You can assume that not every
+key person will be readily avail-able or physically at the facilityafter an emergency. Ensure thatrecovery decisions can be madewithout undue delay.
+
+Consultyour legal department regardinglaws and corporate bylaws govern-ing continuity of management.
+Establish procedures for:
+• Assuring the chain of
+command
+• Maintaining lines of succession
+for key personnel
+• Moving to alternate
+headquarters
+Include these considerations in
+all exercise scenarios.RECOVERY AND RESTORATION.
+Business recovery and restoration,
+or business resumption, goes right to a facility’s bottom line:  keeping peopleemployed and the business running.RECOVERY
+ANDRESTORATION
+PAGE 43
+PAGE 44Insurance
+Most companies discover that
+they are not properly insured onlyafter they have suffered a loss.Lack of appropriate insurance canbe financially devastating.Discuss the following topics withyour insurance advisor to deter-mine your individual needs.
+• How will my property be
+valued?
+• Does my policy cover the cost
+of required upgrades to code?
+• How much insurance am I
+required to carry to avoidbecoming a co-insurer?
+• What perils or causes of loss
+does my policy cover?
+• What are my deductibles?• What does my policy require
+me to do in the event of a loss?
+• What types of records and
+documentation will my insur-ance company want to see?Are records in a safe placewhere they can be obtainedafter an emergency?
+• To what extent am I covered
+for loss due to interruption ofpower? Is coverage provided for both on- and off-premisespower interruption?• Am I covered for lost income
+in the event of business inter-ruption because of a loss? Do Ihave enough coverage?
+
+Forhow long is coverage provided?How long is my coverage forlost income if my business isclosed by order of a civilauthority?
+• To what extent am I covered
+for reduced income due to cus-tomers’ not all immediatelycoming back once the businessreopens?
+• How will my emergency man-
+agement program affect myrates?
+Employee Support
+Since employees who will rely
+on you for support after an emer-gency are your most valuableasset, consider the range of ser-vices that you could provide orarrange for, including:
+uCash advances
+uSalary continuation
+uFlexible work hours
+uReduced work hours
+uCrisis counseling
+uCare packages
+uDay careAfter a site emergency, assess the
+impact of the event on businessneighbors and the communityand take appropriate action.How you handle this issue willhave long-lasting consequences.
+PAGE 45Resuming Operations
+Immediately after an emergency,
+take steps to resume operations.
+• Establish a recovery team, if
+necessary. Establish prioritiesfor resuming operations.
+• Continue to ensure the safety
+of personnel on the property.Assess remaining hazards.Maintain security at the incident scene.
+• Conduct an employee briefing.• Keep detailed records. Consider
+audio recording all decisions.Take photographs of or video-tape the damage.
+• Account for all damage-related
+costs. Establish special joborder numbers and chargecodes for purchases and repairwork.
+• Follow notification procedures.
+Notify employees’ familiesabout the status of personnelon the property. Notify off-duty personnel about work sta-tus. Notify insurance carriersand appropriate government agencies.
+• Protect undamaged property.
+Close up building openings.Remove smoke, water anddebris. Protect equipmentagainst moisture. Restoresprinkler systems. Physicallysecure the property. Restorepower.
+• Conduct an investigation.
+Coordinate actions with appro-priate government agencies.• Conduct salvage operations.
+Segregate damaged fromundamaged property. Keepdamaged goods on hand untilan insurance adjuster has visited the premises, but youcan move material outside if it’s seriously in the way andexposure to the elements won’tmake matters worse.
+• Take an inventory of damaged
+goods.
+
+This is usually donewith the adjuster, or theadjuster’s salvor if there is anyappreciable amount of goods or value. If you release goods to the salvor, obtain a signedinventory stating the quantityand type of goods beingremoved.
+• Restore equipment and proper-
+ty. For major repair work,review restoration plans withthe insurance adjuster andappropriate government agencies.
+• Assess the value of damaged
+property. Assess the impact ofbusiness interruption.
+• Maintain contact with cus-
+tomers and suppliers.
+ADMINISTRATION
+AND LOGISTICS
+PAGE 47FUNCTION
+Administrative
+Actions
+Administrative actions prior to
+an emergency include:
+• Establishing a written emer-
+gency management plan
+• Maintaining training records• Maintaining all written
+communications
+• Documenting drills and exer-
+cises and their critiques
+• Involving community
+emergency response organiza-tions in planning activities
+Administrative actions during
+and after an emergency include:
+• Maintaining telephone logs• Keeping a detailed record of
+events
+• Maintaining a record of injuries
+and follow-up actions
+• Accounting for personnel• Coordinating notification of
+family members
+• Issuing press releases• Maintaining sampling records• Managing finances• Coordinating personnel
+services
+• Documenting incident
+investigations and recoveryoperationsLogistics
+Before an emergency, logistics
+may entail:
+• Acquiring equipment• Stockpiling supplies• Designating emergency
+facilities
+• Establishing training facilities• Establishing mutual aid
+agreements
+• Preparing a resource inventory
+During an emergency, logistics
+may entail the provision of:
+• Providing utility maps to
+emergency responders
+• Providing material safety data
+sheets to employees
+• Moving backup equipment in
+place
+• Repairing parts• Arranging for medical support,
+food and transportation
+• Arranging for shelter facilities• Providing for backup power • Providing for backup communi-
+cationsADMINISTRATION AND LOGISTICS. Maintain complete and accu-
+rate records at all times to ensure a more efficient emergency response andrecovery.
+
+Certain records may also be required by regulation or by your insur-ance carriers or prove invaluable in the case of legal action after an incident.
+Emergency funding can be critical
+immediately following an emer-gency. Consider the need for pre-approved purchase requisitionsand whether special fundingauthorities may be necessary.
+This section provides information about some of the
+most common hazards:
+• Fire• Hazardous Materials Incidents• Floods and Flash Floods• Hurricanes• Tornadoes• Severe Winter Storms• Earthquakes
+• Technological EmergenciesHAZARD-SPECIFIC INFORMATION3SECTION
+HAZARDS
+Planning
+Considerations
+Consider the following when
+developing your plan:
+• Meet with the fire department
+to talk about the community’sfire response capabilities. Talkabout your operations. Identifyprocesses and materials thatcould cause or fuel a fire, orcontaminate the environmentin a fire.
+• Have your facility inspected for
+fire hazards. Ask about firecodes and regulations.
+• Ask your insurance carrier to
+recommend fire prevention andprotection measures. Your car-rier may also offer training.
+• Distribute fire safety informa-
+tion to employees:  how to pre-vent fires in the workplace,how to contain a fire, how toevacuate the facility, where toreport a fire.
+• Instruct personnel to use the
+stairs — not elevators — in afire. Instruct them to crawl ontheir hands and knees whenescaping a hot or smoke-filledarea. • Conduct evacuation drills.
+Post maps of evacuation routesin prominent places. Keepevacuation routes includingstairways and doorways clear ofdebris.
+• Assign fire wardens for each
+area to monitor shutdown andevacuation procedures.
+• Establish procedures for the
+safe handling and storage offlammable liquids and gases.Establish procedures to preventthe accumulation of com-bustible materials.
+• Provide for the safe disposal of
+smoking materials.
+• Establish a preventive mainte-
+nance schedule to keep equip-ment operating safely.
+• Place fire extinguishers in
+appropriate locations.
+• Train employees in use of fire
+extinguishers.
+PAGE 51FIRE. Fire is the most common of all the hazards. Every year fires cause
+thousands of deaths and injuries and billions of dollars in property damage.FIRE
+PAGE 52• Install smoke detectors.
+
+Check
+smoke detectors once a month,change batteries at least once ayear.
+• Establish a system for warning
+personnel of a fire. Considerinstalling a fire alarm withautomatic notification to thefire department.
+• Consider installing a sprinkler
+system, fire hoses and fire-resis-tant walls and doors.
+• Ensure that key personnel are
+familiar with all fire safety systems.
+• Identify and mark all utility
+shutoffs so that electricalpower, gas or water can be shutoff quickly by fire wardens orresponding personnel.
+• Determine the level of response
+your facility will take if a fireoccurs. Among the optionsare:
+Option 1 — Immediate evacu-
+ation of all personnel on alarm.Option 2 — All personnel are
+trained in fire extinguisher use.Personnel in the immediatearea of a fire attempt to controlit. If they cannot, the firealarm is sounded and all per-sonnel evacuate.
+Option 3 — Only designated
+personnel are trained in fireextinguisher use.
+Option 4 — A fire team is
+trained to fight incipient-stagefires that can be controlledwithout protective equipmentor breathing apparatus. Beyondthis level fire, the team evacu-ates.
+Option 5 — A fire team is
+trained and equipped to fightstructural fires using protectiveequipment and breathing appa-ratus.
+A hazardous material spill or
+release can pose a risk to life,health or property. An incidentcan result in the evacuation of afew people, a section of a facilityor an entire neighborhood.
+There are a number of Federal
+laws that regulate hazardous mate-rials, including:  the SuperfundAmendments and ReauthorizationAct of 1986 (SARA), theResource Conservation andRecovery Act of 1976 (RCRA),the Hazardous MaterialsTransportation Act (HMTA), theOccupational Safety and HealthAct (OSHA), the ToxicSubstances Control Act (TSCA)and the Clean Air Act.
+Title III of SARA regulates the
+packaging, labeling, handling,storage and transportation of haz-ardous materials.
+
+The law requiresfacilities to furnish informationabout the quantities and health
+effects of materials used at thefacility, and to promptly notifylocal and State officials whenevera significant release of hazardousmaterials occurs.
+In addition to on-site hazards,
+you should be aware of the poten-tial for an off-site incident affect-ing your operations. You shouldalso be aware of hazardous materi-als used in facility processes and inthe construction of the physicalplant.
+Detailed definitions as well as
+lists of hazardous materials can beobtained from the EnvironmentalProtection Agency (EPA) and theOccupational Safety and HealthAdministration (OSHA).HAZARDOUS MATERIALS INCIDENTS. Hazardous
+materials are substances that are either flammable or combustible, explosive,toxic, noxious, corrosive, oxidizable, an irritant or radioactive.HAZARDOUS
+MATERIALSINCIDENTS
+PAGE 53HAZARDS
+Planning
+Considerations
+Consider the following when
+developing your plan:
+• Identify and label all hazardous
+materials stored, handled, pro-duced and disposed of by yourfacility. Follow governmentregulations that apply to yourfacility. Obtain material safetydata sheets (MSDS) for all haz-ardous materials at your location.
+• Ask the local fire department
+for assistance in developingappropriate response proce-dures.
+• Train employees to recognize
+and report hazardous materialspills and releases. Trainemployees in proper handlingand storage.
+• Establish a hazardous material
+response plan:
+uEstablish procedures to notify
+management and emergencyresponse organizations of an incident.
+uEstablish procedures to warnemployees of an incident.
+uEstablish evacuation procedures.
+uDepending on your opera-tions, organize and train anemergency response team toconfine and control hazardousmaterial spills in accordancewith applicable regulations.• Identify other facilities in your
+area that use hazardous materi-als. Determine whether an incident could affect your facility.
+• Identify highways, railroads and
+waterways near your facilityused for the transportation ofhazardous materials. Determinehow a transportation accidentnear your facility could affectyour operations.
+PAGE 54
+Most floods develop slowly over
+a period of days. Flash floods,however, are like walls of waterthat develop in a matter of min-utes.
+
+Flash floods can be causedby intense storms or dam failure.
+Planning
+Considerations
+Consider the following when
+preparing for floods:
+• Ask your local emergency man-
+agement office whether yourfacility is located in a floodplain. Learn the history offlooding in your area. Learnthe elevation of your facility inrelation to steams, rivers anddams.
+• Review the community’s emer-
+gency plan. Learn the commu-nity’s evacuation routes. Knowwhere to find higher ground incase of a flood.
+• Establish warning and evacua-
+tion procedures for the facility.Make plans for assistingemployees who may need trans-portation.• Inspect areas in your facility
+subject to flooding. Identifyrecords and equipment that canbe moved to a higher location.Make plans to move recordsand equipment in case of flood.
+• Purchase a NOAA Weather
+Radio with a warning alarmtone and battery backup.Listen for flood watches andwarnings.
+Flood Watch — Flooding is possible.
+Stay tuned to NOAA radio. Be pre-
+pared to evacuate. Tune to local radio
+and television stations for additional
+information.
+Flood Warning — Flooding is
+already occurring or will occur soon.
+Take precautions at once. Be pre-
+pared to go to higher ground. If
+advised, evacuate immediately.
+• Ask your insurance carrier for
+information about flood insur-ance. Regular property andcasualty insurance does notcover flooding.FLOODS
+AND FLASHFLOODS
+PAGE 55HAZARDSFLOODS AND FLASH FLOODS. Floods are the most common
+and widespread of all natural disasters. Most communities in the UnitedStates can experience some degree of flooding after spring rains, heavy thun-derstorms or winter snow thaws.
+PAGE 56• Consider the feasibility of
+floodproofing your facility.There are three basic types ofmethods.
+1. Permanent floodproofing mea-
+sures are taken before a flood
+occurs and require no humanintervention when flood watersrise.
+
+They include:
+uFilling windows, doors or
+other openings with water-resistant materials such asconcrete blocks or bricks.This approach assumes thestructure is strong enough towithstand flood waters.
+uInstalling check valves to prevent water from enteringwhere utility and sewer linesenter the facility.
+uReinforcing walls to resist water pressure. Sealing wallsto prevent or reduce seepage.
+uBuilding watertight walls around equipment or workareas within the facility thatare particularly susceptible toflood damage.
+uConstructing floodwalls orlevees outside the facility tokeep flood waters away.
+uElevating the facility on walls,columns or compacted fill.This approach is most applica-ble to new construction,though many types of build-ings can be elevated.2. Contingent floodproofing
+measures are also taken before
+a flood but require some addi-tional action when floodingoccurs. These measuresinclude:
+uInstalling watertight barriers
+called flood shields to preventthe passage of water through doors, windows, ventilationshafts or other openings
+uInstalling permanent water-tight doors
+uConstructing movable flood-walls
+uInstalling permanent pumpsto remove flood waters
+3. Emergency floodproofing mea-
+sures are generally less expen-
+sive than those listed above,though they require substantialadvance warning and do notsatisfy the minimum require-ments for watertight flood-proofing as set forth by theNational Flood InsuranceProgram (NFIP). Theyinclude:
+uBuilding walls with sandbags
+uConstructing a double row of
+walls with boards and posts tocreate a “crib,” then filling thecrib with soil
+uConstructing a single wall bystacking small beams or plankson top of each other
+• Consider the need for backup
+systems:
+uPortable pumps to remove
+flood water
+uAlternate power sources suchas generators or gasoline-pow-ered pumps
+uBattery-powered emergencylighting
+• Participate in community flood
+control projects.
+Hurricanes bring torrential
+rains and a storm surge of oceanwater that crashes into land as thestorm approaches. Hurricanesalso spawn tornadoes.
+Hurricane advisories are issued
+by the National Weather Serviceas soon as a hurricane appears tobe a threat.
+
+The hurricane seasonlasts from June through November.
+Planning
+Considerations
+The following are considera-
+tions when preparing for hurri-canes:
+• Ask your local emergency man-
+agement office about communi-ty evacuation plans.
+• Establish facility shutdown pro-
+cedures. Establish warning andevacuation procedures. Makeplans for assisting employeeswho may need transportation.
+• Make plans for communicating
+with employees’ families beforeand after a hurricane.
+• Purchase a NOAA Weather
+Radio with a warning alarmtone and battery backup.Listen for hurricane watchesand warnings.Hurricane Watch — A hurricane is
+possible within 24 to 36 hours. Stay
+tuned for additional advisories. Tune
+to local radio and television stations
+for additional information. An evacua-
+tion may be necessary.
+Hurricane Warning — A hurricane
+will hit land within 24 hours. Take
+precautions at once. If advised, evac-
+uate immediately.
+• Survey your facility. Make
+plans to protect outside equip-ment and structures.
+• Make plans to protect windows.
+Permanent storm shutters offerthe best protection. Coveringwindows with 5/8” marine ply-wood is a second option.
+• Consider the need for backup
+systems:
+uPortable pumps to remove
+flood water
+uAlternate power sources suchas generators or gasoline-pow-ered pumps
+uBattery-powered emergencylighting
+• Prepare to move records, com-
+puters and other items withinyour facility or to another location.HURRICANES. Hurricanes are severe tropical storms with sustained
+winds of 74 miles per hour or greater. Hurricane winds can reach 160 miles perhour and extend inland for hundreds of miles. HURRICANES
+PAGE 57HAZARDS
+Spawned from powerful thun-
+derstorms, tornadoes can uproottrees and buildings and turn harm-less objects into deadly missiles ina matter of seconds. Damagepaths can be in excess of one milewide and 50 miles long.
+Tornadoes can occur in any
+state but occur more frequently inthe Midwest, Southeast andSouthwest.
+
+They occur with littleor no warning.
+Planning
+Considerations
+The following are considera-
+tions when planning for torna-does:
+• Ask your local emergency man-
+agement office about the com-munity’s tornado warning system.
+• Purchase a NOAA Weather
+Radio with a warning alarmtone and battery backup.Listen for tornado watches andwarnings.Tornado Watch — Tornadoes are
+likely. Be ready to take shelter. Stay
+tuned to radio and television stations
+for additional information.
+Tornado Warning — A tornado has
+been sighted in the area or is indicat-
+ed by radar. Take shelter immediately.
+• Establish procedures to inform
+personnel when tornado warn-ings are posted. Consider theneed for spotters to be responsi-ble for looking out forapproaching storms.
+• Work with a structural engineer
+or architect to designate shelterareas in your facility. Ask yourlocal emergency managementoffice or National WeatherService office for guidance.
+• Consider the amount of space
+you will need. Adults requireabout six square feet of space;nursing home and hospitalpatients require more.
+• The best protection in a torna-
+do is usually an undergroundarea. If an underground area isnot available, consider:TORNADOES. Tornadoes are incredibly violent local storms that
+extend to the ground with whirling winds that can reach 300 mph. TORNADOES
+PAGE 59HAZARDS
+PAGE 60uSmall interior rooms on the
+lowest floor and without windows
+uHallways on the lowest flooraway from doors and windows
+uRooms constructed with rein-forced concrete, brick or blockwith no windows and a heavyconcrete floor or roof systemoverhead
+uProtected areas away fromdoors and windows
+Note: Auditoriums, cafeterias
+and gymnasiums that are coveredwith a flat, wide-span roof are notconsidered safe.
+• Make plans for evacuating per-
+sonnel away from lightweightmodular offices or mobilehome-size buildings.
+
+Thesestructures offer no protectionfrom tornadoes.
+• Conduct tornado drills.• Once in the shelter, personnel
+should protect their heads withtheir arms and crouch down.
+Planning
+Considerations
+Following are considerations
+for preparing for winter storms:
+• Listen to NOAA Weather
+Radio and local radio and tele-vision stations for weatherinformation:
+Winter Storm Watch — Severe win-
+ter weather is possible.
+Winter Storm Warning — Severe
+winter weather is expected.
+Blizzard Warning — Severe winter
+weather with sustained winds of at
+least 35 mph is expected.
+Traveler’s Advisory — Severe win-
+ter conditions may make driving diffi-
+cult or dangerous.• Establish procedures for facility
+shutdown and early release ofemployees.
+• Store food, water, blankets, bat-
+tery-powered radios with extrabatteries and other emergencysupplies for employees whobecome stranded at the facility.
+• Provide a backup power source
+for critical operations.
+• Arrange for snow and ice
+removal from parking lots,walkways, loading docks, etc.SEVERE WINTER
+STORMS
+PAGE 61HAZARDSSEVERE WINTER STORMS. Severe winter storms bring heavy
+snow, ice, strong winds and freezing rain. Winter storms can prevent employ-ees and customers from reaching the facility, leading to a temporary shutdownuntil roads are cleared. Heavy snow and ice can also cause structural damageand power outages.
+Earthquakes can seriously dam-
+age buildings and their contents;disrupt gas, electric and telephoneservices; and trigger landslides,avalanches, flash floods, fires andhuge ocean waves called tsunamis.Aftershocks can occur for weeksfollowing an earthquake.
+In many buildings, the greatest
+danger to people in an earthquakeis when equipment and non-struc-tural elements such as ceilings,partitions, windows and lightingfixtures shake loose.
+Planning
+Considerations
+Following are guidelines for
+preparing for earthquakes:
+• Assess your facility’s vulnerabil-
+ity to earthquakes. Ask localgovernment agencies for seis-mic information for your area.
+• Have your facility inspected by
+a structural engineer. Developand prioritize strengtheningmeasures.
+
+These may include:
+uAdding steel bracing to frames
+uAdding sheer walls to frames
+uStrengthening columns and
+building foundations
+uReplacing unreinforced brickfiller walls• Follow safety codes when con-
+structing a facility or makingmajor renovations.
+• Inspect non-structural systems
+such as air conditioning, com-munications and pollution con-trol systems. Assess the poten-tial for damage. Prioritize mea-sures to prevent damages.
+• Inspect your facility for any
+item that could fall, spill, breakor move during an earthquake.Take steps to reduce these hazards:
+uMove large and heavy objects
+to lower shelves or the floor.Hang heavy items away fromwhere people work.
+uSecure shelves, filing cabinets,tall furniture, desktop equip-ment, computers, printers,copiers and light fixtures.
+uSecure fixed equipment andheavy machinery to the floor.Larger equipment can beplaced on casters and attachedto tethers which attach to thewall.
+uAdd bracing to suspendedceilings, if necessary.
+uInstall safety glass whereappropriate.
+uSecure large utility andprocess piping. EARTHQUAKES. Earthquakes occur most frequently west of the
+Rocky Mountains, although historically the most violent earthquakes haveoccurred in the central United States. Earthquakes occur suddenly and withoutwarning.EARTHQUAKES
+PAGE 63HAZARDS
+• Keep copies of design drawings
+of the facility to be used inassessing the facility’s safetyafter an earthquake.
+• Review processes for handling
+and storing hazardous materials.Have incompatible chemicalsstored separately.
+• Ask your insurance carrier
+about earthquake insuranceand mitigation techniques.
+• Establish procedures to deter-
+mine whether an evacuation isnecessary after an earthquake.
+• Designate areas in the facility
+away from exterior walls andwindows where occupantsshould gather after an earth-quake if an evacuation is notnecessary.• Conduct earthquake drills.
+Provide personnel with the fol-lowing safety information:
+uIn an earthquake, if indoors,
+stay there. Take cover under asturdy piece of furniture orcounter, or brace yourselfagainst an inside wall. Protectyour head and neck.
+uIf outdoors, move into theopen, away from buildings,street lights and utility wires.
+uAfter an earthquake, stayaway from windows, skylightsand items that could fall.
+
+Donot use the elevators.
+uUse stairways to leave thebuilding if it is determinedthat a building evacuation isnecessary.
+PAGE 64
+HAZARDS
+Planning
+Considerations
+The following are suggestions
+for planning for technologicalemergencies:
+• Identify all critical operations,
+including:
+uUtilities including electric
+power, gas, water, hydraulics,compressed air, municipal andinternal sewer systems, waste-water treatment services
+uSecurity and alarm systems,elevators, lighting, life support systems, heating, ventilationand air conditioning systems,electrical distribution system.
+uManufacturing equipment,pollution control equipment
+uCommunication systems, bothdata and voice computer net-works
+uTransportation systemsincluding air, highway, rail-road and waterway
+• Determine the impact of
+service disruption.
+• Ensure that key safety and
+maintenance personnel arethoroughly familiar with allbuilding systems.• Establish procedures for restor-
+ing systems. Determine needfor backup systems.
+• Establish preventive mainte-
+nance schedules for all systemsand equipment.TECHNOLOGICAL EMERGENCIES.
+
+Technological emer-
+gencies include any interruption or loss of a utility service, power source, lifesupport system, information system or equipment needed to keep the businessin operation.TECHNOLOGICAL
+EMERGENCIES
+PAGE 65
+This section provides information sources:
+• Additional Readings from FEMA• Ready-to-Print Brochures• Emergency Management OfficesINFORMATION SOURCES4SECTION
+ADDITIONALREADINGSFROM FEMA
+PAGE 69SOURCES
+•Principal Threats FacingCommunities and LocalEmergency ManagementCoordinator s(FEMA 191) —
+Statistics and analyses of natur-al disasters and man-madethreats in the U.S.
+•Floodproofing Non-ResidentialStructure s(FEMA 102) —
+Technical information for
+building owners, designers andcontractors on floodproofingtechniques (200 pages).
+•Non-Residential Flood-proofing —Requirements and
+Certification for BuildingsLocated in Flood Hazard Areasin Accordance with theNational Flood InsuranceProgram (FIA-TB-3) —
+Planning and engineering con-siderations for floodproofingnew commercial buildings.•Building Performance:Hurricane Andrew in Florida(FIA 22) — Technical guid-
+ance for enhancing the perfor-mance of buildings in hurri-canes.
+•Building Performance:Hurricane Iniki in Hawaii (FIA 23) — Technical guid-
+ance for reducing hurricane andflood damage.
+•Answers to Questions AboutSubstantially DamagedBuildings (FEMA 213) —
+Information about regulationsand policies of the NationalFlood Insurance Programregarding substantially damagedbuildings (25 pages).
+•Design Guidelines for FloodDamage Reductio n(FEMA 15)
+— A study on land use, water-shed management, design andconstruction practices in flood-prone areas.
+•Comprehensive EarthquakePreparedness PlanningGuidelines: Corporat e(FEMA
+71) — Earthquake planningguidance for corporate safetyofficers and managers.ADDITIONAL READINGS FROM FEMA .
+
+The following
+publications can be obtained from FEMA by writing to: FEMA, Publications, P.O.
+Box 2012, Jessup, MD  20794-2012.
+Select any of the brochures
+below, and you’ll receive camera-
+ready materials, printing instruc-tions and ideas for adding yourown logo or sponsor message.Write to:  Camera-ready Requests,
+Community & Family Preparedness
+Program,  500 C Street, S W
+Washington, DC  20472.•Your Family Disaster Plan —
+A 4-step plan for individualsand families on how to preparefor any type of disaste r.
+•Emergency PreparednessChecklist — An action check-
+list on home safet y, evacuation
+and disaster preparedness.•Your Family Disaster Supplies
+Kit — A checklist of emergency
+supplies for the home and ca r.
+•Helping Children Cope WithDisaster — Practical advice on
+how to help children deal withthe stress of disaste r.READY-TO-PRINTBROCHURES
+PAGE 71SOURCESREAD Y-TO-PRINT BROCHURE MECHANICALS FOR
+YOUR EMPLOYEE SAFETY PROGRAM .You can provide
+your employees and customers with life-saving information from FEMA and theAmerican Red Cross.
+
+Available at no charge is ready-to-print artwork for a
+series of brochures on disaster preparedness and family safet y.
+EMERGENCY MANAGEMENT OFFICES
+EMERGENCYMANAGEMENTOFFICES
+PAGE 73SOURCES
+FEMA Headquarters
+Federal Emergency
+Management Agenc y, 500 C
+Street, S W, Washington, DC
+20472, (202)646-2500.
+FEMA RegionalOffices
+•Region 1:  Boston
+(617)223-9540
+•Region 2:  New York
+(212)225-7209
+•Region 3:  Philadelphia
+(215)931-5500
+•Region 4:  Atlanta
+(404)853-4200
+•Region 5:  Chicago
+(312)408-5500
+•Region 6:  Denton, TX
+(817)898-5104
+•Region 7:  Kansas Cit y, MO
+(816)283-7061
+•Region 8:  Denver
+(303)235-1813
+•Region 9:  San Francisco
+(415)923-7100
+•Region 10: Bothell, WA
+(206)487-4604State EmergencyManagement Agencies
+(FEMA region numbers are in
+parentheses.)Alabama (4)Alabama Emergency ManagementAgency5898 S. County Rd.41  Drawer 2160Clanton, AL  35045-5160(205)280-2201Alaska (10)Department of Military & Veteran AffairsP.O. Box 5750Camp Denali, AK  99595-5750(907)428-7000Arizona (9)Arizona Division of EmergencyServicesNational Guard Bldg.5636 E. McDowell Rd.Phoenix, AZ  85008(602)231-6245Arkansas (6)Office of Emergency ServicesP.O.
+
+Box 758
+Conwa y, AR  72032
+(501)321-5601California (9)Office of Emergency Services2800 Meadowview Rd.Sacramento, CA  95823(916)262-1816
+Colorado (8)Colorado Office of EmergencyManagementCamp George West
+Golden, CO  80401(303)273-1622Connecticut (1) Connecticut Office of EmergencyManagement360 Broad St.Hartford, CT  06105(203)566-3180Delaware (3)Division of Emergency Planningand OperationsP.O. Box 527
+Delaware Cit y, DE  19706
+(302) 326-6000District of Columbia (3)Office of Emergency Preparedness200 14th St., N W, 8th Floor
+Washington, DC  20009
+(202)727-3159Florida (4)Division of EmergencyManagement2555 Shumar Oak Blvd.Tallahassee, FL  32399-2100
+(904)413-9969Georgia (4)Georgia Emergency ManagementAgencyP.O. Box 18055
+Atlanta, GA  30316-0055(404)635-7001Hawaii (9)State Civil Defense3949 Diamond Head Rd.Honolulu, HI  96816-4495(808)733-4300Idaho (10)Bureau of Disaster Services650 W. State St.
+Boise, ID  83720(208)334-2336Illinois (5)Illinois Emergency ManagementAgency110 E. Adams St.Springfield, IL  62706(217)782-2700Indiana (5)Indiana Emergency ManagementAgencyState Office Bldg., Room E-208302 W. Washington St.
+Indianapolis, IN  46204(317)232-3980Iowa (7)Iowa Emergency ManagementDivisionHoover State Office Bldg.Level A, Room 29Des Moines, IA  50319(515)281-3231Kansas (7)Division of Emergency Preparedness2800 S.W.
+
+Topeka BlvdT o p  e k a  , K S    6 6 6 1 1 - 1 4 0 1 (913)274-1401Kentucky (4)Kentucky Disaster and EmergencyServices
+100 Minutemen Pkwy
+Frankfort, KY  40601-6168(502)564-8682Louisiana (6)Office of Emergency PreparednessDepartment of Public SafetyLAMilitary Dept.
+P.O. Box 44217
+Capitol StationBaton Rouge, LA  70804(504)342-5470Maine (1)Maine Emergency ManagementAgency
+ 72 State House Station
+Augusta, ME  04333-0072(207)287-4080Maryland (3)Maryland EmergencyManagement and Civil DefenseAgencyTwo Sudbrook Ln., East
+Pikesville, MD  21208(410)486-4422
+PAGE 74
+PAGE 75Massachusetts (1)Massachusetts EmergencyManagement AgencyP.O. Box 1496Framingham, MA  01701-0317(508)820-2000Michigan (5)Emergency Management DivisionMichigan State Police300 S. Washington Sq.
+Suite 300Lansing, MI  48913(517)366-6198Minnesota (5)Division of Emergency ServicesDepartment of Public SafetyState Capitol, B-5St. Paul, MN  55155(612)296-0450Mississippi (4)Mississippi EmergencyManagement AgencyP.O. Box 4501, Fondren Station
+Jackson, MS  39296(601)352-9100Missouri (7)State Emergency ManagementAgencyP.O. Box 116
+Jefferson Cit y, MO  65102
+(573)526-9101Montana (8)Emergency ManagementSpecialistDisaster and Emergency ServicesP.O. Box 4789
+Helena, MT  59604-4789(406)444-6911NebraskaNebraska Civil Defense AgencyNational Guard Center1300 Military RoadLincoln, NE  68508-1090(402)471-7410Nevada (9)Nevada Division of EmergencyServices2525 S.
+
+Carson St.Carson Cit y, NV  89710
+(702) 687-4240New Hampshire (1)Governor ’s Office of Emergency
+ManagementState Office Park South107 Pleasant St.Concord, NH  03301-3809(603)271-2231New Jersey (2)Office of Emergency ManagementP.O. Box 7068
+W. Trenton, NJ  08628-0068
+(609)538-6050New Mexico (6)Emergency Planning andCoordinationDepartment of Public Safety4491 Cerrillos Rd.P.O. Box 1628
+Santa Fe, NM  87504-1628(505)827-9222New York (2)
+State Emergency ManagementOffice
+Bldg. #22,  Suite 101
+Alban y, NY  12226-2251
+(518)457-2222North CarolinaDivision of EmergencyManagement116 West Jones St.
+Raleigh, NC  27603-1335(919)733-5406North Dakota (8)North Dakota Division ofEmergency ManagementP.O. Box 5511
+Bismarck, ND  58502-5511(701) 328-3300Ohio (5)Ohio Emergency ManagementAgency2825 W. Dublin Granville Rd.
+Columbus, OH  43235-2206(614)889-7150Oklahoma (6)Oklahoma Civil Defense P.O. Box 53365
+Oklahoma Cit y, OK  73152-3365
+(405)521-2481
+Oregon (10)Emergency Management DivisionOregon State ExecutiveDepartment595 Cottage St., NESalem, OR  97310
+(503)378-2911Pennsylvania (3)Pennsylvania EmergencyManagement AgencyP.O. Box 3321
+Harrisburg, PA  17105-3321
+(717) 651-2007Puerto Rico (2)State Civil DefenseCommonwealth of Puerto RicoP.O.
+
+Box 5127
+San Juan, PR  00906(809)724-0124Rhode Island (1)Rhode Island EmergencyManagement Agency675 New London AvenueCranston, RI  02920(401)  946-9996South Carolina (4)South Carolina EmergencyManagement Division1429 Senate St., Rutledge Bldg.Columbia, SC  29201-3782(803)734-8020South Dakota (8)Division of Emergency andDisaster ServicesState Capitol, 500 East CapitolPierre, SD  57501(605)773-3231Tennessee (4)
+Tennessee Emergency
+Management Agency3041  Sidco Dr. P.O. 41502  Nashville, TN  37204-1502(615)741-6528Texas (6)
+Division of EmergencyManagementP.O. Box 4087
+Austin, TX  78773-0001(512)424-2000Utah (8)Division of ComprehensiveEmergency ManagementSate Office Bldg., Room 1110Salt Lake Cit y, UT  84114
+(801)538-3400Vermont (1)
+Vermont Emergency Management
+AgencyDept. of Public SafetyWaterbury State Complex
+103 S. Main St.Waterbur y, VT  05671-2101
+(802)244-8271Virgin Islands (2)
+Territorial Emergency ManagementAgencyA & Q Building # 2c Estate ContentSt Thomas, VI  00820(809)773-2244Virginia (3)
+Department of EmergencyServicesP.O. Box 40955Richmond, VA  23225-6491
+(804)674-2497Washington (10)
+Division of EmergencyManagement4220 E. Martin Way, MS-PT 11
+Olympia, WA  98504-0955
+(360) 923-4505West Virginia (3)
+West Virginia Office of
+Emergency ServicesState Capitol ComplexRoom EB80Charleston, WV  25305-0360(304)558-5380Wisconsin (5)Division of EmergencyGovernment2400 Wright  St. P.O. Box 7865Madison, WI  53707(608) 242-3232Wyoming (8)Wyoming Emergency
+Management AgencyP.O.
+
+Box 1709
+Cheyenne, WY  82003(307)777-7566
+PAGE 76
+TYPE OF EMERGENCY ProbabilityHuman
+ImpactProperty
+ImpactBusiness
+ImpactInternal
+ResourcesExternal
+Resources Total
+51High Impact Low Impact 51Weak
+ResourcesStrong
+Resources 51High LowVulnerability Analysis ChartThe lower the score the better
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+MANAGEMENT
+ORIENTATION/REVIEW
+EMPLOYEE
+ORIENTATION/REVIEW
+CONTRACTOR
+ORIENTATION/REVIEW
+COMMUNITY/MEDIA
+ORIENTATION/REVIEW
+MANAGEMENT
+TABLETOP EXERCISE
+RESPONSE TEAM
+TABLETOP EXERCISE
+WALK-THROUGH
+DRILL
+FUNCTIONAL
+DRILLS
+EVACUATION
+DRILL
+FULL-SCALE
+EXERCISETraining Drills and Exercises
+

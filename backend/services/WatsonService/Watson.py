@@ -1,6 +1,4 @@
 import requests
-import os
-import subprocess
 import json
 from config import settings
 import logging
@@ -19,6 +17,7 @@ class Watson:
             cls._instance.service_url = settings.WATSON_SERVICE_URL
             cls._instance.model_id = settings.WATSON_MODEL_ID
             cls._instance.project_id = settings.WATSON_PROJECT_ID
+            cls._instance.slate_model_id = settings.SLATE_MODEL_ID
         return cls._instance
 
     def query_prompt(self, prompt="Say Hello World"):
