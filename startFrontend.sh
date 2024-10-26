@@ -1,0 +1,3 @@
+cd ./frontend
+
+./start.sh
