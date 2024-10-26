@@ -2,9 +2,12 @@ from services.WatsonService.Watson import Watson
 from services.database.database import Database
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import JSONResponse
+from dotenv import load_dotenv
 import uvicorn
 import os
 
+
+load_dotenv()
 app = FastAPI()
 
 watson_instance = Watson()
