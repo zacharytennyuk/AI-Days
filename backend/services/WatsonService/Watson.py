@@ -15,7 +15,8 @@ class Watson:
             cls._instance = super(Watson, cls).__new__(cls)
             cls._instance.key = os.getenv("WATSON_API_KEY")
             cls._instance.url = os.getenv("WATSON_SERVICE_URL")
-            cls._instance.model = os.getenv("WATSON_MODEL_ID")
+            cls._instance.modelID = os.getenv("WATSON_MODEL_ID")
+            cls._instance.projectID = os.getenv("WATSON_PROJECT_ID")
 
             authenticator = IAMAuthenticator(cls._instance.key)
             cls._instance.language_translator = LanguageTranslatorV3(
@@ -41,8 +42,8 @@ class Watson:
                 "stop_sequences": [],
                 "repetition_penalty": 1
             },
-            "model_id": self.model,
-            "project_id": "94f25e9f-d72a-4b5f-9d96-f1e6380e8d9b"
+            "model_id": self.modelID,
+            "project_id": self.projectID
         }
 
         curl_command = [
