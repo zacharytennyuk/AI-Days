@@ -1,5 +1,5 @@
 from services.WatsonService.Watson import Watson
-from services.Database.Database import Database
+from services.database.database import Database
 from fastapi import FastAPI, File, UploadFile
 from fastapi.responses import JSONResponse
 import uvicorn
