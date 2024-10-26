@@ -76,12 +76,13 @@ const SelectonSection = () => {
                                   justifyContent: 'center',
                                   alignItems: 'center',
                                   flexDirection: 'column',
+                                  borderWidth: '2px'
                                 }}
-                                variant="contained"
+                                variant="outlined"
                                 onClick={handleScroll}
                             >
                                 <img src={disaster.image} alt={`${disaster.name} icon`} style={{ width: 30, height: 30 }} />
-                                <Typography sx={{marginTop: "8px"}} variant="p">{disaster.name}</Typography>
+                                <Typography sx={{marginTop: "8px", color: "black"}} variant="p">{disaster.name}</Typography>
                             </Button>
                         ))}
                     </Box>
@@ -100,12 +101,13 @@ const SelectonSection = () => {
                                     justifyContent: 'center',
                                     alignItems: 'center',
                                     flexDirection: 'column',
+                                    borderWidth: '2px'
                                 }}
-                                variant="contained"
+                                variant="outlined"
                                 onClick={handleScroll}
                             >
                                 <img src={disaster.image} alt={`${disaster.name} icon`} style={{ width: 30, height: 30 }} />
-                                <Typography sx={{marginTop: "8px"}} variant="p">{disaster.name}</Typography>
+                                <Typography sx={{marginTop: "8px", color: "black"}} variant="p">{disaster.name}</Typography>
                             </Button>
                         ))}
                     </Box>
