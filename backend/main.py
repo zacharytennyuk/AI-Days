@@ -11,18 +11,25 @@ watson_instance = Watson()
 database_instance = Database()
 
 SAVE_DIRECTORY = "./files"
-if not os.path.exists(SAVE_DIRECTORY):
-    os.makedirs(SAVE_DIRECTORY)
+os.makedirs(SAVE_DIRECTORY, exist_ok=True)
+
 
 @app.get("/")
 def read_root():
-    watsonInstance.queryPrompt()
-    return {"Hello": "World"}
+    response = watson_instance.query_prompt()
+    if "error" in response:
+        raise HTTPException(status_code=500, detail=response["error"])
+    return {"response": response}
+
 
 @app.get("/insert")
-def read_root():
-    databaseInstance.insert()
-    return {"Hello": "World"}
+def insert_data():
+    try:
+        database_instance.insert()
+        return {"status": "Data inserted successfully"}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
 
 if __name__ == "__main__":
     uvicorn.run("main:app", host="127.0.0.1", port=8000, reload=True)
