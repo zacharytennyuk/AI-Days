@@ -1,6 +1,6 @@
 import os
 from dotenv import load_dotenv
-from ibm_watson import LanguageTranslatorV3
+from ibm_watson import LanguageTranslatorV3 
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 import subprocess
 import json
@@ -17,13 +17,6 @@ class Watson:
             cls._instance.url = os.getenv("WATSON_SERVICE_URL")
             cls._instance.modelID = os.getenv("WATSON_MODEL_ID")
             cls._instance.projectID = os.getenv("WATSON_PROJECT_ID")
-
-            authenticator = IAMAuthenticator(cls._instance.key)
-            cls._instance.language_translator = LanguageTranslatorV3(
-                version='2023-10-26',
-                authenticator=authenticator
-            )
-            cls._instance.language_translator.set_service_url(cls._instance.url)
         return cls._instance
 
     def getTranslation(self):
