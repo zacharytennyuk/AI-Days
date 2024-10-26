@@ -53,6 +53,8 @@ class Watson:
         except requests.exceptions.RequestException as e:
             print(f"Error querying Watson: {e}")
             return {"error": str(e)}
+        
+        
 
     def generate_embedding(self, texts):
         """

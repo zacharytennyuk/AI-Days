@@ -32,6 +32,9 @@ def insert_data():
         return {"status": "Data inserted successfully"}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+    
+# TODO - endpoint to recieve data from frontend to send to LLM
+
 
 
 if __name__ == "__main__":
