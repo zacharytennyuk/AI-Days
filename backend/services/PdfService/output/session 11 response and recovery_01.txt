@@ -1,0 +1,740 @@
+Session 11: Earthquake Disaster Response and Recovery
+Earthquake Hazard and Emer gency Management 11-1 Session No. 11
+Course Title:  Earthquake Hazard and Emergency Management
+Session Title: Earthquake Disaster Response and Recovery
+ Author: James R. Martin, II
+Time:   180 minutes.
+______________________________________________________________________________
+Objectives:
+11.1 Define disaster response a nd describe the ways which ea rthquake disaster response is
+unique from response to  other disasters.
+ 11.2 List the general objectives of  earthquake emergency response.
+11.3 Identify the specific activities associat ed with earthquake em ergency response.
+ 11.4 Describe hazard management steps that prom ote effective earthquake  disaster response.
+ 11.5 List typical deficiencies in  earthquake emergency response.
+ 11.6 Describe innovative tools th at are being developed to a ssist in response efforts.
+ 11.7 Define disaster recovery a nd discuss major concepts associ ated with earthquake disaster
+recovery.
+ 11.8 Discuss specific recovery ac tivities and issues associated with earthquake disaster
+recovery planning.
+ 11.9 Discuss important keys to effective recove ry operations so that economic and social
+impact will be minimized.
+ 11.10 Describe typical deficien cies in earthquake recove ry activities and operation.
+ _____________________________________________________________________________
+Scope:
+The objective of this series of lectures is to introduce the student to the general principals
+associated with earthquake response and recovery  for earthquake disasters. This session also
+provides information concerning the measures and activities typically invo lved with earthquake
+response and recovery and how su ch measures affect the scal e of earthquake disasters.
+Session 11: Earthquake Disaster Response and Recovery
+Earthquake Hazard and Emer gency Management 11-2 Important keys for effective disaster response and recovery are presen ted. A discussion of
+response activities and issues, follo wed by recovery, is presented. .
+_____________________________________________________________________________
+Readings:
+Suggested student readings:
+Meliti, D. 1999. Disasters by Design: A Reassessment of  Natural Hazards in the United States .
+Joseph Henry Press. Chapters 7, 8, and 9, pp. 209-289.
+ Quarantelli, E. L. 1999. The Disaster Recovery Process: What  We Know and Do Not Know from
+Research . Disaster Research Center.
+
+Newark: Un iversity of Delaware, available from
+http://www.udel.edu/DRC/preliminary/pp286.pdf.
+ http://www.fema.gov/rrr/frp/
+Required instructor reading and resources:
+Meliti, D. 1999. Disasters by Design: A Reassessment of  Natural Hazards in the United States .
+Joseph Henry Press. Chapters 7, 8, and 9, pp. 209-289.
+ Quarantelli, E. L. 1999. The Disaster Recovery Process: What  We Know and Do Not Know from
+Research . Disaster Research Center. Newark: Un iversity of Delaware, available from
+http://www.udel.edu/DRC/preliminary/pp286.pdf.
+http://www.fema.gov/rrr/frp/
+____________________________________________________________________________
+ Electronic visuals included: [ see Session 11 – Electronic Visuals.ppt ]
+11.1 Moderate Failure Severe Di sruption (Oakland Bay Bridge)
+11.2 Time Required for Lifeline Restoration
+11.3 Collapse of Cypress Freeway during 1989 LPE
+ Handouts Included:   Handout 11.1 Classroom Discussion Assignment 11.1
+Handout 11.2 Homework Assignment 11.2
+_____________________________________________________________________________
+General Requirements:
+The session involves discussion of  both earthquake response and r ecovery operations. Objectives
+11.1 – 11.6 cover the topic of response , and Objectives 11.7 - 11.10 discuss recovery  activities.
+The concept of disaster respons e and recovery already has been  introduced to the student in
+Session 11: Earthquake Disaster Response and Recovery
+Earthquake Hazard and Emer gency Management 11-3 earlier discussions, especially in  Session 8 where the four disast er phases were presented in a
+general manner. The instructor should repeat th is and explain that this session will focus on
+issues associated specifically with earthquake disasters . There also will be overlap with other
+sessions, e.g., Session 7, in which earthquakes e ffects were discussed, and we saw that key
+lifelines, such as major transportation routes, were likely be damaged, even in moderate earthquakes. Such disruption obviously will pose  severe impediments to both response and
+recovery operations.
+
+This session also will ove rlap with Session 14, which will cover earthquake
+planning, as planning is involved with all phases and aspects of  earthquake disasters. Such
+overlap is purposeful and advantageous in that  the most important issues hopefully will be re-
+emphasized. The students should be encouraged to make the connections among the various
+sessions and discuss them. The instructor should begin this session by defining and discussing earthquake disaster
+response . It is important to discuss differences be tween response to earthquake disasters and
+other hazards, such as floods or hurricanes (i .e., earthquakes occur with no warning). The
+instructor should present key i ssues that promote improved disa ster response and, conversely,
+discuss major challenges and impediments to re sponse. A classroom discussion assignment is
+included and should be handed out  following the end of the discussion of earthquake response
+(Objective 11.6). The assignment i nvolves a role-playing exercise to be completed by teams of
+students in which they will be required to c onsider actions and issues faced by emergency
+managers. Following the discussion on disaster response, the lecture should transition to earthquake disaster
+recovery, beginning with Objectiv e 11.7. The general approach used to discuss earthquake
+response should be used to presen t earthquake recovery. That is, earthquake disaster recovery
+should be defined, and then key issues, impedime nts, and deficiencies presented and discussed.
+A homework assignment is included and should be  distributed at the e nd of the session. One
+week should be allowed for completion. Electronic visual images presente d in these notes are
+included in the accompanying file: Session 11 Electronic Visuals.ppt. _____________________________________________________________________________
+Objective 11.1 Define disaster response and de scribe the ways which earthquake disaster
+response is unique from response to other disasters. Requirements:
+The content should be presented as lecture.
+Remarks:  I.
+
+Disaster response  activities are actions taken duri ng and immediately after disaster
+impact, and are designed to protect life and property and control secondary earthquake hazards (e.g., earthquake-induced fires and hazardous materials spills).
+These actions begin with the warning of an  oncoming threatening event or with the
+event itself if it occurs wi thout warning (i.e., most earthquakes provide no warning).
+Session 11: Earthquake Disaster Response and Recovery
+Earthquake Hazard and Emer gency Management 11-4
+A. Disaster response activi ties typically include:
+[Instructor note : The following categories will be cover ed and discussed in detail during
+the in-class discussion assi gnment to be covered at the end of Objective 11.6 ]
+1. Rapid damage assessment. 2. Search and rescue. 3. Emergency medical care. 4. Emergency restoration of essential services. 5. Fire-fighting. 6. Emergency communications. 7. Crisis decision-making. 8. Evacuation, protection of lives and property. 9. The provision of emergency shelter for victims. 10. Debris removal (also asso ciated with recovery).
+11. Other activities that take place during the immediate post-impact
+emergency period.
+ B. Disaster response also includes the implementation of disaster preparedness
+plans and procedures , thus overlapping with disaster preparedness .
+C. Response activities must address the need to deal with both event-generated
+demands  (i.e., problems directly created by th e disaster agent itself, such as
+injuries and physical damage) and response-generated challenges  (i.e., the need
+for rapid situation assessment and for information on which to base decisions; MCEER, 2000).
+II. The federal government, all states, and virt ually all communities in the United States
+have plans for responding to major disasters , including earthquakes, although both
+the quality of these planning efforts and th e demonstrated capacity to respond to
+major disasters varies considerably nationwide.
+A. Because major disasters, such as a ca tastrophic earthquake in an urban area,
+initially overwhelm available resources , perhaps the most significant challenge
+facing affected communities in the imme diate post-impact period is accurate
+Session 11: Earthquake Disaster Response and Recovery
+Earthquake Hazard and Emer gency Management 11-5 assessment of the situation and priori tization of response needs (MCEER,
+2000).
+B.
+
+A primary difference between responding to earthquake  events and other natural
+disasters is that  earthquakes occur without warning and tend to affect a
+widespread area even if the event is  moderate. Also, earthquakes affect
+above- and below- ground lifelines, a nd buried utilities and communication
+systems are more likely to be damaged during these events.
+III. Fast, reliable damage assessment during earthqu akes is vital, but is extremely difficult,
+particularly in large disaster earthquakes , as summarized in the following excerpt
+from MCEER’s Strategic Plan (2000):
+In the 1995 Kobe earthquake, for example, the response was delayed and significant
+problems developed due to government’s inab ility to evaluate the scope and severity
+of earthquake impacts and to mobilize resources. The same kinds of problems
+occurred in the United States following Hurricane Andrew in 1992, when government
+officials lacked timely, accurate data on the extent and location of damage, and as a
+result, were slow to recogni ze the hurricane’s near-catastrophic effects. Such problems
+could have been overcome had there been systems in place to rapidly detect damage and disruption on both macro and micro s cales while surmounting the enormous
+communications and transporta tion disruptions those disast ers produced (MCEER, 2000).
+Such systems currently do not exist,  either in the US or elsewhere. To avoid repeating
+these experiences in the next major nation al disaster, advanced damage-detection
+methods are needed, and data on damage and other impacts must be incorporated into effective crisis decision support systems.
+A. Thus, early warning systems  (such as TriNet and ShakeMaps used for early
+warning as discussed previously in Se ssion 6) and damage assessment/prediction
+tools (GPS, GIS mapping systems) that predict and illustrate probable
+damages from a number of disaster s cenarios are critically important.
+B.
+
+One key to enhancing the effectivene ss of response and recovery activities is
+promoting the adoption and use of technologies e.g., remote-sensing
+technologies for rapid post-event damage assessment and loss estimation) that
+would enable the organizations responsib le for coordinating those activities
+to deal with earthquake-related proble ms in a timely manner and to make
+decisions that are based on empirical data and sound management principles
+(MCEER, 2000).
+Objective 11.2 List the ge neral objectives of eart hquake emergency response.
+Requirements:
+The content should be presented as lecture.
+Session 11: Earthquake Disaster Response and Recovery
+Earthquake Hazard and Emer gency Management 11-6 Remarks:
+I. To ensure the survival of the maximum number of victims , keep them in the best
+possible health in the circumstances. Se arch and rescue operations in collapsed
+buildings is a particularly difficult cha llenge, especially in less developed areas
+where there is less machinery and rescue equipment.
+II. Reestablish self-sufficiency and essen tial services as quickly as possible  for all
+population groups, with special attention to  those whose needs are greatest, the most
+vulnerable and underprivileged. The continued operation of critical facilities (i.e.,
+hospitals, emergency centers, water treatment  facilities, air traffic control towers,
+etc.) and restoration of lifelines are essential  (MCEER, 2000; NRC, 2003).
+III. Inspection and condemnation of damaged infrastructure (especially unstable
+structures that may be dangerous due to  aftershocks) and emergency/temporary
+repairs should be made where feasible.
+IV. In cases involving population displacements an d temporary housing, the aim is to find
+durable solutions as quickly as possible , while ensuring protection and assistance as
+necessary in the meantime.
+V. Accomplish all of the abo ve in a “sustainable” manner  that contributes to long-term
+development goals and reduces vulnerability  to future damaging earthquakes or
+other hazards.
+Objective 11.3 Identify specifi c activities associated with  earthquake emergency response.
+Requirements:
+The content should be presented as lecture.
+Remarks:
+I.
+
+Specific  activities associated with earthquake emergency response:
+ [Note: The portion of the following was adapted from the Church World Service
+Emergency Response Training Course Manual (CWT/ACT, 2004)]
+A. Early Warning – Early warning  refers to arrangements to rapidly disseminate
+information concerning imminent eart hquake motion threats to government
+officials, institutions, and the population at  large in the areas at immediate risk.
+These warnings normally are generated by new systems such as TriNet, discussed in Session 6. While the warning system s only begin when earthquake shaking
+starts, it may allow actions such as moving to safer locations or shutting off of gas
+lines, etc. as the earthquake begins.
+Session 11: Earthquake Disaster Response and Recovery
+Earthquake Hazard and Emer gency Management 11-7 B. Evacuation/migration – Evacuation involves the relo cation of a population from
+zones at risk of an imminent  disaster to a safer location, especially if structures are
+susceptible to damage from aftershock.
+C. Search and rescue – Search and rescue (SAR), is the process of identifying the
+location of disaster victims who may be tr apped or isolated and bringing them to
+safety and medical attention. In the aftermath of earthquakes, SAR normally
+focuses on locating people who are trappe d and injured in collapsed buildings.
+D. Post-disaster assessment – The primary objective of assessment is to provide a
+clear, concise picture of the post-disaster situation, to identify relief needs, and to
+develop strategies for recovery. It determ ines options for humanitarian assistance,
+how best to utilize existing resources, or to develop requests fo r further assistance.
+The post-disaster assessment must di stinguish among pre-disaster chronic
+conditions, the needs of disaster survivors and thei r resources.
+E. Emergency relief – Emergency relief is the provision, on a humanitarian basis, of
+material aid and emergency medical care necessary to save and preserve human
+lives. It also enables families to meet their basic needs for medical and health
+care, shelter, clothing, water, and food (including the means to prepare food).
+Relief supplies or services typically are pr ovided, free of charge, in the days and
+weeks immediately following a sudden disaster.
+F. Logistics and supply – The delivery of emergency relief will require logistical
+facilities and capacity.
+
+A well- organized supply service is  crucial for handling the
+procurement or donation, storage, and dispat ch of relief supplies for distribution to
+disaster victims.
+G. Communication and information management – All of the above activities are
+dependent on communication. There are tw o key aspects to communications in
+disasters.
+1. The equipment essential for informa tion flow, such as radios, telephones,
+and their supporting systems of repeat ers, satellites, and transmission
+lines.
+ 2. The information management,that is, the protocol of knowing who
+communicates what information to whom, what priority is given to it, and
+how it is disseminated and interpreted.
+H. Survivor response and coping – In the rush to plan and execute a relief operation,
+it is easy to overlook the real needs and resources of the survivors.
+1. The assessment must take into account existing social coping mechanisms
+that negate the need to br ing in outside assistance.
+Session 11: Earthquake Disaster Response and Recovery
+Earthquake Hazard and Emer gency Management 11-8 2. On the other hand, disaster survivor s may have new and special needs for
+social services to help adjust to the trauma and disruption caused by the
+disaster.
+ 3. Participation in the disaster res ponse process by individuals to aid
+community organizations is a key to  healthy recovery. Through them,
+appropriate coping mechanisms will be most successfully utilized.
+I. Security – Security is not always a priority  issue after sudde n onset natural
+disasters. Typically, it is handled by civil defense or police departments.
+J. Emergency operations management – None of the above activities can be
+implemented without some degree of  emergency operations management.
+Policies and procedures for management re quirements need to be established well
+in advance of the disaster.
+K. Rehabilitation and reconstruction – Rehabilitation and rec onstruction complete
+the disaster response activities and merge with the recovery phase.
+II. Most communities with an emergency  response plan for earthquake disasters
+include the following categories in the response plan:
+[Instructor note : The following categories will be cover ed and discussed in detail during
+the in-class discussion assignm ent to be covered at the end of Objective 11.6. The
+relative importance of each of these can be considered and discussed in detail at that
+time.
+
+Some of the concepts, especially transpo rtation also are discussed in the following
+sections that discuss recovery. ]
+A. Health Services.
+ B. Emergency Social Services.
+ C. Law and Order.
+ D. Heavy Urban Search and Rescue.
+ E. Communications.
+ F. Damage Assessment.
+ G. Firefighting/Rescue.
+ H. Transportation.
+ I. Engineering and Construction.
+Session 11: Earthquake Disaster Response and Recovery
+Earthquake Hazard and Emer gency Management 11-9 J. Human Resources.
+ K. Coroner/Mortuary.
+ L. Hazardous Materials.
+ M. Public Information.
+ N. Food and Agriculture.
+ O. Finance and Insurance.
+ P. Utilities.
+III. Most disaster response activities are c oordinated and conducted at the local and
+state levels, but the federal government is a key player in major  disasters, as per the
+Federal Response Plan :
+A. This plan provides the mechanism for c oordinating delivery of federal assistance
+and resources to augment efforts of st ate and local governments overwhelmed by
+a major disaster.
+ B. The plan is implemented in anticipation of a significant event likely to result in a
+need for federal assistance or in respons e to an actual event requiring federal
+assistance under a presidential declaration of a major disaster or emergency (see
+http://www.fema.gov/rrr/frp/).
+Objective 11.4 Describe hazard management steps that promote effective earthquake
+disaster response .
+Requirements:
+The content should be presented as lecture.
+Remarks:
+ I. Hazard management steps to take to promote effective earthquake disaster
+response :
+[Instructor note : Major portions of the following lis t were adapted from MSSC (1997) ]
+A. Develop an integrated emer gency management system at all levels of government
+and the private sector to protect life, health, prop erty and the environment
+following an earthquake event.
+Session 11: Earthquake Disaster Response and Recovery
+Earthquake Hazard and Emer gency Management 11-10 B. Promote community emergency respons e teams (CERTs) statewide. Train
+volunteer community emergency response teams statewide.
+ C.
+
+Support the formation, training, and funding of urban search and rescue teams.
+Train and organize specialty teams designe d for intense search and rescue to
+augment local fire departments during major emergencies.
+ D. Promote development of emergency respons e plans at the state and local levels.
+Develop comprehensive emergency response plans at state and local levels and
+test plans through exercise s with first responders.
+ E. Promote the selection and training of qua lified local emergency response directors
+and their personnel. Establish minimum job qualifications for local emergency
+response directors and develop programs for these directors and their personnel.
+ F. Evaluate mass care exercise and tr aining programs for local emergency
+management and volunteer agencies who respond to disasters. Evaluate and
+promote coordination of current multi-agency training and exercise programs, specifically between local emergency ma nagement and voluntary agencies, under
+conditions expected after earthquakes. Prom ote identification of agency mass care
+roles and responsibilities in th e event of a major disaster.
+ G. Expand and promote training in disast er mortuary and identify potential
+temporary mortuary sites in major popul ation centers. Supp ort pre-disaster
+identification of temporary mortuary s ites that can be accessed immediately in
+major population centers.
+H. Enhance communication capability and coordination for emergency response
+between state and local governments and private groups. Develop viable
+alternative means of communi cations between state and local government entities
+and volunteer organizations.
+ I. Enhance ability of emergency response personnel, materials, and equipment to
+reach affected areas. Identify and upgrad e key transportation routes (roads, air,
+rail, and water) to areas w ith a high risk of damage in the event of a major
+earthquake.
+ J. Promote mutual aid agreements between political subdivisions at local and state
+levels. Support and encourage the estab lishment of mutual aid agreements.
+ K. Promote development of effective, coor dinated response plans for utilities. Assess
+and mitigate earthquake risks and damage to utilities.
+ L.
+
+Develop the capability to respond to mu ltiple hazardous materials incidents.
+Determine the potential for hazardous mate rial incidents following an earthquake
+and develop the necessary emergency response capability.
+Session 11: Earthquake Disaster Response and Recovery
+Earthquake Hazard and Emer gency Management 11-11
+Objective 11.5 List typical deficienci es in earthquake emergency response.
+Requirements:
+The content should be presented as lecture.
+Remarks:
+I. Emergency management and response sy stems continue to improve with each
+earthquake; however, systems can be strengthened further through greater
+collaboration and partnership with and between public, private, non-profit
+agencies, and the community (Californi a Seismic Safety Commission [CSSC],
+2003). According to CSSC, typical deficienci es in most communiti es still exist in:
+A. Resources needed for better co mmunication during an event.
+ B. Resources in and coordination between the public and private medical response
+systems.
+ C. Resources for sustained sear ch and rescue operations.
+ D. Adequate and sustained resources for em ergency management at all levels of
+government.
+ E. Most importantly, reliable and timel y damage assessment and decision support
+systems to accelerate and optimize response ac tivities. In fact, this deficiency is
+important enough to focus on and list severa l impediments to the development of
+knowledge and technologies that improve our ability to reliably and quickly assess
+damage and optimize response resources:
+1. The proprietary and/or classified natu re of the software and data needed
+for rapid post-earthquake loss estimation is another barrier that must be
+surmounted in order to conduct basic research and move toward the development of enabling technologie s. Many remote-sensing technologies
+have been developed for intelligence and defense purposes, and it is only recently that their use in hazard management has been considered.
+ 2. The difficulties with developing comple te inventories of elements in the
+built environment that are at risk in  order to validate advanced damage
+assessment models constitute yet another set of barriers to research progress.
+
+Inventory development is cu mbersome and expensive, and data
+sources that typically serve as the basis for inventories, such as tax
+Session 11: Earthquake Disaster Response and Recovery
+Earthquake Hazard and Emer gency Management 11-12 assessor’s records, do not take into account all at-risk structures and
+facilities.
+3. Recovery decision modeling likewise is hampered by a lack of
+comprehensive models that account for regional social and economic
+earthquake impacts and a shortage of  data from which to construct
+recovery decision support models.
+ 4. Implementation also is more difficu lt because of the inability of many
+governmental entities to take advant age of new emergency and recovery
+management tools due, for example, to lack of funds and trained personnel.
+11.6 Describe innovative tools that are being de veloped to assist in response efforts.
+Requirements:
+The contents should be presente d as lecture. The class discus sion assignment (Handout 11.1)
+should be conducted following this objective. [Instructor note : Some of this material will  also be discussed in fu ture sessions (i.e., Session 14) ]
+ Handouts Included:    Handout 11.1: Classroom Discussion Assignment
+Remarks:
+I. Geographical information systems (GIS ) are organized collections of hardware,
+software, geographic data, and personnel data designed to efficiently capture, store,
+update, manipulate, analyze, and display all forms of geographically referenced
+information.
+A. These systems can be used with se ismic models to forecast damages for
+earthquake scenarios and display the results in graphical format, such as digitized
+color maps.
+ B. Such data are extremely valuable for timely decision-making given a hazard
+event.
+ C. Some of these systems can be combined with early-warning systems to create an
+almost real-time graphical display of the shaking effects in a particular region.
+II. Global Positioning Systems (GPS)   are navigational systems involving satellites and
+computers that can determine the latitude  and longitude of a receiver on Earth by
+Session 11: Earthquake Disaster Response and Recovery
+Earthquake Hazard and Emer gency Management 11-13 computing the time difference for signals fr om different satellites to reach the
+receiver.
+A.
+
+Remote sensing via satellite and grou nd level (and subsurface) sensing via
+seismographs brings real-time warnings of quakes and their related hazards.
+ B. GPS technology can detect land movement  by monitoring changes in the position
+of ground-based stations monitored by sa tellites. Satellite imagery, GPS, and
+computer models also are leading to better land-use practices.
+ C. For example, the World Bank is planning to  assist countries such as Honduras and
+Turkey with a credit that will finance mapping of vulnerable areas, using GPS technology to help develop effective m onitoring systems to forecast natural
+hazards, including earthquakes, and to plan appropriate land use.
+III. Infrastructure and asset management  system  is an operational package that enables
+the systematic coordinated planning and programming of investments or
+expenditure, design, construction, mainte nance, rehabilitation and renovation,
+operation, and in-service evaluation of physi cal facilities. The system usually is a
+computer-based database of facilities. Thes e tools can be used in earthquake hazard
+operations to:
+A. Minimize costs.
+ B. Maximize benefits.
+C. Maximize safety.
+ D. Minimize disturbance to daily life.
+ E. Minimize response time.
+ [Instructor note : conduct classroom discussion using Handout 11.1 ]
+Objective 11.7 Define disaster recovery and discuss major concepts associated with
+earthquake disaster recovery. Requirements:
+The content should be presented as lectur e, supplemented by electronic visuals.
+Electronic Visuals Included:
+ Electronic visual 11.1 Moderate Failure Severe Disruption (O akland Bay Bridge)
+Electronic visual 11.2 Time Requi red for Lifeline Restoration
+Electronic visual 11.3 Collapse of  Cypress Freeway during 1989 LPE
+Session 11: Earthquake Disaster Response and Recovery
+Earthquake Hazard and Emer gency Management 11-14
+Remarks:  I. Recovery  is the phase of earthquake management  that aims to restore communities
+affected by disasters to a normal regime of social and economic activity. It involves
+not only repairing or replacing physi cal infrastructure damaged during an
+earthquake, but also rebuilding the econo mic strength and social stability of a
+community through appropriate fi nancial and regulatory programs.
+II.
+
+Recovery activities consist of actions ta ken to return to (or, ideally, exceed) pre-
+earthquake levels of activity and productivity.
+A. These actions include restori ng, repairing, and reconstructing lifelines and
+buildings , undertaking measures to overc ome earthquake-induced economic
+downturns, and providing fi nancial assistance to co mpensate for losses.
+ As discussed earlier in Session 7 re garding the effects of earthquakes upon
+lifelines, transportation systems have an esp ecially large impact on both the
+response and recovery efforts . Damage to transportation systems is
+particularly important because the repai r times for these systems typically is
+much longer than for other life lines, as shown in the visuals (see Chang,
+2000). [Visuals 11.1, 11.2, 11.3]
+Visual 11.1 – Photo of upper deck of Oakland Bay Bridge that slipped off its bearing seat
+during the 1989 Loma Prieta EQ. This was a moderate structural failure (inadequate beam
+seat width), but the disruption in the Bay area  was severe. More than one month was required
+for repair. Photo credit: CalTrans.
+Session 11: Earthquake Disaster Response and Recovery
+Earthquake Hazard and Emer gency Management 11-15
+Visual 11.2 – Graph illustrating time required fo r repair of lifelines following the 1995
+Kobe, Japan Earthquake. Note that the trans portation facilities re quired much longer
+repair times. Visual from Chang (2000).
+Visual 11.3 – Collapsed upper deck of the Cy press Freeway due to 1989 Loma Prieta
+Earthquake . The earthquake destroyed a 1¼-mile section of Interstate 880 . This was a major
+artery in the Oakland-Alameda area ea st of San Francisco. The poor seismic
+performance of this freeway promoted the en tire 5.2 mile-long section to be rebuilt. This
+project was very expensive ($1.2 billion) and was not completed until September 1998,
+nearly nine years after the earthquake (F HWA, 2004). Photo credit: CalTrans.
+Session 11: Earthquake Disaster Response and Recovery
+Earthquake Hazard and Emer gency Management 11-16 B.
+
+The recovery period typically is the ti me in which decisions are made about
+adopting new mitigation measures with the long-term objective of increasing
+the earthquake resistance of the built environment  (Mileti, 1999).
+III. If undertaken properly, recovery stra tegies can contain indirect and induced
+earthquake losses, shorten the recovery period for affected social units, and avoid
+future losses through improvements in mitigation (Mileti, 1999).
+IV. Earthquake disaster recovery  involves long-term efforts to:
+A. Reconstruct and restore the earthquake-stricken area , e.g. through repairing
+or replacing homes, businesses, pub lic works, and other structures.
+ B. Deal with the disruption that the disaster has caused  in community life and
+meet the recovery-related needs of victims.
+ C. Mitigate future hazards .
+V. Although the four disaster phases (p reparedness, mitigation, response, and
+recovery) may appear to be stages in a seque nce, they actually overlap and merge.
+For example,  decisions that have an impact on ea rthquake recovery often are made
+very soon after the disaster strikes, while  the emergency response is still ongoing.
+ VI. In the U.S., recognition has grown that it is highly desirable to plan for recovery
+before an earthquake occurs, and some comm unities (e.g., especially following the
+City of Los Angeles) have begun to move  in this direction (Mileti, 1999). However,  at
+present, earthquake response planning is much more extensive and more thoroughly
+institutionalized than recovery planning .
+VII. While we increasingly recognize that c oordinated strategies are needed to manage
+recovery following major earthquakes and ot her disasters, in order to minimize
+long-term negative social and economic impa cts, there is a lack of adequate data
+and tools to support recovery decision-making (MCEER, 2000).
+VIII. Recovery activities are related to mitigation. Effective mitigation can have a significant
+effect on a community’s ability to recover swiftly from an earthquake. For example, a
+high level of earthquake insurance lessens the financial burden on individuals and
+governments to replace damaged property, and frees up resources that can be applied to other aspects of the recovery effort.
+IX.
+
+The recovery from a ma jor earthquake transcends jurisdictional boundaries.
+A Reconstruction usually needs to be planned and carried out by groups of
+jurisdictions at least at the regional  level (i.e., see ac tivities by ABAG at
+http://www.abag.ca.gov/bayarea/eqmaps/eqmaps.html). Plans should be made
+ahead of time for rebuild ing the infrastructure.
+Session 11: Earthquake Disaster Response and Recovery
+Earthquake Hazard and Emer gency Management 11-17
+B. This initially entails developing an appr opriate way for exped iting the review of
+applications for rebuildin g immediately after an earthquake. But beyond this,
+governments should have some sense, based on a realistic earthquake
+scenario, of the likely effect that a major earthquake would have on the
+infrastructure. They should know which facilities would survive and which
+would not, and plan accordingly.
+Objective 11.8 Discuss specific r ecovery activities and issues associated with earthquake
+disaster recovery planning.
+Requirements:
+The content should be presented as lecture.
+Remarks:
+I. Disaster recovery planning basically involve s asking “What ifs” to prevent later “If
+onlys” (CSSC, 2000).
+II. Studies have found that pre-disaster pla nning can save lives and injuries, limit
+property damage, and minimize disruptio ns, enabling communities to recover more
+quickly (MCEER, 2000).
+III. Planning for recovery has a number of components. The following general planning
+steps are adapted from the California Seismic Safety Commission Strategic Plan
+(2003):
+A. Planning for “Business Continuation:” Business continuation planning is aimed
+at allowing an organization to resume its regular business activities as quickly as
+possible after a disaster. In the case of  governments, this means being able to
+continue to provide essentia l services to the public with as little disruption as
+possible. This is not just a matter of  marshalling physical resources; it also
+involves providing the appropriate author ities with human resources to enable
+government and business to continue under extreme conditions.
+ B. As with other aspects of emergency pr eparedness, business continuation planning
+should be an ongoing program from which an  organization develops and modifies
+its continuation plans.
+
+And to be fully e ffective, it should involve all members of
+the organization.
+ C. Dealing with Building Damage: Repairing and rebuilding damaged buildings is
+one element that covers the entire recove ry cycle. Initially, the concern is to
+prevent further loss of life or injury, pa rticularly from aftershocks following the
+initial seismic activity. Damage to stru ctures must be assessed and buildings
+Session 11: Earthquake Disaster Response and Recovery
+Earthquake Hazard and Emer gency Management 11-18 posted to indicate which buildings are safe  to use. A system of inspecting and
+posting key buildings is therefore essentia l if injury and loss of life are to be
+minimized.
+D. Inspections often take the form of two main evaluations: one rapid and one
+detailed:
+1. A rapid evaluation is carried out to identify and post apparently safe and
+obviously unsafe structures, and to de signate buildings whose strength and
+safety cannot be determined without  a more thorough examination. These
+evaluations usually are done by loca l building inspectors, assisted by
+volunteer civil/structural engineers, ar chitects, building contractors, and
+other individuals.
+ 2. A detailed evaluation is carried out  to evaluate and post buildings of
+questionable safety, usually those th at have already been posted as
+"Limited Entry." Detailed evaluations are designed to be performed by volunteer engineers within a few hours or days after the rapid evaluation
+phase, and are intended to provide re asonable assurance about whether a
+building can be returned to or not.
+ 3. The effectiveness of any post-earthq uake structural assessment program
+depends on effective protocols for the assessment. As well, it depends on a
+trained and accessible core of volunt eer engineers with the necessary
+authority, supplies, and equipm ent to perform their function.
+E. Removing Debris: A major earthquake is  likely to cause a significant amount
+of damage, so debris removal is a ke y element of recovery (as well as of
+response).
+1. Initially, streets must be cleared quickly to allow emergency vehicles
+access to help the injured and extinguish fires.
+ 2. Subsequently, removing what is le ft of destroyed buildings allows
+reconstruction to begin earlier. The personnel and equipment of
+governments and private sector companies probably will be needed to remove debris.
+ 3.
+
+Suitable places to dump earthquake r ubble will have to be identified so
+that environmental problems and higher future costs for cleanup can be avoided. Therefore, it is important for governments to identify potential
+disposal sites in advance, and to plan  for the logistics of moving debris to
+them.
+Session 11: Earthquake Disaster Response and Recovery
+Earthquake Hazard and Emer gency Management 11-19 4. The authority to make decisions abou t the disposition of debris should be
+assigned before the event, since such decisions will have to be made quickly once the emergency has occurred.
+ F. Rebuilding: Building regulations need to be es tablished to enable the rebuilding
+process to proceed as quickly as possibl e. In the meantime, temporary housing
+must be found for the homeless. Health and safety information must be distributed
+among the population to minimize the risk of a disease outbreak resulting, for
+example, from drinking contaminated water.
+G. An effective rebuilding program needs to be supervised by a reconstruction
+authority. Such an agency may act for a num ber of governments, and the creation
+of one should be contemplated as pa rt of a long-term recovery plan.
+IV. Economic Recovery:  To find out how best to revi ve the economy, impact studies
+have to be carried out to identify how da maged the various elements are, what needs
+repair, and how the repairs can be made . Only then can appropriate financial
+assistance programs be put into place.
+Objective 11.9 Discuss importan t keys to effective recovery operations so that economic
+and social impact will be minimized.
+Requirements:
+The content should be presented as lecture.
+Remarks:
+I. Recovery once was viewed as a linear phenomenon, with discrete stages and end
+products. Today it is seen as a process th at entails decision-making and interaction
+among all stakeholders such as households , businesses, and the community at large
+(MCEER, 2000).
+A. Many of the decisions associated with recovery are ones of government
+policy. How quickly recovery can or shoul d take place, and how the costs of
+recovery will be distributed within the community, largely are determined by
+government decisions. Therefore, it is important that governments give
+considerable thought to the types of deci sions they will have to make and how
+they will carry them out.
+B.
+
+Recovery appears to be most effect ive when community-based organizations
+assume principal responsibility, suppl emented by outside technical and
+financial assistance (Mileti, 1999). Perhaps a further shift will be needed – away
+from an exclusive focus on restoring damaged structures  toward effective
+Session 11: Earthquake Disaster Response and Recovery
+Earthquake Hazard and Emer gency Management 11-20 decision-making  at all levels. Outside technical  assistance can help strengthen
+local organizational and decision- making capacity (Mileti, 1999).
+II. According to MCEER (2003) and MSSC ( 1997), additional general measures key to
+effective  earthquake disaster recovery  are:
+A. Provide Accurate and Timely Information: Establish a coordinated public
+information strategy to provide accurate and timely recovery and mitigation information to public and private se ctors through all available means.
+ B. Identify suitable, earthquake resistant  short- and long-term shelters and
+coordinate agreements for their use.
+1. Earthquake resistant  short- and long-term sh eltering facilities (think
+about aftershocks) are required following a major disaster.
+ 2. Plan for the construction of l ong-term temporary housing. Develop
+contingency plans for the location, de sign and construction of long-term
+temporary housing. Long-term temporary housing will be needed for victims displaced by a major earthquake.
+C. Promote funding and training of  post-earthquake building inspection
+volunteers.
+1. Continue to train volunteers througho ut the jurisdiction to make rapid
+visual examinations of buildings.
+2. By using a system already in plac e for training, certifying, and mobilizing
+volunteers, structures that  are safe for occupancy can be rapidly identified
+after an earthquake or other disaster . This will permit housing and jobs to
+be quickly restored.
+D. Enhance the ability of individuals and small businesses to recover from an
+earthquake disaster.
+1. Enable small businesses to recove r from an earthquake and to access
+funding at the federal and state levels in a timely manner so that economic
+recovery progresses.
+ 2.
+
+For instance, develop guidelines to accelerate the permitting and
+rebuilding process so that disrupti on of individuals and businesses is
+minimized, rapid personal and economi c recovery is assured, and the
+adverse economic impact of an earthqua ke will be reduced in the affected
+area.
+Session 11: Earthquake Disaster Response and Recovery
+Earthquake Hazard and Emer gency Management 11-21 E. Support identification of facili ties and methods for disposal of
+uncontaminated debris and hazardous ma terials from collapsed structures.
+Prepare a plan for disposal of hazardous materials, contaminated and
+uncontaminated debris. Coordination w ill result in improved and efficient,
+coordinated disposal of hazardous ma terials and uncontaminated debris.
+F. Enhance ability to provide crisis counse ling to individuals in affected areas.
+Develop a network of trained counsel ors who will respond to and provide
+counseling to residents in affected ar eas. Residents, particularly children,
+probably will have trouble understanding and coping with the emotional trauma
+following a major earthquake.
+Objective 11.10 Describe typical deficiencies  in earthquake recovery activities and
+operation.
+Requirements:
+The content should be presented as lecture. Th e homework should be distributed following the
+completion of this objective. Handouts Included:    Handout 11.2 -Homework Assignment 11.2
+Remarks:
+I. Recovery methods have improved with ea ch earthquake; however, there are still a
+number of deficiencies that  impair effective and speedy recovery and have resulted
+in unacceptable levels of personal and financial loss (Mileti, 1999).
+II. According to Mileti (1999), deficiencies typically exist in:
+A. Funding for effective management of the recovery process (including mitigation).
+ B. Adequate interim shelter and housing, part icularly for those with special needs.
+ C. Plans and resources to accommodate in terim and long-term and post-earthquake
+housing..
+ D. Adequate knowledge and preparation by the public, business, and service sectors
+for effective recovery.
+III. Recovery planning has been given less than adequate attention in the context of
+overall earthquake planning (Mileti, 1999).
+Session 11: Earthquake Disaster Response and Recovery
+Earthquake Hazard and Emer gency Management 11-22 A.
+
+Failure to plan for recovery can mean that the recovery process may take much
+longer than otherwise might be required.
+ B. The lack of recovery planning weakens a community’s ability to plan for
+effective mitigation , as the potential costs of economi c and social restoration will
+not be known with any accuracy.
+C. While it is difficult to assign a value to human life, communities and the
+public will want to know the cost-benefit implications of different ways to mitigate purely economic risks.
+D. Prolonged economic instability makes it difficult for the community to regain its
+former competitive advantages, and can hold back the rate at which the economy
+is rebuilt.
+IV. Local leaders too often fail to take advantage of the reco very period to reshape their
+devastated communities to withstand future events (Mileti, 1999).
+A. Most local disaster plans need to be extended, not only to explicitly address
+recovery and reconstruction, but also to  identify opportunities for rebuilding in
+safer ways and in safer places.
+B. Again,  as noted above, the recovery period following one disaster is often a
+time for considering how to mitigate losses!!
+[Instructor note : distribute Handout 11.2 (Homework Assignment) and allow one week for
+completion ]
+Session 11: Earthquake Disaster Response and Recovery
+Earthquake Hazard and Emer gency Management 11-23 References Utilized:
+Association of Bay Area Governments (ABAG). 2004. Data and information from website at:
+http://www.abag.ca.gov/bayarea/eqmaps/eqmaps.html.
+ California Seismic Safety Commission (CSSC). 2003. California Seismic Safety Commission
+Strategic Plan . Adopted June 1998, revised October 2003; http://www.seismic.ca.gov.
+Chang, S. 2000. “Transportation Perf ormance, Disaster Vulnerabil ity, and Long-Term Effects of
+Earthquakes.” Second Euro Conference on Global Change and Catastrophe Risk
+Management. Luxemburg, Austria, July 6-9, 2000. Available from:
+http://www.iiasa.ac.at/Research /RMS/july2000/Pap ers/chang3006.pdf.
+ Church World Service (CWS/ACT) Emergency Management Training Program. 2004.
+
+Training
+course available at http://www.cw serp.org/training/CWSEMT/DRmodulea.php.
+ FEMA. 2004. Data and information from http://www.fema.gov/rrr/frp/. FHWA. 2004. Data on collapse of Cypress Freew ay during the 1989 Loma Prieta Earthquake.
+From: http://www.fhwa.dot.gov/.../  ejustice/case/case5.htm.
+ Meliti, D. 1999. Disasters by Design: A Reassessment of  Natural Hazards in the United States.
+Joseph Henry Press.
+ Missouri Seismic Safety Commission (MSSC). 1997. A Strategic Plan for Earthquake Safety in
+Missouri , May, 1997. Available from:
+http://mnw.eas.slu.edu/SeismicSafety/indexnet.html.
+ Multidisciplinary Center for Earthquake Engineering Research (MCEER). 2000. Strategic Plan
+2000 . See: http://mceer.buffalo.edu/aboutMCEER/strategicPlan/.
+ National Research Council (NRC). 2003. Preventing Earthquake Disasters: The Grand
+Challenge in Earthquake Engineering: A Research Agenda for the Network for
+Earthquake Engineering Simulation (NEES). National Research Council. Washington,
+DC: National Academies Press.
+ Quarantelli, E. L1999. The Disaster Recovery Process: What  We Know and Do Not Know from
+Research .” Newark: Disaster Research Center, Un iversity of Delaware. Available from
+http://www.udel.edu/DRC/preliminary/pp286.pdf.
+ Quarantelli, E. L. 1985. Organizational Behavior in Disaster s and Implications for Disaster
+Planning . Newark: Disaster Research Ce nter, University of Delaware.
+ Quarantelli, E. L. 1985. Research Based Criteria for Ev aluating Disaster Planning and
+Managing . Disaster Research Center , University of Delaware.
+Session 11: Earthquake Disaster Response and Recovery
+Earthquake Hazard and Emer gency Management 11-24 Sharma, V.K.1999. Use of GIS related technologies fo r managing disasters in India: an
+overview . New Delhi, India: National Center for Di saster Management, Indian Institute of
+Public Administration.
+
+Report is available from:
+http://www.gisdevelopment.net/applica tion/natural_hazards/overview/nho0003.htm
+ Tierney, K. J. 1993. Disaster Preparedness and Response:  Research Findings and Guidance
+from the Social Science Literature . U.S.-ROC Workshop on Natural Disaster Reduction.
+Taipei, Taiwan, ROC, June, 1993.
+
