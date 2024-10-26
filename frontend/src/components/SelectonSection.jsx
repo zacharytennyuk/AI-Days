@@ -109,7 +109,7 @@ const SelectonSection = () => {
                                 onClick={handleScroll}
                             >
                                 <img src={disaster.image} alt={`${disaster.name} icon`} style={{ width: 30, height: 30 }} />
-                                <p>{disaster.name}</p>
+                                <p style="">{disaster.name}</p>
                             </Button>
                         ))}
                     </Box>
