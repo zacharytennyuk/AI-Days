@@ -1,20 +1,17 @@
-import os
-from dotenv import load_dotenv
-import subprocess
 import json
+from config import settings
 
 
-load_dotenv()
 class Watson:
     _instance = None  # Private class variable to hold the single instance
 
     def __new__(cls):
         if cls._instance is None:
             cls._instance = super(Watson, cls).__new__(cls)
-            cls._instance.key = os.getenv("WATSON_API_KEY")
-            cls._instance.url = os.getenv("WATSON_SERVICE_URL")
-            cls._instance.modelID = os.getenv("WATSON_MODEL_ID")
-            cls._instance.projectID = os.getenv("WATSON_PROJECT_ID")
+            cls._instance.api_key = settings.WATSON_API_KEY
+            cls._instance.service_url = settings.WATSON_SERVICE_URL
+            cls._instance.model_id = settings.WATSON_MODEL_ID
+            cls._instance.project_id = settings.WATSON_PROJECT_ID
         return cls._instance
 
     def getTranslation(self):
