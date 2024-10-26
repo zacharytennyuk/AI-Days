@@ -1,4 +1,4 @@
-from pydantic import BaseSettings
+from pydantic_settings import BaseSettings
 
 
 class Settings(BaseSettings):
@@ -7,6 +7,9 @@ class Settings(BaseSettings):
     WATSON_MODEL_ID: str
     WATSON_PROJECT_ID: str
     SLATE_MODEL_ID: str
+
+    PINECONE_API_KEY: str
+    PINECONE_INDEX_NAME: str
 
     class Config:
         env_file = ".env"
