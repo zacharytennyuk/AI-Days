@@ -1,10 +1,8 @@
 import os
-from dotenv import load_dotenv
 import subprocess
 import json
 
 
-load_dotenv()
 class Watson:
     _instance = None  # Private class variable to hold the single instance
 
