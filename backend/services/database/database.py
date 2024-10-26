@@ -9,9 +9,9 @@ class Database:
     def __new__(cls):
         if cls._instance is None:
             cls._instance = super(Database, cls).__new__(cls)
-            cls._instance.key = os.getenv("PINECONE_API_KEY")  # Load the API key from environment
+            cls._instance.key = os.getenv("PINECONE_API_KEY")
             cls._instance.pc = Pinecone(api_key=cls._instance.key)
-            cls._instance.index = cls._instance.pc.Index("quickstart")  # Access the Pinecone index
+            cls._instance.index = cls._instance.pc.Index("quickstart")
         return cls._instance
 
     def __init__(self):
@@ -40,18 +40,7 @@ class Database:
             namespace="ns1"
         )
         
-        return True
-    
-    def getRecordCount(self):
-            # Prepare the data in the required format
-        # Get the total record count
-
-        index_stats = self.index.describe_index_stats()
-        total_records = index_stats['namespaces'].get("ns1", {}).get("vector_count", 0)
-        
-        return total_records
-
-            
+        return True    
     
     def generateVector(self):
         num_vectors = 500
