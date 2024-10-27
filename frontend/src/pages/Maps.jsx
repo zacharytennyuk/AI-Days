@@ -7,6 +7,13 @@ import axios from 'axios';
 const Maps = ({ location }) => {
   const [searchResults, setSearchResults] = useState([]);
   const [query, setQuery] = useState("");
+  const [visible, setVisible] = useState(false);
+
+  useEffect(() => {
+    // Set opacity transition after 3-second delay
+    const timer = setTimeout(() => setVisible(true), 1500);
+    return () => clearTimeout(timer); // Cleanup timer on component unmount
+  }, []);
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -25,11 +32,14 @@ const Maps = ({ location }) => {
   return (
     <Box
       sx={{
-        height: "calc(100vh - 64px)", 
+        height: "calc(100vh - 64px)",
         display: 'flex',
         flexDirection: 'column',
         justifyContent: 'space-between',
         padding: 2,
+        paddingLeft: "0px !important",
+        opacity: visible ? 1 : 0, // Fade in based on visibility
+        transition: 'opacity 1.5s ease', // Opacity transition effect
       }}
     >
       {/* Location Details */}
@@ -63,19 +73,6 @@ const Maps = ({ location }) => {
         }}
         onSubmit={handleSubmit}
       >
-        <TextField
-          label="Search places"
-          variant="outlined"
-          value={query}
-          onChange={(e) => setQuery(e.target.value)}
-          fullWidth
-          sx={{
-            maxWidth: '75%',
-          }}
-        />
-        <IconButton color="primary" type="submit" size="large">
-          <SendIcon />
-        </IconButton>
       </Box>
     </Box>
   );

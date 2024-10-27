@@ -1,6 +1,7 @@
 from fastapi import FastAPI, HTTPException, Body
+from fastapi.middleware.cors import CORSMiddleware
 from services.WatsonService.Watson import Watson
-from services.database.Database import Database
+from services.Database.Database import Database
 from dtos.Notes import Notes
 import logging
 
@@ -9,6 +10,14 @@ import uvicorn
 app = FastAPI()
 watson_instance = Watson()
 database_instance = Database()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:5173"],  # Replace with your frontend URL
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -20,7 +29,7 @@ def send_notes(notes: Notes = Body(...)):
         texts = watson_instance.get_response(notes)
         if texts is None:
             raise Exception("Failed getting notes")
-        return {"status": "Data inserted successfully", texts: texts}
+        return {"status": "Data inserted successfully", "texts": "texts"}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
