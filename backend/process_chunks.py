@@ -79,16 +79,41 @@ def prepare_data_for_pinecone(embeddings_data):
     return data
 
 
-def insert_embeddings_into_pinecone(embeddings_data):
+def insert_embeddings_into_pinecone(embeddings_data, batch_size=100):
+    """
+    Inserts embeddings into Pinecone in smaller batches to avoid exceeding request size limits.
+
+    :param embeddings_data: List of embeddings with metadata.
+    :param batch_size: Number of vectors per batch.
+    """
     database_instance = Database()
 
     data = prepare_data_for_pinecone(embeddings_data)
 
-    success = database_instance.insert(data)
-    if success:
-        print("Embeddings inserted into Pinecone successfully.")
-    else:
-        print("Failed to insert embeddings into Pinecone.")
+    total_vectors = len(data)
+    num_batches = math.ceil(total_vectors / batch_size)
+
+    print(f"Starting insertion of {total_vectors} vectors in {num_batches} batches.")
+
+    for batch_num in range(num_batches):
+        start_idx = batch_num * batch_size
+        end_idx = min((batch_num + 1) * batch_size, total_vectors)
+        batch_data = data[start_idx:end_idx]
+
+        try:
+            success = database_instance.insert(batch_data)
+            if success:
+                print(f"Inserted batch {batch_num + 1}/{num_batches} successfully.")
+            else:
+                print(
+                    f"Failed to insert batch {batch_num + 1}/{num_batches}. Retrying..."
+                )
+        except Exception as e:
+            print(
+                f"Exception occurred while inserting batch {batch_num + 1}/{num_batches}: {e}"
+            )
+
+    print("All batches processed.")
 
 
 def main():
@@ -101,7 +126,7 @@ def main():
     print(f"Generated embeddings for {len(embeddings_data)} chunks.")
 
     print("Inserting embeddings into Pinecone...")
-    insert_embeddings_into_pinecone(embeddings_data)
+    insert_embeddings_into_pinecone(embeddings_data, batch_size=100)
 
 
 if __name__ == "__main__":
