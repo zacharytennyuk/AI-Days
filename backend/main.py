@@ -32,5 +32,20 @@ def send_notes(texts: list[str] = Body(...)):
 
 
 
+@app.post("/embed")
+def generate_embeddings(texts: list[str] = Body(...)):
+    embeddings = watson_instance.generate_embedding(texts)
+    if embeddings is None:
+        raise HTTPException(status_code=500, detail="Failed to generate embeddings")
+    return {"embeddings": embeddings}
+
+@app.post("/embed")
+def generate_embeddings(texts: list[str] = Body(...)):
+    embeddings = watson_instance.generate_embedding(texts)
+    if embeddings is None:
+        raise HTTPException(status_code=500, detail="Failed to generate embeddings")
+    return {"embeddings": embeddings}
+
+
 if __name__ == "__main__":
     uvicorn.run("main:app", host="127.0.0.1", port=8000, reload=True)
