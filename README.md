@@ -54,24 +54,20 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## License
 
-[MIT License](LICENSE)
-
----
 
 ## Gallery
 
-### Disaster Preparation in Action
+### User Interface
 
-![Hurricane Preparation](images/hurricane_preparation.jpg)
-![Earthquake Safety](images/earthquake_safety.jpg)
-![Flood Evacuation Plan](images/flood_evacuation.jpg)
-![Wildfire Safety Tips](images/wildfire_safety.jpg)
+![Earth](assets/earth.png)
+![Earth](assets/earth.png)
+![Earth](assets/earth.png)
+![Earth](assets/earth.png)
 
 *Image paths:*
 
-- `images/hurricane_preparation.jpg`
-- `images/earthquake_safety.jpg`
-- `images/flood_evacuation.jpg`
-- `images/wildfire_safety.jpg`
+- `assets/earth.png`
+- `assets/earth.png`
+- `assets/earth.png`
+- `assets/earth.png`
