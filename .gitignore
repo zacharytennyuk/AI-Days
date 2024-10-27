@@ -6,3 +6,4 @@ __pycache__/
 backend/venv
 *ipynb_checkpoints*
 *.ipynb*
+backend/.python-version
