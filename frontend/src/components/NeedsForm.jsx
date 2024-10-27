@@ -29,18 +29,9 @@ const NeedsForm = () => {
   const exampleConcerns = ["May need more meds", "Need way to stay warm"];
 
   const postNotes = async () => {
+    console.log(additionalConcerns)
     try {
-      const response = await axios.post("https://localhost.com/send-notes", {
-        isFood: true,
-        isShelter: true,
-        isSafe: true,
-        notes: [
-          "Family of 4",
-          "In Evacuation Zone",
-          "Wants to preserve storage",
-          "Advice of where to go for evacuation",
-        ],
-      });
+      const response = await axios.post("http://localhost:8000/send_notes", {...formData, "information": additionalConcerns.join(" ")});
 
       console.log("Response data:", response.data);
     } catch (error) {
@@ -63,10 +54,10 @@ const NeedsForm = () => {
   };
 
   const [formData, setFormData] = useState({
-    information: "",
     foodWater: false,
     injury: false,
     shelter: false,
+    information: "",
     disaster: disaster,
   });
 
@@ -104,7 +95,10 @@ const NeedsForm = () => {
   };
 
   const handleSubmit = (event) => {
+
     event.preventDefault();
+
+    postNotes();
     console.log("Form Data:", formData);
   };
 

@@ -83,24 +83,29 @@ def answer(request: QueryRequest):
         raise HTTPException(status_code=500, detail="Failed to generate an answer.")
 
     return {"answer": answer_text}
+
 @app.post("/send_notes")
 async def send_notes(notes: Notes):
     try:
-        # Log the incoming data
-        print("Received notes:", notes)
+        # Initialize response message
+        response_message = f"{notes.information} {notes.disaster}"
 
-        # Process or save the data as required
-        # Here we're simulating a response based on the content of the notes
-        response_message = "Here's some assistance based on your requirements:"
-        if notes.isFood:
-            response_message += " Assistance for food is available."
-        if notes.isInjured:
-            response_message += " Assistance for injuries is available."
-        if notes.isSheltered:
-            response_message += " Sheltering assistance is available."
+        if not notes.foodWater:
+            response_message += " I urgently need nearby sources of food and water."
+        if notes.injury:
+            response_message += " I urgently need help; I am injured."
+        if not notes.shelter:
+            response_message += " I urgently need help; I am in a dangerous area and need to relocate for shelter."
 
-        # Add any other specific processing if needed
-        return {"message": response_message}
+        # Pass response_message as the query for generating an answer
+        query = QueryRequest(query=response_message)
+        return answer(query)
+
+    except Exception as e:
+        raise HTTPException(status_code=500, detail="An error occurred while processing the notes.") from e
+
+
+
 
     except Exception as e:
         raise HTTPException(status_code=500, detail="An error occurred while processing the notes.") from e
