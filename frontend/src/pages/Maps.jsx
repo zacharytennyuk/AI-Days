@@ -44,7 +44,7 @@ const Maps = ({ location, searchResults, }) => {
       }}
     >
       {/* Display animated Latitude and Longitude */}
-      <Box sx={{ display: 'flex', justifyContent: 'center', gap: 4, marginTop: 2 }}>
+      <Box sx={{ display: 'flex', justifyContent: 'center', gap: 4 }}>
         <Typography variant="h6">Your Location</Typography>
       </Box>
       <Box sx={{ display: 'flex', flexDirection: 'row', justifyContent: 'center', gap: 4, marginTop: 2 }}>

@@ -12,7 +12,7 @@ router = APIRouter()
 class TextSearchData(BaseModel):
     query: str = Field(..., example="hospital in New York")
     location: tuple = Field(None, example=(40.7128, -74.0060))
-    radius: int = Field(5000, example=5000)
+    radius: int = Field(None, example=5000)
 
 
 @router.post("/search-place")

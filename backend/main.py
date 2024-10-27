@@ -88,9 +88,9 @@ def answer(request: QueryRequest):
     return {"answer": answer_text}
 
 
-@app.post("/api/send_notes")
+# @app.post("/api/send_notes")
 
-@app.post("/send_notes")
+@app.post("/api/send_notes")
 async def send_notes(notes: Notes):
     try:
         # Initialize response message
