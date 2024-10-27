@@ -3,12 +3,17 @@ import { React, useState, useEffect, useContext } from 'react';
 import axios from 'axios';
 import SendIcon from '@mui/icons-material/Send';
 import Maps from '../pages/Maps';
-import { Search } from "@mui/icons-material";
+import { MedicalInformationSharp, Search } from "@mui/icons-material";
 import { motion } from "framer-motion";
 import { LocationThemeContext } from '../LocationThemeContext'; // Import the context
+import { useLocation } from 'react-router-dom';
 
 const InformationSection = () => {
     const { location } = useContext(LocationThemeContext); // Access location from context
+    const { state } = useLocation();
+    const answers = state || {}; 
+
+
 
 
     if (!location) {
@@ -16,14 +21,14 @@ const InformationSection = () => {
         return null; // Or handle this gracefully
     }
 
+    useEffect(() => {
+        console.log(state)
+    }, [state])
+
     const [content, setContent] = useState([]);
     const [searchResults, setSearchResults] = useState([]);
-    const [notes, setNotes] = useState({
-        isFood: true,
-        isInjured: false,
-        isShelter: true,
-    });
-    const [textVisible, setTextVisible] = useState(false);
+
+    const [textVisible, setTextVisible] = useState(true);
 
     const handleSubmit = async (e) => {
         e.preventDefault();
@@ -55,21 +60,30 @@ const InformationSection = () => {
             // Standard message handling if not a !map command
             updateContent("user", text);
             e.target.elements.textInput.value = ""; // Clear the input field
+            let isFood = answers.isFood ?? false
+            let isInjured = answers.isInjured ?? false
+            let isSheltered = answers.isSheltered ?? false
+            let information = content.map(item => (typeof item === 'string' ? item : item.paragraph))
+            information.push(text)
+            information = information.join(' ')
+
 
             const notesData = {
-                isFood: notes.isFood,
-                isInjured: notes.isInjured,
-                isSheltered: notes.isShelter,
-                notes: content.map(item => (typeof item === 'string' ? item : item.paragraph)),
-                location: location,
+                disaster: "disaster",
+                foodWater: isFood,
+                information: information,
+                injury: isInjured,
+                shelter: isSheltered,
             };
+
+            console.log(notesData)
 
             try {
                 const response = await axios.post("http://localhost:8000/send_notes", notesData);
                 console.log("Data sent successfully:", response.data);
 
                 if (response.data) {
-                    updateContent("bot", response.data.message || "Bot response");
+                    updateContent("bot", response.data.answer.answer || "Bot response");
                 }
             } catch (error) {
                 console.error("Error sending data:", error);
@@ -144,9 +158,9 @@ const InformationSection = () => {
 
             {/* Content section */}
             <motion.div
-                initial={{ x: "150%", opacity: 1 }}
+                initial={{ opacity: 0 }}
                 animate={{ x: 0, opacity: 1 }}
-                transition={{ duration: 2, ease: "easeOut" }}
+                transition={{ duration: 1, ease: "easeOut" }}
                 onAnimationComplete={handleAnimationComplete}
                 style={{ flex: 0.4, display: 'flex', flexDirection: 'column', justifyContent: 'flex-end', height: '100%', marginLeft: "16px" }}
             >
@@ -188,9 +202,9 @@ const InformationSection = () => {
                       }}>
 
                         {/* Render messages */}
-                        {notes.isFood && renderMessageBox("bot", "If you want Food", 0)}
-                        {notes.isInjured && renderMessageBox("bot", "If you are injured", 1)}
-                        {!notes.isShelter && renderMessageBox("bot", "If you need shelter", 2)}
+                        {answers.isFood && renderMessageBox("bot", "If you want Food", 0)}
+                        {answers.isInjured && renderMessageBox("bot", "If you are injured", 1)}
+                        {!answers.isShelter && renderMessageBox("bot", "If you need shelter", 2)}
 
                         {content.map((item, index) => renderMessageBox(item.user, item.paragraph, index))}
                         </Box>

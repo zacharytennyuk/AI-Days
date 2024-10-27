@@ -29,7 +29,10 @@ const NeedsForm = () => {
   const exampleConcerns = ["May need more meds", "Need way to stay warm"];
 
   const postNotes = async () => {
-    console.log(additionalConcerns);
+    console.log( {
+      ...formData,
+      information: additionalConcerns.join(" "),
+    });
     try {
       const response = await axios.post("http://localhost:8000/send_notes", {
         ...formData,
@@ -37,28 +40,51 @@ const NeedsForm = () => {
       });
 
       console.log("Response data:", response.data);
+      return response.data
     } catch (error) {
       console.error("Error posting data:", error);
     }
   };
 
+      const handleNavigation = async (event) => {
+        event.preventDefault(); // Prevent the default form submission
+        setLoading(true); // Set loading to true before starting the async operation
+        let answer = null; // Initialize answer as null
+
+        try {
+            // Await the result of handleSubmit
+            answer = await handleSubmit();
+            console.log(answer);
+        } catch (error) {
+            console.error("Error handling submission:", error);
+            // You can set an error state or show a notification here if needed
+        } finally {
+            setLoading(false); // Set loading to false after the async operation completes
+
+            // Navigate only if answer is defined (if needed)
+            navigate('/maps', { 
+                state: { 
+                    answer: answer.answer || null, 
+                    document: answer.documents || null,
+                    foodWater: formData.foodWater || null,
+                    disaster: formData.disaster || null,
+                    injury: formData.injury || null,
+                    shelter: formData.shelter || null
+                } 
+            });
+        }
+    };
+
+
+
   useEffect(() => {
     if (!disaster) {
       navigate("/");
     }
+})
 
-  const handleNavigation = async () => {
-    setLoading(true);
 
-    // Call your function here and wait for it to resolve
-    let answers = await handleSubmit();
 
-    setLoading(false);
-
-    // Navigate with state after the function resolves
-    navigate('/start', { state: { answers : answers } });
-  };
-  }, [disaster, navigate]);
 
   const disasterImages = {
     Earthquake: Earthquake,
@@ -112,12 +138,11 @@ const NeedsForm = () => {
   };
 
   const handleSubmit = async (event) => {
-    setLoading(true);
-    event.preventDefault();
 
     let notes = await postNotes();
     console.log("Form Data:", formData);
     return notes
+
   };
 
   return (
@@ -140,7 +165,7 @@ const NeedsForm = () => {
       )}
       <Box
         component="form"
-        onSubmit={handleSubmit}
+        onSubmit={handleNavigation}
         sx={{
           width: "100%",
           display: "flex",
