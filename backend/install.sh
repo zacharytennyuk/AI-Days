@@ -15,3 +15,7 @@ pip install python-dotenv
 pip install pinecone
 
 pip install numpy
+
+pip install pydantic_settings
+
+pip install -r requirements.txt

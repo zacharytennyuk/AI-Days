@@ -19,6 +19,18 @@ def insert_data(texts: list[str] = Body(...)):
         return {"status": "Data inserted successfully"}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+    
+@app.post("/send-notes")
+def send_notes(texts: list[str] = Body(...)):
+    try:
+        embeddings = watson_instance.sendNotes(texts)
+        if embeddings is None:
+            raise Exception("Failed to Retrieve Notes")
+        database_instance.insert(embeddings, texts)
+        return {"status": "Data inserted successfully"}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
 
 
 if __name__ == "__main__":

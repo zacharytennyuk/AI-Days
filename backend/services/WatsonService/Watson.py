@@ -35,6 +35,10 @@ class Watson:
             "project_id": self.project_id,
         }
 
+    
+    def sendNotes(self, texts="Hello World"):
+        return ["Food: Make sure you have that does not require fridgeration like canned food", "Injury: If you are injured make sure you go to the hospital during the event of an emergency", "Shelter: If you are in the zone of danger please find shelter here are some resources"]
+
         try:
             response = requests.post(url, headers=headers, json=data)
             logger.debug(f"Request URL: {url}")
