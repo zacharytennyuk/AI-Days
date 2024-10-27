@@ -14,15 +14,13 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 
-@app.post("/insert")
-def insert_data(notes: Notes = Body(...)):
+@app.post("/send_notes")
+def send_notes(notes: Notes = Body(...)):
     try:
-        embeddings = watson_instance.get_response(texts)
-        vectors = database_instance.insert(embeddings)
-        if vectors is None:
-            raise Exception("Failed to generate embeddings")
-        database_instance.insert(embeddings, texts)
-        return {"status": "Data inserted successfully"}
+        texts = watson_instance.get_response(notes)
+        if texts is None:
+            raise Exception("Failed getting notes")
+        return {"status": "Data inserted successfully", texts: texts}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 

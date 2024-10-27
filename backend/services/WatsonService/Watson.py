@@ -36,6 +36,7 @@ class Watson:
                 logger.error(f"Failed to initialize Embeddings client: {e}")
                 raise e
         return cls._instance
+    
     def get_response(self, texts):
         if texts["isFood"]:
             texts["notes"].append("Needs Food")
@@ -43,6 +44,7 @@ class Watson:
             texts["notes"].append("Is Injured")
         if not texts["isSheltered"]:
             texts["notes"].append("Needs Shelter")
+        return texts
     def generate_embedding(self, texts):
         try:
             response = self.embeddings_client.embed_documents(texts)
