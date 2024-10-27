@@ -7,11 +7,11 @@ from config import settings
 # Initialize the Google Maps client with the API key
 gmaps = googlemaps.Client(key=settings.GOOGLE_PLACES_API_KEY)
 
-def search_nearby_places(query, location=None, radius=5000):
+def search_nearby_places(query, location=None, radius=None):
 
     if location:
         location_str = f"{location[0]},{location[1]}"
-        places_result = gmaps.places(query=query, location=location_str, radius=radius)
+        places_result = gmaps.places(query={query + "Only find places clustered in an small area."}, location=location_str, radius=radius)
     else:
         places_result = gmaps.places(query=query)
 
