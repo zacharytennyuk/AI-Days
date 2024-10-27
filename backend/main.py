@@ -156,7 +156,7 @@ def generate_answer(query_text, relevant_chunks):
     prompt = f"""
 You are an expert assistant providing information on disaster preparedness.
 
-Please provide a concise and accurate answer to the following question using the information from the provided sources.
+Please provide a concise and accurate answer to the following question using the information from the provided sources. Limit it 100 characters
 
 {context}
 Question: {query_text}
