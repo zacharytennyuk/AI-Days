@@ -9,7 +9,7 @@ logger = logging.getLogger(__name__)
 
 
 class Watson:
-    _instance = None  # singleton instance
+    _instance = None
 
     def __new__(cls):
         if cls._instance is None:
@@ -20,23 +20,48 @@ class Watson:
             )
 
             embed_params = {
-                EmbedParams.TRUNCATE_INPUT_TOKENS: 512,
+                EmbedParams.TRUNCATE_INPUT_TOKENS: 512,  # Adjust as needed
                 EmbedParams.RETURN_OPTIONS: {"input_text": True},
             }
 
-            cls._instance.embeddings_client = Embeddings(
-                model_id="ibm/slate-125m-english-rtrvr-v2",
-                params=embed_params,
-                credentials=credentials,
-                project_id=settings.WATSON_PROJECT_ID,
-            )
+            try:
+                cls._instance.embeddings_client = Embeddings(
+                    model_id="ibm/slate-125m-english-rtrvr-v2",
+                    params=embed_params,
+                    credentials=credentials,
+                    project_id=settings.WATSON_PROJECT_ID,
+                )
+                logger.info("IBM Watson Embeddings client initialized successfully.")
+            except Exception as e:
+                logger.error(f"Failed to initialize Embeddings client: {e}")
+                raise e
         return cls._instance
 
     def generate_embedding(self, texts):
         try:
             response = self.embeddings_client.embed_documents(texts)
-            embeddings = [item["embedding"] for item in response["predictions"]]
+            logger.debug(f"Embeddings response: {response}")
+            print("Embeddings response:", response)
+
+            if isinstance(response, list):
+                if all(isinstance(item, list) for item in response):
+                    embeddings = response
+                elif all(
+                    isinstance(item, dict) and "embedding" in item for item in response
+                ):
+                    embeddings = [item["embedding"] for item in response]
+                else:
+                    logger.error("Unexpected items in response list.")
+                    return None
+            elif isinstance(response, dict) and "results" in response:
+                embeddings = [item["embedding"] for item in response["results"]]
+            else:
+                logger.error("Unexpected response format from embeddings API.")
+                return None
+
+            logger.info(f"Generated {len(embeddings)} embeddings successfully.")
             return embeddings
+
         except Exception as e:
             logger.error(f"Error generating embeddings: {e}")
             return None
