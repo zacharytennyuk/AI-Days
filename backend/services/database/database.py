@@ -1,5 +1,5 @@
-import os
 from pinecone import Pinecone
+from config import settings
 import numpy as np
 
 
@@ -9,7 +9,7 @@ class Database:
     def __new__(cls):
         if cls._instance is None:
             cls._instance = super(Database, cls).__new__(cls)
-            cls._instance.key = os.getenv("PINECONE_API_KEY")
+            cls._instance.key = settings.PINECONE_API_KEY
             cls._instance.pc = Pinecone(api_key=cls._instance.key)
             cls._instance.index = cls._instance.pc.Index("quickstart")
         return cls._instance

@@ -2,7 +2,11 @@ import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 import Navbar from './components/Navbar';
 import Links from './routes/Links';
+<<<<<<< HEAD
 import LocationTracker from './components/LocationTracker';
+=======
+import "./App.css"
+>>>>>>> main
 
 const theme = createTheme({
   palette: {

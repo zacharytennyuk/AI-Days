@@ -1,0 +1,3102 @@
+Wildfire Hazard Mitigation
+Handbook for Public Facilities
+
+Introduction
+The Federal Emergency Management Agency (FEMA) strives
+continuously to improve the delivery of disaster assistance to State,
+local, and tribal governments� One important goal of disaster assistance
+is to reduce the vulnerability of communities to damage from future
+disasters� This Wildfire Hazard Mitigation Handbook for Public Facilities
+(Handbook) is intended to assist facility owners affected by wildfire
+disasters by suggesting mitigation measures that can be taken to reduce
+the vulnerability of damaged facilities to future wildfire incidents. The
+measures described in this Handbook are applicable to the Public
+Assistance (PA) Program and are intended to help Applicants for
+assistance under the program identify options that can be implemented
+during post-disaster repair and rebuilding to reduce the potential for
+future damage �
+FEMA provides assistance to State, local, and tribal governments under
+the authority of the Robert T. Stafford Disaster Relief and Emergency
+Assistance Act (Stafford Act), 42 United States Code §§ 5121-5206,
+as amended. Under the Stafford Act, FEMA is authorized to provide
+resources necessary to reduce the loss of life and property caused by
+emergencies and major disasters. FEMA works with Federal, State, local,
+and tribal liaisons to carry out this mission through a comprehensive
+emergency management program.
+FEMA provides funding and technical assistance to State, local, and
+tribal governments for a range of disaster preparedness and mitigation
+activities. The Pre-Disaster Mitigation (PDM) grant program provides
+funding to State, local, and tribal governments for mitigation planning
+and implementation of cost-effective mitigation projects prior to a
+disaster �
+After the President declares a major disaster, FEMA incorporates
+mitigation into recovery efforts through several mechanisms.
+
+Under
+Section 406 of the Stafford Act, FEMA provides funding for repair and
+rebuilding of disaster-damaged public facilities and those of certain
+private, non-profit entities through the PA Program. As part of the
+PA Program, FEMA may provide funding for cost-effective mitigation
+measures undertaken in the course of repairing or rebuilding damaged
+facilities, sometimes referred to as “406 Mitigation.” Section 404
+of the Stafford Act also authorizes FEMA to provide funding to State,
+local, and tribal governments through the Hazard Mitigation Grant
+Program (HMGP), sometimes referred to as “404 Mitigation,” for the
+implementation of long-term mitigation measures �
+iv IntroductionThis Handbook focuses on mitigation that FEMA funds under the PA
+Program following Presidentially declared disasters in which assistance
+for the restoration of disaster-damaged facilities is authorized. The
+Handbook can also be useful for evaluating the mitigation options
+that are available to planners when developing long-term mitigation
+strategies or when considering measures to be funded under the
+HMGP, PDM Program, or other grant programs, even though these other
+programs are not described in the Handbook �
+The Problem
+The cost of response and recovery has escalated to unprecedented
+levels in recent years from the increased frequency and severity
+of disasters � Between 1999 and 2008, FEMA spent an average of
+$2.8  billion per year responding to major disasters. Of that amount, an
+average of $1 �2 billion was spent repairing or replacing public facilities,
+which does not include response and recovery costs of other Federal
+agencies; State, local, and tribal governments; and losses of individuals
+and businesses� For more information, see www �fema�gov/government/
+grant/pa/stat2�sht m�
+The Solution
+The most effective way to reduce excessive loss is through disaster
+preparedness and mitigation � To best achieve this goal, FEMA
+encourages the vigorous pursuit of the following objectives �
+objective 1: Break the disaster-rebuild-disaster cycle. Until recently,
+this cycle was the most common mode of disaster recovery. Repairing
+substandard facilities to their pre-disaster condition does not protect
+the community from future damage or reduce long-term costs.
+
+The
+community should work to break this cycle through effective planning,
+identification of measures that can reduce the potential for future
+damage, and adoption of appropriate codes and standards for
+construction �
+objective 2: Strengthen facilities so that they are able to withstand
+natural hazards more effectively. Cost-effective upgrades that reduce
+the probability of future damage to vulnerable facilities and that can be
+incorporated during rebuilding should be considered whenever possible �
+objective 3: Ensure that communities address natural hazards as part
+of comprehensive planning � Comprehensive plans should include the
+community’s significant natural hazards and the goals and actions that
+reduce the community’s vulnerability to these hazards.
+Introduction vThe r esult
+Achieving these objectives will substantially enhance community
+resilience and economic sustainability after a disaster, as shown in
+Natural Hazard Mitigation Saves: An Independent Study to Assess
+the Future Savings from Mitigation Activities , a study conducted by
+the Multihazard Mitigation Council and funded by FEMA (Multihazard
+Mitigation Council, 2005). The study indicates that hazard mitigation
+saves an average of $4 for every $1 of investment.
+vi Purpose of the HandbookPurP oSe of The handbook
+This Handbook is intended for use by State, local, tribal, and private, non-
+profit Applicants for assistance, FEMA and State PA Group Supervisors,
+and FEMA and State PA Program Project Specialists. The Handbook can
+be used to identify potentially feasible mitigation measures that can be
+implemented during the repair and rebuilding of damaged facilities after
+a disaster �
+The Handbook applies to public and private, non-profit facilities eligible
+for funding under the PA Program and focuses on projects that are
+commonly eligible for hazard mitigation funding under the program. Due
+to the urgency in repairing damaged facilities after a disaster, long-term
+mitigation opportunities are frequently not fully explored, and hazard
+mitigation funding opportunities through the PA Program are often not
+fully used. The Handbook can also be used as a resource for mitigation
+measures that may be eligible for funding under other mitigation grant
+programs, some of which are noted above �
+The Handbook contains information about mitigation measures that
+address the most common types of damage sustained in wildfires, that
+have been shown to be successful, and that can be implemented in a
+timely fashion. The Handbook is not a construction guide.
+
+Mitigation
+measures are described conceptually, and installation details and
+construction methods are not included �
+Users of the Handbook are advised to refer to Disaster Assistance
+Policy 9526.1, “Hazard Mitigation Funding Under Section 406 (Stafford
+Act),” for FEMA policy governing funding for hazard mitigation under
+the PA Program. The policy describes those circumstances under which
+funding for hazard mitigation is eligible for PA Program funding. It also
+contains a list of measures that FEMA has determined are cost -effective
+when certain conditions are met (for example, when the cost of the
+mitigation measure does not exceed 100 percent of the eligible cost for
+repairs). The policy is provided in Appendix A of this Handbook.
+None of the mitigation measures described in this Handbook should
+be considered pre-approved or automatically eligible for PA Program
+funding. The Handbook can be used by Applicants for PA Program
+funding as a tool for identifying possible mitigation measures and as the
+basis for discussion with FEMA and State PA Program representatives
+during the development of scopes of work and cost estimates� It should
+always be used in conjunction with Disaster Assistance Policy 9526.1
+and with other guidance published by FEMA for the PA Program, as
+described in the next section�
+How to Use This Handbook viihow To uSe ThIS handbook
+organization of Mitigation Measures
+The Handbook is organized by type of facility. A number of mitigation
+measures are described for each type of facility. When incorporated
+into the restoration of a damaged facility, these measures may increase
+the resistance of the facility to damage from a wildfire. General design
+issues, effectiveness, limitations, and other considerations of the
+mitigation measures are also listed �
+Public assistance Program eligibility
+As with all agencies that provide Federal funding, FEMA has criteria that
+must be met before proposed PA Program projects can be approved �
+These criteria are based on the requirements of the Stafford Act, its
+implementing regulations,1 and policies that FEMA has developed
+to apply the PA Program to specific circumstances. Only FEMA can
+determine the eligibility of an Applicant, facility, work, or cost under
+the PA Program.
+
+Eligibility criteria are described in FEMA 322, Public
+Assistance Guide  (FEMA, 2007) � Additional publications, PA Program
+policies, and other information regarding the PA Program can be
+obtained at www �fema�gov/government/grant/pa/index�sht m or from
+the appropriate FEMA Regional Office.
+engineering, design, and Permitting r equirements
+The Handbook does not list site-specific requirements because the
+engineering analysis, design, and permitting requirements for each
+project vary widely. However, the Handbook does provide some common
+code and design issues to be considered when implementing mitigation
+measures and references containing additional technical information�
+Repair and mitigation of structural elements most often require a
+professional engineer who can analyze the condition of the structure and
+determine the appropriate repair and mitigation �
+The mitigation measures described in this Handbook may not be
+appropriate in areas where other hazards, such as earthquakes and
+hurricanes are also a factor. Design factors related to non-wildfire
+hazards should be evaluated when mitigation measures are considered.
+1 The PA Program regulations are published in Title 44 Code of Federal Regulations
+(CFR) Parts 206�200–206�228�
+viii How to Use This HandbookConsiderations for Implementation of Mitigation Measures
+The following symbols represent considerations for implementation of
+the mitigation measures described in this Handbook � The considerations
+are defined in Appendix B.
+Project may be cost-prohibitive
+Maintenance required to maintain effectiveness
+Engineer needed
+Structural aesthetics could be affected
+Weather considerations
+Local code requirements
+Short lifespan
+environmental and historic Preservation Considerations
+When providing funds under the PA Program, FEMA must consider
+a range of Federal environmental and historic preservation laws,
+regulations, and Executive Orders that apply to the use of Federal funds
+and require the funding agency to ensure compliance prior to funding.
+The size and type of project, project site, and area conditions generally
+determine the level of review for compliance that must be performed �
+Environmental and historic preservation laws, regulations, and Executive
+Orders that commonly apply to PA Program mitigation projects are
+summarized in Appendix B.
+
+More information on FEMA’s environmental
+and historic preservation compliance responsibilities is available in
+CODE
+How to Use This Handbook ixFEMA 322, Public Assistance Guide  (FEMA, 2007) and at www �fema�
+gov/plan/eh p�
+Reviews for compliance with these laws, regulations, and Executive
+Orders must be completed before FEMA can approve funding for PA
+Program mitigation projects and before the projects are started because
+the review may identify steps that need to be taken or conditions that
+need to be met as the project is implemented. Project Specialists
+evaluating potential mitigation measures should coordinate with
+the Regional Environmental Officer or designee for the appropriate
+procedures necessary to support the compliance reviews.
+Mitigation k eywords
+A mitigation keyword refers to a mitigation element that is used in
+at least two mitigation measures in this Handbook. Keywords are
+intended to help the reader become familiar with mitigation elements
+by understanding their application in different measures. Mitigation
+keywords are italicized and bolded in the document and defined in
+Appendix C�
+appendices
+The Handbook includes the following appendices:
+Disaster Assistance Policy 9526.1 (Appendix A) •
+Considerations for Implementation of Mitigation Measures •
+(Appendix B)
+Glossary and Keyword Index (Appendix C)•
+Defensible Space (Appendix D)•
+Acronyms (Appendix E)•
+References (Appendix F)•
+List of Contributors (Appendix G)•
+x Overview of the Public Assistance ProgramovervI ew of The PublIC aSSIST anCe PrograM
+The PA Program is authorized by the Stafford Act. Under this
+program, FEMA provides recovery assistance to State, local, and
+tribal governments and certain private, non-profit entities following
+Presidential declarations of emergencies and major disasters � The
+program provides assistance for extraordinary costs for debris removal,
+emergency protective measures, and permanent restoration of damaged
+facilities� Under the program, which is based on reimbursement of actual
+costs, the Federal government provides a minimum of 75 percent of
+eligible costs �
+The Stafford Act and its implementing regulations stipulate that funding
+for permanent restoration of damaged facilities is limited to work that is
+necessary to restore a facility to its pre-disaster design.
+
+The PA Program
+may also provide funding for upgrades that are necessary to meet
+current codes and standards and for hazard mitigation measures, as
+described below �
+For more information about the PA Program, see FEMA 322, Public
+Assistance Guide  (FEMA, 2007), go to www �fema�gov/government/
+grant/pa/index�sht m (PA Program website) or contact the appropriate
+FEMA Regional Office.
+upgrades necessary to Meet Current Codes and Standards
+When a disaster-damaged facility must be repaired or replaced, PA
+Program funding may be used to pay for upgrades that are necessary to
+meet current codes and standards. This situation typically occurs when
+older facilities, particularly buildings, must be repaired in accordance
+with codes that were adopted after the original construction�
+For the cost of an upgrade to be eligible, the code or standard requiring
+the upgrade must:
+Apply to the type of work being performed. If a facility must be •
+replaced, an upgrade would apply throughout the facility. If a facility
+needs repair work only, upgrades would apply only to the damaged
+elements�
+Be appropriate to the pre-disaster use of the facility.•
+Be reasonable, formally adopted, in writing, and implemented prior •
+to the disaster declaration date. The appropriate legislative authority
+within the applicable jurisdiction must have taken all requisite actions
+to implement the code or standard�
+Apply uniformly to all facilities of the type being repaired within •
+Overview of the Public Assistance Program  xithe Applicant’s jurisdiction. The standard must not allow selective
+application or discretionary enforcement by public officials. The
+standard must be applied regardless of the source of funding for
+the upgrade work; it cannot be applied selectively based on the
+availability of funds.
+Be enforced during the time that it was in effect. FEMA may require •
+documentation showing prior application of the standard �
+Mitigation measures described in this Handbook may be required by
+applicable codes and standards � In such circumstances, the measures
+may be eligible for funding under the PA Program as part of the
+restoration of a damaged facility if the above five criteria are met.
+hazard Mitigation u nder the Public assistance Program
+Section 406 of the Stafford Act authorizes FEMA to provide funding for
+hazard mitigation measures that go beyond the scope of work that is
+eligible under the program.
+
+PA Program guidelines for the eligibility of
+hazard mitigation measures are described in Disaster Assistance Policy
+9526.1, “Hazard Mitigation Funding Under Section 406 (Stafford Act)”
+(see Appendix  A)�
+Users of this Handbook should note that the eligibility criteria for
+mitigation measures under the PA Program are much different from the
+criteria for funding mitigation measures under the HMGP, PDM Program,
+and other mitigation programs� Applicants for PA Program funding
+should consult with State and FEMA PA Program representatives when
+considering mitigation measures for the restoration of disaster-damaged
+facilities using PA Program funding� As stated above, the Handbook
+should always be used in conjunction with Disaster Assistance Policy
+9526.1 and with other guidance published by FEMA for the PA Program.
+xii Introduction to Wildfire DamageInTroduCTIon To wI ldfIre d aMage
+wildland/u rban Interface fire hazards
+A wildfire is an uncontrolled fire that spreads through vegetative fuels.
+Vegetative fuels include those that are characteristic of wildlands,
+such as trees, grasses, understory growth, and ground litter; and those
+that are purchased at nurseries for home or community landscaping
+purposes, including trees, mulch, grasses, and ornamental plants� In
+addition to the presence of fuel, the occurrence and severity of wildfires
+are governed by weather, such as high temperatures, low humidity,
+high winds, and drought conditions; and topography (for example,
+canyons and gulches act as chimneys, intensifying fires in certain areas).
+Different combinations of these factors contribute to the potential
+severity of wildfires.
+In the wildland/urban interface, buildings and other human development
+intermingle with vegetative fuels, exposing the development to
+potential fire damage when wildfires occur. Other factors that affect the
+vulnerability of development to wildfire are location, weather conditions
+during the wildfire, and the fire-suppression capabilities of local
+response agencies�
+Increase in Wildfire Risk
+The pressure to develop land over the past several decades has fueled
+the expansion of the residential and commercial environment outward
+from community centers and into the surrounding wildland.
+
+In the
+western United States, nearly 40 percent of new home construction is
+adjacent to or intermixed with wildland vegetation (Firewise Colorado,
+2001)� Combined with an increase in fuel loads due to construction
+and changes in vegetation, this trend has resulted in greater exposure
+of development to the occurrence of wildfire. The result is a significant
+increase in the risk of damage to development from wildfire.
+This risk is also increased by the trend towards larger wildfires.
+
+According
+to the National Oceanic and Atmospheric Administration, the number of
+fires in the United States has declined every year since the early 1980s,
+but the number of acres burned has increased steadily every year since
+the mid-1990s � In terms of number of acres burned, six of the ten worst
+fire seasons on record have occurred since 2000.
+Introduction to Wildfire Damage  xiiioccurrence of wildland/u rban Interface fires
+Wildland/urban interface fires are a threat across the United States.
+According to the National Interagency Fire Center, wildfires occurred in
+every state in 2006, burning over 9 million acres.
+Major fires in the wildland/urban interface have the potential for vast
+destruction by destroying homes and other structures, causing mass
+evacuations, and causing injuries and deaths � Notable recent examples
+are:
+East Bay Hills, Oakland, California, 1991: This fire burned 1,600 acres •
+and resulted in 25  fatalities, the destruction of 3,300 single-family
+homes and 450 apartment units, and damages of $1 �5 billion �
+Florida Wildfires, 1998: This fire burned 500,000 acres and resulted •
+in evacuations of 35,000 residents, closure of an interstate highway,
+and damage or destruction of 337 homes�
+Rodeo-Chediski Fire, Arizona, 2002: This fire burned over 462,000 •
+acres, making it one of the largest fires in state history, and destroyed
+426 homes�
+Southern California Wildfires, 2003: These fires, which burned •
+750,000 acres in six counties around Los Angeles and San Diego,
+destroyed 3,700 homes and resulted in 29 fatalities.
+Southern California Wildfires, 2007: Striking the same region as the •
+2003 wildfires, the 2007 fires burned over 500,000 acres, destroyed
+1,700 homes, and displaced over 900,000 people, the largest
+evacuation in California history.
+Wildfire Damage to Public Facilities1
+Wildfires propagate by consuming available fuel, including vegetation
+and combustible materials.
+
+In an approaching wildfire, facility
+components that are combustible can be ignited by embers, firebrands,
+flames, radiant energy, and convective energy, as described below.
+Burning embers and firebrands, carried on air currents, can travel •
+significant distances in advance of a wildfire and land on a facility,
+igniting exterior materials, or enter the facility through an opening,
+igniting interior materials�
+1 As stated above, public facilities and facilities owned by certain private, non-
+profit entities are eligible for funding under the PA Program. For purposes of this
+Handbook, references to “public facilities” include any facilities eligible for funding
+under the PA Program, including private, non-profit facilities.
+xiv Introduction to Wildfire DamageFlames from the combustion of nearby materials can transfer to a •
+facility and cause ignition of facility components.
+Radiant energy from combustion of nearby materials can be sufficient •
+to cause ignition of facility components, even if the components are
+not on the exterior of the facility.
+Convective energy, in the form of hot gases, removes moisture from •
+the air, penetrates openings, and can be sufficient to cause ignition of
+facility components.
+A wildfire can deform or melt facility components that do not initially
+ignite. Damage to power systems can cause surges that damage
+electrical and mechanical equipment�
+Facilities that are particularly vulnerable to wildfire damage include
+those that have the following characteristics:1
+Combustible construction materials or materials that deform or melt •
+when heated
+Combustible exterior components or attached structures•
+Openings such as vents, that allow heat, embers, or firebrands to •
+enter the facility and ignite combustible components within the facility
+Features such as overhangs that allow heat, gases, embers, and •
+firebrands to be trapped adjacent to combustible materials
+Features such as gutters, decks, and fences that allow combustible •
+debris to accumulate, providing fuel adjacent to the facility that can
+ignite, resulting in ignition of facility components
+Interior components that can ignite when the facility exterior is heated•
+Although the facility design and construction materials may contribute to
+vulnerability to wildfire, the presence, type, and density of vegetation has
+a significant impact on the level of risk to the facility.
+
+Vegetative fuels can
+lead surface fires to the facility and produce embers and firebrands that
+can cause ignition when striking or entering the facility. Additionally, leaf
+litter, needles, and other vegetative matter that accumulate in or near
+a facility can ignite and spread fire to the facility. Although measures to
+reduce or eliminate vegetative fuels may not be eligible for PA Program
+funding, these measures are critical to reducing the vulnerability of a
+facility to a wildfire and the cost of the measures can be minimal.
+1 The order in which these characteristics are presented is not related to their
+importance. The vulnerability of a specific facility is based on many factors,
+including topography and available local fire suppression capabilities.
+Introduction to Wildfire Damage  xvWildfire Code Requirements and Standards
+State and local officials have sought to reduce the vulnerability to wildfire
+by developing code requirements and standards for construction in
+areas where wildfires pose a risk. The codes and standards have been
+developed over time to expand fire protection beyond traditional fire
+codes that address interior structure fires to include measures to protect
+structures from the exterior threat posed by wildfires.
+At the national level, the International Code Council has prepared
+the International Wildland Urban Interface Code (IWUIC), which
+supplements the International Building Code that has been adopted by
+many States. The model code regulations included in the IWUIC bring
+together requirements for planning and design for buildings constructed
+or modified within wildland/urban interface areas. Other nationally
+applicable standards, such as the National Fire Protection Association
+(NFPA) Fire Protection Infrastructure for Land Development, NFPA 1141
+(NFPA, 2008a) and Standards for Reducing Structure Ignition from
+Wildfire, NFPA 1144 (NFPA, 2008b), provide similar guidance.
+Because the presence of vegetation that could fuel a wildfire is the
+greatest threat to life, health and safety, and buildings and other
+facilities, requirements for fuel reduction and the creation of defensible
+space  have often been the focus of codes and standards for reducing
+vulnerability to wildfires.
+
+These requirements are intended to reduce the
+rate of fire spread and provide a safer environment for fire suppression.
+The requirements are focused on the removal of vegetation, such as
+trees, brush, and grasses, to create firebreaks immediately adjacent to
+buildings and other structures, and reduced fuel zones that disrupt the
+horizontal and vertical continuity of combustible vegetation. Defensible
+space is described in Appendix D of this Handbook.
+Additionally, codes and standards have been developed for planning,
+zoning, and land development components that are designed to
+reduce vulnerability to wildfires. The codes and standards may include
+requirements to avoid areas of increased risk, such as canyons that can
+accelerate the rate of fire spread; requirements for building separation;
+specifications for streets and driveways to allow ingress/egress; and
+specifications for water supply.
+The protection of individual facilities is guided by codes that have
+incorporated ignition-resistant construction standards , which include
+requirements designed to reduce the potential for ignition, particularly
+due to flying embers and firebrands, in areas prone to wildfire hazards.
+xvi Introduction to Wildfire DamageIgnition-resistant construction standards  are based on the use of fire-
+resistant materials, noncombustible materials , and 1-hour fire-rated
+assemblies�
+Designating an area as a fire severity zone is based on factors such as
+fuel, topography, and weather. The designation includes the potential
+severity of wildfire that could occur (for example, extreme, high, or
+moderate wildfire severity). The assessment and mapping of fire severity
+zones and dissemination of information about the areas provide an
+additional tool for planning and designing facilities and development to
+reduce vulnerability to wildfires. Many State and local governments use
+fire severity zones to set standards for ignition-resistant construction
+that vary depending on wildfire severity. The IWUIC provides for three
+classes of ignition-resistant construction based on the severity of the fire
+hazard in the area in which the building is located.
+
+Accordingly, the fact
+that a facility is located in a fire severity zone may guide the selection of
+mitigation measures�
+Elements of Successful Wildfire Mitigation
+A comprehensive effort to reduce the vulnerability of public facilities to
+wildfires incorporates the following elements:
+Definition of the fire severity zone to determine the potential fire •
+severity at the location of the facility.
+Establishment of • defensible space  around the facility to keep
+wildfires away from the facility and allow for fire suppression activities.
+Modification to, or incorporation of, components that reduce the •
+potential for ignition in the event that a wildfire approaches the facility.
+The last element may be eligible for PA Program funding during
+restoration of a damaged public facility if required for repair of damaged
+elements under current codes and standards or if it is a cost-effective
+hazard mitigation measure. Components that reduce the potential for
+ignition, which are the focus of this Handbook, should include:
+Noncombustible components that resist ignition•
+Fire-resistant assemblies to reduce the spread of heat and flames•
+Components that prevent the trapping and intrusion of hot gases, •
+embers, and firebrands that could cause ignition
+Introduction to Wildfire Damage  xviiThis Handbook provides information about the
+typical ways the following facilities are damaged
+by wildfire and the measures that can be taken to
+reduce the potential for the damage �
+ I� Buildings  ���������������������������� 1
+ II� Utilities  � � � � � � � � � � � � � � � � � � � � � � � � � � � �  67
+ III� Recreational Facilities  ���������������� 74
+ IV� Fences and Walls  �������������������� 78
+ V. Surface Transportation Safety
+Facilities  � � � � � � � � � � � � � � � � � � � � � � � � � � � 82
+ VI� Bridges  � � � � � � � � � � � � � � � � � � � � � � � � � � � � 88
+ VII� Retaining Walls and Erosion-Control
+Structures  �������������������������� 96
+Buildings 1I. buIldIngS
+In this section, mitigation measures that can reduce the vulnerability of
+buildings and attached structures such as decks and ramps to wildfire
+hazards are described.
+
+One measure that is not included and may not
+be eligible for PA Program funding, creation of defensible space  around
+the building, may be critical to reducing the vulnerability of the building
+to wildfire hazards. Information about creating a defensible space is
+provided in Appendix D.
+Typical damage to buildings:  In general, the factors that make a
+building vulnerable to wildfire damage are:
+Proximity to topographic features such as steep slopes, ridges, and •
+saddles, which can contribute to the spread of wildfire; high wind
+condition s increase the risk
+Proximity to fuels including vegetation, other materials, structures, •
+and accumulated debris, and lack of defensible space
+Building components that do not consist of•  fire-resistant  or
+noncombustible materials but are exposed to radiant heat, hot
+gases, flames, embers, or firebrands that may cause ignition of the
+components
+Openings through which hot gases, embers, and firebrands can •
+intrude and cause ignition within the building
+A reduction in the vulnerability of a building to wildfire damage is most
+effectively achieved through measures that address all of these factors.
+Although the type and design of public buildings vary widely, building
+components that are most susceptible to damage during wildfires are
+common to many building types. These components are described
+below �
+roofs: Roofs are the most vulnerable component of the building. They
+can be exposed to flames and, due to their horizontal orientation, are
+especially susceptible to ignition by airborne embers and firebrands.
+Combustible debris may accumulate on the roof or in gutters. Aside from
+creating a defensible space, installing a Class A rated roof is the most
+critical element in reducing a building’s vulnerability to wildfire.
+exterior walls: Exterior walls that are not constructed to ignition-
+resistant construction standards are vulnerable to ignition due to
+flames, radiant heat, and airborne embers and firebrands. Combustible
+materials within the wall may ignite due to conduction of heat from
+2 Buildingsexterior materials.
+
+Openings for utilities and other purposes may allow
+hot gases and embers to intrude, causing ignition within the building�
+vents: These components may ignite if not constructed of  fire-resistant
+or noncombustible material or may allow hot gases and embers to
+intrude, causing ignition within the building�
+Exterior doors, windows, and skylights: Door, window, and skylight
+assemblies may ignite if not constructed to ignition-resistant
+construction standards . Additionally, gaps around doors and breakage
+of glass in doors, windows, and skylights may allow hot gases, embers,
+and firebrands to intrude, causing ignition within the building.
+Ramps, decks, and other attached structures:  These structures are
+often constructed of combustible materials that provide fuel for flames
+that can spread to the building. Additionally, hot gases and embers may
+ignite vegetation or materials stored beneath these structures, causing
+them to ignite �
+foundations: Foundations may be constructed of combustible materials
+that can ignite. Additionally, hot gases and embers may penetrate the
+foundation through vents and windows and ignite material stored in
+crawl spaces�
+Contents: Building contents are often combustible and once ignited,
+can contribute to the spread of fire through the interior of the building.
+equipment: Equipment such as heating, ventilation, and air conditioning
+equipment may be damaged by heat or flames or may allow hot gases
+and embers to enter the building through gaps where the equipment
+penetrates the building exterior �
+Buildings 3The following sections contain mitigation measures
+for common types of wildfire damage to various
+building components�
+A� Roof  ���������������������������������� 4
+B� Exterior Walls  � � � � � � � � � � � � � � � � � � � � � � � � � 19
+C� Vents  �������������������������������� 26
+D. Exterior Doors  ������������������������� 30
+E. Ramps, Decks and Other Attached
+Exterior Structures  � � � � � � � � � � � � � � � � � � � � � 35
+F.
+
+Windows and Skylights  � � � � � � � � � � � � � � � � � 44
+G� Foundations  �������������������������� 52
+H� Building Contents  ���������������������� 58
+I� Building Equipment  � � � � � � � � � � � � � � � � � � � � 61
+4 RoofA. Roof
+Introduction: Roofs may be steep-sloped (roofs with a slope greater
+than 3:12) or low-sloped (low-sloped roofs include flat roofs). The
+components of the roof assembly, with examples of these types of roofs,
+are listed below.
+Roof assemblies have a fire-resistance rating  based on their resistance
+to external fire exposures. The American Society of Testing and Materials
+International (ASTM) classifies roof assemblies as Class A (highest rating), B, or C using test method E108. Assemblies that fail the test (do not meet Class A, B, or C criteria) are unrated. A Class A rated roof
+assembly is recommended when considering mitigation options.
+A roof assembly includes all of the interacting roof components such
+as the roof covering and roof deck. Installing a noncombustible  roof
+covering or deck alone is not necessarily sufficient for the roof assembly
+to achieve a Class A rating. Under 406 Mitigation, mitigation can be
+applied only to the damaged element. However, when determining the material to repair or replace the damaged element, the entire roof assembly should be considered to achieve a Class A rating. For example, a roof with a fire-retardant-treated  wood shingle roof covering can reach
+a Class A rating only if coupled with a specific cap sheet underlayment .
+Causes of Damage: The roof is the most critical component of the
+building’s vulnerability.
+
+or ignition of debris such as pine needles and leaves that have collected on the roofComponentExamples of
+Steep-Sloped RoofsExamples of
+Low-Sloped Roofs
+Roof covering Shingles, tiles, panels Membrane, built-up
+roofing
+Underlayment Asphalt impregnated felt Insulation board
+Decking Plywood or oriented strandboard sheathingCorrugated metal, concrete-filled metal,
+concrete panels
+Framing Depends on structure
+but often wood-based
+compositeDepends on design
+but often steel or
+concrete
+Roof 5Roof deck, due to ignition of the roof covering, exposure to heat •
+transfer by conductive heat, or intrusion of embers through gaps such
+as displaced tiles
+Debris that has collected in gutters and underneath tiles at the roof •
+edge
+Eaves and overhangs, which may trap heat, hot gases, and embers•
+Mitigation measures for common types of wildfire
+damage to roof components are discussed in the following sections:
+A�1 Roof Covering�  � � � � � � � � � � � � � � � � � � � � � � � � 6
+A.2 Roof Deck  ��������������������������� 10
+A�3 Roof Edges  � � � � � � � � � � � � � � � � � � � � � � � � � 13
+A�4 Eaves and Overhangs  � � � � � � � � � � � � � � � � � 16
+6 Roof Covering (Roof)a.1  r oof Covering
+Problem: Roofs with coverings that are combustible can ignite due to
+contact with flames, radiant heat, airborne embers and firebrands,
+
+or
+accumulated roof debris that has ignited �
+Mitigation objective: Prevent ignition of the roof covering by installing a
+Class A rated roof assembly.
+Mitigation measures to prevent ignition of the roof
+covering include:
+A�1�a Install an Appropriate Roof Covering
+on a Steep-Sloped Roof  ��������������� 7
+A�1�b Install an Appropriate Roof Covering  on a Low-Sloped Roof  � � � � � � � � � � � � � � � � 8
+A.1.c Install Flashing at Roof Valleys and
+Intersections with Roof Vents, Walls,
+and Chimneys  � � � � � � � � � � � � � � � � � � � � � � 9
+Roof Covering (Roof) 7a.1.a  Install an appropriate roof Covering on a Steep-sloped
+roof to a chieve a Class a rated r oof assembly
+description of Mitigation Measure: Install a noncombustible  roof
+covering such as clay and concrete tile, slate, fiber-cement tiles, and
+metal shingles and panels � Other materials included in Class A rated roof
+assemblies are fiberglass-reinforced asphalt shingles and exterior rated
+fire-retardant-treated wood shake or shingles�
+Fire-resistant
+underlaymentMetal roofing
+Joist (rafter)Fire-resistant decking
+effectiveness: Noncombustible roof coverings that are part of a Class A
+roof assembly are recommended and effective in reducing vulnerability
+to wildfire damage in all fire severity zones., Damage results from ignition of:
+Roof covering, due to flames, radiant heat, or contact with airborne
+•
+embers and firebrands;
+
+However, other roof coverings
+such as fire-retardant-treated wood shingles, if combined with the
+appropriate underlayment  and decking to prevent the penetration of
+flames to the building interior, can also be used (see Section A.2) to
+achieve a Class A rating �
+design Issues: When installing a different roof covering material than
+that used in the pre-disaster design, it may be necessary to replace
+components of the roof deck to accommodate the new material (see
+Section A.2).
+Birdstops or mortar should be installed at the open ends of tile roof
+coverings to prevent the accumulation of debris and entry of embers
+under the tiles (see Section A.3.b).
+limitations: Metal roofing may conduct heat or melt (depending on
+the metal type and exposure) and may ignite the roof substrate
+underneath it�
+Considerations:
+CODE
+8 Roof Covering (Roof)a.1.b Install an appropriate roof Covering on a low-sloped
+roof to a chieve a Class a rated r oof assembly
+description of Mitigation Measure: Install a noncombustible  roof
+covering such as metal roofing or gravel ballast. A wide range of
+proprietary products for membrane roofs, built-up roofs, and hybrids
+of these two types of roofs are available, some of which include
+noncombustible coverings or are included in Class A rated roof
+assemblies�
+Polyiso cyanur ate
+insula tionRoof
+membr ane
+5/8-inch
+gypsum b oardRoof deckGravel
+ballast
+effectiveness: Specifying a Class A rated roof assembly is
+recommended and is effective in reducing the potential for ignition of the
+roof covering and for reducing heat transfer and fire penetration to the
+deck from the exterior �
+design Issues: When installing a different roof covering material than
+that used in the pre-disaster design, it may be necessary to replace
+components of the roof deck to accommodate the new material
+(see Section A.2).
+
+For membrane and built-up roofing systems, the
+manufacturer’s specifications and testing data should be consulted to
+determine whether the roof covering or roof assembly meets desired
+requirements�
+Considerations:
+CODE
+Roof Covering (Roof) 9a.1.c Install flashing at roof valleys and Intersections with
+roof v ents, w alls, and Chimneys
+description of Mitigation Measure: Install metal flashing  and
+fire-resistant  underlayment  below flashing in areas on the roof that may
+accumulate debris.
+
+Areas that commonly accumulate debris are roof
+valleys, roof edges, intersections with exterior walls, and penetrations in
+the roof covering, such as chimneys, through-roof vents, and skylights.
+Roof vent
+flashingRoof intersection flashing
+effectiveness: Effective at reducing vulnerability to wildfire in all fire
+severity zones.
+design Issues: Installation of fire-resistant underlayment may be a
+component of mitigation for the entire roof (see Section A.2.b).
+Considerations:
+CODE
+10 Roof Deck (Roof)A.2  Roof Deck
+Problem: During wildfire exposure, the roof deck is the last line of
+defense in reducing the potential for transfer of heat and spread of
+flames from the roof into the interior of a building �
+Mitigation objective: Prevent the transfer of heat and spread of flames
+from the roof into the interior of the building by installing a Class A rated
+roof assembly.
+Mitigation measures to protect the roof deck from
+damage by wildfire damage include:
+A.2.a Install an Appropriate Roof Deck  � � � � � � 11
+A.2.b Install an Appropriate Underlayment  ���12
+Roof Deck (Roof) 11A.2.a  Install an Appropriate Roof Deck to Achieve a Class A
+rated r oof assembly
+description of Mitigation Measure: Use a noncombustible  deck
+such as steel, concrete, or concrete over steel decking, or use a fire-
+retardant-treated wood deck to achieve a Class A rated roof assembly.
+Rafter (joist)Fire-resistant
+deckingFire-resistant
+underlaymentRoof covering
+FasciaGutter
+effectiveness: Noncombustible roof decks that are part of a Class A
+rated roof assembly are recommended. In all fire severity zones,
+concrete decks and concrete topping over steel decks are effective in preventing intrusion of high heat, embers, and flames into the building.
+Although steel decks and fire-retardant-treated wood decks offer greater
+protection than combustible decks, they are not as effective as concrete decks.
+
+Heat can readily transfer through steel decks, and embers can
+enter the interior of the building between steel and wood deck joints�
+Steel and fire-retardant-treated decks can be effective in reducing vulnerability to wildfire damage if other roof assembly enhancements are
+incorporated as recommended in other sections of this Handbook �
+design Issues: If the existing roof deck is to be removed because it is
+damaged, an evaluation must be conducted to determine whether the existing deck framing members have adequate structural capacity to
+support the new deck �
+Considerations:
+CODE
+12 Roof Deck (Roof)a.2.b Install an appropriate underlayment to achieve a Class a
+rated r oof assembly
+description of Mitigation Measure: Install a fire-resistant
+underlayment  to prevent wildfire exposures from reaching the roof
+deck � Examples include a mineral-surface cap sheet rated for use in a
+Class A rated roof assembly and exterior grade Type X gypsum  sheathing
+products�
+Rafter (joist)Fire-resistant
+deckingFire-resistant
+underlaymentRoof covering
+FasciaGutter
+effectiveness: Effective for reducing vulnerability to wildfire damage in
+all fire severity zones if used in a Class A rated roof assembly.
+design Issues: Gypsum board is specified as Type X if it is 5/8-inch
+thick a nd complies wi th ASTM C 1177.
+limitations: Fire-resistant underlayments cannot prevent ignition to a
+roof that does not have a Class A rated roof assembly.
+Considerations:
+CODE
+Roof Edges (Roof) 13a.3  r oof edges
+Problem: Combustible debris such as leaf litter and pine needles may
+accumulate along the edges of the roof, either in gutters or in the gaps
+beneath the edges of clay tiles.
+
+This debris can ignite and spread flames
+to the roof covering or deck �
+Mitigation objective: Reduce the potential for the accumulation of
+combustible debris�
+Mitigation measures to prevent ignition of debris on
+roofs include:
+A�3�a Install Noncombustible Gutters  � � � � � � � 14
+A�3�b Install Birdstops  � � � � � � � � � � � � � � � � � � � � 15
+14 Roof Edges (Roof)a.3.a Install noncombustible gutters
+description of Mitigation Measure:  Install gutters constructed with
+noncombustible  material such as aluminum, galvanized steel, or copper.
+Install leaf guards to provide a cover over gutter openings and help resist
+debris from accumulating in the gutter �
+Leaf guards prevent
+combustible debris from collecting in gutters and igniting the roof
+effectiveness:  Effective for reducing vulnerability to wildfire damage in
+all fire severity zones.
+design Issues: Mesh leaf guards are not effective in preventing the
+accumulation of pine needles. Solid leaf guards as shown in the figure
+are therefore recommended�
+limitations: Leaf guards may become dislodged over time, allowing
+debris to accumulate between the leaf guard and the roof� In this
+instance, the leaf guard must be reinstalled �
+Considerations:
+Roof Edges (Roof) 15a.3.b Install birdstops
+description of Mitigation Measure: Install noncombustible  birdstops
+at eaves to prevent debris from accumulating and to prevent birds from
+building nests�
+Birdstops prevent
+debris from accumulating beneath tiles
+effectiveness: Effective for reducing vulnerability to wildfire damage in
+all fire severity zones.
+design Issues: Quality of construction must eliminate all openings that
+may allow embers into roof assembly.
+limitations: Birdstops may become dislodged over time and must be
+re installed when it occurs�
+Considerations:
+16 Eaves and Overhangs (Roof)a.4  eaves and overhangs
+Problem:  Embers and hot gases may be trapped by eaves and
+overhangs during a wildfire.
+
+The eaves, overhangs, and soffits, as well as
+the adjacent exterior wall, may ignite if not constructed of fire-resistant
+or noncombustible  materials. Additionally, eave vents under the
+overhang where hot gases are often trapped may allow embers to enter
+the attic space where they can quickly ignite surrounding materials.
+Mitigation objective: Reduce or prevent the trapping of hot gases and
+embers that can cause ignition of building components and prevent the
+intrusion of embers into the building interior �
+Mitigation measures to protect eaves and
+overhangs from wildfire damage include:
+A�4�a Reduce or Eliminate Overhangs  � � � � � � � 17
+A.4.b Construct Eave Assembly to Reduce
+Vulnerability to Wildfire Damage  ������� 18
+Eaves and Overhangs (Roof) 17a.4.a reduce or eliminate overhangs
+description of Mitigation Measure: Design the building without
+overhangs, or if an overhang is designed, minimize the width of the
+overhang and use fire-resistant  materials to enclose exposed eaves (see
+Section A.4.b).
+Hot gases Exterior wall
+claddingShort overhangFascia
+Gutter
+effectiveness:  Effective for reducing vulnerability to wildfire damage in
+all fire severity zones.
+design Issues: The effect of eliminating the roof overhang, in terms
+of protection from weather, must be considered � Overhangs protect
+walls from rain and windows from sun � If this mitigation measure is not
+acceptable due to local weather conditions, use the mitigation measure
+outlined in Section A.4.b.
+Considerations:
+CODE
+18 Eaves and Overhangs (Roof)a.4.b Construct eave assembly to r educe v ulnerability to
+Wildfire Damage
+description of Mitigation Measure: Reduce the potential for trapping
+hot gases and embers by constructing boxed eaves. Prevent hot gases
+and embers from entering the attic by properly placing vents and
+screens in the fascia away from areas where gases and embers are
+trapped by the eave and using a flat soffit, as shown below. Reduce the
+potential for ignition by using fire-resistant  materials for the fascia and
+soffit.
+
+Materials should have a minimum 1-hour fire-resistance rating �
+Hot gasesExterior wall
+claddingHorizontal
+fascia vent
+Fire-resistant
+soffitGutterBoxed eave
+effectiveness:  Effective for reducing vulnerability to wildfire damage in
+all fire severity zones.
+design Issues:  Use baffled vent design to deflect debris and protect
+vent openings. Vents must provide required ventilation as required by
+design or code�
+Considerations:
+CODE
+Exterior Walls 19b. exterior w alls
+Introduction:  The design and composition of exterior walls, and
+consequently their vulnerability to wildfire damage, vary depending on
+the type of building.
+T• he exterior of wood-frame and steel-stud buildings consists of
+exterior wall cladding (such as brick, stone, stucco, wood siding,
+wood shingles, or vinyl siding) that is placed over sheathing (such as
+plywood, Oriented Stand Board, particle board, or gypsum board).
+Buildings with solid load-bearing walls may be constructed of brick, •
+stone, or concrete block �
+Steel frame and concrete frame buildings may incorporate a wide •
+range of materials for exterior walls depending on their design,
+including metal panels; glazing; fiberglass or cementitious panels;
+in-fill brick, concrete, or hollow clay tile masonry; and pre-cast or cast-
+in-place concrete panels �
+The exterior of tilt-up buildings consists of pre-cast concrete panels�•
+Causes of damage: In general, exterior walls with combustible cladding
+are the most vulnerable to wildfire damage. Cladding composed of
+combustible materials, such as wood siding, may ignite when exposed
+to flames, radiant heat, or airborne embers and firebrands. Once the
+cladding ignites, fire may burn through the cladding to the sheathing or
+interior, spread vertically to the eaves and roof, or transmit heat to the
+interior. Vinyl cladding may deform, exposing the underlying sheathing or
+interior directly to flames and heat.
+Laps in siding represent weak points where flames can quickly burn
+through to the sheathing or interior.
+
+Additionally, openings for wall
+penetrations (such as for utilities), may allow heat, hot gases, and
+embers to intrude, causing ignition of combustible materials in the
+building interior �
+Mitigation measures for common wildfire damage
+to exterior walls are discussed in the following sections:
+B�1 Wall Cladding  ������������������������ 20
+B�2 Wall Penetrations  � � � � � � � � � � � � � � � � � � � � 24
+20 Wall Cladding (Exterior Walls)b.1  w all Cladding
+Problem: Combustible cladding is vulnerable to ignition or melting
+due to flames, radiant heat, and contact with airborne embers and
+firebrands. Once ignited, flames can spread to the roof or interior.
+Heat may also pass through the cladding and ignite underlying wall
+components�
+Mitigation objective: Prevent the ignition of exterior wall cladding and
+reduce the potential for transfer of heat and spread of flames to the
+building interior �
+Mitigation measures to protect wall cladding from
+wildfire and prevent the spread of heat and flames include:
+B�1�a Install Fire-Resistant or
+Noncombustible Cladding  ������������ 21
+B.1.b Install Siding with Less Penetrable
+Joints  � � � � � � � � � � � � � � � � � � � � � � � � � � � � 22
+B.1.c Install Type X Gypsum Board Between
+Studs and Covering  ����������������� 23
+Wall Cladding (Exterior Walls) 21b.1.a  Install fire-r esistant or noncombustible Cladding
+description of Mitigation Measure:  Install cladding that is fire-
+resistant or noncombustible � Examples include stucco, metal siding,
+fiber-cement  siding, masonry, and concrete.
+
+Fire-resistant materials
+should be approved for a minimum  fire-resistance rating  of 1 hour �
+effectiveness: Effective for reducing vulnerability to wildfire damage in
+all fire severity zones.
+design Issues:  The fire-resistance rating should be tested in accordance
+with ASTM E119.
+limitations: The choice of exterior cladding systems may affect the
+sheathing requirements�
+Considerations:
+CODE
+22 Wall Cladding (Exterior Walls)b.1.b Install Siding with less Penetrable Joints
+description of Mitigation Measure: If siding is specified, install fire-
+resistant  or noncombustible  siding with rabbetted, shiplap, or tongue
+and groove joints.
+
+These types of joints hinder the passage of wildfire
+elements past the exterior wall surface �
+Rabbetted joint Shiplap joint Tongue and groove joint
+effectiveness: Effective for reducing vulnerability to wildfire damage in
+all fire severity zones.
+design Issues: The addition of exterior grade  Type X gypsum board  can
+increase the fire resistance of the wall assembly (see Section B.1.c).
+Gypsum board is specified as Type X if it is 5/8-inch thick and complies
+with ASTM C 1177.
+Considerations:
+CODE
+Wall Cladding (Exterior Walls) 23b.1.c Install Type X gypsum board between Studs and Covering
+description of Mitigation Measure: Install a 5/8-inch thick exterior
+Type X gypsum board compliant with ASTM C 1177 between the studs
+and wall covering to reduce the potential for transfer of heat and spread
+of flames to the interior.
+Exterior
+coveringWall stud
+Sill plate5/8-inch Type X
+exterior gypsum board
+Plywood sheathingHousewrap
+effectiveness: Effective for reducing vulnerability to wildfire damage in
+all fire severity zones.
+design Issues:  Fire-rated Type X gypsum board is economical, easy to
+install, and available in many sizes.
+Considerations:
+CODE
+24 Wall Penetrations (Exterior Walls)b.2  w all Penetrations
+Problem:  Exterior wall penetrations, such as those for utilities, create
+gaps in the building exterior through which heat, hot gases, and embers
+can intrude �
+Mitigation objective: Eliminate the potential for intrusion of heat, hot
+gases, and embers�
+Mitigation measures to eliminate the risk of
+intrusion at wall penetrations include:
+B.2.a Eliminate Gaps Due to Exterior Wall
+Penetrations  � � � � � � � � � � � � � � � � � � � � � � 25
+Wall Penetrations (Exterior Walls) 25b.2.a  eliminate gaps due to exterior w all Penetrations
+description of Mitigation Measure: Seal gaps around wall
+penetrations or if possible, remove above-ground exterior wall
+penetrations, relocate the utility entry to an underground location, and
+seal the gaps in the wall.
+
+Small gaps may be filled with fire-resistant
+caulk or mortar or with fire-rated expanding foam; large gaps may be
+filled with intumescent  or fire-protective sheets or pillows. Fire-resistant
+wrap may be used around ventilation features such as air conditioners
+that are built into and penetrate exterior walls �
+Exterior penetrations should be
+sealed with fire-resistant materials
+effectiveness:  Effective for reducing vulnerability to wildfire damage in
+all fire severity zones �
+design Issues:  Replacing pipes, cables, and other installations can
+damage sealants � Fire-resistant caulk or mortar must be removed and
+replaced each time a cable or pipe is reinstalled�
+Considerations:
+26 VentsC. v ents
+Introduction: Vents are designed to allow airflow into enclosed spaces,
+such as attics, and allow the removal of excess moisture and heat from
+those spaces. They may be installed in a variety of locations, depending
+on the design of the building. Common locations for vents are soffits,
+gables, and ridgelines of roofs. They may also be installed in foundations
+to allow ventilation of crawl spaces. Vents are generally required by code,
+which may also prescribe a mesh covering to keep debris out.
+Causes of damage: Vents may allow heat and embers to intrude into
+the building. Additionally, debris that collects at vent openings can be
+ignited and spread flames and hot gases to both the interior and exterior
+of the building�
+Mitigation measures for common wildfire damage
+to vents are discussed in the following section:
+C�1 Vent Openings  ����������������������� 27
+Vents 27C.1  v ent openings
+Problem: Embers may intrude through vent openings.
+
+Screens and
+louvers attached to vent openings may ignite.
+Mitigation objective: Protect vent openings from embers�
+Mitigation measures to protect vent openings from
+intrusion of embers include:
+C.1.a Install Noncombustible Screens with
+Small Openings  � � � � � � � � � � � � � � � � � � � � 28
+C�1�b Install Noncombustible Louvers with
+Adjustable Slats  � � � � � � � � � � � � � � � � � � � � 29
+28 VentsC.1.a  Install noncombustible Screens with Small openings
+description of Mitigation Measure:  Install noncombustible , corrosive-
+resistant metal screens with maximum 1/4-inch openings � Vent
+openings should not exceed 144 square inches each�
+Roof vent with
+1/4-inch mesh covering
+effectiveness: Effective for reducing vulnerability to wildfire damage in
+moderate fire severity zones.
+design Issues: Vent screens must maintain their original function of
+allowing airflow for a building.
+limitations: Metal screens with 1/4-inch openings will not prevent
+flames, gases, or embers smaller than a 1/4-inch from entering the vent
+system.
+Considerations:
+CODE
+Vents 29C.1.b Install noncombustible louvers with adjustable Slats
+description of Mitigation Measure: When practical, install
+noncombustible  horizontal louvers with adjustable slats that can seal
+the vent opening during a wildfire.
+Horizontal louvers
+can prevent embers from entering the ventilation system
+effectiveness: Effective for reducing vulnerability to wildfire damage in
+all fire severity zones.
+design Issues: Louvers must maintain their original function of allowing
+airflow for a building.
+limitations: Louvers may require human intervention at the onset of a
+wildfire.
+Considerations:
+CODE
+30 Exterior Doorsd. exterior doors
+Introduction: Exterior doors include sectional and rolling doors, such
+as garage doors.
+
+Doors with a noncombustible,  solid mineral core are
+classified as fire-rated by Underwriters Laboratories (UL) based on the
+period of time a door can resist a fire (UL Standard 10C).
+Causes of damage: During a wildfire, exterior doors are vulnerable
+to ignition due to radiant heat, direct contact with flames, and contact
+with airborne firebrands and embers. Heat, flames, and embers can
+also penetrate gaps in the exterior door assembly, such as between the
+door and the ground, and ignite combustible material in the building
+interior � Glass in doors can break due to heat or airborne debris, allowing
+intrusion of hot gases and embers�
+Mitigation measures for common wildfire damage
+to exterior doors and frames are discussed in the
+following sections:
+D.1 Exterior Doors and Frames  ������������� 31
+D.2 Sectional and Rolling Doors  � � � � � � � � � � � � 33
+Exterior Doors and Frames (Exterior Doors)  31d.1  exterior doors and f rames
+Problem:  Radiant heat or direct contact with flames can ignite
+combustible exterior doors, break glass in the exterior door, and
+penetrate the building through the gaps around the exterior door
+perimeter �
+Mitigation objective: Protect exterior doors and prevent wildfire
+elements from spreading into the building interior �
+Mitigation measures to protect exterior doors and
+frames from wildfire damage include:
+D.1.a Install Fire-Resistant
+Door Assemblies  � � � � � � � � � � � � � � � � � � � 32
+32 Exterior Doors and Frames (Exterior Doors) d.1.a  Install fire-r esistant door assemblies
+description of Mitigation Measure:  Install fire-rated exterior door
+assemblies in compliance with UL Standard 10C. As part of an assembly,
+door frames must also comply with the exterior door’s fire-resistance
+rating .
+
+The fire-resistance rating should not be less than 20 minutes.
+Fire-rated door assemblies may include doors manufactured from wood,
+metal, or fiberglass.
+effectiveness:  Exterior doors with a fire-resistance rating higher than
+90 minutes are effective for reducing vulnerability to wildfire damage in
+all fire severity zones.
+design Issues: For windows in doors, tempered glass with a low-
+emissivity or proprietary reflective coating are recommended. For glazed
+doors, follow the guidance in Section F.
+The fire-resistance rating for exterior doors is intended to equal 3/4 of
+the fire-resistance rating of the surrounding wall (see Section B.1.a).
+Considerations:
+CODE
+Sectional and Rolling Doors (Exterior Doors) 33d.2  Sectional and r olling doors
+Problem: Sectional and rolling doors and frames, which are often used
+for garages, are susceptible to ignition when constructed of combustible
+materials such as wood or vinyl panels. If the gap around the perimeter
+of the door is not properly sealed, hot gases, flames, and embers can
+circumvent the door and ignite material in the building interior �
+Mitigation objective: Protect exterior doors and prevent wildfire
+elements from spreading into the building interior �
+Mitigation measures to protect sectional and rolling
+doors and frames from wildfire damage include:
+D.2.a Install Noncombustible Insulated
+Doors and Frames  � � � � � � � � � � � � � � � � � � 34
+34 Sectional and Rolling Doors (Exterior Doors)d.2.a  Install noncombustible Insulated doors and f rames
+description of Mitigation Measure: Install doors and frames with
+steel, aluminum, or other applicable noncombustible  materials. Doors
+should also be insulated to protect against radiant heat.
+
+Seal the gap
+between the pavement and the garage door and the gap between the
+framing and the garage door with weatherstripping in accordance with
+UL Standard 10C.
+effectiveness: Effective for reducing vulnerability to wildfire damage in
+all fire severity zones.
+design Issues: For windows in garage doors, tempered glass with a low-
+emissivity or proprietary reflective coating are recommended.
+limitations: Weatherstripping should be replaced after being exposed
+to a fire.
+Considerations:
+CODE
+Ramps, Decks, and Other Attached Exterior Structures 35E. Ramps, Decks, and Other
+attached exterior Structures
+Introduction: Ramps, decks, and other exterior structures may be
+attached to a building. They are frequently constructed of wood and
+constructed in locations with a high probability of exposure to wildfire
+elements�
+Causes of damage: Ramps, decks, and other attached exterior
+structures constructed of combustible materials are prone to ignition�
+Additionally, if these features are elevated above grade, embers,
+firebrands, and hot gases can become trapped beneath them. Once
+the structure ignites, the fire may come into contact with the building,
+causing the building to ignite �
+Mitigation measures for common wildfire damage
+to attached exterior structures are discussed in the following section:
+E.1 Ramps, Decks, and Other Attached
+Exterior Structures  � � � � � � � � � � � � � � � � � � � 36
+36 Ramps, Decks, and Other Attached Exterior StructuresE.1  Ramps, Decks, and Other Attached Exterior Structures
+Problem:  Damage to structures attached to the exterior of buildings is
+caused by exposure to firebrands and embers.
+
+In addition, debris that
+accumulates at the gaps in decking and at the railing edges increases
+the risk of combustible material igniting � Embers and debris can also
+threaten the underside of the structure �
+Mitigation objective: To protect attached exterior structures from
+ignition�
+Mitigation measures to protect attached exterior
+structures from wildfire damage include:
+E.1.a Use Proper Siting and Setbacks  � � � � � � � 37
+E�1�b Use Fire-Resistant or Noncombustible
+Material  � � � � � � � � � � � � � � � � � � � � � � � � � � 38
+E.1.c Install Flashing or Screens at
+Intersection with Building  � � � � � � � � � � � � 39
+E�1�d Cover Underside of Joists with
+Fire-Resistant Panels  � � � � � � � � � � � � � � � 40
+E.1.e Enclose Underside of Structure
+with Screens  � � � � � � � � � � � � � � � � � � � � � � 41
+E.2.f Enclose Underside of Structure
+with Skirting  � � � � � � � � � � � � � � � � � � � � � � � 42
+E�1�g Construct Noncombustible Patio
+Around Footprint  � � � � � � � � � � � � � � � � � � � 43
+Ramps, Decks, and Other Attached Exterior Structures 37E.1.a Use Proper Siting and Setbacks
+description of Mitigation Measure: Avoid constructing ramps, decks,
+and other attached exterior structures near heavily vegetated areas and
+topographic features such as gullies, canyons, saddles, ridgetops, and
+narrow mountain passes � If the structure is perched on a hillside, choose
+a site or remove vegetation to ensure a 50-foot setback from wildland
+vegetation on the downslope side.
+
+Increase setbacks in heavily forested
+environments �
+50-foot setback
+effectiveness: Effective for reducing vulnerability to wildfire damage in
+all fire severity zones.
+design Issues:  If the structure is constructed over a slope, protect the
+area below the structure (see Sections E.1.d–f).
+Considerations:
+38 Ramps, Decks, and Other Attached Exterior Structurese.1.b use fire-r esistant or noncombustible Material
+description of Mitigation Measure: Construct ramps, decks, and
+other attached exterior structures using noncombustible materials such
+as steel or concrete or using heavy timber construction such as 3-inch
+nominal thickness fire-retardant-treated wood  for the decking and
+railing, and 6-inch x 6-inch timber support columns�
+Decking:  3-inch
+nominal thickness
+Columns: 6-inch x 6-inch
+Joists: 3- or 4-inch nominal thicknessRailing:  metal
+effectiveness: Noncombustible materials are effective for reducing
+vulnerability to wildfire damage in all fire severity zones. Heavy timber
+construction is effective for medium- and high-risk fire severity zones.
+design Issues. Replacing existing decking material with new material
+could increase the weight of the deck, and the support structure may
+require strengthening�
+limitations: Because metals get extremely hot in a wildfire, metal
+ramps and decks should not be relied upon as an escape route �
+Considerations:
+CODE
+Ramps, Decks, and Other Attached Exterior Structures 39e.1.c Install flashing or Screens at Intersection with building
+description of Mitigation Measure: Protect the gap where a ramp,
+deck, or other attached exterior structure meets the building using metal
+flashing .
+
+Although debris may still accumulate, the debris will not be
+lodged in the framing and the flashing would facilitate debris removal
+from the gap�
+Deck flashing
+Deck joistExterior wall cladding
+Exterior wall
+sheathing
+effectiveness: Effective for reducing vulnerability to wildfire damage in
+all fire severity zones.
+Considerations:
+40 Ramps, Decks, and Other Attached Exterior Structurese.1.d Cover u nderside of Joists with fire-r esistant Panels
+description of Mitigation Measure:  To avoid ignition from embers,
+firebrands, and hot gases trapped under the structure, cover the
+underside of the joists with  fire-resistant panels, such as fiber-cement
+panels�
+Fire-resistant
+panels
+JoistDecking
+effectiveness: Effective for reducing vulnerability to wildfire damage in
+all fire severity zones.
+design Issues: The ability of the deck to drain water must be
+considered �
+Considerations:
+CODE
+Ramps, Decks, and Other Attached Exterior Structures 41e.1.e enclose u nderside of Structure with Screens
+description of Mitigation Measure:  For ramps, decks, and other
+attached exterior structures that are elevated less than 6 inches above-
+grade, enclose the vertical opening to the underside of the structure with
+a 1/2-inch or smaller mesh screen.
+
+The screen will prevent firebrands
+and most embers from penetrating the underside of the structure �
+Underside of deck
+enclosed with 1/2-inch mesh screen
+effectiveness: Effective at preventing fire damage in moderate fire
+severity zones.
+limitations: Mesh screens will not prevent hot gases, flames, or small
+embers from penetrating the underside of the structure �
+Considerations:
+42 Ramps, Decks, and Other Attached Exterior StructuresE.1.f Enclose Underside of Structure with Skirting
+description of Mitigation Measure: Enclose all underfloor areas with
+materials approved for a minimum fire-resistance  rating  of 1 hour �
+Underside of
+deck enclosed with fire-resistant skirting
+effectiveness: Effective for reducing vulnerability to wildfire damage in
+all fire severity zones.
+design Issues: Structures enclosed with  fire-resistant skirting must be
+vented for proper moisture control�
+Considerations:
+Ramps, Decks, and Other Attached Exterior Structures 43e.1.g Construct noncombustible Patio around f ootprint
+description of Mitigation Measure: Construct a stone, concrete, or
+masonry patio beyond the footprint of exterior structures. The patio will
+create a firebreak for exterior structures.
+Surround deck with
+noncombustible patio
+effectiveness: Effective for reducing vulnerability to wildfire damage in
+all fire severity zones.
+Considerations:
+44 Windows and SkylightsF. Windows and Skylights
+Introduction:  During a wildfire, windows and skylights are often the
+weakest part of the building due to their susceptibility to failure. If a
+window or skylight fails, the wildfire has a direct access point into the
+building interior �
+Causes of damage:  Windows and skylights commonly fail during
+wildfires when the glazing breaks. Window or skylight glazing can break
+due to a differential between indoor and outdoor temperatures during a
+wildfire. The heat differential stresses the glazing and eventually causes
+cracking�
+During a wildfire, glazing can also become dislodged and fall out of
+place. For example, vinyl frames warp and then melt until the window
+fails� Firebrands can be blown with enough force to break window and
+skylight glazing.
+
+Radiant heat can also pass through unbroken windows
+and skylights and ignite combustible materials inside a building.
+Mitigation measures for common wildfire damage
+to windows and skylights are discussed in the following sections:
+F�1 Windows and Frames  � � � � � � � � � � � � � � � � � 45
+F.2 Skylights and Frames  � � � � � � � � � � � � � � � � � 50
+Windows and Frames (Windows and Skylights) 45f.1  windows and f rames
+Problem: Wildfire elements can break window glazing or ignite or melt
+the window framing. Damage can be caused to the interior by the
+passage of radiant heat through the window �
+Mitigation objective: Protect the interior of a building by preventing
+windows and frames from failing �
+Mitigation measures to protect windows and
+frames from wildfire damage include:
+F.1.a Install Fire-Resistant Glazed
+Window Panels  � � � � � � � � � � � � � � � � � � � � 46
+F�1�b Install Fire- Resistant Framing  � � � � � � � � � 47
+F.1.c Install Permanent or Temporary
+Fire-Resistant Shutters  � � � � � � � � � � � � � � 48
+F.1.d Install Fire-Resistant Screens  � � � � � � � � � 49
+46 Windows and Frames (Windows and Skylights)f.1.a Install fire-r esistant glazed window Panels
+description of Mitigation Measure:  Install an insulated glazing unit
+(IGU), which consists of two or three panes of glass that are separated
+by a sealed air space. Laminated glass, tempered glass, and glass with
+a low-emissivity coating are recommended and can be combined in
+various ways in an IGU. IGUs that can resist a fire for at least 20 minutes
+are recommended�
+Window sillTwo panes of glass with
+a layer of air between
+Aluminum frameMetal screen
+effectiveness: IGUs are effective for reducing vulnerability in all fire
+severity zones. However, using a fire-resistant  window panel is only
+effective if fire-resistant framing is also used (see Section F.
+
+1 .b).
+design Issues: If a fire-resistance rated  wall is specified (see
+Section  B.1.a), window assemblies with a fire-resistance rating of 3/4
+the wall rating should be specified.
+
+For example, a 3/4-hour window
+assembly rating should be used in conjunction with a 1-hour rated wall
+assembly.
+limitations: Large, tempered glass panes may require custom
+manufacturing�
+Considerations:
+CODE
+Windows and Frames (Windows and Skylights) 47f.1.b Install fire-r esistant f raming
+description of Mitigation Measure: Framing for windows should be
+constructed with  fire-resistant or noncombustible materials such as
+steel, aluminum, or wood frames with aluminum cladding�
+Window
+sillTwo panes of glass with
+a layer of air between
+Aluminum
+frameMetal screen
+effectiveness: Noncombustible framing is effective for reducing
+vulnerability to wildfire damage in all fire severity zones.
+limitations: Metal and metal clad frames still transmit heat but delay
+damage �
+Aluminum frames have no combustible components but melt at
+1,200° F �
+Considerations:
+CODE
+48 Windows and Frames (Windows and Skylights)f.1.c Install Permanent or Temporary fire-r esistant Shutters
+description of Mitigation Measure: Install temporary or permanently
+attached metal shutters, including roll-down window covers � Metal
+shutters installed prior to a wildfire are better than metal screens (see
+Section F.1.d) at preventing intrusion of embers and firebrands.
+effectiveness:  Metal shutters are effective for reducing vulnerability to
+wildfire damage in all fire severity zones.
+Shutters are useful in other extreme weather conditions such as
+windstorms and hurricanes�
+limitations: Metal shutters require human intervention to ensure
+effectiveness; sufficient warning time is critical.
+Considerations:
+CODE
+Windows and Frames (Windows and Skylights) 49f.1.d Install fire-r esistant Screens
+description of Mitigation Measure: Install permanent metal screens
+set over the window to deflect flying embers and absorb some of the
+radiant and convective energy.
+Window sillTwo panes of glass with
+a layer of air between
+Aluminum
+frameMetal
+screen
+effectiveness: Metal screens are effective for reducing vulnerability to
+wildfire damage in moderate fire severity zones; however, metal screens
+are not as effective as metal shutters (see Section F.
+
+1 .c).
+design Issues: Metal screens cannot be used on some window types,
+such as windows that open outwardly.
+Considerations:
+CODE
+50 Skylights and Frames (Windows and Skylights)F.2  Skylights and Frames
+Problem: Skylights have the same problems as windows except that
+skylights are commonly made with polycarbonate glazing and during
+wildfires, polycarbonate can melt under intense heat.
+Mitigation objective: Prevent skylights from failing and protect the
+interior of the building from ember, firebrand, and heat intrusion.
+Mitigation measures to protect skylights and
+frames from wildfire damage include:
+F.2.a Install Fire-Resistant-Rated Skylights
+and Framing  ����������������������� 51
+Skylights and Frames (Windows and Skylights) 51F.2.a  Install Fire-Resistant-Rated Skylights and Framing
+description of Mitigation Measure: Follow guidelines described in
+Section F.1. In addition, consider using wired glazing for the skylight.
+When attached to the roof of a building, install proper flashing  around
+the frame (see Section A.1.c).
+FlashingAluminum
+frameDual pane
+Type 72
+capsheetFRT plywood sheathingJoist
+(rafter)
+effectiveness: IGUs are effective at preventing fire damage in all fire
+severity zones.
+design Issues: Metal and metal clad frames still transmit heat but delay
+damage from the wildfire.
+limitations: Skylights will eventually fail under continuous exposure
+to fire.
+Considerations:
+CODE
+52 Foundationsg. f oundations
+Introduction:  Foundations vary widely based on building type and
+design. Many types of foundations, such as concrete slab-on-grade
+foundations and foundations that are entirely below-grade, are not
+at risk of damage from wildfires. Other types of foundations that are
+susceptible to damage in a wildfire are:
+Closed foundations, in which the foundation walls are typically load-•
+bearing. The below-grade portion of the foundation walls are usually
+constructed of concrete or masonry. The above-grade portion can
+also be constructed of concrete or masonry or constructed of a stud
+wall, commonly called a cripple wall.
+
+The wall encloses a basement
+or crawl space, and the cripple wall often has vents to allow air
+circulation in the crawl space or basement�
+Open foundations, in which the building rests on piers or piles and the •
+underside of the first floor is exposed.
+Causes of damage: Radiant heat, flames, embers, and firebrands
+can enter foundations through damaged windows, wall penetrations,
+or cripple wall vents or, in the case of open foundations, may directly
+affect the piers or piles, framing, and subflooring of the building. Wildfire
+elements can ignite columns, subflooring, and combustible  materials,
+such as contents of a basement within the foundation� For buildings with
+cripple walls, the cripple wall may ignite if it is composed of combustible
+materials�
+For mitigation measures associated with vents, wall penetrations, and
+windows, see Sections B, C, and F.
+Mitigation measures for common wildfire damage
+to foundations are discussed in the following sections:
+G�1 Closed Foundations  � � � � � � � � � � � � � � � � � � 53
+G�2 Open Foundations  � � � � � � � � � � � � � � � � � � � 55
+Closed Foundations (Foundations) 53g.1  Closed foundations
+Problem: Wildfire elements can breach the building envelope through
+vents, windows, and exterior wall penetrations in the foundation walls �
+Wildfire elements can gain access to combustible construction material,
+such as the first floor framing or combustible wall materials, through the
+crawl space or basement� In addition, combustible contents are often
+stored in closed foundations�
+Mitigation objective: Prevent wildfire elements from entering the
+foundation� Prevent combustible material in the closed foundation from
+igniting�
+Mitigation measures to protect closed foundations
+from wildfire damage include:
+G.1.a Enclose Crawl Space with
+Fire-Resistant Cripple Wall  � � � � � � � � � � � 54
+54 Closed Foundations (Foundations)g.1.a  enclose Crawl Space with fire-r esistant Cripple w all
+description of Mitigation Measure: Construct the cripple wall
+surrounding the crawl space with fire-resistant  or noncombustible
+materials.
+
+See Section B.1 for information regarding fire-resistant and
+noncombustible walls�
+effectiveness: Effective for reducing vulnerability to wildfire damage in
+all fire severity zones.
+design Issues: Modifications to cripple walls require an engineering
+analysis.
+If the building is located in a floodplain, as designated by FEMA’s
+National Flood Insurance Program, regulations in 44 CFR Part 60 should
+be considered �
+Considerations:
+CODE
+Open Foundations (Foundations) 55 g.2  open f oundations
+Problem:  In an open foundation, the building piers or piles, framing, and
+subflooring are exposed.
+
+Radiant heat, flames, embers, and firebrands
+can directly affect these components, igniting the framing and subfloor.
+Mitigation objective: Prevent wildfire elements from directly affecting
+piers or piles, framing, and subflooring.
+Mitigation measures to protect open foundations
+from wildfire include:
+G�2�a Protect Underside of Exposed Floor
+Framing with Fire-Resistant Panels  � � � � 56
+G.2.b Install Fire-Resistant Skirting  � � � � � � � � � 57
+56 Open Foundations (Foundations)g.2.a Protect underside of exposed floor framing with
+fire-r esistant Panels
+description of Mitigation Measure:  Protect the underside of the
+exposed floor framing with 5/8-inch Type X gypsum board � Attach fire-
+retardant-treated  wood panels, fiber-cement  panels, or metal panels
+over the gypsum board �
+5/8-inch
+Type X gypsum
+JoistSubfloor
+Exterior claddingBatt insulation
+effectiveness: Effective for reducing vulnerability to wildfire damage in
+moderate fire severity zones.
+design Issues: Exposed columns should be constructed with fire-
+resistant materials such as heavy timbers or posts encased in gypsum
+board �
+In areas where dry rot is a concern, do not use fire-retardant-
+treated  wood panels because these panels cannot be treated with a
+preservative �
+limitations: Placing the panels around the existing plumbing, electrical,
+and ventilation systems and structural elements could be time-
+consuming and difficult in a confined space.
+Considerations:
+CODE
+Open Foundations (Foundations) 57 G.2.b Install Fire-Resistant Skirting
+description of Mitigation Measure: To prevent the intrusion of fire
+elements underneath the building, install fire-resistant skirting around
+the perimeter of the building�
+Enclose open foundations
+with fire-resistant skirting to prevent fire damage
+effectiveness: Effective for reducing vulnerability to wildfire damage in
+all fire severity zones.
+design Issues: Structures enclosed with fire-resistant skirting must be
+vented for proper moisture control�
+If the building is located in a floodplain, as designated by FEMA’s
+National Flood Insurance Program,
+
+regulations in 44 CFR Part 60 should
+be considered �
+Considerations:
+CODE
+58 Building Contentsh., building Contents
+Introduction: The term “contents” refers to items in the building interior
+that are not part of the structure or the mechanical, electrical, heating,
+ventilation, or air conditioning systems.
+Causes of damage: Building contents may ignite after fire elements
+have penetrated the building envelope � In general, contents will
+contribute to the spread of the fire throughout the interior of a building.
+This section describes wildfire mitigation measures
+for general contents:
+H�1 General Contents  � � � � � � � � � � � � � � � � � � � � 59
+General Contents (Building Contents) 59h.1  general Contents
+Problem: The building interior typically contains combustible  materials�
+After wildfire elements have breached the building envelope, building
+contents are prone to ignition�
+Mitigation objective:  Prevent the fire from spreading throughout the
+interior of a building�
+Mitigation measures to protect general contents
+from wildfire damage include:
+H.1.a Install an Automatic Sprinkler
+System  � � � � � � � � � � � � � � � � � � � � � � � � � � � 60
+60 General Contents (Building Contents)H.1.a  Install an Automatic Sprinkler System
+description of Mitigation Measure: Install an automatic fire sprinkler
+system. Installing sprinklers in enclosed spaces such as attics should
+be considered for added protection when a fire penetrates the exterior
+of the building. The automatic sprinkler system will focus suppression
+efforts only on areas affected by fire.
+effectiveness: Effective for reducing vulnerability to wildfire damage in
+all fire severity zones.
+design Issues:  All sprinkler heads must function properly. Specialized
+suppressant systems are required in commercial cooking areas, radio
+vaults, and computer network rooms�
+limitations: Water pressure and supply must both be adequate for
+an interior sprinkler system to be effective. A pressurized holding tank
+may be necessary because the municipal water supply is used for fire
+suppression efforts during wildfire events.
+Considerations:
+CODE
+Building Equipment 61I.
+
+building equipment
+Introduction:  Building equipment such as mechanical, electrical, and
+heating, ventilation, and air conditioning systems is often installed at
+the exterior of a building � Equipment can be mounted on the rooftop, on
+ground-level pads, or on exterior walls� The equipment connections often
+penetrate the building envelope �
+Causes of damage: Building equipment is vulnerable to damage
+when exposed to wildfire. The equipment can have highly combustible
+components, such as fuel tanks, that are vulnerable to ignition from
+radiant heat, direct contact with flames, and ember intrusion. Once
+these components ignite, the resulting fire may ignite the building.
+Sensitive instruments and wiring are examples of components that can
+be damaged by wildfires. Additionally, electronic equipment that requires
+a consistent power source is also vulnerable to operational failure during
+a wildfire.
+Building equipment commonly damaged in a
+wildfire includes:
+I�1 Exterior-Mounted Equipment  � � � � � � � � � � � 62
+I�2 Electronics Equipment  � � � � � � � � � � � � � � � � 64
+62 Exterior-Mounted Equipment (Building Equipment)I.1  exterior-Mounted equipment
+Problem: Equipment mounted on the exterior of a building, such as
+transformers and heating, ventilation, and air conditioning units, is
+openly exposed to wildfire elements. A frequent problem with exterior-
+mounted equipment is the possibility of components igniting or being
+damaged by hot gases. Firebrands and embers can enter the interior of
+a building through exterior building penetrations required for anchorage
+and feed pipes�
+Mitigation objective:  Prevent damage to exterior-mounted equipment
+and prevent firebrands and embers from passing through exterior
+building penetrations�
+Mitigation measures to protect exterior mounted
+equipment from wildfire damage include:
+I�1�a Protect Exterior-Mounted
+Equipment with Enclosures  � � � � � � � � � � 63
+Exterior-Mounted Equipment (Building Equipment) 63I.1.a  Protect exterior-Mounted equipment with enclosures
+description of Mitigation Measure: Protect exterior-mounted
+equipment with enclosures constructed of  fire-resistant or
+noncombustible materials.
+
+See Sections I.A–I.D for ignition-resistant
+construction standards  for roofs, walls, vents, and doors� For roof
+penetrations, appropriate sealants are described in Section B.2.a.
+Enclose rooftop equipment
+in fire-resistant enclosures
+effectiveness: Effective for reducing vulnerability to wildfire damage in
+all fire severity zones.
+design Issues:  Exterior-mounted equipment in fire-resistant enclosures
+must continue to operate at capacity and may have certain ventilation
+and accessibility requirements.
+Adding fire-resistant enclosures can increase the load on a building. The
+support structure may require strengthening.
+Considerations:
+CODE
+64 Electronic Equipment (Building Equipment)I.2  electronics equipment
+Problem: When it is essential for electronic building equipment to have
+a continuous power supply, wildfires are problematic. Wildfires frequently
+destroy power lines and create fluctuations, including power surges
+and power outages. Both destroyed power lines and fluctuations may
+damage building equipment�
+Mitigation objective: Prevent electronic equipment from being
+damaged by wildfire-induced power fluctuations.
+Mitigation measures to protect electronic
+equipment from wildfire damage include:
+I.2.a Install Surge Protection  � � � � � � � � � � � � � � 65
+I.2.b Install Backup Power Supplies  � � � � � � � � 66
+Electronic Equipment (Building Equipment) 65I.2.a  Install Surge Protection
+description of Mitigation Measure: Electronic building equipment
+that is sensitive to power surges can be protected by properly grounding
+equipment and installing devices rated to provide surge protection �
+effectiveness:  Effective for reducing vulnerability to wildfire damage in
+all fire severity zones.
+design Issues:  Surge protection must be adequate for the power load
+demand of electronic equipment�
+limitations:  Surge protection will protect the integrity of electronic
+equipment but will not maintain the power supply.
+Considerations:
+66 Electronic Equipment (Building Equipment)I.2.b Install Backup Power Supplies
+description of Mitigation Measure: There are several methods to
+provide a backup power supply for electronics.
+
+One option is to install an
+Uninterruptible Power Supply (UPS).
+effectiveness:  Effective for reducing vulnerability to wildfire damage in
+all fire severity zones.
+limitations: If the ambient temperature exceeds the manufacturer’s
+recommendations, the generator can be damaged and the power supply
+interrupted �
+UPS devices provide power for a limited time.
+Considerations:
+Utilities 67II. uTI lITIeS
+Introduction:  Utilities include systems that are related to power, water,
+waste management, and communications. The greatest risk of fire
+damage is to above-grade utilities. Underground systems (storm drains,
+sewer and water lines and in some cases power lines), by virtue of the
+insulating capacity of the earth, generally have a low risk of damage
+from wildfire. In power distribution and communication systems,
+however, the portions of the equipment that must remain above-ground
+may be subject to damage.
+Utility components vulnerable to wildfire damage may include:
+Utility station buildings used to house equipment such as pump •
+houses�
+Above-ground utility equipment that is exposed to the elements. •
+Examples are tanks, meters, pumps, telemetry equipment, utility
+risers, pole- or pad-mounted transformers, electrical substations, and
+cell phone and radio towers�
+Utility distribution systems such as pipes used for drinking water and •
+sewage treatment and wires and cables mounted on poles for power
+and communication systems.
+Stored materials such as chemicals. Municipal treatment plants, •
+commercial operations and industrial operations often use and store
+toxic chemicals that can ignite and be released into the environment�
+Causes of damage:  Typical wildfire damage to utilities is described
+below �
+water storage and distribution systems:  Storage facilities include
+reservoirs and tanks. Distribution systems include pipes, pumping
+stations, treatment facilities, and wells� Chemicals used in treatment
+are volatile, are subject to explosion, and can omit toxic gases � Intense
+heat has the potential to damage pipes and pumping equipment that lie
+above-grade and facilities such as wood storage tanks. Wildfires can also
+damage the power supply to pumping stations and equipment used to
+control and monitor system operations.
+Power plants and transmission lines:  The primary risk is to
+transmission towers and the lines that carry the electricity.
+
+High winds
+that often accompany wildfires can cause contact between energized
+conductors, resulting in power disruption�
+radio and communications systems: Systems typically contain heat-
+sensitive components such as transfer panels and insulated cables�
+68 Utilitiesutility poles and lines:  Utility (electric, telephone, or cable) equipment
+is often installed on poles. Poles and lines can be damaged by falling
+debris during a fire. Poles are made primarily from pressure-treated
+wood that is resistant to ignition but will burn under intense heat�
+Power outages and power surges caused by wind and fire can damage
+electrically powered equipment miles away.
+electrical transformers:  Electrical transformers are devices used to
+change the voltage of an alternating current in one circuit to a different
+voltage in a second circuit� Transformers can be mounted on a pole
+or on the ground � Most transformers contain oil that can burn under
+intense heat � Explosions can result when the transformers are exposed
+to wildfires. Although most transformers containing polychlorinated
+biphenyls (PCBs) are being phased out, some transformer failure can
+release potentially harmful chemicals.
+utility risers and service drops:  Electrical, telephone, and cable can
+run overhead or underground to individual buildings � Overhead utilities
+can be damaged by flames, heat, or falling limbs. Most portions of
+underground utilities are less vulnerable, but the riser poles where the
+utility transitions from overhead to underground remain vulnerable,
+particularly when non-metallic conduit (such as polyvinyl chlorides [PVC])
+or nonmetallic guards are used�
+Mitigation measures for common wildfire damage
+to utilities are discussed in the following sections:
+A�1 Enclose Equipment or Chemicals in
+Fire- or Heat-Resistant Building
+or Enclosure  � � � � � � � � � � � � � � � � � � � � � � � � 69
+A.2 Install Equipment or Store Chemicals
+Underground�  ������������������������ 70
+A�3 Treat with Fire Retardant or Use
+Fire-Resistant  Material   ���������������� 71
+A.4 Shield Electrical Components with
+Fire-Resistant Flashing  � � � � � � � � � � � � � � � � 72
+A.5 Install Transfer Switches .
+
+�������������� 73
+Utilities 69a.1 enclose equipment or Chemicals in fire- or heat-
+resistant building or enclosure
+description of Mitigation Measure: For larger equipment, construct a
+fire-resistant  building to house the equipment using  ignition-resistant
+construction standards (see Section I). For smaller  equipment and
+the storage of hazardous materials, use pre-fabricated or custom-
+made enclosures made of heat- or fire-resistant material to completely
+enclose these items � Install a concrete pad at the base or build a
+noncombustible  wall around the equipment to create defensible space �
+effectiveness:  For the effectiveness of fire-resistant buildings, refer to
+Sections I.A–I.D. Above-ground systems enclosed in appropriate metal
+or concrete enclosures are effective in moderate and high fire severity
+zones.
+design Issues:  Equipment in fire-resistant enclosures must continue to
+operate at capacity and may have certain ventilation and accessibility
+requirements �
+limitations: Radiant heat can still cause damage to sensitive
+components if the components have not been properly insulated or
+constructed � Wire in conduits in the exterior walls are vulnerable to
+melting and failing if not insulated from radiant heat�
+Considerations:
+CODE
+70 Utilitiesa.2  Install equipment or Store Chemicals underground
+description of Mitigation Measure: Meters and other equipment can
+be installed underground along with the distribution system such as
+water pipes and power lines. It may be possible to store chemicals and
+other hazardous materials in underground storage areas.
+effectiveness: Underground facilities are effective for reducing
+vulnerability to wildfire damage in all fire severity zones.
+design Issues: Movement of systems underground will require planning,
+engineering, and design, including geotechnical and environmental
+evaluations. Accessibility should be considered for continued ease of
+maintenance �
+limitations: May be difficult to implement in urban or environmentally
+sensitive areas�
+Considerations:
+CODE
+Utilities 71a.3  Treat with fire retardant or use fire-resistant Material
+description of Mitigation Measure:  Use fire-resistant  materials for
+equipment, such as a tower or a tank, that may be impossible to place
+underground or in a fire-resistant enclosure.
+
+For example, treat a wood
+pole with  fire retardant  or replace it with noncombustible  steel or spun
+concrete material � A wooden tank can be replaced with one made of
+fire-resistant material such as ferrocement. Install a concrete pad at the
+base or construct a fire-resistant wall (see Section IV) around the facility
+to create defensible space �
+effectiveness: Using fire-resistant materials is effective for reducing
+vulnerability to wildfire damage in all fire severity zones. Fire-retardant
+treatments may not be as effective in extreme or high fire severity zones.
+Defensible space increases effectiveness.
+limitations:  The fire-retardant coating must be re-applied often to be
+effective �
+Considerations:
+CODE
+72 Utilitiesa.4  Shield electrical Components with fire-resistant flashing
+description of Mitigation Measure: Shield exposed electrical
+components and conduits on riser poles with metallic conduits or other
+fire-resistant materials  such as flashing  to reduce the possibility of
+damage �
+effectiveness: Electrical components that are shielded with fire-
+resistant material are effective in moderate and high fire severity zones.
+limitations: Maintenance and inspection of metallic conduits should be
+performed regularly.
+Considerations:
+CODE
+Utilities 73a.5  Install Transfer Switches
+description of Mitigation Measure: To mitigate for electrical failures
+to critical equipment such as pumps and treatment facilities, install
+transfer switches that facilitate the use of a backup generator �
+Transfer
+effectiveness: Transfer switches are effective for reducing vulnerability
+to wildfire damage in all fire severity zones.
+limitations: The mitigation measure may require human intervention;
+sufficient warning time is critical.
+Considerations:
+CODE
+74 Recreational FacilitiesIII. reCrea TIonal f aCIlITIeS
+Introduction:  Recreational facilities include non-buildings such as
+benches and buildings such as restroom facilities� Recreational facilities
+are often constructed of wood or other combustible materials and are
+often located in parks and other areas with heavy vegetation, which can
+fuel a wildfire.
+Causes of damage:  Combustible materials used in the construction
+of recreational facilities are vulnerable to ignition.
+
+Ignition may result
+from contact with blowing embers and firebrands, radiant heat due to
+combustion of nearby vegetation and structures, and direct contact with
+flames.
+Mitigation measures for common wildfire damage
+to recreational equipment are discussed in the following sections:
+A� Recreational Facilities (Non-buildings)  ����� 75
+B� Recreational Facilities (Buildings)  � � � � � � � � 77
+Recreational Facilities (Non-buildings) 75a. recreational f acilities (non-buildings)
+Problem:  Recreational facilities that are not considered buildings
+include, but are not limited to, benches, playground equipment, picnic
+tables, lifeguard stations, trash receptacles, bleachers, and dugouts�
+These facilities often have wooden components and are therefore
+vulnerable to damage during a wildfire. Additionally, they are often
+installed in parks or other areas with vegetation that poses a wildfire
+risk�
+Causes of damage: Non-building recreational equipment composed
+of combustible material typically has a small chance of survival once
+ignited�
+Mitigation measures to protect recreational
+facilities from wildfire damage include:
+A�1� Use Noncombustible Materials or
+Treat with Fire-Retardant Coating  � � � � � � � 76
+76 Recreational Facilities (Non-buildings)a.1 u se noncombustible Materials or Treat with
+fire-r etardant Coating
+description of Mitigation Measure: Replace wooden equipment or
+components with noncombustible  materials such as steel, concrete,
+or masonry. If the damage does not require replacement, wooden
+components may also be treated with a fire-retardant coating . A
+concrete pad can also be placed under the facility to create some
+defensible space �
+effectiveness: Effective for reducing vulnerability to wildfire damage in
+all fire severity zones. The fire-retardant coating provides minimal fire
+resistance for wooden equipment �
+limitations:  Fire-retardant coating must be re-applied often to be
+effective �
+Considerations:
+CODE
+Recreational Facilities (Buildings) 77b.
+
+r ecreational f acilities (buildings)
+Introduction: Recreational areas often include buildings or similar
+structures such as picnic shelters, restroom facilities, and pavilions �
+The structures are typically constructed of combustible materials such
+as wooden studs, posts, and other framing. Additionally, they are often
+constructed in parks or other areas with vegetation that poses a wildfire
+risk�
+Causes of damage: Combustible exterior materials can ignite, leading
+to total destruction of the structure �
+Mitigation measures to protect recreational
+facilities similar to buildings from wildfire damage include:
+Refer to Section I, Buildings  � � � � � � � � � � � � � � � � � 1
+78 Fences and WallsIv. fenCeS  and w allS
+Introduction: Fences and walls function as physical or visual barriers or
+architectural statements� Fences and walls are constructed from a wide
+range of materials and often include combustible components such as
+wooded posts and railings or materials that can melt, such as vinyl.
+Causes of damage:  Wildfire damage is typically the result of ignition or
+melting of the fence or wall construction materials� Ignition or melting
+may result from radiant heat, direct contact with flames, or contact
+with blowing embers and firebrands. Fences and walls have large
+surface areas that often contain cracks, openings, and rough areas,
+or are wire barriers � All of these characteristics increase the risk that
+fences and walls will trap fire elements. The potential for ignition is
+also related to the condition of the fence or wall: its age, the amount of
+debris accumulated adjacent to or on the fence, and the proximity to
+combustible vegetation or general landscaping�
+If the fence or wall is connected or adjacent to a building, it may
+provide a path for the spread of flames to that building. Conversely,
+noncombustible  walls can function as a flame deflector and thus add to
+the fire defense of an adjacent building.
+Wildfire mitigation measures for fences and walls
+are discussed in the following section:
+A� Fences and Walls ���������������������� 79
+Fences and Walls 79a. fences and w alls
+Problem: Wooden fences and fences with wooden components are
+those most vulnerable to fire damage.
+
+Vinyl fences are durable, stable,
+and in most cases stronger than wooden fences � If exposed to enough
+heat, however, vinyl is subject to deformation and melting. Other fence
+materials, such as masonry and concrete, chain-link, barbed-wired,
+aluminum, and full metal generally perform much better than wooden
+fences in wildfires. However, metal may melt if exposed to long periods of
+extremely high temperatures.
+Mitigation objective: Reduce damage to fencing through the use of
+noncombustible materials�
+Mitigation measures to protect fences and walls
+from wildfire damage caused by use of combustible materials include:
+A�1� Use Noncombustible Materials  � � � � � � � � � 80
+A�2� Treat Fences and Walls with
+Fire-Retardant Coating  � � � � � � � � � � � � � � � � 81
+80 Fences and Wallsa.1  use noncombustible Materials
+description of Mitigation Measure: Replace combustible fences and
+walls with noncombustible material s such as steel, concrete, masonry,
+or fireproof fiberglass.
+effectiveness:  Steel, masonry, and concrete fences and walls are the
+most effective for reducing vulnerability to wildfire damage in all fire
+severity zones.
+design Issues: Masonry and concrete walls are visually obstructive but
+may act as flame barriers or deflection walls for adjacent buildings.
+limitations: Chain-link and barbed-wire fences allow the fire to pass
+through and do not act as protective barriers. Melting may occur if the
+metal is exposed to long periods of extremely high temperatures.
+If ignited, a vinyl fence will self-extinguish. However, melting may occur if
+exposed to enough heat�
+Considerations:
+CODE
+Fences and Walls 81a.2  Treat f ences and w alls with fire-r etardant Coating
+description of Mitigation Measure: Treat wooden fences and walls
+with a fire-retardant coating�
+effectiveness: Fire-retardant coatings applied to wooden fences are
+effective only in moderate fire severity zones because they provide
+minimal fire resistance.
+limitations:  The fire-retardant coating must be re-applied often to be
+effective �
+Considerations:
+82 Surface Transportation Safety Facilitiesv.
+
+Surfa Ce TranSP orTaTIon SafeT y faCIlITIeS
+Introduction:  This section includes surface transportation safety
+facilities such as guardrails, signage, traffic control systems, and lighting
+systems. It does not include roadways, which generally have a low risk of
+damage during a wildfire.
+Causes of damage: These features often include combustible
+components such as wooden posts and heat-sensitive equipment that
+is vulnerable to wildfire damage. Typically, combustible components
+of roadside facilities are ignited and damaged or destroyed. Flames,
+blowing embers and firebrands, and radiant heat may make direct
+contact with the facility or nearby vegetation or debris and cause
+ignition�
+Mitigation measures for common wildfire damage
+to surface transportation safety features are discussed in the following sections:
+A� Guardrails  � � � � � � � � � � � � � � � � � � � � � � � � � � � 83
+B. Traffic and Light Systems  � � � � � � � � � � � � � � � 85
+Guardrails (Surface Transportation Safety Facilities) 83a. guardrails
+Problem:  Guardrails can contain posts that are made of combustible
+material� Wooden posts are often treated with creosote � Although
+creosote protects the wood from decay, the wood is highly combustible
+and will ignite when exposed to fire.
+Mitigation objective: Reduce the possibility of damage by limiting the
+amount of combustible material used in guardrail construction�
+Mitigation measures to protect guardrails from
+wildfire damage include:
+A�1 Use Noncombustible Materials  � � � � � � � � � 84
+84 Guardrails (Surface Transportation Safety Facilities)a.1  use noncombustible Materials
+description of Mitigation Measure: To prevent damage to posts and
+to maintain the effectiveness of guardrails, replace systems reliant on
+combustible materials with concrete barrier systems, steel posts, or high-
+tension cable barriers�
+Noncombustible postsNoncombustible guardrail
+effectiveness:  Effective for reducing vulnerability to wildfire damage in
+all fire severity zones.
+Considerations:
+CODE
+Traffic and Light Systems (Surface and Transportation Facilities) 85B.
+
+Traffic and Light Systems
+Problem: Although poles typically have thick cross sections, poles made
+of combustible materials will eventually ignite. Also, wooden poles may
+be treated with creosote� Although creosote protects the wood from
+decay, the wood is highly combustible and will ignite when exposed to
+fire.
+Span wire is typically thin and left exposed to the elements. Span
+wire fails due to a reduction in strength when exposed to wildfire
+temperatures�
+Mitigation objective: Reduce damage to light and traffic poles by using
+noncombustible materials�
+Mitigation measures to protect traffic and light
+systems from wildfire damage include:
+B.1 Replace Wooden Poles and Signs
+with Noncombustible Materials  � � � � � � � � � 86
+B.2 Replace Span Wire with
+Noncombustible Material  � � � � � � � � � � � � � � 87
+86 Traffic and Light Systems (Surface and Transportation Facilities)b.1 r eplace wooden Poles and Signs with noncombustible
+Materials
+description of Mitigation Measure:  Use steel poles, concrete poles,
+or poles encased with flame-retardant PVC for traffic signs and light
+systems �
+effectiveness: Effective for reducing vulnerability to wildfire damage in
+all fire severity zones.
+design Issues: Steel poles are lighter and easier to install than wooden
+or concrete poles � Unlike wood, steel and concrete poles do not require
+treatment to extend lifespan�
+Considerations:
+CODE
+Traffic and Light Systems (Surface and Transportation Facilities) 87b.2  r eplace Span wire with noncombustible Material
+description of Mitigation Measure: Traffic signals that use span wire
+are prone to damage during a wildfire. To prevent damage, replace
+the span wire system with noncombustible  poles. Traffic signals are
+supported either by cantilevered beams or a beam connected to two
+poles� Noncombustible support poles, such as steel or concrete, should
+be used�
+effectiveness: Effective for reducing vulnerability to wildfire damage in
+all fire severity zones.
+Considerations:
+CODE
+88 BridgesvI.
+
+brIdgeS
+Introduction: Bridges are constructed with a wide range of designs �
+In general, they are constructed of wood, timber, steel, concrete, or a
+combination of these materials � Bridges have a critical function during a
+wildfire to facilitate evacuation and provide access for firefighters. Once a
+bridge becomes structurally unsound, evacuation and firefighter access
+are curtailed � The result is a loss of access through an area for as long
+as several months�
+Causes of damage: Wildfire damage to bridges is typically the result
+of the ignition of bridge construction materials� The fire resistance  of
+a bridge is dependent on the material and methods that were used to
+construct it�
+The structural components of a bridge are exposed to the environment �
+Additionally, bridges often span vegetated areas or areas where debris
+has accumulated or are adjacent to vegetated areas, increasing
+exposure to wildfire elements. Large, flat surfaces such as decking
+provide exposure to wildfire elements, and blowing embers and
+firebrands may be trapped in open structural elements or underneath
+the bridge �
+Wildfires typically cause the following types of damages in bridges:
+Decking made of combustible material is ignited and damaged. As •
+a result, the decking may no longer be able to carry the required
+loading�
+Combustible framing in the superstructure or substructure is •
+damaged by a wildfire and compromises the structural integrity of the
+bridge �
+Guardrails with combustible posts or railing ignite � •
+Mitigation measures for common wildfire damage
+to bridges are discussed in the following sections:
+A. Superstructure  � � � � � � � � � � � � � � � � � � � � � � � � 89
+B. Substructure  � � � � � � � � � � � � � � � � � � � � � � � � � 93
+Superstructure (Bridges) 89a.
+
+Superstructure
+Problem: Damage is caused when combustible superstructure elements
+are exposed to a wildfire.
+Mitigation objective: Reduce damage to the superstructure of a bridge
+and ensure that the road surface is functioning during and after a
+wildfire.
+Mitigation measures to protect the superstructure
+from wildfire damage include:
+A�1 Use Noncombustible Material  � � � � � � � � � � 90
+A.2 Treat Superstructure with
+Fire-Retardant Coating  � � � � � � � � � � � � � � � � 91
+A�3  Install Noncombustible Guardrails
+or Barriers  � � � � � � � � � � � � � � � � � � � � � � � � � � 92
+90 Superstructure (Bridges)a.1. use noncombustible Material
+description of Mitigation Measure:  Replace combustible
+superstructure materials with noncombustible  materials such as steel
+or concrete �
+Construct bridge
+superstructure with
+noncombustible
+materials
+Do not use
+combustible materials
+effectiveness: Effective for reducing vulnerability to wildfire damage in
+all fire severity zones.
+design Issues:  Steel and concrete tend to be more durable than wood.
+limitations: New structural components require a loading engineering
+study including load-path considerations.
+Considerations:
+CODE
+Superstructure (Bridges) 91a.2  Treat Superstructure with fire-r etardant Coating
+description of Mitigation Measure: When wooden elements cannot
+be replaced, treat exposed wooden superstructure components with fire
+retardants  such as cementitious fireproofing or intumescent �
+Treat bridge superstructure
+components with fire retardants
+effectiveness: Effective in moderate fire severity zones.
+limitations: Post-manufacturing fire-retardant treatment has a limited
+lifespan.
+
+The bridge should be retreated as directed by the product label.
+Considerations:
+CODE
+92 Superstructure (Bridges)a.3  Install noncombustible guardrails or barriers
+description of Mitigation Measure: For guardrails or barriers to
+continue to function properly during and after a wildfire, replace
+combustible materials with noncombustible  materials such as steel and
+concrete�
+Construct bridge guardrails
+with noncombustible materials
+effectiveness: Effective for reducing vulnerability to wildfire damage in
+all fire severity zones.
+design Issues:  Limitations on available space should be considered�
+limitations: Each type of barrier is engineered to perform differently.
+Added weight on the structure requires a loading engineering study
+including load-path considerations �
+Considerations:
+CODE
+Substructure (Bridges) 93b.
+
+Substructure
+Problem: Damage is caused when combustible substructure elements
+are exposed to a wildfire.
+Mitigation objective: Reduce damage to the substructure of a bridge
+and ensure that the bridge is functioning during and after a wildfire.
+Mitigation measures to protect the substructure
+from wildfire damage include:
+B�1 Use Noncombustible Materials  � � � � � � � � � 94
+B.2 Treat Substructure with Fire-Retardant
+Coating ����������������������������� 95
+94 Substructure (Bridges)b.1  use noncombustible Material
+description of Mitigation Measure: Replace combustible substructure
+materials with noncombustible  materials  such as steel or concrete �
+Construct bridge substructure
+with noncombustible materials
+effectiveness:  Effective for reducing vulnerability to wildfire damage in
+all fire severity zones.
+design Issues:  Steel and concrete tend to be more durable than wood.
+limitations: New structural components require a loading engineering
+study including load-path considerations.
+Considerations:
+CODE
+Substructure (Bridges) 95b.2  Treat Substructure with fire-r etardant Coating
+description of Mitigation Measure: When wooden elements cannot be
+replaced, treat exposed substructure components with fire retardants
+such as cementitious fireproofing or intumescent �
+Treat bridge substructure
+components with fire retardants
+effectiveness: Effective for reducing vulnerability to wildfire damage in
+moderate fire severity zones.
+limitations: Post-manufacturing fire retardant has a limited lifespan.
+The bridge will require retreatment as directed by the product label.
+Considerations:
+CODE
+96 Retaining Walls and Erosion-Control StructuresvII.
+
+reTaInIng wallS and
+eroSI on-ConTrol S TruCTureS
+Introduction:  Retaining walls include structures designed to stabilize
+slopes � Erosion-control structures include facilities designed to control
+the movement of water and sediment on slopes or in drainages� This
+section does not include a discussion of post-fire measures to stabilize
+burned slopes and prevent erosion, excessive runoff, or debris flows.
+Causes of damage: Retaining walls and erosion-control structures are
+often constructed:
+Of combustible materials, such as wood and timbers•
+In heavily vegetated areas and areas where vegetative debris •
+accumulates
+On slopes and are consequently often in the direct path of an •
+approaching wildfire
+Nearby vegetation and accumulated debris may ignite and provide a
+path for flames to come into contact with the facility. Large, flat surfaces,
+exposed structural components, and cracks and gaps in walls increase
+the potential for contact with, or trapping of, blowing embers and
+firebrands. Once ignited, the structure itself may become an additional
+source of fuel and pose a threat to nearby buildings and other facilities.
+Mitigation measures for retaining walls and
+erosion-control structures from common wildfire damage are discussed in the following section:
+A� Retaining Walls and Erosion-Control
+Structures  � � � � � � � � � � � � � � � � � � � � � � � � � � � 97
+Retaining Walls and Erosion-Control Structures 97a. retaining w alls and erosion-Control Structures
+Problem: Retaining walls and erosion-control structures are often
+constructed with combustible materials such as wood � These structures
+are often constructed on slopes and consequently may be in the
+direct path of an approaching wildfire.
+
+Once a wood retaining wall or
+erosion-control structure ignites, its capability to hold or control soil and
+eliminate erosion is reduced�
+Mitigation objective: Reduce damage and maintain the structural
+stability of retaining walls and erosion-control structures during and after
+a wildfire by using noncombustible materials�
+Mitigation measures to protect retaining walls and
+erosion-control structures from wildfire damage caused by use of combustible materials include:
+A�1� Use Noncombustible Materials  ��������� 98
+98 Retaining Walls and Erosion-Control Structuresa.1  use noncombustible Materials
+description of Mitigation Measure: Reconstruct combustible retaining
+structures or erosion-control structures with noncombustible material s
+such as steel, concrete, or masonry. For example, retaining walls made
+with timber lagging or railroad ties can be replaced with a masonry or
+concrete block wall � Also, wood revetments used for erosion control can
+be replaced with riprap or gabion baskets�
+Noncombustible
+retaining wall
+effectiveness: Effective for reducing vulnerability to wildfire damage in
+all fire severity zones.
+limitations: Construction on embankments near streams may have
+added environmental concerns�
+Considerations:
+CODE
+Appendix A  A-1Appendix A
+disaster Assistance p olicy 9526.1
+Hazard Mitigation Funding under Section 406 (Stafford Act)
+TITLE: I.
+Hazard Mitigation Funding Under Section 406 (Stafford Act)
+DATE: II.
+July 30, 2007
+PURPOSE: III.
+Provide guidance on the appropriate use of hazard mitigation discretionary
+funding available under Section 406 of the Robert T. Stafford Disaster
+Relief and Emergency Assistance Act (Stafford Act), 42 U.S.C. 5121-5206.
+This will ensure national consistency in the use of Section 406 mitigation
+funds and promote measures that reduce future loss to life and property,
+protect the federal investment in public infrastructure and ultimately, help
+build disaster resistant communities.
+SCOPE AND AUDIENCE: IV.
+This policy applies to all disasters declared after publication of this
+document.
+
+It is intended to guide all personnel responsible for the
+administration of the FEMA Public Assistance Grant Program.
+AUTHORITIES AND REFERENCES: V.
+Section 406 (e) of the Stafford Act and Title 44 Code of Federal Regulations
+(CFR) § 206.226.
+BACKGROUND: VI.
+A. The Robert T. Stafford Disaster Relief and Emergency Assistance
+Act provides FEMA the authority to fund the restoration of eligible
+facilities that have sustained damage due to a Presidentially
+declared disaster. Section 406 of the Stafford Act contains a
+provision for the consideration of funding additional measures
+(further described in 44 CFR § 206.226) that will enhance a
+facility’s ability to resist similar damage in future events.
+1. In providing discretionary authority for the addition of hazard
+mitigation measures to permanent work restoration, Congress
+recognized that during the repair of damaged components
+A-2 Appendix Aof facilities there would be a unique opportunity to prevent
+recurrence of similar damage from future, similar disaster
+events. Such measures are in addition to any measures
+undertaken to comply with applicable codes and standards,
+although such compliance, itself, could be considered a form
+of mitigation.
+2. Section 406 hazard mitigation funding and Section 404 hazard
+mitigation funding are distinct. Section 406 is applied on
+the parts of the facility that were actually damaged by the
+disaster and the mitigation measure provides protection from
+subsequent events. The mitigation work must be cost effective
+and be reasonably performed as part of the work or measure
+which will reduce the potential for damage to a facility from
+a disaster event. Sometimes, a combination of Section 406
+and 404 funding may be appropriate, where Section 406
+hazard mitigation funding is used to provide protection to
+the parts of the facility that were damaged and Section 404
+hazard mitigation funding is used to provide protection to
+the undamaged parts of the facility. In these instances, the
+application for Section 404 hazard mitigation funding must be
+submitted in a timely manner, consistent with State and local
+hazard mitigation plans, and approved by the State Hazard
+Mitigation Officer.
+3. FEMA may provide discretionary hazard mitigation funding
+under Section 406 of the Stafford Act.
+
+FEMA, Grantee and
+subgrantee’s interests in disaster resistance must be balanced
+with the supplemental nature of disaster assistance and
+FEMA’s obligation for the prudent stewardship of Federal
+disaster funds.
+4. Only FEMA is authorized to interpret and implement the
+Stafford Act and regulations issued pursuant to the Stafford
+Act. Accordingly, only FEMA has the authority to determine
+which hazard mitigation measures it will fund. The Stafford
+Act and applicable regulations do not authorize State or local
+building officials or agencies to determine the amount of
+hazard mitigation funding FEMA will contribute to a project.
+POLICY: VII.
+A. Section 406 provides discretionary authority to fund mitigation
+measures in conjunction with the repair of the disaster-damaged
+facilities. These opportunities usually present themselves during
+Appendix A  A-3the repair efforts. The mitigation measures must be related to
+eligible disaster-related damages and must directly reduce the
+potential of future, similar disaster damages to the eligible facility.
+This work is performed on the parts of the facility that were
+actually damaged by the disaster and the mitigation measure
+provides protection from subsequent events. Exceptions to this
+provision will be reviewed on a case-by-case basis.
+B. Mitigation measures must be determined to be cost-effective.
+Any one of the following means may be used to determine cost-
+effectiveness:
+1. Mitigation measures may amount to up to 15% of the total
+eligible cost of the eligible repair work on a particular project.
+2. Certain mitigation measures (see Appendix A) determined
+cost-effective, as long as the mitigation measure does not
+exceed 100% of the eligible cost of the eligible repair work on
+the project.
+3. For measures that exceed the above costs, the Grantee or
+subgrantee must demonstrate through an acceptable benefit/
+cost analysis methodology that the measure is cost-effective.
+FEMA’s Benefit Cost Analysis (BCA) software provides
+appropriate benefit/cost analysis methodologies. You can
+obtain the software from FEMA by contacting the BCA
+helpline at 1-866-222-3580, e-mail (bchelpline@dhs.gov),
+or the applicable FEMA Regional Office.
+
+Alternative benefit/
+cost methodologies will only be considered acceptable if the
+Grantee or subgrantee receives and submits written approval
+from the FEMA Regional Office and FEMA Headquarters
+prior to the submission of the mitigation proposal. The benefit/
+cost analysis will be based on a comparison of the total project
+cost to the total cost of the following benefits: 1) damage to
+the facility and its damaged contents, 2) emergency protective
+measures required as a result of that damage, and 3) temporary
+facilities required due to the damage.
+C. If a facility has Section 406 hazard mitigation funding included
+in the approved scope of work (SOW) and the subgrantee wishes
+to restore the facility to its pre-disaster condition and function
+without  the Section 406 hazard mitigation SOW, then the
+subgrantee must request a change of SOW prior to completion
+of the project. Section 406 hazard mitigation funds must be de-
+obligated when the subgrantee does not use the funds as approved
+in the SOW.
+A-4 Appendix AD. Proposed hazard mitigation projects must be approved by FEMA
+prior to funding. They will be evaluated for cost effectiveness,
+technical feasibility, and compliance with statutory, regulatory,
+and executive order requirements. In addition, the evaluation must
+ensure that the mitigation measures do not cause a negative impact
+to the facility’s operation, surrounding areas, or susceptibility to
+damage from another hazard.
+E. The costs of meeting applicable codes/standards in accordance
+with 44 CFR § 206.226 (d) and minimum National Flood
+Insurance Program requirements are regulatory requirements that
+are distinct from hazard mitigation. Funding for these costs is
+considered separately.
+F. When the cost of proposed replacement material for a damaged
+component is more than the original material, the proposed
+material must be shown to be cost effective.
+G. There may be no duplication in hazard mitigation funding between
+Sections 404 and 406. Therefore, the Grantee and subgrantee
+must be able to identify specific hazard mitigation work that
+will be accomplished with funding through Section 406. Section
+404 funding may not duplicate that work, although Section 404
+may be additive and accomplished on Section 406 facilities. The
+appropriate split on a project between funds under Sections 404
+and 406 is a FEMA decision.
+
+Sections 404 and 406 funding cannot
+be used to meet the non-federal cost share of the other grant.
+H. Funds recommended for mitigation measures may be approved
+for an improved project if the original facility and its function will
+be restored and the mitigation work is still needed, is technically
+feasible, and will be performed as part of the overall project.
+Facilities eligible for replacement under 44 CFR 206.226(f) -
+Repair vs. replacement  are not eligible for mitigation measures.
+1. If mitigation measures are approved for the repair of a disaster-
+damaged facility and the subgrantee requests an improved
+project which will instead involve the replacement of the
+facility, on the same site or an alternate site, the cost of the
+mitigation measures is not eligible.
+2. The cost of mitigation measures approved under Section
+406 for the repair of a facility may not be applied towards an
+Alternate Project.
+I. Early in a disaster the FEMA and State PA Officers, in consultation
+with the Hazard Mitigation Group Supervisor, should issue a
+Appendix A  A-5Memorandum of Understanding outlining how 406 mitigation
+will be addressed for the disaster, including what measures will
+be emphasized, making linkages to codes and standards and
+availability and integration of other mitigation programs.
+RESPONSIBLE OFFICE: VIII.
+Disaster Assistance Directorate (Public Assistance Division).
+SUPERSESSION: IX.
+This policy updates and replaces RP9526.1, Hazard Mitigation Funding
+Under Section 406 (Stafford Act), published August 13, 1998.
+REVIEW DATE: X.
+Five years from date of publication.
+//signed//
+Carlos J.
+
+Castillo
+Assistant Administrator
+Disaster Assistance Directorate
+A-6 Appendix AAppendix A [of disaster Assistance p olicy 9526.1]:
+potential Mitigation Measures
+That Are pre-determined to Be Cost effective
+The following potential mitigation measures (reference: paragraph VII.B.2)
+are determined to be cost-effective if they:
+do not exceed 100% of project cost, •
+are appropriate to the disaster damage, •
+will prevent future similar damage, •
+are directly related to the eligible damaged elements, •
+do not increase risks or cause adverse effects to the property or •
+elsewhere,
+are technically feasible for the hazard and location, and•
+otherwise meet requirements stipulated in this policy, including •
+environmental, historic, and mitigation planning considerations.
+This list will continue to be evaluated and will evolve over time as new
+information becomes available.
+General I.
+A. Drainage/crossings and bridges
+1. Drainage structures – When drainage structures are destroyed,
+replacing the structure with multiple structures or a larger
+structure. Sizing of replacement culverts can be made using
+in-place state/local drainage criteria (nomographs). However,
+structures need to be considered with regard to a total drainage
+system and should not be upgraded without a watershed
+hydrology study with an emphasis on downstream effects and
+NFIP [National Flood Insurance Program] regulations.
+2. Culverts – Where the alignment of culverts is inconsistent with
+streams flowing through them (because it has been blown-
+out), realign or relocate the culverts to improve hydraulics and
+minimize erosion. However, realignment of structures must be
+considered in regard to a total drainage system and shall not
+be replaced without a hydrology study with an emphasis on
+downstream erosion effects.
+3. Headwalls and wing walls – Installation to control erosion.
+4. Low-water crossings – When bridges are destroyed and where
+traffic counts are low, replacing bridges with carefully placed
+low-water crossings.
+Appendix A  A-75. Gabion baskets, riprap, sheet-piling, and geotextile fabric
+installation – Installation to control erosion.
+6.
+
+Roadways – Where roadways shoulders are damaged by
+overflow from adjacent water courses, stabilize shoulders and
+embankments with geotextile fabric.
+7. Restraining cables on bridges – Installation of cables to
+restrain a bridge from being knocked off piers or abutments
+during floods or earthquakes. Also, where bridges have been
+damaged or destroyed when girders, beams and decking
+system are displaced by storm surges or earthquakes, install
+girder and deck uplift tie-downs to prevent their displacement
+from the substructure.
+B. Sanitary and storm sewer systems
+1. Access covers – When feasible, access covers can be elevated
+to the hydraulic grade line. There are a number of devices that
+prevent infiltration into access holes.
+2. Sewer lines – Repair, lining or encasement of damaged
+sections to prevent infiltration or structural collapse.
+3. Pump stations –
+a. Equipment or controls in a pump station that are subject
+to damage from the 100- year flood can be elevated. Pump
+station buildings can be dry flood-proofed.
+b. Installation of camlocks, transfer switches, and electrical
+panels to facilitate the connection of portable emergency
+generators.
+c. Pump stations – If pumps and their attached motors are
+damaged by storm water inundation, replace them with
+submersible or inline pumps as appropriate.
+d. Pump stations – If pump station equipment is damaged as
+a result of inundation resulting from power failure, install
+switches, circuit isolation and/quick connect capability to
+facilitate rapid connection of backup power.
+C. Wastewater treatment plants
+1. Elevation of equipment and controls that can be elevated
+easily.
+2. Dry or wet flood-proofing of buildings.
+A-8 Appendix AD. Potable water
+1. Well systems –
+a. Reduction of infiltration and subsequent contamination of
+the aquifer. Methods include casing the well or raising the
+elevation of the well head.
+b. Elevation of controls, mechanical equipment, or electri -
+cal service associated with use of the well to protect them
+from flood damage.
+2. Raw water intakes - Buttressing to prevent damage from
+erosion, scour, and flood debris.
+3. Water treatment plants –
+a.
+
+Elevation of equipment and controls that can be elevated
+easily.
+b. Dry flood-proofing.
+E. Electric power distribution
+1. Pad-mounted transformers – elevating above the base flood
+elevation.
+2. Using multiple poles to support transformers.
+3. Anchoring or otherwise protecting fuel tanks from movement
+in a disaster.
+4. Replacing damaged poles with higher-rated poles, of the same
+or different material such as replacing wood poles with precast
+concrete or steel.
+5. Adding guy wire or additional support to power lines.
+6. Removing large diameter lines from poles.
+7. Providing looped distribution service or other redundancies in
+the electrical service to critical facilities.
+F. Above ground storage tanks
+1. Strengthening or stiffening base connections.
+2. Installation of self-initiating disconnects and shut-off values
+between tanks and distribution lines to minimize damage and
+leaks.
+G. Underground pipelines – Installation of shut-off valves so that
+damaged sections of pipeline can be isolated.
+Appendix A  A-9Buildings: II.
+A. General effects of flood damage –
+1. Buildings substantially damaged under NFIP regulations –
+Repair, dry flood-proofing, or elevation so they are protected
+to meet minimum NFIP regulations. If the building is
+replaced, rather than repaired, minimum NFIP requirements
+are generally in place as codes and standards in participating
+communities and are applicable in both repair and replacement
+situation. Section 406 mitigation should be considered in those
+cases where these standards either fall short or provide no
+protection against other hazards.
+2. Buildings not substantially damaged under NFIP regulations
+– If technically feasible, dry flood-proofing. Electrical panels,
+machinery rooms, emergency generators can be elevated above
+the BFE [Base Flood Elevation] or dry flood-proofed. If dry
+flood-proofing is not feasible, these buildings should be wet
+flood-proofed.
+B. Roofs – Because the failure of a roof covering can lead to
+extensive damage to contents and operation, damaged roofing
+should be evaluated to determine cause of failure.
+1.
+
+Low slope roofs – Replacement of the entire roof with a roof
+covering with a secondary membrane and a fully adhered roof
+covering, such as modified bitumen. Mechanically fastened
+insulation or membranes are not acceptable.
+2. Roof-mounted equipment should be attached to a foundation
+that will resist expected wind forces.
+3. Hurricane clips – Hurricane clips for use in high-wind areas.
+4. Roofs – When roof damages are due to wind pressure beneath
+soffits and overhangs, strengthen the soffit and overhang
+material and means of attachment to prevent wind pressure
+adversely affecting the roofing system.
+5. Roofs – When there is roof system damage or water intrusion
+due to damage to roof opening such as hatches and skylights
+strengthen the openings or the windows to avoid future
+damage.
+6. Roofs – For gable roofs damaged by wind, replace the gable
+end-framing with hipped roof framing to reduce wind forces
+(lower edge pressure; reduced projected wind area) and
+strengthen the roof framing.
+A-10  Appendix AC. Shutters – In areas subject to hurricane winds, shutters are
+appropriate in the following areas:
+1. All damaged windows on critical facilities such as hospitals.
+2. The lower floors of buildings with damaged windows most
+likely to be struck by debris.
+3. Damaged windows of buildings with very high value contents
+that can be damaged by water (such as libraries and document
+centers).
+4. Damaged windows of buildings subject to debris from nearby
+ballasted roofs, metal buildings, manufactured homes or other
+structures likely to fail and result in debris.
+D. Anchoring –
+1. Anchoring of mechanical and electrical equipment in critical
+facilities.
+2. For small ancillary buildings that have sustained damage and/
+or have caused damage to other facilities, anchor the buildings
+to foundations to prevent toppling or becoming missile
+hazards.
+E. Flexible piping – Installation of flexible piping at pipe/conduit
+connections to equipment to accommodate expected movement in
+an earthquake.
+F. Bracing –
+1. Bracing of and large diameter pipes and electrical lines to meet
+seismic loads.
+2. Bracing non structural interior walls and partitions.
+3.
+
+Bracing parapets, anchoring veneer or cladding, and bracing
+other non-structural elements that could collapse and cause
+injury or block safe exit of a building during an earthquake.
+G. Replacement of glass – Replacement of glass with impact-resistant
+material.
+H. General Buildings –
+1. Buildings – Where spread footings have been undercut by
+scour, underpin footings.
+2. Siding – if siding has been damage by wind, replace with a
+stronger siding with stronger attachments to the wall sheathing
+and structure.
+Appendix A  A-113. Venting – Where there has been water damage caused by water
+intrusion through venting systems, replace the vents with rain
+and water resistant vents.
+I. Doors and Windows –
+1. Where damage has resulted from wind and water intrusion
+around weather stripping on doors and/or windows, upgrade
+the weather stripping to prevent water infiltration.
+2. Where damage has been caused by wind-induced failure of
+doors, replace the doors with stronger units. This applies to the
+door frame, door, hinges, and lock hardware. Both entry and
+garage doors should be considered.
+J. Miscellaneous Structures –
+1. Marine Piers – If marine piers ramps that attach to decking
+have been damaged by storm-surge uplift and buoyancy, install
+open decking or floating decking with uplift-resistant tie-
+downs and fasteners.
+2. Signage – If sign panels and their supports have failed,
+replace with a stronger type of system of supports and panels.
+Consider using multiple support posts and stronger panels and
+fasteners.
+3.
+
+Gutters and Downspouts – If damaged by either wind and/or
+water, upgrade the gutter and downspout system to directing
+water away from the structure and preventing interior or
+basement water damage.
+Appendix B B-1Appendix B
+Considerations for implementation of Mitigation Measures
+ project May be Cost-prohibitive
+The cost of actions identified by this symbol may be
+prohibitively expensive.
+ Maintenance Required to Maintain effectiveness
+Actions identified by this symbol may require significant and/or
+continuous maintenance.
+ engineer needed
+An engineer should be consulted or hired to develop and/or
+approve the actions identified by this symbol.
+ Structural Aesthetics Could be Affected
+Actions identified by this symbol may affect the structure’s
+appearance and/or aesthetic value.
+ Weather Considerations
+Actions identified by this symbol may require the local weather
+climate to be considered.
+ Local Code Requirements
+Actions identified by this symbol may be affected by local code
+requirements.
+ Short Lifespan
+Actions identified by this symbol may be temporary solutions
+and require further action in the future.
+environmental and Historic preservation Considerations
+As described in the “How to Use this Handbook” section above, FEMA
+must consider a range of Federal environmental and historic preservation
+laws, regulations, and Executive Orders that apply to the use of Federal
+funds when evaluating proposed mitigation measures under the PA Program.
+Requirements that commonly apply to PA Program mitigation measures are
+identified below. For more detailed information on FEMA’s environmental
+CODE
+B-2 Appendix Band historic preservation compliance responsibilities, refer to the FEMA
+322, Public Assistance Guide  (FEMA, 2007) or the FEMA website at
+www.fema.gov/plan/eh p.
+National Environmental Policy Act (NEPA). NEPA requires every Federal
+agency to follow a specific planning process to ensure that agency decision-
+makers have considered, and the general public is fully informed about, the environmental consequences of a proposed Federal action, such as the approval of a grant. This review and consultation process is used to
+evaluate the impact a project, and any possible alternatives, may have on
+the environment. The process must be completed prior to obligating funds and beginning work.
+
+NEPA does not require that FEMA limit the impact of projects on the environment; nor does it require FEMA to fund only the alternative that has the least environmental impact. However, it does require
+that the decision to fund a project be made in an informed manner. FEMA’s
+regulations regarding NEPA can be found in 44 CFR Part 10.
+National Historic Preservation Act (NHPA). The NHPA requires a
+Federal agency to consider, before approval of funding, the effects of its
+activities, referred to as “undertakings,” on any historic property listed
+in or eligible for listing in the National Register of Historic Places. The agency funding the undertaking is required to give the Advisory Council on Historic Preservation a reasonable opportunity to comment on that
+undertaking. Under the NHPA regulations, which can be found in 36 CFR
+Part 800, PA Program projects are considered undertakings because they are funded in whole or in part by a Federal agency. Historic properties include districts, buildings, structures, objects, landscapes, archaeological sites, and traditional cultural properties that are listed in or eligible for
+listing in the National Register of Historic Places, a Federally maintained
+list of recognized historic properties. These properties are not limited to old buildings or well-known historic sites, but include places important in local, State, tribal, or national history. Facilities as diverse as bridges, roads, water treatment plants, and areas once inhabited by Native American populations
+may be considered historic properties.
+Endangered Species Act (ESA). Section 7 of the ESA prohibits Federal
+actions that cause takings of species listed as threatened or endangered, or the destruction or adverse modification of the habitat for these species.
+Endangered species include mammals, fish, birds, reptiles, amphibians,
+plants, and insects. If a project has the potential to affect a threatened or endangered species or its habitat, FEMA must consult with the U.S. Fish and Wildlife Services or the National Marine Fisheries Service, or both, before approving funding for that project. While compliance issues may
+Appendix B B-3arise with projects involving undisturbed sites or sites in or by waterways,
+they could also arise with relatively minor actions.
+executive Order 11988 – Floodplain Management, and executive
+Order 11990 – p rotection of Wetlands. These Executive Orders require
+Federal agencies to minimize or avoid activity that adversely affects
+floodplains and wetlands.
+
+Because many PA Program projects are located in
+these areas, FEMA must review proposed projects for compliance with the
+requirements of these orders. Through this review, FEMA seeks to:
+Avoid, to the extent possible, short- and long-term adverse impacts •
+associated with the occupancy and modification of floodplains.
+Avoid direct and indirect support of floodplain development wherever •
+there is a practicable alternative.
+Minimize the destruction, loss, or degradation of wetlands.•
+FEMA’s regulations for applying these Executive Orders are outlined in •
+44 CFR Part 9. These regulations describe a specific, eight-step process
+for conducting floodplain management and wetland reviews before
+approval of funding.
+Appendix C C-1Appendix C
+Glossary and Keyword index
+[keywords are underlined]
+Asphalt shingles:  Roofing felt, saturated with asphalt and coated on the
+weather side with a harder asphalt and aggregate particles, which has been
+cut into shingles for application to a sloped roof.
+Automatic sprinkler system:  A sprinkler system for fire protection
+purposes, is an integrated system of underground and overhead piping
+designed in accordance with fire protection engineering standards. The
+system includes a suitable water supply, and when activated by heat from a
+fire, discharges water over the fire area.
+Building:  Any structure used or intended for supporting or sheltering any
+use or occupancy.
+Building envelope: A term used to denote the extreme outside surface and
+dimensions of a building.
+Built-up roofing: Two or more layers of felt cemented together and surfaced
+with a cap sheet, mineral aggregate, smooth coating or similar surfacing
+material.
+Combustible material: Any material that, in the form in which it is used
+and under the conditions anticipated, will ignite and burn or will add
+appreciable heat to an ambient fire.
+Cripple wall: A framed stud wall extending from the top of the foundation
+to the underside of floor framing for the lowest occupied floor level.
+defensible space : An area that is either natural or man-made, where
+material capable of allowing a fire to spread unchecked has been treated,
+cleared or modified to slow the rate and intensity of an advancing wildfire
+and to create an area for fire-suppression operations to occur. (pp.
+
+xv, xvi, 1,
+69, 71, 76)
+eave: (1) Those portions of a roof that project beyond the outside walls of a
+building. (2) The bottom edges of a sloping roof.
+ember:  A fragment of a material that had been burning, usually with
+flaming combustion. An ember can be a firebrand.
+C-2  Appendix CFascia: (1) A board used on the outside vertical face of a cornice. (2) The
+board connecting the top of the siding with the bottom of a soffit. (3) A
+board nailed across the ends of the rafters at the eaves. (4) The edge beam of
+a bridge. (5) A flat member or band at the surface of a building.
+Fiber-cement : A manufactured, fiber-reinforcing product made with an
+inorganic hydraulic or calcium silicate binder formed by chemical reaction
+and reinforced with organic or inorganic nonasbestos fibers or both.
+Additives that enhance manufacturing or product performance are permitted.
+Siding products have either smooth or textured faces and are intended for
+exterior wall. It also comes in sheet form for related applications, such as
+soffit and eave lining or underlay on decks. (pp. 7, 21, 40, 56)
+Firebrand:  Detached burning materials (flaming, but usually glowing
+combustion) that travel beyond the burning vegetation or structures of origin
+and are potentially capable of producing combustion.
+Firebreak:  A strip of cleared land that provides a gap in vegetation or other
+combustible material that is expected to slow or stop the progress of a
+wildfire.
+Fire hazard:  A fuel complex, defined by kind, arrangement, volume,
+condition, and location, that determines the ease of ignition and/or resistance
+to fire control.
+Fire-resistant material:  Material that has a property that prevents or
+retards the passage of excessive heat, hot gases or flames under conditions
+of use. (pp.
+
+xvi, 1, 2, 9, 12, 14, 17, 18, 21, 22, 25, 40, 42, 46, 47, 54, 56, 57,
+63, 69, 71, 72, 85)
+Fire-resistance rating : The period of time a building element, component
+or assembly maintains the ability to confine a fire, continues to perform a
+given structural function, or both, as determined by tests, or methods based
+on tests. (pp. 4, 18, 21, 32, 42, 46, 88)
+Fire retardant : A chemical applied to lumber or other wood products to
+slow combustion and flame spread. (pp. 71, 76, 81, 91, 95)
+Fire-retardant-treated wood : Any wood product impregnated with
+chemicals by a pressure process or other means during manufacture, and
+which, when tested in accordance with ASTM E 84-05 for a period of
+30 minutes shall have a flame spread of not over 25 and show no evidence
+of progressive combustion. In addition, the flame front shall not progress
+more than 10½ feet (3200 millimeters) beyond the center line of the burner
+at any time during the test. Materials that may be exposed to the weather
+Appendix C C-3shall pass the accelerated weathering test and be identified as Exterior
+type, in accordance, with ASTM D 2898-94 and ASTM D 3201-94. Where
+material is not directly exposed to rainfall but exposed to high humidity
+conditions, it shall be subjected to the hygroscopic test and identified
+as Interior Type A in accordance with ASTM D 2898-94 and ASTM D
+3201 -94. (pp. 4, 7, 11, 38, 56)
+Flashing : A thin, impervious sheet of metal placed in construction to
+prevent water penetration or direct the flow of water. (pp. 9, 39, 51, 72)
+Fuels:  All combustible materials within the wildland/urban interface or
+intermix, including, but not limited to, vegetation and structures.
+Gypsum board:  The generic name for a family of sheet products consisting
+of a noncombustible core primarily of gypsum with paper surfacing.
+
+Both
+regular and Type X gypsum board (see definition of “Type X gypsym
+board” below) are covered under the ASTM C 1396 36, gypsum board
+standard specification. Regular gypsum has naturally occurring fire
+resistance due to the presence of gypsum in the core. Type X has special
+core additives to increase the natural fire resistance.
+Human intervention:  Any action that a person must take to enable a
+wildfire protection measure to function as intended. This action must be
+taken every time a wildfire threatens.
+ignition-resistant construction standards : Construction standards based
+on use of fire-resistant materials, non-combustible materials, and one-hour
+fire rated assemblies. (pp. xv, xvi, 2, 63, 69)
+insulated glazing unit (iGU):  Window assembly that consist of two or
+more independently glazed panels installed parallel to each other, having a
+sealed air gap in between, within a frame designed to fill completely the
+window or door opening in which the assembly is intended to be installed.
+intumescent : A fire retardant coating that when heated forms a foam
+produced by non-flammable gases, such as carbon dioxide and ammonia.
+This results in a thick, highly insulating layer of carbon (about fifty times as
+thick as the original coating) that serves to protect the coating substrate from
+fire. (pp. 25, 91, 95)
+Membrane roofing: A term that most commonly refers to a roof covering,
+employing flexible elastomeric plastic materials from 35 to 60 mils thick,
+that is applied from rolls and has vulcanized joints.
+C-4  Appendix CMetal roofing:  Metal shingles or sheets for application on solid roof
+surfaces, and corrugated or otherwise shaped metal sheets of sections for
+application on roof frameworks or on solid roof surfaces.
+Mortar:  A mixture of finely divided hydraulic cementitious  material, fine
+aggregate, and water in either the unhardened or hardened state, hydraulic
+mortar. (pp.
+
+7, 25)
+noncombustible material : As applied to building construction material
+means a material that, in the form in which it is used, is either one of the
+following:
+Material of which no part will ignite and burn when subjected to •
+fire. Any material conforming to ASTM E 136 shall be considered
+noncombustible within the meaning of this section.
+Material having a structural base of noncombustible material as defined •
+in Item 1 above, with a surfacing material not over 1/8 inch (3.2 mm)
+thick, which has a flame spread rating of 50 or less. Flame spread rating
+as used herein refers to rating obtained according to tests conducted as
+specified in ASTM E 84.
+ “Noncombustible” does not apply to surface finish materials. Material
+required to be noncombustible for reduced clearances to flues, heating
+appliances or other sources of high material shall be classed as
+noncombustible that is subject to increase in combustibility or flame
+spread rating, beyond the limits herein established, through the effects of
+age, moisture or other atmospheric condition. (pp. xvi, 1, 2, 4, 7, 8, 11,
+14, 15, 16, 21, 22, 28, 29, 30, 34, 38, 47, 54, 63, 69, 71, 76, 78, 79, 80,
+87, 90, 92, 94, 97, 98)
+Roof assembly:  A system designed to provide weather protection and
+resistance to design loads. The system consists of a roof covering and the
+roof deck or a single component serving as both the roof covering and the
+roof deck. A roof assembly includes the roof deck, vapor retarder, substrate
+or thermal barrier, insulation, vapor retarder and roof covering.
+Roof covering: The covering applied to the roof deck for weather
+resistance, fire classification or appearance.
+Roof valley: The place where two planes of a roof meet at a downward, or
+V , angle.
+Sheathing:  The material forming the contact face of forms.
+
+Plywood,
+waferboard, oriented strand board, or lumber used to close up side walls,
+floors, or roofs preparatory to the installation of finish materials on the
+surface.
+Appendix C C-5Shingle:  A roof-covering unit made of asphalt, slate, asbestos, cement,
+or other material cut into stock sizes and applied on sloping roofs in an
+overlapping pattern.
+Siding:  Lumber or panel products intended for use as the exterior wall
+covering on a house or other building.
+Soffit:  The underside of a part or member of a structure, such as a beam,
+stairway, or arch.
+Stucco:  A Portland cement-aggregate plaster mix designed for use on
+exterior surfaces.
+Tempered glass:  Glass that is pre-stressed by heating and then rapidly
+cooled. It is a process that makes it two to four times stronger than ordinary
+glass.
+Type x gypsum board : Special fire-resistant 5/8-inch thick gypsum
+board compliant with ASTM C 1177. Gypsum board that is 1/4-inch or
+1/2-inch thick are not Type X. (pp. 12, 22, 23, 56)
+Underlayment:  One or more layers of felt, sheathing paper, nonbituminous
+saturated felt or other approved material over which a steep-slope roof
+covering is applied. (pp. 4, 7, 9, 12)
+Vinyl cladding:  A shaped material, made principally from rigid polyvinyl
+chloride (PVC) that is used as an exterior wall covering.
+Wall cladding:  A covering or sheathing usually applied to provide desirable
+surface properties, such as durability, weathering, corrosion, or impact
+resistance.
+Wildfire : An uncontrolled fire spreading through vegetative fuels, exposing
+and possibly consuming structures.
+Wildland/urban interface area:  That geographical area where structures
+and other human development meets or intermingles with wildland or
+vegetative fuels.
+Appendix D  D-1Appendix d
+defensible Space
+The defensible Space Concept
+Defensible space refers to the fuel characteristics around a facility and
+how those characteristics can potentially affect fire behavior.
+
+The term is
+applied generally within the context of wildland fires and to facilities in the
+wildland/urban interface. The objective of defensible space is to modify
+fuel characteristics around a facility to reduce the potential for extreme fire
+behavior, with the goal of providing firefighters an area in which they may
+operate safely to save the structure from being consumed by an approaching
+fire.
+Defensible space by itself may not save a facility from burning. However,
+when combined with appropriate structural mitigation, defensible space may
+decrease the risk to the facility. Without defensible space, firefighters may
+not even attempt to save a facility from being consumed by an approaching
+wildfire because the safety risk is too great. Defensible space is one of the
+components that firefighters assess when deciding whether to attempt to
+save a facility.
+Benefits of Defensible Space
+Benefits of creating defensible space around a facility include:
+Reduces hazards for firefighters.•
+Firefighters may attempt to save the facility from an approaching fire.•
+Greater likelihood that firefighters will succeed in saving the facility from •
+being consumed by fire.
+Greater possibility that the facility will survive an approaching fire •
+without sustaining major damage if fire suppression resources are not
+available.
+Reduces the burden on fire-suppression resources during an emergency.•
+Improves the likelihood that the facility will survive the fire when used in •
+conjunction with appropriate structural mitigation measures.
+Code Requirements
+Defensible space requirements vary by location and depend on the training
+of local authorities with jurisdiction. All firefighting agencies are not
+equipped and trained the same way. A local State lands agency office, local
+fire department, or county tax assessor’s office should be able to provide
+information about defensible space requirements.
+D-2  Appendix DAlthough there are no national codified requirements for defensible space,
+there are some general standards.
+
+The National Fire Protection Association
+published the following standards for defensible space (NFPA, 2002):
+Establish a fuel modification area extending 30 feet in all directions from •
+the facility.
+Ground fuels within the defined defensible space shall be treated or •
+removed.
+Live vegetation within the defensible space shall have dead material •
+removed and shall be thinned and pruned.
+Dead and/or downed fuels within the defensible space of facilities shall •
+be removed or treated to maintain the fuel modification area.
+Vegetation under trees within the fuel modification area shall be •
+maintained at a height that will preclude ground fire from spreading into
+the tree canopy.
+Maintain the defensible space as needed.•
+Propane tanks and other combustible liquids storage shall conform •
+to NFPA 30, Flammable and Combustible Liquids Code, NFPA 58,
+Liquefied Petroleum Gas Code, and the local or State Wildland Fire Risk
+and Hazard Mitigation Plan.
+Specific Practices
+In Protecting and Landscaping Homes in the Wildland/Urban Interface
+(Barkley et al., 2005), the authors suggest creating a defensible space by
+taking the actions listed below in three concentric zones radiating outward
+from a structure. The measures are focused on structures but can be applied
+to any facility.
+Zone 1:•  The structure itself. Decrease the ignition potential of the
+structure by choosing nonflammable roofing materials and siding, enclose
+decks, soffits and overhangs, and removing debris from roofs and gutters.
+Cover house vents with wire mesh. See Section I (Buildings) of the
+Handbook.
+Zone 2: • The landscape within 100 feet of the structure. Surround the
+structure by a greenbelt of well watered and maintained plants. Plant
+perennials, ground cover, and annuals in groups with individual trees and
+shrubs. Surround these islands of vegetation with rock or brick retaining
+walls and well-watered turf. Remove overgrowth and dry debris on the
+ground every three to five years and prune trees. Store firewood on a
+gravel pad surrounded by well-watered turf.
+Zone 3: • Beyond 100 feet. Thin native plants.
+
+If possible remove highly
+flammable vegetation and replace with less fire-prone species.
+Appendix D  D-3References
+Barkley, Y .C., C. Schnepf, and J.D. Cohen. (2005). Protecting and
+Landscaping Homes in the Wildland/Urban Interface . Idaho Forest, Wildlife
+and Range Experiment Station. Station Bulletin No. 67.
+National Fire Protection Association (NFPA). (2002). Standard for
+Protection of Life and Property from Wildfire . National Fire Protection
+Association 1144.
+Glossary
+The following definitions apply to this appendix.
+defensible space. An area that is either natural or man-made, where
+material capable of allowing a fire to spread unchecked has been treated,
+cleared or modified to slow the rate and intensity of an advancing wildfire
+and to create an area for fire-suppression operations to occur.
+Fire behavior. The physical characteristics of a fire, including flame length
+(feet); rate of spread (feet per second); and intensity (energy release/ linear
+feet of flaming front).
+Fuel characteristics. The physical characteristics of fuels as they relate to
+fire including arrangement (vertical/ horizontal continuity), type (e.g., forest;
+grass; chaparral), loading (pounds per acre), moisture content (weight/dry
+weight), and toxicity.
+Fuel modification. Changing fuel characteristics to reduce combustible
+fuels, either by replacing highly combustible vegetation with fire-resistant
+vegetation, or by pruning existing vegetation to create vertical and
+horizontal separation.
+Ground fuels. All combustible materials such as grass, duff, surface litter,
+tree or shrub roots, rotting wood, leaves, peat, or sawdust that typically
+support combustion.
+Wildland fire. An unplanned and uncontrolled fire spreading through
+vegetative fuels, at times involving structures.
+Wildland/urban interface .
+
+An area where improved property and wildland
+fuels meet at a well-defined boundary.
+Appendix E  E-1Appendix e
+Acronyms
+ASTM Refers to ASTM International; originally known as the American
+Society for Testing and Materials
+CFR Code of Federal Regulations
+FEMA  Federal Emergency Management Agency
+FRT	 fire-retardant-treated
+HMGP  Hazard Mitigation Grant Program
+IGU insulated glazed unit
+IWUIC International Wildland Urban Interface Code
+NEPA  National Environmental Policy Act
+NFIP  National Flood Insurance Program
+NFPA  National Fire Protection Association
+NHPA  National Historic Preservation Act
+PA Public Assistance
+PCB polychlorinated biphenyl
+PDM	 Pre-Disaster	Mitigation 	Program
+PVC polyvinyl chloride
+UPS Uninterruptible Power Supply
+Appendix F  F-1Appendix F
+References
+ASTM E108–07a. (2007). “Standard Test Methods for Fire Tests of Roof Coverings.”
+West Conshohocken, Pennsylvania: ASTM International. Available at http://www.
+astm.org/Standards/E108.htm. Accessed on June 29, 2008.
+Beall, F. and S. Quarles. (n.d.). Fire Performance of Wood Subassemblies in the
+Urban-Wildland Interface . University of California–Richmond. Slides. Available
+at http://www.forestprod.org/durability04beall2.pdf. Accessed on May 15, 2008.
+Brown, K. (1994). Structure Triage During Wildland/Urban Interface/Intermix Fires:
+Strategic Analysis in Fire Department Operations . Silverthorne, Colorado: Lake
+Dillon Fire Authority. Available at http://www.usfa.dhs.gov/downloads /pdf/
+tr_94kb.pdf. Accessed on Mary 12, 2008.
+Federal Emergency Management Agency. (2007). Public Assistance Guide. FEMA
+322. Available at http://www.fema.gov/government/grant/pa /pag07_t.shtm.
+Accessed on May 12, 2008.
+    Fire Protection Guidelines for Wildland Residential Interface Development .
+
+(1993).
+Available at http://dnrc.mt.gov/forestry/Fire/Prevention/ documents/WUIrewrite/
+protguwp.pdf. Accessed on May 12, 2008.
+Heimer Engineering. (2008). Home Inspection and Building Inspection Terms .
+Available at http://www.heimer.com/ inspections/definition_of_terms.html.
+Accessed on May 15, 2008.
+Firewise Alaska. (n.d.). Helping to Protect You and Your Community from the Threat
+of Wildland Fire. Alaska Wildland Fire Coordinating Group. Accessible at http://
+forestry.alaska.gov/pdfs/06Firewise.pdf. Accessed on May 16, 2008.
+Firewise Colorado. (2001). Wildland Fire Preparedness/Education Partnership.
+Institute of Hazardous Materials Management. (2007). What Are Hazardous
+Materials? Available at http://www.ihmm.org/dspWhatIsHazMat.cfm. Accessed
+on May 15, 2008.
+International Code Council. (2006). International Wildland-Urban Interface Code .
+ICC IWUIC-2006.
+K.L. Security Enterprises, Inc. (n.d.). Class A Fire Rating—Class B, C & D.
+Available at http://www.klsecurity.com/class_a_fire_rating.htm. Accessed on May
+21, 2008.
+Klem, T.J. (1991). Fire Storm ’91. Quincy, Massachusetts: National Fire Protection
+Agency. Available at http://www.nfpa.org/assets/files/PDF/FIfirestorm.pdf.
+Accessed on May 12, 2008.
+Milke, J., V . Kodar, and C. Marrion. (2002). “Overview of Fire Protection in
+Buildings.” Appendix A in World Trade Center Building Performance Study:
+Data Collection . Federal Emergency Management Agency Region II. Available
+http://www.fema. gov/pdf/library/fema403_apa.pdf. Accessed on May 15, 2008.
+F-2  Appendix FNational Fire Protection Association. (2008). NFPA 1141:  Fire Protection
+Infrastructure for Land Development in Suburban and Rural Area .
+
+Available at
+http://www.nfpa.org/freecodes/free_access_agreement.asp?id=114108. Accessed
+on May 15, 2008.
+———. (2008). NFPA 1144: Standard for Reducing Structure Ignition Hazards
+from Wildland Fire. Available at http://www.nfpa.org/freecodes/ free_access_
+agreement.asp?id=114408. Accessed on May 12, 2008.
+ Multihazard Mitigation Council. (2005). Natural Hazard Mitigation Saves: An
+Independent Study to Assess the Future Savings from Mitigation Activities.
+Vol. 1. Findings, Conclusions, and Recommendations. Washington, DC: National
+Institute of Building Sciences. Available at http://www.floods.org/ PDF/MMC_
+V olume1_ FindingsConclusionsRecommendations.pdf. Accessed on May 12,
+2008.
+Quarles, S. (2006). Homeowner’ s Wildfire Mitigation Guide. University of California
+Agriculture and Natural Resources Department. Available at http://groups.ucanr.
+org/HWMG/index.cfm. Accessed May 12, 2008.
+———. (n.d.). Fire Ratings for Roofs. Center for Forestry, University of California.
+Available at http://firecenter.berkeley.edu/quarles/FireRatingsRoofs-SQ.pdf .
+Accessed on May 15, 2008.
+———. (n.d.). Vulnerable Parts of Your Home & Making it Safer from Wildfire
+Exposures. Center for Forestry, University of California. Available at http://
+firecenter.berkeley.edu/quarles/Vulnerable PartsofYourHome-SQ.pdf. Accessed
+on May 12, 2008.
+Slack, P. (2000). Firewise Construction: Design and Materials. FireWise: Colorado
+State Forest Service.
+Trinkley, M. (2004). Protecting Your Institution from Wildfires: Planning Not to
+Burn and Learning to Recover . Columbia, South Carolina: Chicora Foundation,
+Inc.
+
+Available at http://palimpseset.stanford.edu/ byauth/trinkley/wildfire.html.
+Accessed on May 15, 2008.
+Underwood, J. (1995). “ Fire-Resistant Details: Studying the Houses That Survived
+the 1993 Laguna Beach Fire Storm Yields Lessons in Building to Withstand the
+Heat.”  In Fine Homebuilding 96, pp. 90–93. Available at http://www.taunton
+.com/finehomebuilding/how-to/articles/fire-resistant-details.aspx. Accessed on
+May 15, 2008.
+Underwriters Laboratories, Inc. (2008). Dampers. Available at http://www.ul.com/
+regulators/dampers.cfm. Accessed on May 15, 2008.
+University of California, Berkeley. (2008). Homeowner’ s Wildfire Mitigation Guide .
+Available at http://groups.ucanr.org/HWMG/. Accessed on March 25, 2008.
+U.S. Department of Agriculture. (1997). Guide Specification for Spun, Prestressed
+Concrete: Poles and Concrete Pole Structures . RUS BULLETIN 1724E-206.
+Available at http://www.usda.gov/rus/electric/pubs/a/1724e206.pdf. Accessed on
+May 15, 2008.
+Appendix F  F-3Zicherman, J. (2004). Fire at the Urban Wildland Interface: Performance of
+California Homes and Buildings. Richmond, California: Fire Cause Analysis.
+Available at http://www.sdfirerecovery.net/docs/SCalif_After2003Reviews/ CDF_
+OSFM_PerformanceHomesBuildings_jul04.pdf. Accessed on May 15, 2008.
+Appendix G  G-1Appendix G
+List of Contributors
+Federal emergency Management Agency (FeMA)
+L.
+
+Gina White, FEMA Region IV , Mitigation, Project Monitor
+David Kennard, FEMA Region IX, Mitigation
+Daniel Powell, FEMA Region IX, Mitigation
+Dennis Tewksbury, FEMA Region I, Mitigation
+Robert Fenton, FEMA Region IX, Public Assistance
+Aaron Lim, FEMA Region IX, Mitigation
+David Livingstone, FEMA Region IX, Environmental
+State of California
+Ernylee Chamblee, California Department of Forestry and Fire Protection
+Rebecca Wagoner, Governor’s Office of Emergency Services
+Local California Officials
+Cliff Hunter, Rancho Santa Fe Fire Protection District
+Technical Assistance Contractor Team
+Christopher M. Barkley, PE, URS Group, Inc., Task Order Coordinator
+Diana Burke, ELS, URS Group, Inc.
+Gregory Carroll, EIT, URS Group, Inc.
+Sherry Crouch, PE, URS Group, Inc.
+Michael Gayrard, URS Group, Inc.
+G. Morgan Griffin, URS Group, Inc.
+Stephen Hom, PE, URS Group, Inc.
+Rich Schell, RPF #1978, RWS Consulting
+Thomas L. Smith, AIA, TLSmith Consulting Inc.
+John Squerciati, PE, Dewberry LLC
+
