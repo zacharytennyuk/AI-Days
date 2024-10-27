@@ -6,6 +6,7 @@ import Maps from '../pages/Maps';
 import { MedicalInformationSharp, Search } from "@mui/icons-material";
 import { motion } from "framer-motion";
 import { LocationThemeContext } from '../LocationThemeContext'; // Import the context
+import NeedButton from "./NeedButton";
 import { useLocation } from 'react-router-dom';
 
 const InformationSection = () => {
@@ -29,6 +30,14 @@ const InformationSection = () => {
     const [searchResults, setSearchResults] = useState([]);
 
     const [textVisible, setTextVisible] = useState(true);
+    const [notes, setNotes] = useState({
+        isFood: true,
+        isInjured: false,
+        isShelter: true,
+        information: "I need help.",
+        disaster: "natural disaster"
+    });
+    const [textVisible, setTextVisible] = useState(false);
 
     const handleSubmit = async (e) => {
         e.preventDefault();
@@ -48,13 +57,19 @@ const InformationSection = () => {
                     radius: 5000,
                 });
 
-                setSearchResults(response.data.places || []); // Set the search results
+                const places = response.data.places || []; // Extract places
+                setSearchResults(places); // Set the search results
+
                 updateContent("user", `Searching for places: ${query}`);
-                updateContent("bot", "Mapping locations!");
+                if (places.length > 0) {
+                    updateContent("bot", "Mapping locations!");
+                } else {
+                    updateContent("bot", "No locations found.");
+                }
 
             } catch (error) {
                 console.error("Error fetching search results:", error);
-                updateContent("bot", "Failed to retrieve locations.");
+                updateContent("bot", "Oops! Failed to retrieve locations. I'm here to help! Please type in a specific resource or place you need!");
             }
         } else {
             // Standard message handling if not a !map command
@@ -69,17 +84,17 @@ const InformationSection = () => {
 
 
             const notesData = {
-                disaster: "disaster",
-                foodWater: isFood,
-                information: information,
-                injury: isInjured,
-                shelter: isSheltered,
+                foodWater: notes.isFood,
+                injury: notes.isInjured,
+                shelter: notes.isShelter,
+                information: notes.information,
+                disaster: notes.disaster,
+                notes: content.map(item => (typeof item === 'string' ? item : item.paragraph)),
+                location: location,
             };
 
-            console.log(notesData)
-
             try {
-                const response = await axios.post("http://localhost:8000/send_notes", notesData);
+                const response = await axios.post("http://localhost:8000/api/send_notes", notesData);
                 console.log("Data sent successfully:", response.data);
 
                 if (response.data) {
@@ -164,6 +179,8 @@ const InformationSection = () => {
                 onAnimationComplete={handleAnimationComplete}
                 style={{ flex: 0.4, display: 'flex', flexDirection: 'column', justifyContent: 'flex-end', height: '100%', marginLeft: "16px" }}
             >
+                
+
                 <Box
                     sx={{
                         padding: 2,
@@ -176,6 +193,7 @@ const InformationSection = () => {
                         marginLeft: '8px'
                     }}
                 >              
+                    
                     <Box
                         sx={{
                             display: 'flex',
@@ -190,12 +208,21 @@ const InformationSection = () => {
                             marginBottom: 'auto',
                         }}
                     >
+                        <Box sx={{ padding: 2, display: 'flex', flexDirection: 'column', justifyContent: 'flex-end', height: '100%' }}>
+                        <Typography variant="h6">Find Nearby Resources:</Typography>
+
+                        {/* Need Buttons */}
+                        <Box sx={{ display: 'flex', justifyContent: 'center' }}>
+                            <NeedButton queryType="foodWater" label="Food & Water" location={location} setSearchResults={setSearchResults} />
+                            <NeedButton queryType="injury" label="Medical Assistance" location={location} setSearchResults={setSearchResults} />
+                            <NeedButton queryType="shelter" label="Shelter" location={location} setSearchResults={setSearchResults} />
+                        </Box>
+                    </Box>
                       <Box sx={{
                         overflowY: 'auto',
                         display: 'flex',
                         flexDirection: 'column',
                         mb: 2,
-                        mt: 2,
                         pb: 8,
                         height: "100%",
                         marginBottom: 'auto',

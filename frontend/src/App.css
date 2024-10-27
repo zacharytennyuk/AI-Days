@@ -14,19 +14,19 @@
 /* Sunrise and Moonrise animation for mode switching */
 @keyframes sunrise {
   from {
-    background-color: #0d0d3b; /* Darker midnight blue */
+    background-color: #0d0d3b;
   }
   to {
-    background-color: #87ceeb; /* Sky blue */
+    background-color: #f0ffd4;
   }
 }
 
 @keyframes moonrise {
   from {
-    background-color: #87ceeb; /* Sky blue */
+    background-color: #f0ffd4;
   }
   to {
-    background-color: #0d0d3b; /* Darker midnight blue */
+    background-color: #0d0d3b;
   }
 }
 
