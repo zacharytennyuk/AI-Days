@@ -1,7 +1,7 @@
 from fastapi import FastAPI, HTTPException, Body
 from services.WatsonService.Watson import Watson
 from services.Database.Database import Database
-from services.WatsonService.GraniteModel import GraniteModel
+from services.WatsonService.AnswerGeneration import AnswerGeneration
 from dtos.QueryRequest import QueryRequest
 import logging
 import uvicorn
@@ -77,7 +77,24 @@ def answer(request: QueryRequest):
 
 
 def generate_answer(query_text, relevant_chunks):
-    granite_instance = GraniteModel()
+    ans_model = AnswerGeneration()
+
+    max_chunks = 3
+    context_chunks = relevant_chunks[:max_chunks]
+
+    context = ""
+    for idx, chunk in enumerate(context_chunks, start=1):
+        chunk_text = chunk["metadata"].get("text")
+        if not chunk_text:
+            logger.warning(
+                f"No 'text' found in metadata for chunk ID {chunk['id']}. Skipping."
+            )
+            continue
+        context += f"Source {idx}:\n{chunk_text}\n\n"
+
+    if not context.strip():
+        logger.error("No valid context could be constructed from the retrieved chunks.")
+        return "I'm sorry, but I couldn't find relevant information to answer your question."
 
     max_chunks = 3
     context_chunks = relevant_chunks[:max_chunks]
@@ -96,13 +113,13 @@ Question: {query_text}
 Answer:
 """
 
-    answer = granite_instance.generate_text(prompt=prompt)
+    answer = ans_model.generate_text(prompt=prompt)
 
     if answer:
         return answer.strip()
     else:
-        logger.error("Failed to generate an answer using the Granite model.")
-        return "I'm sorry, but I couldn't generate an answer to your question."
+        logger.error("Failed to generate an answer using the LLM.")
+        return "boom skibidi good luck"
 
 
 if __name__ == "__main__":

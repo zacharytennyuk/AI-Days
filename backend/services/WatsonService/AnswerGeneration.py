@@ -9,12 +9,12 @@ logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
 
-class GraniteModel:
+class AnswerGeneration:
     _instance = None
 
     def __new__(cls):
         if cls._instance is None:
-            cls._instance = super(GraniteModel, cls).__new__(cls)
+            cls._instance = super(AnswerGeneration, cls).__new__(cls)
 
             try:
                 credentials = Credentials(
@@ -23,7 +23,7 @@ class GraniteModel:
 
                 parameters = {
                     GenParams.DECODING_METHOD: DecodingMethods.GREEDY,
-                    GenParams.MAX_NEW_TOKENS: 256,  # TODO: adjust
+                    GenParams.MAX_NEW_TOKENS: 512,  # TODO: adjust
                     GenParams.MIN_NEW_TOKENS: 1,
                     GenParams.TEMPERATURE: 0.7,
                     GenParams.TOP_K: 50,
@@ -38,10 +38,10 @@ class GraniteModel:
                     project_id=settings.WATSON_PROJECT_ID,
                 )
 
-                logger.info("Granite model client initialized successfully.")
+                logger.info("LLM client initialized successfully.")
 
             except Exception as e:
-                logger.error(f"Failed to initialize Granite model client: {e}")
+                logger.error(f"Failed to initialize LLM model client: {e}")
                 raise e
 
         return cls._instance
@@ -49,15 +49,9 @@ class GraniteModel:
     def generate_text(self, prompt):
         try:
             response = self.model_client.generate_text(prompt=prompt)
-            logger.debug(f"Granite model response: {response}")
-
-            if "generated_text" in response:
-                generated_text = response["generated_text"]
-                return generated_text.strip()
-            else:
-                logger.error("No 'generated_text' field in the response.")
-                return None
+            logger.debug(f"LLM response: {response}")
+            return response
 
         except Exception as e:
-            logger.error(f"Error generating text with Granite model: {e}")
+            logger.error(f"Error generating text with LLM: {e}")
             return None
