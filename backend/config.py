@@ -13,6 +13,8 @@ class Settings(BaseSettings):
 
     # Pinecone
     PINECONE_API_KEY: str
+    
+    GOOGLE_PLACES_API_KEY: str
 
     class Config:
         env_file = ".env"
