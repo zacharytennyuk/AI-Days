@@ -1,5 +1,5 @@
 import React from 'react';
-import { GoogleMap, useLoadScript, MarkerF } from '@react-google-maps/api';
+import { GoogleMap, MarkerF } from '@react-google-maps/api';
 
 const mapContainerStyle = {
   width: '100%',
@@ -7,13 +7,13 @@ const mapContainerStyle = {
 };
 
 const GoogleMapComponent = ({ center, locations = [] }) => {
-  const { isLoaded, loadError } = useLoadScript({
-    googleMapsApiKey: import.meta.env.VITE_GOOGLE_MAPS_API_KEY,
-    version: "3.53.2",
-  });
+  // const { isLoaded, loadError } = useLoadScript({
+  //   googleMapsApiKey: import.meta.env.VITE_GOOGLE_MAPS_API_KEY,
+  //   version: "3.53.2",
+  // });
 
-  if (loadError) return <div>Error loading maps</div>;
-  if (!isLoaded) return <div>Loading...</div>;
+  // if (loadError) return <div>Error loading maps</div>;
+  // if (!isLoaded) return <div>Loading...</div>;
 
   const openGoogleMapsDirections = (lat, lng) => {
     const googleMapsUrl = `https://www.google.com/maps/dir/?api=1&destination=${lat},${lng}`;

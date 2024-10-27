@@ -1,4 +1,0 @@
-cd backend
-
-./start.sh
-
