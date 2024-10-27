@@ -12,10 +12,10 @@ import {
 } from "@mui/material";
 import { useLocation, useNavigate } from "react-router-dom";
 import Earthquake from "./../assets/quake.png";
-import Flood from "./../assets/flood.png";
-import Hurricane from "./../assets/hurricane.png";
-import Tornado from "./../assets/tornado.png";
-import Wildfire from "./../assets/fire.png";
+import Flood from "./../assets/flood_big.avif";
+import Hurricane from "./../assets/hurricane_big.jpg";
+import Tornado from "./../assets/tornado_big.jpg";
+import Wildfire from "./../assets/wildfire_big.jpg";
 import Close from "./../assets/close.png";
 import axios from "axios";
 
@@ -23,6 +23,10 @@ const NeedsForm = () => {
   const location = useLocation();
   const navigate = useNavigate();
   const { disaster } = location.state || {};
+
+  const [concernsMade, setConcernsMade] = useState(false);
+
+  const exampleConcerns = ["May need more meds", "Need way to stay warm"];
 
   const postNotes = async () => {
     try {
@@ -70,6 +74,9 @@ const NeedsForm = () => {
   const [newConcern, setNewConcern] = useState("");
 
   const handleAddConcern = () => {
+    if (!concernsMade) {
+      setConcernsMade(true);
+    }
     if (newConcern.trim() !== "") {
       setAdditionalConcerns([...additionalConcerns, newConcern]);
       setNewConcern("");
@@ -114,10 +121,22 @@ const NeedsForm = () => {
         height: "calc(100vh - 64px)",
       }}
     >
+      <Typography
+        sx={{
+          fontFamily: "Anton",
+          fontWeight: 500,
+          marginBottom: "1rem",
+          color: "#333",
+        }}
+        variant="h4"
+      >
+        {formData.disaster + " Preparation"}
+      </Typography>
       <Box
         sx={{
+          backgroundColor: (theme) => theme.palette.background.paper,
           width: "80%",
-          height: "92%",
+          height: "90%",
           display: "flex",
           flexDirection: "row",
           justifyContent: "center",
@@ -143,17 +162,11 @@ const NeedsForm = () => {
             justifyContent: "space-between",
           }}
         >
-          <Typography
-            sx={{ fontWeight: 400, marginBottom: "1rem" }}
-            variant="h4"
-          >
-            {formData.disaster}
-          </Typography>
           <Box
             component="img"
             src={disasterImages[formData.disaster]}
             sx={{
-              width: "60%",
+              width: "75%",
               borderRadius: "5%",
               marginBottom: "16px",
               boxShadow:
@@ -248,29 +261,50 @@ const NeedsForm = () => {
                 overflow: "auto",
               }}
             >
-              {additionalConcerns.map((concern, index) => (
-                <ListItem
-                  sx={{
-                    boxShadow:
-                      "0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1)",
-                    border: "1px solid #a7b3c7",
-                    borderRadius: "10px",
-                    marginTop: "1.5rem",
-                  }}
-                  key={index}
-                >
-                  <ListItemText primary={concern} />
-                  <Box
-                    component="img"
-                    src={Close}
+              {!concernsMade &&
+                exampleConcerns.map((concern, index) => (
+                  <ListItem
                     sx={{
-                      height: "1rem",
-                      cursor: "pointer",
+                      boxShadow:
+                        "0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1)",
+                      border: "1px solid #a7b3c7",
+                      borderRadius: "10px",
+                      marginTop: "1.5rem",
                     }}
-                    onClick={() => handleRemoveConcern(index)}
-                  ></Box>
-                </ListItem>
-              ))}
+                    key={index}
+                  >
+                    <ListItemText primary={concern} />
+                  </ListItem>
+                ))}
+              {concernsMade &&
+                additionalConcerns.map((concern, index) => (
+                  <ListItem
+                    sx={{
+                      boxShadow:
+                        "0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1)",
+                      border: "1px solid #a7b3c7",
+                      borderRadius: "10px",
+                      marginTop: "1.5rem",
+                      overflowWrap: "normal",
+                    }}
+                    key={index}
+                  >
+                    <ListItemText
+                      primary={concern}
+                      sx={{ wordBreak: "break-word" }}
+                    />
+                    <Box
+                      component="img"
+                      src={Close}
+                      sx={{
+                        height: "1rem",
+                        cursor: "pointer",
+                        marginLeft: ".1rem",
+                      }}
+                      onClick={() => handleRemoveConcern(index)}
+                    ></Box>
+                  </ListItem>
+                ))}
             </List>
           </Box>
           <Box

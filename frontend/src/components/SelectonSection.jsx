@@ -8,7 +8,7 @@ import Hurricane from "./../assets/hurricane.png";
 import Wildfire from "./../assets/fire.png";
 import Flood from "./../assets/flood.png";
 import { motion } from "framer-motion";
-import { Link } from 'react-router-dom';
+import { Link } from "react-router-dom";
 
 const SelectonSection = () => {
   const disasters = [
@@ -62,7 +62,7 @@ const SelectonSection = () => {
                 key={index}
                 to="/needs"
                 state={{ disaster: disaster.name }}
-                style={{ textDecoration: 'none' }}
+                style={{ textDecoration: "none" }}
               >
                 <Button
                   sx={{
@@ -101,7 +101,7 @@ const SelectonSection = () => {
                 key={index + 3}
                 to="/needs"
                 state={{ disaster: disaster.name }}
-                style={{ textDecoration: 'none' }}
+                style={{ textDecoration: "none" }}
               >
                 <Button
                   sx={{
