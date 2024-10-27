@@ -4,7 +4,7 @@ from ibm_watsonx_ai.foundation_models import Embeddings
 from ibm_watsonx_ai.metanames import EmbedTextParamsMetaNames as EmbedParams
 from config import settings
 
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
 

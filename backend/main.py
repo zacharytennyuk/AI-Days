@@ -2,6 +2,7 @@ from fastapi import FastAPI, HTTPException, Body
 from services.WatsonService.Watson import Watson
 from services.Database.Database import Database
 from dtos.Notes import Notes
+from dtos.QueryRequest import QueryRequest
 import logging
 
 import uvicorn
@@ -10,7 +11,7 @@ app = FastAPI()
 watson_instance = Watson()
 database_instance = Database()
 
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
 
@@ -36,36 +37,38 @@ def generate_embeddings(texts: list[str] = Body(...)):
 
 
 @app.post("/retrieve")
-def retrieve(query: str = Body(..., embed=True)):
+def retrieve(request: QueryRequest):
+    query = request.query
     if not query:
         raise HTTPException(status_code=400, detail="No query provided.")
-
-    def retrieve_relevant_chunks(query_text, top_k=5):
-        query_embedding = watson_instance.generate_embedding([query_text])
-        if query_embedding is None or len(query_embedding) == 0:
-            logger.error("Failed to generate embedding for the query text.")
-            return []
-
-        matches = database_instance.query(
-            vector=query_embedding[0], top_k=top_k, namespace="disaster_preparedness"
-        )
-
-        relevant_chunks = []
-        for match in matches:
-            chunk_data = {
-                "id": match.get("id", ""),
-                "score": match.get("score", 0),
-                "metadata": match.get("metadata", {}),
-            }
-            relevant_chunks.append(chunk_data)
-
-        return relevant_chunks
 
     relevant_chunks = retrieve_relevant_chunks(query)
     if not relevant_chunks:
         raise HTTPException(status_code=404, detail="No relevant chunks found.")
 
     return {"relevant_chunks": relevant_chunks}
+
+
+def retrieve_relevant_chunks(query_text, top_k=5):
+    query_embedding = watson_instance.generate_embedding([query_text])
+    if query_embedding is None or len(query_embedding) == 0:
+        logger.error("Failed to generate embedding for the query text.")
+        return []
+
+    matches = database_instance.query(
+        vector=query_embedding[0], top_k=top_k, namespace="disaster_preparedness"
+    )
+
+    relevant_chunks = []
+    for match in matches:
+        chunk_data = {
+            "id": match.get("id", ""),
+            "score": match.get("score", 0),
+            "metadata": match.get("metadata", {}),
+        }
+        relevant_chunks.append(chunk_data)
+
+    return relevant_chunks
 
 
 if __name__ == "__main__":
