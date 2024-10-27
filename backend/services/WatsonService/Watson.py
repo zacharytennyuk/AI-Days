@@ -15,8 +15,6 @@ class Watson:
         if cls._instance is None:
             cls._instance = super(Watson, cls).__new__(cls)
 
-            # initialize the embeddings client
-
             credentials = Credentials(
                 api_key=settings.WATSON_API_KEY, url=settings.WATSON_SERVICE_URL
             )
