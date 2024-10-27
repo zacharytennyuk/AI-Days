@@ -111,7 +111,7 @@ const NeedsForm = () => {
     });
   };
 
-  const handleSubmit = (event) => {
+  const handleSubmit = async (event) => {
     setLoading(true);
     event.preventDefault();
 
