@@ -91,19 +91,6 @@ const Maps = ({ location }) => {
         }}
         onSubmit={handleSubmit}
       >
-        <TextField
-          label="Search places"
-          variant="outlined"
-          value={query}
-          onChange={(e) => setQuery(e.target.value)}
-          fullWidth
-          sx={{
-            maxWidth: '75%',
-          }}
-        />
-        <IconButton color="primary" type="submit" size="large">
-          <SendIcon />
-        </IconButton>
       </Box>
     </Box>
   );
