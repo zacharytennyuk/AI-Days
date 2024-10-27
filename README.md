@@ -61,13 +61,13 @@ Please make sure to update tests as appropriate.
 ### User Interface
 
 ![Earth](assets/earth.png)
-![Earth](assets/earth.png)
-![Earth](assets/earth.png)
-![Earth](assets/earth.png)
+![Selection](assets/selection.png)
+![Notes](assets/notes.png)
+![Map](assets/map.png)
 
 *Image paths:*
 
 - `assets/earth.png`
-- `assets/earth.png`
-- `assets/earth.png`
-- `assets/earth.png`
+- `assets/selection.png`
+- `assets/notes.png`
+- `assets/map.png`
