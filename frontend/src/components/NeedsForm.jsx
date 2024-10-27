@@ -17,11 +17,32 @@ import Hurricane from "./../assets/hurricane.png";
 import Tornado from "./../assets/tornado.png";
 import Wildfire from "./../assets/fire.png";
 import Close from "./../assets/close.png";
+import axios from "axios";
 
 const NeedsForm = () => {
   const location = useLocation();
   const navigate = useNavigate();
   const { disaster } = location.state || {};
+
+  const postNotes = async () => {
+    try {
+      const response = await axios.post("https://localhost.com/send-notes", {
+        isFood: true,
+        isShelter: true,
+        isSafe: true,
+        notes: [
+          "Family of 4",
+          "In Evacuation Zone",
+          "Wants to preserve storage",
+          "Advice of where to go for evacuation",
+        ],
+      });
+
+      console.log("Response data:", response.data);
+    } catch (error) {
+      console.error("Error posting data:", error);
+    }
+  };
 
   useEffect(() => {
     if (!disaster) {
