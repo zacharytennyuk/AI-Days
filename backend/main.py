@@ -8,6 +8,7 @@ from services.WatsonService.AnswerGeneration import AnswerGeneration
 from dtos.QueryRequest import QueryRequest
 import logging
 import uvicorn
+from services.places.places_router import router as places_router
 
 app = FastAPI()
 watson_instance = Watson()
@@ -24,7 +25,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-
+app.include_router(places_router, prefix="/api")
 @app.post("/api/embed")
 def generate_embeddings(texts: list[str] = Body(...)):
     if not texts:
