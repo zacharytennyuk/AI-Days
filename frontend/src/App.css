@@ -1,3 +1,73 @@
-body {
-    background-color: #F2F8FF;
+@keyframes twinkling {
+  0% {
+    background: radial-gradient(circle at 20% 30%, #ffffff44, transparent),
+      radial-gradient(circle at 80% 70%, #ffffff33, transparent),
+      radial-gradient(circle at 50% 50%, #ffffff55, transparent);
+  }
+  100% {
+    background: radial-gradient(circle at 25% 35%, #ffffff33, transparent),
+      radial-gradient(circle at 75% 65%, #ffffff55, transparent),
+      radial-gradient(circle at 50% 50%, #ffffff44, transparent);
+  }
+}
+
+/* Sunrise and Moonrise animation for mode switching */
+@keyframes sunrise {
+  from {
+    background-color: #0d0d3b; /* Darker midnight blue */
+  }
+  to {
+    background-color: #87ceeb; /* Sky blue */
+  }
+}
+
+@keyframes moonrise {
+  from {
+    background-color: #87ceeb; /* Sky blue */
+  }
+  to {
+    background-color: #0d0d3b; /* Darker midnight blue */
+  }
+}
+
+body.sunrise {
+  animation: sunrise 1s ease-in-out;
+}
+
+body.moonrise {
+  animation: moonrise 1s ease-in-out;
+}
+
+/* HTML: <div class="loader"></div> */
+/* HTML: <div class="loader"></div> */
+/* HTML: <div class="loader"></div> */
+/* HTML: <div class="loader"></div> */
+.loader {
+  --r1: 154%;
+  --r2: 68.5%;
+  width: 150px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background: radial-gradient(
+      var(--r1) var(--r2) at top,
+      #0000 79.5%,
+      #269af2 80%
+    ),
+    radial-gradient(var(--r1) var(--r2) at bottom, #269af2 79.5%, #0000 80%),
+    radial-gradient(var(--r1) var(--r2) at top, #0000 79.5%, #269af2 80%), #ccc;
+  background-size: 50.5% 220%;
+  background-position: -100% 0%, 0% 0%, 100% 0%;
+  background-repeat: no-repeat;
+  animation: l9 2s infinite linear;
+}
+@keyframes l9 {
+  33% {
+    background-position: 0% 33%, 100% 33%, 200% 33%;
+  }
+  66% {
+    background-position: -100% 66%, 0% 66%, 100% 66%;
+  }
+  100% {
+    background-position: 0% 100%, 100% 100%, 200% 100%;
+  }
 }
