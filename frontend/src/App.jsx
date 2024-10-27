@@ -5,8 +5,9 @@ import Brightness4Icon from "@mui/icons-material/Brightness4";
 import Brightness7Icon from "@mui/icons-material/Brightness7";
 import Navbar from "./components/Navbar";
 import Links from "./routes/Links";
+import React from 'react';
 import { LoadScript } from "@react-google-maps/api";
-import { LocationThemeProvider, LocationThemeContext } from "./LocationThemeContext";
+import { LocationThemeProvider, LocationThemeContext } from "./context";
 
 import "./App.css";
 

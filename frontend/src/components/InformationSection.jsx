@@ -5,7 +5,7 @@ import SendIcon from '@mui/icons-material/Send';
 import Maps from '../pages/Maps';
 import { MedicalInformationSharp, Search } from "@mui/icons-material";
 import { motion } from "framer-motion";
-import { LocationThemeContext } from '../LocationThemeContext'; // Import the context
+import { LocationThemeContext } from '../context'; // Import the context
 import NeedButton from "./NeedButton";
 import { useLocation } from 'react-router-dom';
 
