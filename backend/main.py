@@ -104,7 +104,8 @@ async def send_notes(notes: Notes):
 
         # Pass response_message as the query for generating an answer
         query = QueryRequest(query=response_message)
-        return answer(query)
+        answer_text = answer(query)
+        return answer_text
 
     except Exception as e:
         raise HTTPException(status_code=500, detail="An error occurred while processing the notes.") from e
