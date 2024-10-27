@@ -4,6 +4,7 @@ import Navbar from './components/Navbar';
 import Links from './routes/Links';
 import LocationTracker from './components/LocationTracker';
 import "./App.css"
+import React, { useState, useEffect } from 'react';
 
 
 const theme = createTheme({
@@ -25,14 +26,35 @@ const theme = createTheme({
 
 
 function App() {
+  const [location, setLocation] = useState(null);
 
+  useEffect(() => {
+    if (navigator.geolocation) {
+      navigator.geolocation.getCurrentPosition(
+        (position) => {
+          setLocation({
+            lat: position.coords.latitude || "N/A",
+            lng: position.coords.longitude || "N/A",
+          });
+        },
+        (error) => {
+          console.error("Error accessing location:", error);
+          setLocation(null); // Set to null if there's an error
+        }
+      );
+    } else {
+      console.error("Geolocation is not supported by this browser.");
+      setLocation(null);
+    }
+  }, []);
+
+  
   return (
     <>
      <ThemeProvider theme={theme}>
         <CssBaseline />
         <Navbar />
-        <Links />
-        <LocationTracker />
+        <Links location={location} />
       </ThemeProvider>
     </>
   )
