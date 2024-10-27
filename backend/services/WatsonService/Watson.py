@@ -20,7 +20,7 @@ class Watson:
             )
 
             embed_params = {
-                EmbedParams.TRUNCATE_INPUT_TOKENS: 512,  # Adjust as needed
+                EmbedParams.TRUNCATE_INPUT_TOKENS: 512,
                 EmbedParams.RETURN_OPTIONS: {"input_text": True},
             }
 
