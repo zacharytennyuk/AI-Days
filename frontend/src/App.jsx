@@ -5,6 +5,7 @@ import Brightness4Icon from "@mui/icons-material/Brightness4";
 import Brightness7Icon from "@mui/icons-material/Brightness7";
 import Navbar from "./components/Navbar";
 import Links from "./routes/Links";
+import { LoadScript } from "@react-google-maps/api";
 import { LocationThemeProvider, LocationThemeContext } from "./LocationThemeContext";
 
 import "./App.css";
@@ -12,7 +13,7 @@ import "./App.css";
 function App() {
   const [mode, setMode] = useState("light");
   const [location, setLocation] = useState({ lat: 0, lng: 0 }); // Initialize with default coordinates
-
+  
   // Retrieve saved theme from local storage on load
   useEffect(() => {
     const savedTheme = localStorage.getItem("theme") || "light";
@@ -63,22 +64,23 @@ function App() {
   const theme = mode === "light" ? lightTheme : darkTheme;
 
   return (
-   
-    <ThemeProvider theme={theme}>
-      <CssBaseline />
-     
-      <Navbar />
-      <IconButton
-        onClick={handleToggleTheme}
-        color="inherit"
-        sx={{ position: "absolute", top: 11, right: 11 }}
-      >
-        {mode === "light" ? <Brightness7Icon /> : <Brightness4Icon />}
-      </IconButton>
-     
-      {/* Pass the location to Links */}
-      <Links location={location} />
-    </ThemeProvider>
+    <LoadScript googleMapsApiKey={import.meta.env.VITE_GOOGLE_MAPS_API_KEY}>
+      <ThemeProvider theme={theme}>
+        <CssBaseline />
+      
+        <Navbar />
+        <IconButton
+          onClick={handleToggleTheme}
+          color="inherit"
+          sx={{ position: "absolute", top: 11, right: 11 }}
+        >
+          {mode === "light" ? <Brightness7Icon /> : <Brightness4Icon />}
+        </IconButton>
+      
+        {/* Pass the location to Links */}
+        <Links location={location} />
+      </ThemeProvider>
+    </LoadScript>
   );
 }
 
