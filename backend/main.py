@@ -34,7 +34,8 @@ database_instance = Database()
 def insert_data(texts: list[str] = Body(...)):
     try:
         embeddings = watson_instance.generate_embedding(texts)
-        if embeddings is None:
+        response = database_instance.insert(embeddings)
+        if response is None:
             raise Exception("Failed to generate embeddings")
         database_instance.insert(embeddings, texts)
         return {"status": "Data inserted successfully"}
