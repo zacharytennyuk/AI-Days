@@ -96,13 +96,13 @@ async def send_notes(notes: Notes):
         # Initialize response message
         response_message = f"{notes.information} {notes.disaster}"
 
-        if not notes.foodWater:
+        if notes.foodWater:
             response_message += " I urgently need nearby sources of food and water."
         if notes.injury:
             response_message += " I urgently need help; I am injured."
-        if not notes.shelter:
+        if notes.shelter:
             response_message += " I urgently need help; I am in a dangerous area and need to relocate for shelter."
-        print("Hiiii" + response_message)
+
         # Pass response_message as the query for generating an answer
         query = QueryRequest(query=response_message)
         answer_text = answer(query)

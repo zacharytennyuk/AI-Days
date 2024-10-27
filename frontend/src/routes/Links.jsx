@@ -10,7 +10,7 @@ const Links = (props) => {
   return (
     <Routes>
       <Route path="/" element={<Home />} />
-      <Route path="/maps" element={<InformationService location={props.location}/>} />
+      <Route path="/start" element={<InformationService location={props.location}/>} />
       <Route path="/needs" element={<Needs />} />
       <Route path="/about" element={<About />} />
     </Routes>
