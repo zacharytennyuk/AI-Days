@@ -56,7 +56,10 @@ def generate_embeddings_for_chunks(chunks, batch_size=100):
         for i, embedding in enumerate(embeddings):
             embedding_data = {
                 "embedding": embedding,
-                "metadata": batch_chunks[i]["metadata"],
+                "metadata": {
+                    **batch_chunks[i]["metadata"],
+                    "text": batch_chunks[i]["text"],
+                },
             }
             embeddings_data.append(embedding_data)
 

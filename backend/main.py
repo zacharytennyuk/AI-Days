@@ -1,10 +1,10 @@
 from fastapi import FastAPI, HTTPException, Body
 from services.WatsonService.Watson import Watson
-from services.database.Database import Database
 from dtos.Notes import Notes
+from services.Database.Database import Database
+from services.WatsonService.GraniteModel import GraniteModel
 from dtos.QueryRequest import QueryRequest
 import logging
-
 import uvicorn
 
 app = FastAPI()
@@ -13,17 +13,6 @@ database_instance = Database()
 
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
-
-
-@app.post("/send_notes")
-def send_notes(notes: Notes = Body(...)):
-    try:
-        texts = watson_instance.get_response(notes)
-        if texts is None:
-            raise Exception("Failed getting notes")
-        return {"status": "Data inserted successfully", texts: texts}
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
 
 
 @app.post("/embed")
@@ -69,6 +58,52 @@ def retrieve_relevant_chunks(query_text, top_k=5):
         relevant_chunks.append(chunk_data)
 
     return relevant_chunks
+
+
+@app.post("/answer")
+def answer(request: QueryRequest):
+    query = request.query
+    if not query:
+        raise HTTPException(status_code=400, detail="No query provided.")
+
+    relevant_chunks = retrieve_relevant_chunks(query)
+    if not relevant_chunks:
+        raise HTTPException(status_code=404, detail="No relevant information found.")
+
+    answer_text = generate_answer(query, relevant_chunks)
+    if not answer_text:
+        raise HTTPException(status_code=500, detail="Failed to generate an answer.")
+
+    return {"answer": answer_text}
+
+
+def generate_answer(query_text, relevant_chunks):
+    granite_instance = GraniteModel()
+
+    max_chunks = 3
+    context_chunks = relevant_chunks[:max_chunks]
+
+    context = ""
+    for idx, chunk in enumerate(context_chunks, start=1):
+        context += f"Source {idx}:\n{chunk['metadata']['text']}\n\n"
+
+    prompt = f"""
+You are an expert assistant providing information on disaster preparedness.
+
+Please provide a concise and accurate answer to the following question using the information from the provided sources.
+
+{context}
+Question: {query_text}
+Answer:
+"""
+
+    answer = granite_instance.generate_text(prompt=prompt)
+
+    if answer:
+        return answer.strip()
+    else:
+        logger.error("Failed to generate an answer using the Granite model.")
+        return "I'm sorry, but I couldn't generate an answer to your question."
 
 
 if __name__ == "__main__":
