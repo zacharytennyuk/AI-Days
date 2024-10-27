@@ -57,8 +57,7 @@ const Maps = ({ location }) => {
         display: 'flex',
         flexDirection: 'column',
         justifyContent: 'space-between',
-        padding: 2,
-        opacity: visible ? 1 : 0, // Control opacity for fade-in
+        padding: 4,
         transition: 'opacity 1.5s ease', // Opacity transition effect
       }}
     >
