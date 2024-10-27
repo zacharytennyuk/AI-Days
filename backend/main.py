@@ -24,7 +24,8 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-@app.post("/embed")
+
+@app.post("/api/embed")
 def generate_embeddings(texts: list[str] = Body(...)):
     if not texts:
         raise HTTPException(status_code=400, detail="No texts provided for embedding.")
@@ -34,7 +35,7 @@ def generate_embeddings(texts: list[str] = Body(...)):
     return {"embeddings": embeddings}
 
 
-@app.post("/retrieve")
+@app.post("/api/retrieve")
 def retrieve(request: QueryRequest):
     query = request.query
     if not query:
@@ -69,7 +70,7 @@ def retrieve_relevant_chunks(query_text, top_k=5):
     return relevant_chunks
 
 
-@app.post("/answer")
+@app.post("/api/answer")
 def answer(request: QueryRequest):
     query = request.query
     if not query:
@@ -84,7 +85,9 @@ def answer(request: QueryRequest):
         raise HTTPException(status_code=500, detail="Failed to generate an answer.")
 
     return {"answer": answer_text}
-@app.post("/send_notes")
+
+
+@app.post("/api/send_notes")
 async def send_notes(notes: Notes):
     try:
         # Log the incoming data
@@ -104,7 +107,10 @@ async def send_notes(notes: Notes):
         return {"message": response_message}
 
     except Exception as e:
-        raise HTTPException(status_code=500, detail="An error occurred while processing the notes.") from e
+        raise HTTPException(
+            status_code=500, detail="An error occurred while processing the notes."
+        ) from e
+
 
 def generate_answer(query_text, relevant_chunks):
     ans = AnswerGeneration()
