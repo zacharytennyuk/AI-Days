@@ -43,12 +43,12 @@ def extract_text():
 
             reader = PdfReader(pdf_path)
             text = ""
-            for page_num, page in enumerate(reader.pages):
+            for page_num, page in enumerate(reader.pages, start=1):
                 page_text = page.extract_text()
-                if page_text:
+                if page_text and page_text.strip():
                     text += page_text + "\n"
                 else:
-                    print(f"Warning: Page {page_num + 1} in {filename} is empty.")
+                    print(f"Warning: Page {page_num} in {filename} is empty. Skipping.")
 
             text = re.sub(r"\r\n|\r", "\n", text)
             text = re.sub(r"\n{2,}", "\n\n", text)
