@@ -4,6 +4,7 @@ import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import Button from '@mui/material/Button';
 import Box from '@mui/material/Box';
+import { Link } from 'react-router-dom';
 
 function Navbar() {
   return (
@@ -14,9 +15,15 @@ function Navbar() {
         </Typography>
 
         <Box sx={{ display: 'flex', gap: 2 }}>
-          <Button color="inherit">View</Button>
-          <Button color="inherit">Resources</Button>
-          <Button color="inherit">About</Button>
+          <Link to="/" style={{ textDecoration: 'none' }}>
+            <Button sx={{ color: 'black' }}>Home</Button>
+          </Link>
+          <Link to="/maps" style={{ textDecoration: 'none' }}>
+            <Button sx={{ color: 'black' }}>Maps</Button>
+          </Link>
+          <Link to="/about" style={{ textDecoration: 'none' }}>
+            <Button sx={{ color: 'black' }}>About</Button>
+          </Link>
         </Box>
       </Toolbar>
     </AppBar>
