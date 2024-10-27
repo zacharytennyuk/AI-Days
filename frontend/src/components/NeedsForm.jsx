@@ -43,6 +43,18 @@ const NeedsForm = () => {
     if (!disaster) {
       navigate("/");
     }
+
+  const handleNavigation = async () => {
+    setLoading(true);
+
+    // Call your function here and wait for it to resolve
+    let answers = await handleSubmit();
+
+    setLoading(false);
+
+    // Navigate with state after the function resolves
+    navigate('/start', { state: { answers : answers } });
+  };
   }, [disaster, navigate]);
 
   const disasterImages = {
@@ -94,18 +106,20 @@ const NeedsForm = () => {
     });
   };
 
-  const handleSubmit = (event) => {
+  const handleSubmit = async (event) => {
 
     event.preventDefault();
 
-    postNotes();
+    let notes = await postNotes();
     console.log("Form Data:", formData);
+    return notes
   };
 
   return (
     <Box
       component="form"
-      onSubmit={handleSubmit}
+      onSubmit={handleNavigation}
+
       sx={{
         width: "100%",
         display: "flex",
