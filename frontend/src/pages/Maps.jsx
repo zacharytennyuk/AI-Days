@@ -1,24 +1,11 @@
-import { Typography } from '@mui/material';
-import {React, useState, useEffect} from 'react';
-import TextField from '@mui/material/TextField';
-import IconButton from '@mui/material/IconButton';
-import Box from '@mui/material/Box';
+import { Typography, TextField, IconButton, Box } from '@mui/material';
+import React from 'react';
 import SendIcon from '@mui/icons-material/Send';
 
-const Maps = () => {
+const Maps = (props) => {
   const handleSubmit = () => {
     console.log("Form submitted!");
   };
-
-  const getLocation = () => {
-    return {location : "Florida", long : 10.543454, lat : 21.1234, alt: 12.3413}
-  }
-
-  const [location, setLocation] = useState([])
-
-  useEffect(() => {
-    setLocation(getLocation())
-  }, [])
 
   return (
     <Box
@@ -30,29 +17,21 @@ const Maps = () => {
         padding: 2,
       }}
     >
-      <Box>
-      <Typography sx={{marginTop: "40px"}} variant="h4" align="center" gutterBottom>
-      {location["location"]}
-      </Typography>
-
+      {/* Location Details */}
       <Box
         sx={{
           display: 'flex',
+          flexDirection: 'row',
           justifyContent: 'center',
-          gap: 8,
-          mb: 2,
-          alignItems: 'center',
-          marginTop: '40px'
+          gap: 4,
+          marginTop: 2,
         }}
       >
-        <Typography variant="h6">Latitude: {location["lat"]}</Typography>
-        <Typography variant="h6">Longitude: {location["long"]}</Typography>
-        <Typography variant="h6">Altitude: {location["alt"]}</Typography>
+        <Typography variant="h6">Latitude: {props.location?.lat ?? "N/A"}</Typography>
+        <Typography variant="h6">Longitude: {props.location?.lng ?? "N/A"}</Typography>
       </Box>
-      </Box>
-      <Box>
 
-      </Box>
+      {/* Form Section */}
       <Box
         component="form"
         sx={{
@@ -63,7 +42,7 @@ const Maps = () => {
           maxWidth: '100%',
           marginInline: 'auto',
           justifyContent: 'center',
-          mb: 2, // Adds margin at the bottom for spacing
+          mb: 2,
         }}
         onSubmit={(e) => {
           e.preventDefault();
