@@ -34,7 +34,7 @@ const NeedsForm = () => {
       information: additionalConcerns.join(" "),
     });
     try {
-      const response = await axios.post("http://localhost:8000/send_notes", {
+      const response = await axios.post("http://localhost:8000/api/send_notes", {
         ...formData,
         information: additionalConcerns.join(" "),
       });
