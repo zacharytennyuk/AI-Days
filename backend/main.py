@@ -1,13 +1,18 @@
 from fastapi import FastAPI, HTTPException, Body
 from services.WatsonService.Watson import Watson
-from services.Database.Database import Database
+from services.database.Database import Database
 from dtos.Notes import Notes
+import logging
 
 import uvicorn
 
 app = FastAPI()
 watson_instance = Watson()
 database_instance = Database()
+
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+
 
 @app.post("/send_notes")
 def send_notes(notes: Notes = Body(...)):
@@ -18,8 +23,8 @@ def send_notes(notes: Notes = Body(...)):
         return {"status": "Data inserted successfully", texts: texts}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
-    
-    
+
+
 @app.post("/embed")
 def generate_embeddings(texts: list[str] = Body(...)):
     if not texts:
@@ -30,8 +35,38 @@ def generate_embeddings(texts: list[str] = Body(...)):
     return {"embeddings": embeddings}
 
 
-if __name__ == "__main__":
-    uvicorn.run("main:app", host="127.0.0.1", port=8000, reload=True)
+@app.post("/retrieve")
+def retrieve(query: str = Body(..., embed=True)):
+    if not query:
+        raise HTTPException(status_code=400, detail="No query provided.")
+
+    def retrieve_relevant_chunks(query_text, top_k=5):
+        query_embedding = watson_instance.generate_embedding([query_text])
+        if query_embedding is None or len(query_embedding) == 0:
+            logger.error("Failed to generate embedding for the query text.")
+            return []
+
+        matches = database_instance.query(
+            vector=query_embedding[0], top_k=top_k, namespace="disaster_preparedness"
+        )
+
+        relevant_chunks = []
+        for match in matches:
+            chunk_data = {
+                "id": match.get("id", ""),
+                "score": match.get("score", 0),
+                "metadata": match.get("metadata", {}),
+            }
+            relevant_chunks.append(chunk_data)
+
+        return relevant_chunks
+
+    relevant_chunks = retrieve_relevant_chunks(query)
+    if not relevant_chunks:
+        raise HTTPException(status_code=404, detail="No relevant chunks found.")
+
+    return {"relevant_chunks": relevant_chunks}
+
 
 if __name__ == "__main__":
     uvicorn.run("main:app", host="127.0.0.1", port=8000, reload=True)
