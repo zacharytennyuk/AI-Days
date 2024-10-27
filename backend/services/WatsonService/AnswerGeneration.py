@@ -41,7 +41,7 @@ class AnswerGeneration:
                 logger.info("LLM client initialized successfully.")
 
             except Exception as e:
-                logger.error(f"Failed to initialize LLM model client: {e}")
+                logger.error(f"Failed to initialize LLM client: {e}")
                 raise e
 
         return cls._instance
