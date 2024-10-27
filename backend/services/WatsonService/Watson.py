@@ -4,7 +4,7 @@ from ibm_watsonx_ai.foundation_models import Embeddings
 from ibm_watsonx_ai.metanames import EmbedTextParamsMetaNames as EmbedParams
 from config import settings
 
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
 
@@ -20,7 +20,7 @@ class Watson:
             )
 
             embed_params = {
-                EmbedParams.TRUNCATE_INPUT_TOKENS: 512,  # Adjust as needed
+                EmbedParams.TRUNCATE_INPUT_TOKENS: 512,
                 EmbedParams.RETURN_OPTIONS: {"input_text": True},
             }
 
@@ -36,9 +36,10 @@ class Watson:
                 logger.error(f"Failed to initialize Embeddings client: {e}")
                 raise e
         return cls._instance
-    
+
     def get_response(self, texts):
         return texts
+
     def generate_embedding(self, texts):
         try:
             response = self.embeddings_client.embed_documents(texts)
