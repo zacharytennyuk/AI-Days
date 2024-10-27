@@ -11,7 +11,7 @@ class Database:
 
             cls._instance.pc = Pinecone(api_key=settings.PINECONE_API_KEY)
 
-            index_name = "quickstart"
+            index_name = "preppal"
             existing_indexes = [index.name for index in cls._instance.pc.list_indexes()]
 
             if index_name not in existing_indexes:
