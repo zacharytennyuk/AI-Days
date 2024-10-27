@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import {
   Typography,
   TextField,
@@ -7,19 +7,43 @@ import {
   Box,
   Button,
 } from "@mui/material";
-import { useLocation } from "react-router-dom";
+import { useLocation, useNavigate } from "react-router-dom";
 import Earthquake from "./../assets/quake.png";
 import Flood from "./../assets/flood.png";
 import Hurricane from "./../assets/hurricane.png";
 import Tornado from "./../assets/tornado.png";
 import Wildfire from "./../assets/fire.png";
+import axios from 'axios'
 
 const NeedsForm = () => {
-  // Use useLocation to access the passed state
+
   const location = useLocation();
+  const navigate = useNavigate();
   const { disaster } = location.state || {};
 
-  // Mapping of disaster names to images
+
+  const postNotes = async () => {
+    try {
+      const response = await axios.post('https://localhost.com/send-notes', {
+        isFood: true,
+        isShelter: true,
+        isSafe: true,
+        notes: ["Family of 4", "In Evacuation Zone", "Wants to preserve storage", "Advice of where to go for evacuation"]
+      });
+  
+      console.log('Response data:', response.data);
+    } catch (error) {
+      console.error('Error posting data:', error);
+    }
+  };
+
+  useEffect(() => {
+    if (!disaster) {
+      navigate('/');
+    }
+  }, [disaster, navigate]);
+
+
   const disasterImages = {
     Earthquake: Earthquake,
     Flood: Flood,
@@ -28,13 +52,13 @@ const NeedsForm = () => {
     Wildfire: Wildfire,
   };
 
-  // Initialize state with the passed disaster
+
   const [formData, setFormData] = useState({
     information: "",
     foodWater: false,
     injury: false,
     shelter: false,
-    disaster: disaster || "Disaster", // Default to "Disaster" if undefined
+    disaster: disaster,
   });
 
   const handleInputChange = (event) => {
@@ -54,7 +78,7 @@ const NeedsForm = () => {
   const handleSubmit = (event) => {
     event.preventDefault();
     console.log("Form Data:", formData);
-    // You can send formData to your backend or perform other actions here
+
   };
 
   return (
