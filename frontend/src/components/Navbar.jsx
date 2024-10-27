@@ -10,9 +10,17 @@ function Navbar() {
   return (
     <AppBar position="static" color="background" sx={{ boxShadow: 'none', padding: '0 20px' }}>
       <Toolbar>
-        <Typography variant="h5" component="div" fontWeight="bold" color="primary" sx={{ flexGrow: 1 }}>
+    <Link to="/" color="primary" style={{ textDecoration: 'none', marginRight: "auto" }}>
+        <Typography
+          variant="h5"
+          component="div"
+          fontWeight="bold"
+          color="primary"
+          sx={{ flexGrow: 1 }}
+        >
           FirstWave
         </Typography>
+    </Link>
 
         <Box sx={{ display: 'flex', gap: 2 }}>
           <Link to="/" style={{ textDecoration: 'none' }}>
