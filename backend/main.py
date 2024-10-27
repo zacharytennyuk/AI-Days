@@ -1,6 +1,6 @@
 from fastapi import FastAPI, HTTPException, Body
 from services.WatsonService.Watson import Watson
-from services.Database.Database import Database
+from services.database.Database import Database
 from dtos.Notes import Notes
 from dtos.QueryRequest import QueryRequest
 import logging
