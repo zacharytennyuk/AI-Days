@@ -50,7 +50,7 @@ class AnswerGeneration:
         try:
             response = self.model_client.generate_text(prompt=prompt)
             logger.debug(f"LLM response: {response}")
-            return response
+            return response.strip()
 
         except Exception as e:
             logger.error(f"Error generating text with LLM: {e}")

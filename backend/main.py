@@ -1,3 +1,4 @@
+import os
 from fastapi import FastAPI, HTTPException, Body
 from services.WatsonService.Watson import Watson
 from services.Database.Database import Database
@@ -77,31 +78,37 @@ def answer(request: QueryRequest):
 
 
 def generate_answer(query_text, relevant_chunks):
-    ans_model = AnswerGeneration()
+    ans = AnswerGeneration()
 
     max_chunks = 3
     context_chunks = relevant_chunks[:max_chunks]
 
     context = ""
+    documents = []
     for idx, chunk in enumerate(context_chunks, start=1):
-        chunk_text = chunk["metadata"].get("text")
+        chunk_text = chunk["metadata"].get("text", "")
         if not chunk_text:
             logger.warning(
                 f"No 'text' found in metadata for chunk ID {chunk['id']}. Skipping."
             )
             continue
-        context += f"Source {idx}:\n{chunk_text}\n\n"
+
+        source_path = chunk["metadata"].get("source", "")
+        logger.info(f"Source Path: {source_path}")
+        document_name = os.path.basename(source_path).replace(".txt", "")
+        logger.info(f"Document Name: {document_name}")
+
+        if document_name not in documents:
+            documents.append(document_name)
+
+        context += f"Source {idx} ({document_name}):\n{chunk_text}\n\n"
 
     if not context.strip():
         logger.error("No valid context could be constructed from the retrieved chunks.")
-        return "I'm sorry, but I couldn't find relevant information to answer your question."
-
-    max_chunks = 3
-    context_chunks = relevant_chunks[:max_chunks]
-
-    context = ""
-    for idx, chunk in enumerate(context_chunks, start=1):
-        context += f"Source {idx}:\n{chunk['metadata']['text']}\n\n"
+        return {
+            "answer": "I'm sorry, but I couldn't find relevant information to answer your question.",
+            "documents": [],
+        }
 
     prompt = f"""
 You are an expert assistant providing information on disaster preparedness.
@@ -113,13 +120,16 @@ Question: {query_text}
 Answer:
 """
 
-    answer = ans_model.generate_text(prompt=prompt)
+    generated_text = ans.generate_text(prompt=prompt)
 
-    if answer:
-        return answer.strip()
+    if generated_text:
+        return {"answer": generated_text.strip(), "documents": documents}
     else:
-        logger.error("Failed to generate an answer using the LLM.")
-        return "boom skibidi good luck"
+        logger.error("Failed to generate an answer using the Granite model.")
+        return {
+            "answer": "Good luck, buddy!",
+            "documents": documents,
+        }
 
 
 if __name__ == "__main__":
