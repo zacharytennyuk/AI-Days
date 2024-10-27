@@ -17,6 +17,7 @@ const InformationSection = () => {
     }
 
     const [content, setContent] = useState([]);
+    const [searchResults, setSearchResults] = useState([]);
     const [notes, setNotes] = useState({
         isFood: true,
         isInjured: false,
@@ -28,30 +29,51 @@ const InformationSection = () => {
         e.preventDefault();
         const text = e.target.elements.textInput.value;
         
-        // Append the user's message to the content
-        updateContent("user", text);
-        e.target.elements.textInput.value = ""; // Clear the input field
-
-        // Prepare data matching the Notes structure, now including location if needed
-        const notesData = {
-            isFood: notes.isFood,
-            isInjured: notes.isInjured,
-            isSheltered: notes.isShelter,
-            notes: content.map(item => (typeof item === 'string' ? item : item.paragraph)),
-            location: location, // Include location in notesData
-        };
-
-        try {
-            // Send POST request with Axios
-            const response = await axios.post("http://localhost:8000/send_notes", notesData);
-            console.log("Data sent successfully:", response.data);
-
-            // Append the bot's response to the content
-            if (response.data) {
-                updateContent("bot", response.data.message || "Bot response");
+        if (text.startsWith("!map")) {
+            const query = text.slice(4).trim(); // Extract search query after "!map"
+            if (!query) {
+                console.warn("No query provided after !map.");
+                return;
             }
-        } catch (error) {
-            console.error("Error sending data:", error);
+            console.log("map query");
+            try {
+                const response = await axios.post("http://localhost:8000/api/search-place", {
+                    query: query,
+                    location: [location.lat, location.lng],
+                    radius: 5000,
+                });
+
+                setSearchResults(response.data.places || []); // Set the search results
+                updateContent("user", `Searching for places: ${query}`);
+                updateContent("bot", "Mapping locations!");
+
+            } catch (error) {
+                console.error("Error fetching search results:", error);
+                updateContent("bot", "Failed to retrieve locations.");
+            }
+        } else {
+            // Standard message handling if not a !map command
+            updateContent("user", text);
+            e.target.elements.textInput.value = ""; // Clear the input field
+
+            const notesData = {
+                isFood: notes.isFood,
+                isInjured: notes.isInjured,
+                isSheltered: notes.isShelter,
+                notes: content.map(item => (typeof item === 'string' ? item : item.paragraph)),
+                location: location,
+            };
+
+            try {
+                const response = await axios.post("http://localhost:8000/send_notes", notesData);
+                console.log("Data sent successfully:", response.data);
+
+                if (response.data) {
+                    updateContent("bot", response.data.message || "Bot response");
+                }
+            } catch (error) {
+                console.error("Error sending data:", error);
+            }
         }
     };
 
@@ -117,7 +139,7 @@ const InformationSection = () => {
         <Box sx={{ display: 'flex', height: 'calc(100vh - 64px)', flexDirection: 'row-reverse' }}>
             {/* Map section, taking 80% of the viewport width */}
             <Box sx={{ flex: 0.8 }}>
-                <Maps location={location} />
+                <Maps location={location} searchResults={searchResults}/>
             </Box>
 
             {/* Content section */}

@@ -4,12 +4,10 @@ import SendIcon from '@mui/icons-material/Send';
 import GoogleMapComponent from '../components/GoogleMapComponent';
 import axios from 'axios';
 
-const Maps = ({ location }) => {
-  const [searchResults, setSearchResults] = useState([]);
-  const [query, setQuery] = useState("");
+const Maps = ({ location, searchResults, }) => {
+  
   const [animatedLat, setAnimatedLat] = useState(0);
   const [animatedLng, setAnimatedLng] = useState(0);
-  const [visible, setVisible] = useState(false); // Track visibility for fade-in effect
 
   // Animate latitude and longitude from 0, 0 to actual location
   useEffect(() => {
@@ -22,33 +20,17 @@ const Maps = ({ location }) => {
         const elapsed = currentTime - startTime;
         const progress = Math.min(elapsed / duration, 1);
 
-        setAnimatedLat(0 + (location.lat - 0) * progress);
-        setAnimatedLng(0 + (location.lng - 0) * progress);
+        setAnimatedLat(location.lat * progress);
+        setAnimatedLng(location.lng * progress);
 
         if (progress < 1) {
           requestAnimationFrame(animate);
-        } else {
-          setVisible(true); // Set visible after animation completes
         }
       };
 
       requestAnimationFrame(animate);
     }
   }, [location]);
-
-  const handleSubmit = async (e) => {
-    e.preventDefault();
-    try {
-      const response = await axios.post("http://localhost:8000/api/search-place", {
-        query: query,
-        location: [location.lat, location.lng],
-        radius: 5000,
-      });
-      setSearchResults(response.data.places || []);
-    } catch (error) {
-      console.error("Error fetching search results:", error);
-    }
-  };
 
   return (
     <Box
@@ -61,37 +43,24 @@ const Maps = ({ location }) => {
         transition: 'opacity 1.5s ease', // Opacity transition effect
       }}
     >
+      {/* Display animated Latitude and Longitude */}
+      <Box sx={{ display: 'flex', justifyContent: 'center', gap: 4, marginTop: 2 }}>
+        <Typography variant="h6">Your Location</Typography>
+      </Box>
       <Box sx={{ display: 'flex', flexDirection: 'row', justifyContent: 'center', gap: 4, marginTop: 2 }}>
         <Typography variant="h6">Latitude: {animatedLat.toFixed(4)}</Typography>
         <Typography variant="h6">Longitude: {animatedLng.toFixed(4)}</Typography>
       </Box>
 
-      {/* Google Map Component */}
+      {/* Google Map Component with search results as markers */}
       {location && (
         <Box sx={{ marginTop: 4 }}>
           <GoogleMapComponent 
-            center={{ lat: location.lat, lng: location.lng }}
+            center={location}
             locations={searchResults} // Display search results as markers
           />
         </Box>
       )}
-
-      {/* Search Form */}
-      <Box
-        component="form"
-        sx={{
-          display: 'flex',
-          alignItems: 'center',
-          gap: 2,
-          width: '100%',
-          maxWidth: '100%',
-          marginInline: 'auto',
-          justifyContent: 'center',
-          mb: 2,
-        }}
-        onSubmit={handleSubmit}
-      >
-      </Box>
     </Box>
   );
 };
