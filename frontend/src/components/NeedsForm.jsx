@@ -19,6 +19,9 @@ import Wildfire from "./../assets/wildfire_big.jpg";
 import Close from "./../assets/close.png";
 import axios from "axios";
 
+// Import Framer Motion
+import { motion } from "framer-motion";
+
 const NeedsForm = () => {
   const location = useLocation();
   const navigate = useNavigate();
@@ -29,62 +32,60 @@ const NeedsForm = () => {
   const exampleConcerns = ["May need more meds", "Need way to stay warm"];
 
   const postNotes = async () => {
-    console.log( {
+    console.log({
       ...formData,
       information: additionalConcerns.join(" "),
     });
     try {
-      const response = await axios.post("http://localhost:8000/api/send_notes", {
-        ...formData,
-        information: additionalConcerns.join(" "),
-      });
+      const response = await axios.post(
+        "http://localhost:8000/api/send_notes",
+        {
+          ...formData,
+          information: additionalConcerns.join(" "),
+        }
+      );
 
       console.log("Response data:", response.data);
-      return response.data
+      return response.data;
     } catch (error) {
       console.error("Error posting data:", error);
     }
   };
 
-      const handleNavigation = async (event) => {
-        event.preventDefault(); // Prevent the default form submission
-        setLoading(true); // Set loading to true before starting the async operation
-        let answer = null; // Initialize answer as null
+  const handleNavigation = async (event) => {
+    event.preventDefault(); // Prevent the default form submission
+    setLoading(true); // Set loading to true before starting the async operation
+    let answer = null; // Initialize answer as null
 
-        try {
-            // Await the result of handleSubmit
-            answer = await handleSubmit();
-            console.log(answer);
-        } catch (error) {
-            console.error("Error handling submission:", error);
-            // You can set an error state or show a notification here if needed
-        } finally {
-            setLoading(false); // Set loading to false after the async operation completes
+    try {
+      // Await the result of handleSubmit
+      answer = await handleSubmit();
+      console.log(answer);
+    } catch (error) {
+      console.error("Error handling submission:", error);
+      // You can set an error state or show a notification here if needed
+    } finally {
+      setLoading(false); // Set loading to false after the async operation completes
 
-            // Navigate only if answer is defined (if needed)
-            navigate('/maps', { 
-                state: { 
-                    answer: answer.answer || null, 
-                    document: answer.documents || null,
-                    foodWater: formData.foodWater || null,
-                    disaster: formData.disaster || null,
-                    injury: formData.injury || null,
-                    shelter: formData.shelter || null
-                } 
-            });
-        }
-    };
-
-
+      // Navigate only if answer is defined (if needed)
+      navigate("/maps", {
+        state: {
+          answer: answer.answer || null,
+          document: answer.documents || null,
+          foodWater: formData.foodWater || null,
+          disaster: formData.disaster || null,
+          injury: formData.injury || null,
+          shelter: formData.shelter || null,
+        },
+      });
+    }
+  };
 
   useEffect(() => {
     if (!disaster) {
       navigate("/");
     }
-})
-
-
-
+  });
 
   const disasterImages = {
     Earthquake: Earthquake,
@@ -138,11 +139,9 @@ const NeedsForm = () => {
   };
 
   const handleSubmit = async (event) => {
-
     let notes = await postNotes();
     console.log("Form Data:", formData);
-    return notes
-
+    return notes;
   };
 
   return (
@@ -163,10 +162,15 @@ const NeedsForm = () => {
           <div className="loader" style={{ marginBottom: "8rem" }}></div>
         </Box>
       )}
-      <Box
-        component="form"
+      {/* Wrap the form with motion.form */}
+      <Box>
+
+    
+      <motion.form
         onSubmit={handleNavigation}
-        sx={{
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1, transition: { duration: 1 } }}
+        style={{
           width: "100%",
           display: "flex",
           flexDirection: "column",
@@ -216,10 +220,12 @@ const NeedsForm = () => {
               justifyContent: "space-between",
             }}
           >
-            <Box
-              component="img"
+            {/* Wrap the image with motion.img */}
+            <motion.img
               src={disasterImages[formData.disaster]}
-              sx={{
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1, transition: { duration: 1, delay: 1 } }}
+              style={{
                 width: "75%",
                 borderRadius: "5%",
                 marginBottom: "16px",
@@ -388,6 +394,7 @@ const NeedsForm = () => {
             </Box>
           </Box>
         </Box>
+      </motion.form>
       </Box>
     </>
   );

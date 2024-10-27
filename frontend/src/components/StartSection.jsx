@@ -4,6 +4,7 @@ import Box from "@mui/material/Box";
 import { Typography } from "@mui/material";
 import DownImage from "./../assets/down.png"; // Import the image
 import { motion } from "framer-motion";
+import Globe from "../components/Globe";
 
 const StartSection = () => {
   const handleScroll = () => {
@@ -31,12 +32,14 @@ const StartSection = () => {
           transition={{ duration: 2 }}
           viewport={{ once: false }}
           style={{
+            height: "75%",
             display: "flex",
             flexDirection: "column",
             alignItems: "center",
           }}
         >
-          <Typography variant="h3" sx={{ marginBlock: "240px" }}>
+          <Globe/>
+          <Typography variant="h3" sx={{ }}>
             Tailored Survival Kit Solutions
           </Typography>
           <motion.div
