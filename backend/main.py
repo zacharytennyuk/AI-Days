@@ -14,6 +14,13 @@ database_instance = Database()
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:5173"],  # Adjust as needed for allowed origins
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 @app.post("/embed")
 def generate_embeddings(texts: list[str] = Body(...)):
