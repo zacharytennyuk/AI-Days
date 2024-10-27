@@ -28,6 +28,9 @@ WORKDIR /app/backend
 COPY backend/requirements.txt ./
 RUN pip install --upgrade pip && pip install -r requirements.txt
 
+# Install uvicorn explicitly if it’s not in requirements.txt
+RUN pip install uvicorn
+
 # Copy the rest of the backend files
 COPY backend/ ./
 
