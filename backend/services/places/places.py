@@ -1,4 +1,8 @@
 # services/places/places.py
+import os
+from fastapi import FastAPI, HTTPException
+import requests
+from typing import Optional
 import googlemaps
 from config import settings
 
