@@ -32,7 +32,6 @@ function App() {
         <CssBaseline />
         <Navbar />
         <Links />
-        <LocationTracker />
       </ThemeProvider>
     </>
   )
