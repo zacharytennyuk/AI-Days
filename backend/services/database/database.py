@@ -1,5 +1,10 @@
 from pinecone import Pinecone
 from config import settings
+import logging
+
+
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 
 class Database:
@@ -11,7 +16,7 @@ class Database:
 
             cls._instance.pc = Pinecone(api_key=settings.PINECONE_API_KEY)
 
-            index_name = "quickstart"
+            index_name = "preppal"
             existing_indexes = [index.name for index in cls._instance.pc.list_indexes()]
 
             if index_name not in existing_indexes:
@@ -25,19 +30,13 @@ class Database:
     def __init__(self):
         self.idCount = 0
 
-    def insert(self, embeddings, texts):
-        data = [
-            {
-                "id": str(i + self.idCount),
-                "values": embedding,
-                "metadata": {"text": text},
-            }
-            for i, (embedding, text) in enumerate(zip(embeddings, texts))
-        ]
-        self.idCount += len(embeddings)
-        print(f"Total vectors inserted: {self.idCount}")
-
-        # Upsert data into the existing Pinecone index
-        self.index.upsert(vectors=data)
-
-        return True
+    def insert(self, data):
+        try:
+            response = self.index.upsert(
+                vectors=data, namespace="disaster_preparedness"
+            )
+            logger.info(f"Pinecone upsert response: {response}")
+            return True
+        except Exception as e:
+            logger.error(f"Error inserting embeddings into Pinecone: {e}")
+            return False
