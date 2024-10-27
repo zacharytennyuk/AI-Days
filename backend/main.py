@@ -1,5 +1,5 @@
 from services.WatsonService.Watson import Watson
-from services.database.database import Database
+from services.Database.Database import Database
 from fastapi import FastAPI, HTTPException, Body
 import uvicorn
 
@@ -23,11 +23,10 @@ def insert_data(texts: list[str] = Body(...)):
 @app.post("/send-notes")
 def send_notes(texts: list[str] = Body(...)):
     try:
-        embeddings = watson_instance.sendNotes(texts)
-        if embeddings is None:
+        notes = watson_instance.sendNotes(texts)
+        if notes is None:
             raise Exception("Failed to Retrieve Notes")
-        database_instance.insert(embeddings, texts)
-        return {"status": "Data inserted successfully"}
+        return {"status": "Data inserted successfully", "notes": notes}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 

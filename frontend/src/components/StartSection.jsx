@@ -25,10 +25,10 @@ const StartSection = () => {
         }}
       >
         <motion.div
-          initial={{ opacity: 0, y: -20 }}
+          initial={{ opacity: 0, y: -100 }}
           whileInView={{ opacity: 1, y: 0 }}
           exit={{ opacity: 0, y: 20 }}
-          transition={{ duration: 1 }}
+          transition={{ duration: 2 }}
           viewport={{ once: false }}
           style={{
             display: "flex",
@@ -39,22 +39,34 @@ const StartSection = () => {
           <Typography variant="h3" sx={{ marginBlock: "240px" }}>
             Tailored Survival Kit Solutions
           </Typography>
-          <Button
-            sx={{
-              borderRadius: "50%",
-              minWidth: "48px !important",
-              minHeight: "48px !important",
-              padding: "0 !important",
-            }}
-            variant="contained"
-            onClick={handleScroll}
-          >
-            <img
-              src={DownImage}
-              alt="button icon"
-              style={{ width: 12, height: 12 }}
-            />
-          </Button>
+          <motion.div
+      animate={{
+        y: [0, -5, 0], // Moves up and then back down
+      }}
+      transition={{
+        duration: 1,
+        ease: "easeInOut",
+        repeat: Infinity, // Repeats the animation indefinitely
+      }}
+    >
+      <Button
+        sx={{
+          borderRadius: "50%",
+          minWidth: "48px !important",
+          minHeight: "48px !important",
+          padding: "0 !important",
+          marginTop: "48px"
+        }}
+        variant="contained"
+        onClick={handleScroll}
+      >
+        <img
+          src={DownImage}
+          alt="button icon"
+          style={{ width: 12, height: 12 }}
+        />
+      </Button>
+    </motion.div>
         </motion.div>
       </Box>
     </>
