@@ -7,6 +7,35 @@ import axios from 'axios';
 const Maps = ({ location }) => {
   const [searchResults, setSearchResults] = useState([]);
   const [query, setQuery] = useState("");
+  
+  // Add animated latitude and longitude states
+  const [animatedLat, setAnimatedLat] = useState(0);
+  const [animatedLng, setAnimatedLng] = useState(0);
+
+  useEffect(() => {
+    if (location) {
+      let startTime;
+      const duration = 1000; // 2 seconds for animation duration
+
+      const animate = (currentTime) => {
+        if (!startTime) startTime = currentTime;
+        const elapsed = currentTime - startTime;
+
+        // Calculate progress ratio (between 0 and 1)
+        const progress = Math.min(elapsed / duration, 1);
+
+        // Interpolate latitude and longitude values
+        setAnimatedLat(0 + (location.lat - 0) * progress);
+        setAnimatedLng(0 + (location.lng - 0) * progress);
+
+        if (progress < 1) {
+          requestAnimationFrame(animate);
+        }
+      };
+
+      requestAnimationFrame(animate);
+    }
+  }, [location]);
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -32,10 +61,10 @@ const Maps = ({ location }) => {
         padding: 2,
       }}
     >
-      {/* Location Details */}
+      {/* Animated Location Details */}
       <Box sx={{ display: 'flex', flexDirection: 'row', justifyContent: 'center', gap: 4, marginTop: 2 }}>
-        <Typography variant="h6">Latitude: {location?.lat ?? "N/A"}</Typography>
-        <Typography variant="h6">Longitude: {location?.lng ?? "N/A"}</Typography>
+        <Typography variant="h6">Latitude: {animatedLat.toFixed(4)}</Typography>
+        <Typography variant="h6">Longitude: {animatedLng.toFixed(4)}</Typography>
       </Box>
 
       {/* Google Map Component */}
