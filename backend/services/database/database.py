@@ -1,5 +1,9 @@
 from pinecone import Pinecone
 from config import settings
+import logging
+
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 
 class Database:
@@ -25,25 +29,29 @@ class Database:
     def __init__(self):
         self.idCount = 0
 
-    def insert(self, embeddings, texts):
+    def insert(self, data):
         try:
-            data = [
-                {
-                    "id": str(i + self.idCount),
-                    "values": embedding,
-                    "metadata": {"text": text},
-                }
-                for i, (embedding, text) in enumerate(zip(embeddings, texts))
-            ]
-            self.idCount += len(embeddings)
-            print(f"Total vectors inserted: {self.idCount}")
-
-            # Upsert data into the existing Pinecone index
-            self.index.upsert(vectors=data)
-
+            response = self.index.upsert(
+                vectors=data, namespace="disaster_preparedness"
+            )
+            logger.info(f"Pinecone upsert response: {response}")
             return True
-
         except Exception as e:
-            print(f"An error occurred while inserting vectors: {e}")
-            return None
+            logger.error(f"Error inserting embeddings into Pinecone: {e}")
+            return False
 
+    def query(self, vector, top_k=5, namespace="disaster_preparedness"):
+        try:
+            response = self.index.query(
+                vector=vector,
+                top_k=top_k,
+                include_values=False,
+                include_metadata=True,
+                namespace=namespace,
+            )
+            logger.info(f"Pinecone query response: {response}")
+            matches = response.get("matches", [])
+            return matches
+        except Exception as e:
+            logger.error(f"Error querying Pinecone: {e}")
+            return []
