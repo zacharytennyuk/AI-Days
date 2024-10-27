@@ -2,6 +2,7 @@ from fastapi import FastAPI, HTTPException, Body
 from fastapi.middleware.cors import CORSMiddleware
 from services.WatsonService.Watson import Watson
 from services.Database.Database import Database
+from dtos.Notes import Notes
 from services.WatsonService.AnswerGeneration import AnswerGeneration
 from dtos.QueryRequest import QueryRequest
 import logging
@@ -82,7 +83,27 @@ def answer(request: QueryRequest):
         raise HTTPException(status_code=500, detail="Failed to generate an answer.")
 
     return {"answer": answer_text}
+@app.post("/send_notes")
+async def send_notes(notes: Notes):
+    try:
+        # Log the incoming data
+        print("Received notes:", notes)
 
+        # Process or save the data as required
+        # Here we're simulating a response based on the content of the notes
+        response_message = "Here's some assistance based on your requirements:"
+        if notes.isFood:
+            response_message += " Assistance for food is available."
+        if notes.isInjured:
+            response_message += " Assistance for injuries is available."
+        if notes.isSheltered:
+            response_message += " Sheltering assistance is available."
+
+        # Add any other specific processing if needed
+        return {"message": response_message}
+
+    except Exception as e:
+        raise HTTPException(status_code=500, detail="An error occurred while processing the notes.") from e
 
 def generate_answer(query_text, relevant_chunks):
     ans_model = AnswerGeneration()
