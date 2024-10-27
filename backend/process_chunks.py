@@ -2,7 +2,7 @@ import os
 import math
 import uuid
 from services.WatsonService.Watson import Watson
-from services.database.database import Database
+from services.Database.Database import Database
 
 
 def load_chunks():
