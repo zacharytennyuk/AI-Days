@@ -30,13 +30,24 @@ class Database:
     def __init__(self):
         self.idCount = 0
 
-    def insert(self, data):
+    def insert(self, embeddings, texts):
         try:
-            response = self.index.upsert(
-                vectors=data, namespace="disaster_preparedness"
-            )
-            logger.info(f"Pinecone upsert response: {response}")
+            data = [
+                {
+                    "id": str(i + self.idCount),
+                    "values": embedding,
+                    "metadata": {"text": text},
+                }
+                for i, (embedding, text) in enumerate(zip(embeddings, texts))
+            ]
+            self.idCount += len(embeddings)
+            print(f"Total vectors inserted: {self.idCount}")
+
+            # Upsert data into the existing Pinecone index
+            self.index.upsert(vectors=data)
+
             return True
+
         except Exception as e:
-            logger.error(f"Error inserting embeddings into Pinecone: {e}")
-            return False
+            print(f"An error occurred while inserting vectors: {e}")
+            return None
