@@ -2,13 +2,13 @@ import React from "react";
 import Button from "@mui/material/Button";
 import Box from "@mui/material/Box";
 import { Typography } from "@mui/material";
-import DownImage from "./../assets/down.png";
 import Earthquake from "./../assets/earthquake.png";
 import Tornado from "./../assets/tornado.png";
 import Hurricane from "./../assets/hurricane.png";
 import Wildfire from "./../assets/fire.png";
 import Flood from "./../assets/flood.png";
 import { motion } from "framer-motion";
+import { Link } from 'react-router-dom';
 
 const SelectonSection = () => {
   const disasters = [
@@ -19,13 +19,6 @@ const SelectonSection = () => {
     { name: "Wildfire", image: Wildfire },
   ];
 
-  const handleScroll = () => {
-    window.scrollBy({
-      top: window.innerHeight,
-      behavior: "smooth",
-    });
-  };
-
   return (
     <Box
       sx={{
@@ -34,7 +27,7 @@ const SelectonSection = () => {
         flexDirection: "column",
         justifyContent: "center",
         alignItems: "center",
-        height: "calc(100vh)",
+        height: "100vh",
       }}
     >
       <motion.div
@@ -65,68 +58,78 @@ const SelectonSection = () => {
           {/* First row with 3 buttons */}
           <Box sx={{ display: "flex", justifyContent: "center", gap: 2 }}>
             {disasters.slice(0, 3).map((disaster, index) => (
-              <Button
+              <Link
                 key={index}
-                sx={{
-                  borderRadius: "10%",
-                  minWidth: "150px !important",
-                  minHeight: "100px !important",
-                  padding: "0 !important",
-                  display: "flex",
-                  justifyContent: "center",
-                  alignItems: "center",
-                  flexDirection: "column",
-                  borderWidth: "2px",
-                }}
-                variant="outlined"
-                onClick={handleScroll}
+                to="/needs"
+                state={{ disaster: disaster.name }}
+                style={{ textDecoration: 'none' }}
               >
-                <img
-                  src={disaster.image}
-                  alt={`${disaster.name} icon`}
-                  style={{ width: 30, height: 30 }}
-                />
-                <Typography
-                  sx={{ marginTop: "8px", color: "black" }}
-                  variant="p"
+                <Button
+                  sx={{
+                    borderRadius: "10%",
+                    minWidth: "150px !important",
+                    minHeight: "100px !important",
+                    padding: "0 !important",
+                    display: "flex",
+                    justifyContent: "center",
+                    alignItems: "center",
+                    flexDirection: "column",
+                    borderWidth: "2px",
+                  }}
+                  variant="outlined"
                 >
-                  {disaster.name}
-                </Typography>
-              </Button>
+                  <img
+                    src={disaster.image}
+                    alt={`${disaster.name} icon`}
+                    style={{ width: 30, height: 30 }}
+                  />
+                  <Typography
+                    sx={{ marginTop: "8px", color: "black" }}
+                    variant="body1"
+                  >
+                    {disaster.name}
+                  </Typography>
+                </Button>
+              </Link>
             ))}
           </Box>
 
           {/* Second row with 2 buttons */}
           <Box sx={{ display: "flex", justifyContent: "center", gap: 2 }}>
             {disasters.slice(3).map((disaster, index) => (
-              <Button
+              <Link
                 key={index + 3}
-                sx={{
-                  borderRadius: "10%",
-                  minWidth: "150px !important",
-                  minHeight: "100px !important",
-                  padding: "0 !important",
-                  display: "flex",
-                  justifyContent: "center",
-                  alignItems: "center",
-                  flexDirection: "column",
-                  borderWidth: "2px",
-                }}
-                variant="outlined"
-                onClick={handleScroll}
+                to="/needs"
+                state={{ disaster: disaster.name }}
+                style={{ textDecoration: 'none' }}
               >
-                <img
-                  src={disaster.image}
-                  alt={`${disaster.name} icon`}
-                  style={{ width: 30, height: 30 }}
-                />
-                <Typography
-                  sx={{ marginTop: "8px", color: "black" }}
-                  variant="p"
+                <Button
+                  sx={{
+                    borderRadius: "10%",
+                    minWidth: "150px !important",
+                    minHeight: "100px !important",
+                    padding: "0 !important",
+                    display: "flex",
+                    justifyContent: "center",
+                    alignItems: "center",
+                    flexDirection: "column",
+                    borderWidth: "2px",
+                  }}
+                  variant="outlined"
                 >
-                  {disaster.name}
-                </Typography>
-              </Button>
+                  <img
+                    src={disaster.image}
+                    alt={`${disaster.name} icon`}
+                    style={{ width: 30, height: 30 }}
+                  />
+                  <Typography
+                    sx={{ marginTop: "8px", color: "black" }}
+                    variant="body1"
+                  >
+                    {disaster.name}
+                  </Typography>
+                </Button>
+              </Link>
             ))}
           </Box>
         </Box>
