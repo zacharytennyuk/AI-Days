@@ -1,10 +1,25 @@
 import { Typography, TextField, IconButton, Box } from '@mui/material';
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import SendIcon from '@mui/icons-material/Send';
+import GoogleMapComponent from '../components/GoogleMapComponent';
+import axios from 'axios';
 
-const Maps = (props) => {
-  const handleSubmit = () => {
-    console.log("Form submitted!");
+const Maps = ({ location }) => {
+  const [searchResults, setSearchResults] = useState([]);
+  const [query, setQuery] = useState("");
+
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+    try {
+      const response = await axios.post("http://localhost:8000/api/search-place", {
+        query: query,
+        location: [location.lat, location.lng],
+        radius: 5000,
+      });
+      setSearchResults(response.data.places || []);
+    } catch (error) {
+      console.error("Error fetching search results:", error);
+    }
   };
 
   return (
@@ -18,20 +33,22 @@ const Maps = (props) => {
       }}
     >
       {/* Location Details */}
-      <Box
-        sx={{
-          display: 'flex',
-          flexDirection: 'row',
-          justifyContent: 'center',
-          gap: 4,
-          marginTop: 2,
-        }}
-      >
-        <Typography variant="h6">Latitude: {props.location?.lat ?? "N/A"}</Typography>
-        <Typography variant="h6">Longitude: {props.location?.lng ?? "N/A"}</Typography>
+      <Box sx={{ display: 'flex', flexDirection: 'row', justifyContent: 'center', gap: 4, marginTop: 2 }}>
+        <Typography variant="h6">Latitude: {location?.lat ?? "N/A"}</Typography>
+        <Typography variant="h6">Longitude: {location?.lng ?? "N/A"}</Typography>
       </Box>
 
-      {/* Form Section */}
+      {/* Google Map Component */}
+      {location && (
+        <Box sx={{ marginTop: 4 }}>
+          <GoogleMapComponent 
+            center={{ lat: location.lat, lng: location.lng }}
+            locations={searchResults} // Pass search results to display as markers
+          />
+        </Box>
+      )}
+
+      {/* Search Form */}
       <Box
         component="form"
         sx={{
@@ -44,14 +61,13 @@ const Maps = (props) => {
           justifyContent: 'center',
           mb: 2,
         }}
-        onSubmit={(e) => {
-          e.preventDefault();
-          handleSubmit();
-        }}
+        onSubmit={handleSubmit}
       >
         <TextField
-          label="Enter your text"
+          label="Search places"
           variant="outlined"
+          value={query}
+          onChange={(e) => setQuery(e.target.value)}
           fullWidth
           sx={{
             maxWidth: '75%',

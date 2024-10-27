@@ -1,13 +1,23 @@
 from services.WatsonService.Watson import Watson
 from services.database.database import Database
 from fastapi import FastAPI, HTTPException, Body
+from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
 
 app = FastAPI()
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:5173"],  # Allow frontend's origin
+    allow_credentials=True,
+    allow_methods=["*"],  # Allow all HTTP methods
+    allow_headers=["*"],   # Allow all headers
+)
+
 watson_instance = Watson()
 database_instance = Database()
 
+app.include_router(places_router)
 
 @app.post("/insert")
 def insert_data(texts: list[str] = Body(...)):
