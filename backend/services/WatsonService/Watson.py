@@ -2,6 +2,7 @@ import requests
 import json
 from config import settings
 import logging
+import urllib.parse
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -16,47 +17,13 @@ class Watson:
             cls._instance.api_key = settings.WATSON_API_KEY
             cls._instance.service_url = settings.WATSON_SERVICE_URL
             cls._instance.project_id = settings.WATSON_PROJECT_ID
-            cls._instance.model_id = "ibm/granit-large-13b"  # for text generation
-            cls._instance.slate_model_id = (
-                "ibm/slate-125m-english-rtrvr-v2"  # for embeddings
-            )
+            cls._instance.model_id = "ibm/slate-large-model"
+            cls._instance.slate_model_id = "ibm/slate-125m-english-rtrvr-v2"
         return cls._instance
 
-    def query_prompt(self, prompt="Say Hello World"):
-        data = {
-            "input": prompt,
-            "parameters": {
-                "decoding_method": "greedy",
-                "max_new_tokens": 900,
-                "min_new_tokens": 0,
-                "stop_sequences": [],
-                "repetition_penalty": 1,
-            },
-            "model_id": self.model_id,
-            "project_id": self.project_id,
-        }
-
-        headers = {
-            "Authorization": f"Bearer {self.api_key}",
-            "Content-Type": "application/json",
-        }
-
-        try:
-            response = requests.post(
-                f"{self.service_url}/ml/v1/text/generation?version=2023-05-29",
-                headers=headers,
-                data=json.dumps(data),
-            )
-            response.raise_for_status()
-            result = response.json()
-            print(result)
-            return result
-        except requests.exceptions.RequestException as e:
-            print(f"Error querying Watson: {e}")
-            return {"error": str(e)}
-
     def generate_embedding(self, texts):
-        url = f"{self.service_url}/ml/v1/embeddings?version=2023-05-29"
+        encoded_model_id = urllib.parse.quote(self.slate_model_id, safe="")
+        url = f"{self.service_url}/ml/v1/models/{encoded_model_id}/embeddings?version=2024-07-25"
         headers = {
             "Authorization": f"Bearer {self.api_key}",
             "Content-Type": "application/json",
@@ -70,10 +37,15 @@ class Watson:
 
         try:
             response = requests.post(url, headers=headers, json=data)
+            logger.debug(f"Request URL: {url}")
+            logger.debug(f"Request Headers: {headers}")
+            logger.debug(f"Request Body: {json.dumps(data)}")
+            logger.debug(f"Response Status Code: {response.status_code}")
+            logger.debug(f"Response Text: {response.text}")
             response.raise_for_status()
             result = response.json()
             embeddings = [item["embedding"] for item in result["predictions"]]
             return embeddings
         except requests.exceptions.RequestException as e:
-            logger.error(f"Error generating embeddings: {e}")
+            logger.error(f"Error generating embeddings: {e}", exc_info=True)
             return None
