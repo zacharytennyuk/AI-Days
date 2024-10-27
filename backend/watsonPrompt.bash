@@ -1,0 +1,15 @@
+curl -X POST "https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29" \
+--header "Authorization: Bearer eyJraWQiOiIyMDI0MTAwMjA4NDIiLCJhbGciOiJSUzI1NiJ9.eyJpYW1faWQiOiIza3RzMWpHVDZTLTJiODk1YjZhLWJlYTYtNDE3Ny05NDliLTJiMGU2N2M4NzBmOCIsImlkIjoiM2t0czFqR1Q2Uy0yYjg5NWI2YS1iZWE2LTQxNzctOTQ5Yi0yYjBlNjdjODcwZjgiLCJyZWFsbWlkIjoiM2t0czFqR1Q2UyIsImp0aSI6Ijc3MTI3MDlhLTMxNTUtNDI2Zi1hYjU3LWQ5ZTM4MWRmNTM2NiIsImlkZW50aWZpZXIiOiIyYjg5NWI2YS1iZWE2LTQxNzctOTQ5Yi0yYjBlNjdjODcwZjgiLCJnaXZlbl9uYW1lIjoibm90c2V0IiwiZmFtaWx5X25hbWUiOiJub3RzZXQiLCJuYW1lIjoic3R1ZGVudF8yNXpla28iLCJlbWFpbCI6InN0dWRlbnRfMjV6ZWtvQHRlY2h6b25lLmlibS5jb20iLCJzdWIiOiJzdHVkZW50XzI1emVrbyIsImF1dGhuIjp7InN1YiI6InN0dWRlbnRfMjV6ZWtvIiwiaWFtX2lkIjoiM2t0czFqR1Q2Uy0yYjg5NWI2YS1iZWE2LTQxNzctOTQ5Yi0yYjBlNjdjODcwZjgiLCJuYW1lIjoic3R1ZGVudF8yNXpla28iLCJnaXZlbl9uYW1lIjoibm90c2V0IiwiZmFtaWx5X25hbWUiOiJub3RzZXQiLCJlbWFpbCI6InN0dWRlbnRfMjV6ZWtvQHRlY2h6b25lLmlibS5jb20ifSwiYWNjb3VudCI6eyJ2YWxpZCI6dHJ1ZSwiYnNzIjoiOWViZTFkNzI5ZTc2NGE4NDgzMDYyNzg3NGM0NzI3MjEiLCJpbXNfdXNlcl9pZCI6IjEyODgzODM4IiwiZnJvemVuIjp0cnVlLCJpc19lbnRlcnByaXNlX2FjY291bnQiOmZhbHNlLCJlbnRlcnByaXNlX2lkIjoiZWU1NzVjNTc3ODc2NGQ0MDkxNTVhYTM1NzgwZWM4ZDEiLCJpbXMiOiIyOTQ4MzYzIn0sImlhdCI6MTcyOTk2ODQ2MCwiZXhwIjoxNzI5OTcyMDYwLCJpc3MiOiJodHRwczovL2lhbS5jbG91ZC5pYm0uY29tL2lkZW50aXR5IiwiZ3JhbnRfdHlwZSI6InVybjppYm06cGFyYW1zOm9hdXRoOmdyYW50LXR5cGU6YXBpa2V5Iiwic2NvcGUiOiJpYm0gb3BlbmlkIiwiY2xpZW50X2lkIjoiZGVmYXVsdCIsImFjciI6MSwiYW1yIjpbInB3ZCJdfQ.I_ZnubpEds9_rQvfT_nFhTgHIsD8_cI1S7jEgSpL1eLszKacT2Ca9V3N2WDO0SjJJU2OwWJiU7JcQcIdmAvNuh79fmzKTB5ZNNAj0l5tpvuD3M4E_DG_pDnC5JeAaKvpa2Y3bRB3bmZEIWzVR9oBBLdqvBTmNDe45qwgQNm01SoINvi-QGQr4V96L2JaeEDAuR-LW_8w_7MdrSF6ufd5n1C0MsBghnSg0QjgT_lsiVy-mU2nzuC-h1pziIgy9gbUOc6cEAOYHL-8B7xuXbru0JA8JiiMtIhFm1CjOUp9dlYWbtBi79oVkbxhkAyV9nchQivIcL4diXf-6Omz8-msiw" \
+--header "Content-Type: application/json" \
+--data '{
+    "input": "Answer the question how is your day. Make it only 10 words",
+    "parameters": {
+        "decoding_method": "greedy",
+        "max_new_tokens": 900,
+        "min_new_tokens": 0,
+        "stop_sequences": [],
+        "repetition_penalty": 1
+    },
+    "model_id": "meta-llama/llama-3-1-70b-instruct",
+    "project_id": "94f25e9f-d72a-4b5f-9d96-f1e6380e8d9b"
+}'

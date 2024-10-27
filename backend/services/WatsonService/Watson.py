@@ -20,7 +20,7 @@ class Watson:
             )
 
             embed_params = {
-                EmbedParams.TRUNCATE_INPUT_TOKENS: 512,  # Adjust as needed
+                EmbedParams.TRUNCATE_INPUT_TOKENS: 512,
                 EmbedParams.RETURN_OPTIONS: {"input_text": True},
             }
 
@@ -38,12 +38,6 @@ class Watson:
         return cls._instance
 
     def get_response(self, texts):
-        if texts["isFood"]:
-            texts["notes"].append("Needs Food")
-        if texts["isInjured"]:
-            texts["notes"].append("Is Injured")
-        if not texts["isSheltered"]:
-            texts["notes"].append("Needs Shelter")
         return texts
 
     def generate_embedding(self, texts):
