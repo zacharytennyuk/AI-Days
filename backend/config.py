@@ -9,6 +9,8 @@ class Settings(BaseSettings):
     SLATE_MODEL_ID: str
 
     PINECONE_API_KEY: str
+    
+    GOOGLE_PLACES_API_KEY: str
 
     class Config:
         env_file = ".env"

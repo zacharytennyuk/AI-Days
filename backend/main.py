@@ -1,5 +1,6 @@
 from services.WatsonService.Watson import Watson
 from services.database.database import Database
+from services.places.places_router import router as places_router
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import JSONResponse
 from dotenv import load_dotenv
@@ -16,6 +17,7 @@ database_instance = Database()
 SAVE_DIRECTORY = "./files"
 os.makedirs(SAVE_DIRECTORY, exist_ok=True)
 
+app.include_router(places_router, prefix="/api")
 
 @app.get("/")
 def read_root():
