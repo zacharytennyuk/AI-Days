@@ -1,11 +1,14 @@
+import os
 from fastapi import FastAPI, HTTPException, Body
 from fastapi.middleware.cors import CORSMiddleware
 from services.WatsonService.Watson import Watson
 from services.Database.Database import Database
+from dtos.Notes import Notes
 from services.WatsonService.AnswerGeneration import AnswerGeneration
 from dtos.QueryRequest import QueryRequest
 import logging
 import uvicorn
+from services.places.places_router import router as places_router
 
 app = FastAPI()
 watson_instance = Watson()
@@ -14,8 +17,16 @@ database_instance = Database()
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:5173"],  # Adjust as needed for allowed origins
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
-@app.post("/embed")
+app.include_router(places_router, prefix="/api")
+@app.post("/api/embed")
 def generate_embeddings(texts: list[str] = Body(...)):
     if not texts:
         raise HTTPException(status_code=400, detail="No texts provided for embedding.")
@@ -25,7 +36,7 @@ def generate_embeddings(texts: list[str] = Body(...)):
     return {"embeddings": embeddings}
 
 
-@app.post("/retrieve")
+@app.post("/api/retrieve")
 def retrieve(request: QueryRequest):
     query = request.query
     if not query:
@@ -60,7 +71,7 @@ def retrieve_relevant_chunks(query_text, top_k=5):
     return relevant_chunks
 
 
-@app.post("/answer")
+@app.post("/api/answer")
 def answer(request: QueryRequest):
     query = request.query
     if not query:
@@ -77,32 +88,70 @@ def answer(request: QueryRequest):
     return {"answer": answer_text}
 
 
+@app.post("/api/send_notes")
+
+@app.post("/send_notes")
+async def send_notes(notes: Notes):
+    try:
+        # Initialize response message
+        response_message = f"{notes.information} {notes.disaster}"
+
+        if not notes.foodWater:
+            response_message += " I urgently need nearby sources of food and water."
+        if notes.injury:
+            response_message += " I urgently need help; I am injured."
+        if not notes.shelter:
+            response_message += " I urgently need help; I am in a dangerous area and need to relocate for shelter."
+
+        # Pass response_message as the query for generating an answer
+        query = QueryRequest(query=response_message)
+        answer_text = answer(query)
+        return answer_text
+
+    except Exception as e:
+        raise HTTPException(status_code=500, detail="An error occurred while processing the notes.") from e
+
+
+
+
+    except Exception as e:
+        raise HTTPException(
+            status_code=500, detail="An error occurred while processing the notes."
+        ) from e
+
+
 def generate_answer(query_text, relevant_chunks):
-    ans_model = AnswerGeneration()
+    ans = AnswerGeneration()
 
     max_chunks = 3
     context_chunks = relevant_chunks[:max_chunks]
 
     context = ""
+    documents = []
     for idx, chunk in enumerate(context_chunks, start=1):
-        chunk_text = chunk["metadata"].get("text")
+        chunk_text = chunk["metadata"].get("text", "")
         if not chunk_text:
             logger.warning(
                 f"No 'text' found in metadata for chunk ID {chunk['id']}. Skipping."
             )
             continue
-        context += f"Source {idx}:\n{chunk_text}\n\n"
+
+        source_path = chunk["metadata"].get("source", "")
+        logger.info(f"Source Path: {source_path}")
+        document_name = os.path.basename(source_path).replace(".txt", "")
+        logger.info(f"Document Name: {document_name}")
+
+        if document_name not in documents:
+            documents.append(document_name)
+
+        context += f"Source {idx} ({document_name}):\n{chunk_text}\n\n"
 
     if not context.strip():
         logger.error("No valid context could be constructed from the retrieved chunks.")
-        return "I'm sorry, but I couldn't find relevant information to answer your question."
-
-    max_chunks = 3
-    context_chunks = relevant_chunks[:max_chunks]
-
-    context = ""
-    for idx, chunk in enumerate(context_chunks, start=1):
-        context += f"Source {idx}:\n{chunk['metadata']['text']}\n\n"
+        return {
+            "answer": "I'm sorry, but I couldn't find relevant information to answer your question.",
+            "documents": [],
+        }
 
     prompt = f"""
 You are an expert assistant providing information on disaster preparedness.
@@ -114,13 +163,16 @@ Question: {query_text}
 Answer:
 """
 
-    answer = ans_model.generate_text(prompt=prompt)
+    generated_text = ans.generate_text(prompt=prompt)
 
-    if answer:
-        return answer.strip()
+    if generated_text:
+        return {"answer": generated_text.strip(), "documents": documents}
     else:
-        logger.error("Failed to generate an answer using the LLM.")
-        return "boom skibidi good luck"
+        logger.error("Failed to generate an answer using the Granite model.")
+        return {
+            "answer": "Good luck, buddy!",
+            "documents": documents,
+        }
 
 
 if __name__ == "__main__":

@@ -1,47 +1,79 @@
 import { Typography, TextField, IconButton, Box } from '@mui/material';
-import { React, useState, useEffect } from 'react';
+import { React, useState, useEffect, useContext } from 'react';
 import axios from 'axios';
 import SendIcon from '@mui/icons-material/Send';
 import Maps from '../pages/Maps';
 import { Search } from "@mui/icons-material";
 import { motion } from "framer-motion";
+import { LocationThemeContext } from '../LocationThemeContext'; // Import the context
 
 const InformationSection = () => {
+    const { location } = useContext(LocationThemeContext); // Access location from context
+
+
+    if (!location) {
+        console.warn("Location is not available.");
+        return null; // Or handle this gracefully
+    }
+
     const [content, setContent] = useState([]);
+    const [searchResults, setSearchResults] = useState([]);
     const [notes, setNotes] = useState({
         isFood: true,
         isInjured: false,
         isShelter: true,
     });
-    const [textVisible, setTextVisible] = useState(false); // Control text visibility
+    const [textVisible, setTextVisible] = useState(false);
 
     const handleSubmit = async (e) => {
         e.preventDefault();
         const text = e.target.elements.textInput.value;
         
-        // Append the user's message to the content
-        updateContent("user", text);
-        e.target.elements.textInput.value = ""; // Clear the input field
-
-        // Prepare data matching the Notes structure
-        const notesData = {
-            isFood: notes.isFood,
-            isInjured: notes.isInjured,
-            isSheltered: notes.isShelter,
-            notes: content.map(item => (typeof item === 'string' ? item : item.paragraph)),
-        };
-
-        try {
-            // Send POST request with Axios
-            const response = await axios.post("http://localhost:8000/send_notes", notesData);
-            console.log("Data sent successfully:", response.data);
-
-            // Append the bot's response to the content
-            if (response.data) {
-                updateContent("bot", response.data.message || "Bot response");
+        if (text.startsWith("!map")) {
+            const query = text.slice(4).trim(); // Extract search query after "!map"
+            if (!query) {
+                console.warn("No query provided after !map.");
+                return;
             }
-        } catch (error) {
-            console.error("Error sending data:", error);
+            console.log("map query");
+            try {
+                const response = await axios.post("http://localhost:8000/api/search-place", {
+                    query: query,
+                    location: [location.lat, location.lng],
+                    radius: 5000,
+                });
+
+                setSearchResults(response.data.places || []); // Set the search results
+                updateContent("user", `Searching for places: ${query}`);
+                updateContent("bot", "Mapping locations!");
+
+            } catch (error) {
+                console.error("Error fetching search results:", error);
+                updateContent("bot", "Failed to retrieve locations.");
+            }
+        } else {
+            // Standard message handling if not a !map command
+            updateContent("user", text);
+            e.target.elements.textInput.value = ""; // Clear the input field
+
+            const notesData = {
+                isFood: notes.isFood,
+                isInjured: notes.isInjured,
+                isSheltered: notes.isShelter,
+                notes: content.map(item => (typeof item === 'string' ? item : item.paragraph)),
+                location: location,
+            };
+
+            try {
+                const response = await axios.post("http://localhost:8000/send_notes", notesData);
+                console.log("Data sent successfully:", response.data);
+
+                if (response.data) {
+                    updateContent("bot", response.data.message || "Bot response");
+                }
+            } catch (error) {
+                console.error("Error sending data:", error);
+            }
         }
     };
 
@@ -65,12 +97,10 @@ const InformationSection = () => {
         setContent(getContent());
     }, []);
 
-    // After the main box animation, make the text visible
     const handleAnimationComplete = () => {
         setTextVisible(true); // Reveal text after the main box transition
     };
 
-    // Function to render message boxes based on conditions and alignment
     const renderMessageBox = (user, message, index) => (
         <motion.div
             key={index}
@@ -90,7 +120,7 @@ const InformationSection = () => {
                     maxWidth: "80%",
                     marginBlock: "4px",
                     boxShadow: "0px 2px 4px rgba(0, 0, 0, 0.1)",
-                    alignSelf: user === "bot" ? "flex-start" : "flex-end", // Align left for bot, right for user
+                    alignSelf: user === "bot" ? "flex-start" : "flex-end",
                 }}
             >
                 <Typography variant="body2" sx={{ wordWrap: "break-word", mr: 1 }}>
@@ -109,16 +139,16 @@ const InformationSection = () => {
         <Box sx={{ display: 'flex', height: 'calc(100vh - 64px)', flexDirection: 'row-reverse' }}>
             {/* Map section, taking 80% of the viewport width */}
             <Box sx={{ flex: 0.8 }}>
-                <Maps />
+                <Maps location={location} searchResults={searchResults}/>
             </Box>
 
-            {/* Content section, taking 20% of the viewport width with animation */}
+            {/* Content section */}
             <motion.div
                 initial={{ x: "150%", opacity: 1 }}
                 animate={{ x: 0, opacity: 1 }}
                 transition={{ duration: 2, ease: "easeOut" }}
-                onAnimationComplete={handleAnimationComplete} // Trigger text visibility
-                style={{ flex: 0.3, display: 'flex', flexDirection: 'column', justifyContent: 'flex-end', height: '100%', marginLeft: "16px" }}
+                onAnimationComplete={handleAnimationComplete}
+                style={{ flex: 0.4, display: 'flex', flexDirection: 'column', justifyContent: 'flex-end', height: '100%', marginLeft: "16px" }}
             >
                 <Box
                     sx={{
@@ -157,17 +187,16 @@ const InformationSection = () => {
                         marginBottom: 'auto',
                       }}>
 
-                        {/* Render messages based on notes */}
+                        {/* Render messages */}
                         {notes.isFood && renderMessageBox("bot", "If you want Food", 0)}
                         {notes.isInjured && renderMessageBox("bot", "If you are injured", 1)}
                         {!notes.isShelter && renderMessageBox("bot", "If you need shelter", 2)}
 
-                        {/* Render dynamically added content */}
                         {content.map((item, index) => renderMessageBox(item.user, item.paragraph, index))}
                         </Box>
                           <motion.div
-                            initial={{ x: "100%", opacity: 0 }} // Input bar starts from right, invisible
-                            animate={{ x: 0, opacity: textVisible ? 1 : 0 }} // Moves to left and fades in
+                            initial={{ x: "100%", opacity: 0 }}
+                            animate={{ x: 0, opacity: textVisible ? 1 : 0 }}
                             transition={{ duration: 0.8, ease: "easeOut" }}
                           >
                           <Box
@@ -184,7 +213,7 @@ const InformationSection = () => {
                             onSubmit={handleSubmit}
                         >
                             <TextField
-                                name="textInput" // Added name attribute to access this field in handleSubmit
+                                name="textInput"
                                 label="Enter your text"
                                 variant="standard"
                                 fullWidth

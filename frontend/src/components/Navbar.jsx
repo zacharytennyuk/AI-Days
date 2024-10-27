@@ -31,7 +31,7 @@ function Navbar() {
             color="primary"
             sx={{ flexGrow: 1 }}
           >
-            FirstWave
+            PrepPal
           </Typography>
         </Link>
 
