@@ -29,7 +29,6 @@ const InformationSection = () => {
     const [content, setContent] = useState([]);
     const [searchResults, setSearchResults] = useState([]);
 
-    const [textVisible, setTextVisible] = useState(true);
     const [notes, setNotes] = useState({
         isFood: true,
         isInjured: false,
@@ -75,9 +74,6 @@ const InformationSection = () => {
             // Standard message handling if not a !map command
             updateContent("user", text);
             e.target.elements.textInput.value = ""; // Clear the input field
-            let isFood = answers.isFood ?? false
-            let isInjured = answers.isInjured ?? false
-            let isSheltered = answers.isSheltered ?? false
             let information = content.map(item => (typeof item === 'string' ? item : item.paragraph))
             information.push(text)
             information = information.join(' ')
@@ -87,13 +83,14 @@ const InformationSection = () => {
                 foodWater: notes.isFood,
                 injury: notes.isInjured,
                 shelter: notes.isShelter,
-                information: notes.information,
+                information: information,
                 disaster: notes.disaster,
-                notes: content.map(item => (typeof item === 'string' ? item : item.paragraph)),
+                notes: information,
                 location: location,
             };
 
             try {
+                console.log(notesData)
                 const response = await axios.post("http://localhost:8000/api/send_notes", notesData);
                 console.log("Data sent successfully:", response.data);
 
@@ -108,11 +105,7 @@ const InformationSection = () => {
 
     const getContent = () => {
         return [
-          { user: "user", paragraph: "Hi" },
-          { user: "user", paragraph: "My" },
-          { user: "user", paragraph: "Name" },
-          { user: "user", paragraph: "Is" },
-          { user: "user", paragraph: "Max" },
+          { user: "bot", paragraph: answers.answer.answer},
         ];
     };
 
@@ -147,7 +140,7 @@ const InformationSection = () => {
                     padding: "8px 8px",
                     borderRadius: "16px",
                     maxWidth: "80%",
-                    marginBlock: "4px",
+                    marginBlock: "8px",
                     boxShadow: "0px 2px 4px rgba(0, 0, 0, 0.1)",
                     alignSelf: user === "bot" ? "flex-start" : "flex-end",
                 }}
@@ -208,8 +201,7 @@ const InformationSection = () => {
                             marginBottom: 'auto',
                         }}
                     >
-                        <Box sx={{ padding: 2, display: 'flex', flexDirection: 'column', justifyContent: 'flex-end', height: '100%' }}>
-                        <Typography variant="h6">Find Nearby Resources:</Typography>
+                        <Box sx={{ padding: 2, display: 'flex', flexDirection: 'column', justifyContent: 'flex-start' }}>
 
                         {/* Need Buttons */}
                         <Box sx={{ display: 'flex', justifyContent: 'center' }}>
@@ -227,11 +219,6 @@ const InformationSection = () => {
                         height: "100%",
                         marginBottom: 'auto',
                       }}>
-
-                        {/* Render messages */}
-                        {answers.isFood && renderMessageBox("bot", "If you want Food", 0)}
-                        {answers.isInjured && renderMessageBox("bot", "If you are injured", 1)}
-                        {!answers.isShelter && renderMessageBox("bot", "If you need shelter", 2)}
 
                         {content.map((item, index) => renderMessageBox(item.user, item.paragraph, index))}
                         </Box>
