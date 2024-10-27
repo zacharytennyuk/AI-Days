@@ -1,0 +1,2360 @@
+Flood Mitigation and Recovery--
+
+Introduction
+This manual describes a training exercise on post-flood mitigation and recovery. The
+exercise simulates selected aspects of physical recovery from flood damage. The stage
+is a single local government jurisdiction and the players are its key staff members.
+Players are guided in creating their own scenario of flood damage and then led
+through a series of tasks related to planning for repairs and rebuilding.
+Why an Exercise?
+Local police and fire departments know the value of exercises to help them prepare for
+potential disasters. Through such exercises, they develop techniques to handle
+extraordinary circumstances, make decisions under extreme pressure, and contain the
+impacts of a disaster to the extent possible. Experience demonstrates that preparing in
+advance improves performance when disaster strikes.
+Weeks after a damaging flood, circumstances are still extraordinary, decisions are
+made under extreme pressure, and the impacts continue rippling through the
+community. As the need for emergency responders decreases, a new group of local
+staff people--managers, planners, building officials, finance officers, and engineers--
+face mounting responsibilities.
+
+Shouldn't there be an exercise for them, too?
+This exercise is primarily for this "second wave" of responders whose actions will play
+an important role in shaping the rebuilt community. It is designed to provide them
+with a preview of the issues and problems they will face in the hopes that, like the
+emergency responders, they will be better prepared to serve their community
+effectively after a flood.
+How Does the Exercise Relate to Real Time?
+The exercise takes 8 hours. During that time, players will complete tasks covering a
+time period extending from a flood warning received 3-5 days before the flood to one
+or two years after the flood. The tasks are arranged in approximate time sequence
+starting with those that normally must be dealt with first. This linear time sequence of
+Introduction, page 2tasks oversimplifies a complex, real situation in which tasks often must be addressed
+simultaneously. The amount of time allocated to each task will seem too short. This
+simulates, to some degree, the pressure after a flood to do an incredible amount of
+work very quickly.
+Introduction, page 3How Does the Exercise Relate to Actual Recovery?
+Like any exercise, this one is a selective and approximate slice of real experience. It
+consists of a series of interrelated tasks that local governments almost always must face
+after a flood. The common links are that all the tasks must be done by local
+government and all potentially affect options for repairs and rebuilding.
+The exercise covers many of the tasks that local officials will face during recovery.
+Each task in the exercise is realistic in that it will probably need to be carried out after a
+flood, but not all post-flood recovery tasks are included. For example, much of
+emergency response is not covered. Economic and fiscal matters are only tangentially
+included, although they certainly impact physical recovery. FEMA disaster assistance
+programs and requirements are not fully incorporated into the exercise, mainly because
+it would take too much exercise time to fully explain the details to the players.
+However, the tasks are generally consistent with provisions of FEMA's National Flood
+Insurance Program.
+The exercise does not reflect the intense political heat surrounding recovery. Players
+will need to imagine the political context in their community as they are working the
+exercise. Political issues pervade every task. After floods, local governments
+commonly enjoy a brief suspension of political rivalry.
+
+Distinctions between the
+responsibilities of public and private agencies, federal, state, and local governments,
+and city and county government departments may blur. Every organization and
+person will be working together to address their common needs. But this does not last
+long. Pre-flood political problems will soon reemerge to influence decisions about
+long-term recovery.
+Time is an important post-flood issue. The public may perceive that repairs and
+rebuilding are taking too long. Anger and frustration stemming from feelings of
+helplessness will often be vented at local public officials, particularly planners and
+building officials, whose approvals may stand between people and their ability to
+repair or rebuild damaged homes and businesses.
+The exercise deals with common aspects of flood recovery; however, the unexpected
+will happen. The failure of a flood control structure, for example, can mean rebuilding
+an entire section of the community. Key staff people may be out of town or unable to
+handle the pressure, or adverse weather may delay outside help. Contingencies like
+these are part of the context of recovery. By learning as much as possible about the
+"normal" tasks of post-flood recovery, local government staffs will be prepared to do
+these with more ease, giving themselves a better chance of handling the "abnormal"
+tasks effectively.
+And finally, the exercise will give players the important advantage of forethought
+when they face the inevitable flood, enabling them to help their communities recover
+Introduction, page 4and rebuild quickly and effectively. Not only will they be better prepared for recovery
+tasks, they will learn about the advantages of acting now to prevent flood damage.
+Introduction, page 5What Are the Assumptions for the Exercise?
+1.The city or county  conducting the exercise prepares for emergency response, plans
+for community development, administers land development regulations, and issues
+building permits.
+2.The community participates in the National Flood Insurance Program and has
+adopted a floodplain management ordinance meeting the minimum criteria in the
+NFIP.
+3.The players know their community well, but do not need to know much about
+floods or recovery from floods.
+Introduction, page 6
+Facilitator's Instructions
+Overview of Exercise Design
+This exercise on mitigation and recovery after floods is organized into a series of tasks
+which are to be completed in sequence.
+
+Each task, labeled by a letter (A-L), has a time
+limit ranging from 20 to 75 minutes. The tasks are in rough chronological order, but in
+reality, many would be occurring simultaneously. Each task covers, at least partially,
+an issue related to recovery that typically arises after a flood.
+The exercise starts with a flood warning. Task A asks players to respond to the
+warning and determine areas to evacuate. They begin to record information on a base
+map of the community which is used throughout the exercise. Then in Task B, they
+open emergency shelters. The flood arrives in Task C during which the players create a
+damage scenario based on their best judgment of the impacts of a real flood,
+considering that flood control structures may fail and debris carried by floodwaters
+may cause additional damage.
+The next tasks, usually part of emergency response, concern the rerouting of traffic in
+Task D and restoring essential community services in Task E. Then, more information
+is collected about the damage in Task F. These actions set the stage for early recovery--
+finding temporary locations for displaced businesses and residents in Tasks G and H,
+adopting policies for repair of damaged buildings in Task I, and adopting procedures
+to process permits for repairs and rebuilding in Task J.
+The emphasis then turns to planning for reconstruction with Task K to identify
+planning opportunities and develop a plan for reconstruction of the floodplain.
+Finally, the exercise ends with Task L to define mitigation actions that can be taken
+beforehand to avert flood damage and prepare for long-term recovery and rebuilding.
+Facilitator's Instructions, page 7All the tasks can be accomplished using typical local government background
+documents, such as the general plan and zoning ordinance, supplemented by handouts
+provided in this manual. A specific product or products will emerge from each task,
+often providing input to subsequent tasks.
+Throughout, it is important to remember that the primary value of the exercise is in the
+process, rather than in the products. It is designed to educate staff members about their
+likely tasks after a damaging flood. They will be able to apply this basic knowledge to
+floods varying in size and impacts. As with any exercise, it is a first step.
+
+Having
+learned something of the process and problems, players will need to take further
+actions to reduce potential damage and prepare for the inevitable tasks of rebuilding.
+Facilitator's Instructions, page 8Overview of this Manual
+This manual contains most of the information needed for you to facilitate the tasks and
+for the players to complete the tasks. The manual is divided by large tabs into five
+sections:  introduction, facilitator's instructions, exercise tasks, slide index, and
+additional resources.
+In the section labeled Exercise Tasks , you will find a series of small tabs identifying each
+exercise task. Behind each of these tabs is a script, a one-page instruction sheet for
+doing the task, and, for some tasks, handouts to be used by players during the task.
+Scripts. Each task is introduced with a scripted slide show. The script
+may be read or paraphrased. Each script tells what the task is, why it is
+important, and how it has been carried out after recent floods. A one-line
+description of each slide accompanies each paragraph of the script. This
+line is in bold face italics and is not meant to be read aloud.
+Instructions. The instruction page for each task is to be duplicated and
+included in the packet for each player. This page states the purpose of the
+task and lists the materials that will be needed to complete it, including
+handouts. Then, the specific steps required to do the task are listed,
+followed by a description of the product or products the task will
+generate.
+Handouts. Handouts, too, should be duplicated and included in the
+packets. They are forms to be filled out as a product of the task.
+The section of this manual labeled Slides  contains an index to the slides and a list of
+slide sources.
+Facilitator's Instructions, page 9Recommended Participants
+The exercise has three categories of participants:
+oFacilitator(s)- -the person or persons responsible for organizing the exercise,
+providing information to the players before, during, and after the exercise, and
+conducting the actual exercise.
+oPlayers --those carrying out the prescribed exercise tasks.
+oObservers --people invited to learn from the exercise by watching.
+Who exactly should participate in each of these categories? The exercise is designed
+with the following assumptions about participation.
+Facilitator(s).
+
+The facilitator should be skilled in running meetings and
+knowledgeable about flood hazards, long-term recovery from floods, and flood hazard
+mitigation. Someone from your state's floodplain management agency, hazard
+mitigation office, or emergency services department could facilitate the exercise for
+your community. The facilitator could also be a community's emergency services
+coordinator or other staff member. Because the exercise emphasizes planning issues
+during recovery, a community's city planner could be an excellent facilitator, either
+alone or working with someone with emergency management expertise. A consultant
+with appropriate qualifications is a possible choice. The facilitator must have the full
+support of the community's chief administrative officer and be authorized to ask
+assistance from staff members in preparing for the exercise.
+Players. The players should include 8 to 12 local government senior staff members,
+selected by the city or county manager. Staff members, such as the planning director,
+building official, and public works director, who would be responsible for rebuilding
+recommendations after a flood must be involved. Other possible players are the city or
+county manager, emergency services coordinator, housing specialist, engineer, clerk,
+attorney, parks and recreation director, and any other staff person who might have
+recovery responsibilities. The police and fire chiefs need to be involved as the exercise
+deals with some emergency response issues. However, it is wise to alert them that this
+is not an emergency response exercise, and that others on the staff will probably be
+taking the lead. Council members, local Red Cross personnel, or business persons may
+be players. It is important to include those people who would be responsible for the
+tasks in the exercise after a flood, regardless of their formal titles or roles.
+Observers. Allowing non-players to observe the exercise is an effective way to spread
+the benefit; however, it is optional. The decision would be made by the facilitator and
+the participating jurisdiction. Observers could be other staff members from
+participating departments, staff members from non-participating departments, elected
+or appointed local officials, and community representatives. Staff members from other
+Facilitator's Instructions, page 10nearby jurisdictions might also be invited. By including observers, a jurisdiction would
+be increasing the impact of the exercise as a learning tool.
+Facilitator's Instructions, page 11Recommended Schedule
+The exercise can be completed in an 8-hour day with a break for lunch.
+
+It is fast-paced,
+calling for intensive effort from the players during the playing period. The schedule is
+deliberately tight to give players some sense of the pressure and tension that would
+pervade such tasks after a real flood. It can be done in a single day as shown in the
+schedule below. However, it can be spread over two days, perhaps starting in the
+afternoon of the first day and finishing at noon on the second day. By doing this, the
+players have time to rest and bring fresh perspective to the important tasks which come
+later in the exercise.
+EXERCISE SCHEDULE
+Minutes
+8:00 -  8:30 Introductions/Explanations 30
+8:30 -  9:10 Task A. Warning and Evacuation 40
+9:10 -  9:30 Task B. Emergency Shelter 20
+9:30 - 10:30 Task C. Damage Scenario 60
+10:30-10:50 Break 20
+10:50-11:10 Task D. Rerouting Traffic 20
+11:10-11:30 Task E. Restoring Services 20
+11:30-12:00 Task F. Damag e Assessment 30
+12:00 - 1:00 Lunch 60
+1:00 -  1:20 Task G. Temporary Business Locations 20
+1:20 -  1:40 Task H. Temporary Housing 20
+1:40 -  2:25 Task I. Policies for Damaged Buildings 45
+2:25 -  2:45 Task J. Permit Processing 20
+2:45 - 3:05 Break 20
+3:05 -  4:20 Task K. Reconstruction Planning 75
+4:20 -  5:00 Task L. Mitigating Flood Hazards 40
+Facilitator's Instructions, page 12Materials Needed for Exercise
+To conduct the exercise, you will need to assemble some readily-available supplies and
+standard local documents. Below are lists of materials needed for the exercise.
+Supplies. Supplies include a slide projector, screen, marking pens, map overlay
+material (such as acetate, tracing paper, or mylar), tape, and push pins. A flip chart or
+blackboard is not necessary, but can be used, as a supplement to the handouts, to
+record information during the exercise.
+
+A display timer, such as a kitchen timer, is
+essential for you and the players to keep track of time during the exercise.
+Base Maps. One or more copies of a base map of the community is essential. The map
+should be the largest scale available that can fit on the table. It should show major
+properties, streets and bridges, important facilities, and, if available, parcel boundaries.
+If the jurisdiction is geographically large, a table-top sized base map will not show both
+the whole jurisdiction and individual parcels. You may wish to select a part of the
+floodplain as a focus for the exercise and provide large scale maps covering the selected
+area. In this case, a map of the entire jurisdiction should also be provided for context
+and perhaps for use in some of the early tasks.
+Documents. The instruction sheets contain a list of materials to use for each task. Most
+of these are common local government documents and should be readily available. If
+documents are not available, the tasks can still be done relying on the players'
+knowledge of the community. Documents to collect, if available, are:
+oFlood Insurance Rate Map (FIRM) or most recent NFIP map
+ofloodplain management ordinance
+oinformation on previous floods
+ocommunity plan and plan diagram
+oemergency response plan, including shelter plans
+oredevelopment or downtown plans
+ozoning ordinance and maps
+oprocedures for processing planning and bui lding permits
+olists of historic buildings
+Other relevant materials, such as census data, housing plans, or economic development
+plans, may be useful and should be provided, if readily available.
+Player Packets. You will need to provide each player with an exercise packet,
+containing 12 instruction pages and 10 handout pages. You may also wish to prepare
+packets for observers so they may follow the action. The packets should be clipped (not
+Facilitator's Instructions, page 13stapled) or placed in a binder. The pages should be collated according the sequence of
+the tasks. Following is a list of the packet pages in the order they should be assembled.
+Facilitator's Instructions, page 14Contents of the Player Packets
+Handout 1 Exercise Schedule
+Handout 2 Color Key for Mapping Information
+Handout 3 Task Leaders an d Other Assignments
+Handout 4 Recommended Actions
+Instructions Task A.
+
+Warning and Evacuation
+Handout A Actions in Response to Flood Warning
+Instructions Task B. Emergency Shelter
+Instructions Task C. Damage Scenario
+Instructions Task D. Reroutin g Traffic
+Instructions Task E. Restoring Services
+Instructions Task F. Damage Assessment
+Handout F Damage Assessment
+Instructions Task G. Temporary Business Locations
+Instructions Task H. Temporary Housing
+Instructions Task I. Policies for Damag ed Buildings
+Handout I Policies for Damaged Buildings
+Instructions Task J. Permit Processing
+Instructions Task K. Reconstruction Planning
+Handout K Planning Opportunities
+Instructions Task L. Mitigating Flood Hazards
+Handout L1 High-Priority Actio n to Reduce Flood Risk
+Handout L2 Contacts for Technical and Financial Assistance
+Facilitator's Instructions, page 15Suggestions for Conducting the Exercise
+1.Select as players 8 to 12 high-level staff persons to form a small working group in
+which each player can interact freely with all others. Invite additional staff
+members to observe.
+2.The success of the exercise depends on total concentration of all players for the
+entire day. If possible, arrange to conduct the exercise away from the normal work
+place to reduce chances for interruption.
+3.The exercise is tightly timed. Let players know that they must be on time for the
+exercise and clear their schedules to prevent interruptions.
+4.Find a room that can be darkened for showing slides. The room should have a table
+the players can sit around to work on the base map and a wall on which maps may
+be attached with tape or push pins.
+5.Provide for refreshments during the breaks. Thinking burns up energy.
+6.Exert control to keep the exercise on the time schedule. Discu ssion should be
+discouraged while you are reading the scripts. Discussion can take place while the
+players are working on the tasks.
+7.Whenever possible, add a few local slides with brief descriptions to the slide
+presentations. Slides showing past floods in the community, buildings in the
+floodplain, or elevated structures can be added at the appropriate places in the task
+introductions.
+
+Doing this can help the players see the local relevance of the many
+examples in the presentations from around the country.
+8.If the facilitator is not a staff member, he or she needs to secure the support of the
+jurisdiction's chief executive officer and coordinate with a designated staff person.
+That staff person must be able to verify that the key players will commit the full day
+to the exercise and help with local arrangements.
+Facilitator's Instructions, page 16Facilitator's Checklist
+Checklist
+Before Exercise
+qObtain authorization from CAO, council, or other appropriate body.
+qSet date and time.
+qReserve meeting room.
+qDetermi ne players and arrange with the CAO for them to
+participate.
+qInvite observers, if desired.
+qArrange for slide projector and screen.
+qProvide materials for map overlays, pens, push pins, and tape.
+qObtain copies of the jurisdiction base map an d parcel maps.
+qAssemble documents
+qAssemble player packets.
+qStudy task scripts and instructions.
+qAcquire local slides and make additions to the script.
+qPlace the slides in order in slide carousels.
+During Exercise
+qUse the script an d slides to introduce the exercise and each task.
+qTime the tasks and facilitate their timely completion.
+qAnswer questions and assist players with the tasks.
+qOversee creation of a list of high-priority actions to reduce flood risk.
+After Exe rcise
+qContinue to work with players on the high-priority actions to
+reduce flood risk.
+Facilitator's Instructions, page 17
+Exercise Tasks
+In the section labeled Exercise Tasks , you will find a series of small tabs identifying each
+exercise task. Behind each of these tabs is a script, a one-page instruction sheet for
+doing the task, and, for some tasks, handouts to be used by players during the task.
+Scripts. Each task is introduced with a scripted slide show. The script
+may be read or paraphrased. Each script tells what the task is, why it is
+important, and how it has been carried out after recent floods. A one-line
+description of each slide accompanies each paragraph of the script. This
+line is in bold face italics and is not meant to be read aloud.
+Instructions.
+
+The instruction page is to be duplicated and included in the
+packet for each player. This page states the purpose of the task and lists
+the materials that will be needed to complete it, including handouts.
+Then, the specific steps required to do the task are listed, followed by a
+description of the product or products the task will generate.
+Handouts. Handouts, too, should be duplicated and included in the
+packets. They are forms to be filled out as a product of the task.
+SCRIPT -- INTRODUCTION TO TASKS
+(15 minutes to read the script)
+Slide 1. Flood Mitigation and Recovery-An Interactive Exercise for Local Governments
+This is a flood mitigation and recovery exercise designed for local government officials.
+The exercise introduces you to some of the tasks you will face when a damaging flood
+strikes your community.
+Slide 2. Exercise tasks
+The exercise is organized into a series of twelve tasks which are to be completed in
+sequence. The tasks are listed on the screen. Each task is identified by a letter A
+through L.
+The exercise starts with heavy rains and a flood warning. In the first task, Task A,  you
+decide how to respond to the warning and what areas to evacuate. Then, in Task B ,
+you determine how to provide emergency shelter for the people evacuated. The flood
+arrives in Task C  and you determine its extent and major impacts.
+Next come typical tasks during emergency response-- Task D  rerouting traffic around
+washed out bridges and roads and Task E  restoring essential services to the
+community. Then, more information is collected about the damage in Task F . This task
+sets the stage for early recovery--finding temporary space for displaced businesses and
+residents in Tasks G and H  and adopting policies and procedures for the repair,
+removal or rebuilding of damaged buildings in Tasks I and J .
+The emphasis then turns to planning for reuse of the floodplain with Task K  during
+which you prepare a reconstruction plan for the flooded area. Finally, the recovery
+exercise ends with Task L . In this task, you recap the problems encountered in the
+previous tasks and detail high-priority actions that can be taken beforehand to avert
+flood losses and prepare for rebuilding.
+Slide 3.
+
+Exercise schedule
+Here is a schedule of the exercise showing the amount of time allocated to each task.
+You each have a copy of this schedule in your packet ( Handout 1 ). Times range from 20
+to 75 minutes. The amount of time allocated to each task will seem much too short.
+This simulates, to some degree, the time pressure you will experience after a flood. In
+addition to time for the tasks, this introduction will take about 20 minutes and you will
+have a 20-minute break in mid-morning and mid-afternoon. One hour is allocated for
+lunch. The entire exercise will take until 5:00 this afternoon.
+Slide 4. Exercise purpose
+The primary purpose of the exercise--shown here--is to improve the ability of local
+governments to recover from damaging floods. We think it will do so in the ways
+listed here.
+oTraining non-emergency personnel in recovery tasks. Fire fighters and police
+officers receive training to prepare them to handle disasters; most other staff people
+rarely do. This exercise is designed primarily to train non-emergency staff in tasks
+that come after emergency workers are through.
+oPassing on experience from cities that have rebuilt. Many jurisdictions have had
+damaging floods. The exercise content draws from these experiences.
+oProviding a chance for hands-on experience. The exercise gives you a chance to
+apply general information about recovery and rebuilding to your specific
+circumstances.
+oEncouraging preparations for recovery and rebuilding. The exercise will help you
+see how you can prepare now to handle typical recovery tasks more effectively after
+a flood.
+oEncouraging actions to reduce flood damage. Once you see how tough recovery
+will be, we think you will want to initiate actions now to reduce the potential
+damage in your community.
+Slide 5. Topics not covered
+The exercise covers recovery from flooding along rivers and streams usually caused by
+heavy rainfall. It does not cover coastal flooding or other kinds of storm damage. Nor
+are all aspects of recovery covered. The slide lists some significant omissions.
+
+Most of
+emergency response  is not covered, such as search and rescue and debris removal.
+Economic and fiscal matters  are only tangentially included, although they certainly
+impact physical recovery.
+FEMA disaster assistance  programs and requirements are not incorporated into the
+exercise, but you need to recognize that FEMA requirements will affect nearly every
+post-flood activity. Much of what takes place after a flood responds to requirements of
+the local floodplain management ordinance adopted as a condition for participating in
+the National Flood Insurance Program. The tasks in the exercise are consistent with
+those requirements, but the details of the program are not incorporated.
+The exercise does not incorporate your community's political context . As you work the
+tasks, it will help to keep in mind the major political issues in your community. After a
+flood, there may be a brief suspension of political rivalries, but this does not last long.
+What you can and cannot accomplish will depend a great deal on political factors.
+Slide 6. Flood recovery timeline
+This is a timeline showing typical lengths of time to accomplish the tasks in the exercise
+after a real flood. The timeline is divided into three sections:  1) pre-flood warning
+shown in white, 2) short-term recovery running from the flood to about 2 months
+shown in light gray, and 3) long-term recovery running from about 2 months to two
+years shown in dark gray. Actual rebuilding can take much longer than 2 years, and
+mitigating flood hazards is an ongoing process. Almost all of the tasks are started
+during early recovery, but many of them extend into long-term recovery. Today you
+get to do the tasks one at a time, but as you can see here, after a real flood, you will be
+doing many of them simultaneously.
+In general, the tasks take longer after a flood than people expect. This means that you
+start the recovery effort with unreasonable expectations for a speedy recovery. People
+are likely to feel that repairs and rebuilding are taking too long. The procedures and
+permits you require may be seen as obstacles to the quick reoccupancy of flooded
+homes and businesses. The recovery process is permeated by tension between the
+desire for speed and the need to take time to ensure responsible rebuilding.
+Slide 7. Task structure
+Each task in the exercise is organized the same way.
+Introduction.
+
+Each task is introduced with a slide presentation with background
+information to help you with the task. The slides show how the task has been handled
+by communities after real floods. The introductions average about 5 minutes.
+Instructions. Your packet contains one-page instruction sheets telling you the steps to
+take to complete each task. You will want to take time to read the instructions before
+you start work.
+Handouts. For some tasks you will find handouts in your packet consisting of forms to
+be filled out during the task.
+Products. You will produce something in every task. Products consist of information
+added to the map and entries on handouts.
+Slide 8. What players need
+You do not need to be a recovery expert to do these tasks. You need working
+knowledge of your community  and some idea of the effects of floods . You have here a
+collection of background documents  and maps to help you with the tasks. The
+materials include your community plan and land use diagram, zoning ordinance and
+maps, emergency response plan, and any available redevelopment plans and lists of
+historic buildings. You also have the flood hazard information available for your
+community, including your Flood Insurance Rate Maps issued by the Federal
+Emergency Management Agency and your floodplain management ordinance. You
+can refer to these items throughout the exercise as questions arise.
+Here is a base map  covering the community. You will be recording information on this
+map throughout the exercise. You also have  a set of colored pens  for adding
+information to the map. Handout 2  tells you which color to use for each category of
+information to be mapped.
+Slide 9. Getting started
+Before you start the exercise, you need to organize yourselves to do the work. First,
+you need to select a player to take the lead on each task. The selections can be recorded
+on Handout 3  in your packet. The task leader will be responsible for keeping the
+discussion on track and helping the group reach some decisions before the timer goes
+off. We will also ask the leader to give a two-minute (or less) summary of the results at
+the end of each task, focusing on any problems encountered and recommended actions
+to overcome them.
+You also need to select a player to be group recorder.
+
+This should be someone whose
+position on the city staff is somewhat peripheral to the topics covered in the exercise.
+For example, the planning director or building official would not be a good choice, but
+the city clerk or personnel director might be. This person will fill out the handouts
+with particular attention to Handout 4. Recommended Actions  which is filled out at the
+end of each task. If available, a flip chart or a blackboard may be used in place of
+Handout 4 . The recorder will then recap the recommended actions listed on Handout 4
+as part of Task L.
+In addition, you may want to select the artist among you to draw on the map.
+Now, open your packet and review the four handouts. Take a minute to look them
+over. Then go right to selecting the players to fill the various roles. We will start the
+introduction to Task A as soon as you have made your selections.
+Handout  1
+EXERCISE SCHEDULE
+Minutes
+8:00 -  8:30 Introductions/Explanations 30
+8:30 -  9:10 Task A. Warning and Evacuation 40
+9:10 -  9:30 Task B. Emergency Shelter 20
+9:30 - 10:30 Task C. Damage Scenario 60
+10:30-10:50 Break 20
+10:50-11:10 Task D. Rerouting Traffic 20
+11:10-11:30 Task E. Restoring Services 20
+11:30-12:00 Task F. Damage Assessment 30
+12:00 - 1:00 Lunch 60
+1:00 -  1:20 Task G. Temporary Business Locations 20
+1:20 -  1:40 Task H. Temporary Housing 20
+1:40 -  2:25 Task I. Policies for Damaged Buil dings 45
+2:25 -  2:45 Task J. Permit Processing 20
+2:45 - 3:05 Break 20
+3:05 -  4:20 Task K. Reconstruction Planning 75
+4:20 -  5:00 Task L.
+
+Mitigating Flood Hazards 40
+Handout 1
+Handout 2
+COLOR KEY FOR MAPPING INFORMATION
+COLOR INFORMATION ON MAP
+Yellow o  floodway and 100-year floodplain
+o  temporary housing
+Brown o  areas evacuated
+o  temporary business locations
+Green o  emergency shelters
+o  road blocks, alternative traffic routes
+Blue o  area flooded
+o  parcels with buildings over 50% damaged
+Orange o  areas with concentration of pre-FIRM
+o  historic buildings
+Purple o  major facilities (schools, hospitals, government
+buildings, etc.)
+o  areas with impaired access
+Red o  washed out bridges and roads
+o  areas affected by loss of utilities
+Black o  damaged utilities
+o  buildings to be demolished
+o  areas subject to moratorium on rebuilding
+Handout 2
+Handout  3
+TASK LEADERS AND OTHER ASSIGNMENTS
+TASKS LEADERS
+Task A. Warning and Evacuation
+Task B. Emergency Shelter
+Task C. Damage Scenario
+Task D. Rerouting Traffic
+Task E. Restoring Services
+Task F. Damage Assessment
+Task G. Temporary Business Locations
+Task H. Tempo rary Housing
+Task I. Policies for Damaged Buildings
+Task J. Permit Processing
+Task K. Reconstruction Planning
+Task L. Mitigating Flood Hazards
+Mapper: ______________________________
+Group Recorder:________________________
+Handout 3
+Handout 4. RECOMMENDED ACTIONS
+TASKS ACTIONS Priority
+Task A
+Warning and
+Evacuation
+Task B
+Emergency
+Shelter
+Task C
+Damage
+Scenario
+Task D
+Rerouting
+Traffic
+Task E
+Restoring
+Services
+Task F
+Damage
+Assessment
+Task G
+Temporary
+Business
+Locations
+Task H
+Temporary
+Housing
+Task I
+Policies for
+Damaged
+Buildings
+Task J
+Permit
+Processing
+Task K
+Reconstruction
+Planning
+Handout 4
+SCRIPT -- TASK A. WARNING AND EVACUATION
+(You have 10 minutes to read the script. )
+Slide A1. Task A. Warning and Evacuation
+Most floods arrive with some warning. A well-prepared response to a flood warning
+can save lives and prevent property damage.
+
+In Task A you will decide how to
+respond to a flood warning which ____________________ (community) just received
+that the _______________ River will crest at about 9:30 this morning.
+Slide A2. Woman with child watching storm clouds
+Here you see a woman holding a child and watching with worry an approaching
+storm. The most basic warning system is simple observation. Typical river and stream
+flooding is preceded by unusually long or intense rainfall. Heavy rain means large
+amounts of water entering rivers and streams. Rising water levels are readily observed
+by anyone.
+Slide A3. National Weather Service office
+However, it is risky to rely just on personal observation. Sometimes flooding can occur
+from rainfall elsewhere in the watershed. Personal observation will not tell you how
+much of the rain will flow into the stream, when the flood will reach its peak, or how
+high it will be. Fortunately, the National Weather Service has a system for issuing
+flood warnings which relies on scientific observations of rainfall and runoff patterns.
+Here you see a Weather Service office where the information is collected and analyzed.
+The Weather Service notifies your state emergency management agency when a flood
+could occur. This is called a "flood watch."  It also issues a "flood warning" when
+flooding is imminent or already happening. The state notifies you if it has received a
+"watch" or "warning" affecting your community. You may also receive the notification
+directly from the Weather Service.
+Slide A4. Form for an official flood warning
+This shows the form used for an official flood warning issued by the National Weather
+Service. The warning tells when and where flooding is expected. Sometimes the
+warning predicts the height of the expected flood in feet above "flood stage."  Someone
+in your local government is designated to receive the warning and take appropriate
+actions. It may be the city manager, the police chief, or your local emergency manager.
+Slide A5. Flood warning siren
+This person's first task is to warn people who may be in danger. There are many ways
+to do this. A siren, as shown here, is often used. A siren is effective if people know
+what it means and what to do when they hear it. Some communities rely on getting the
+message out by radio, or they send policemen with bullhorns to vulnerable
+neighborhoods.
+
+Sometimes, emergency responders go door-to-door warning people.
+Regardless of how the initial warning is delivered, it must be accompanied by
+information telling people what to expect, when, and what actions they need to take.
+Slide A6. Cross section of floodplain
+Warnings are not useful unless you have identified the areas subject to flooding--
+usually low-lying areas adjacent to rivers and streams or other drainage channels.
+These areas are called floodplains. As shown on this cross section, a floodplain is
+composed of a channel defined by the banks of a stream; a floodway which carries the
+bulk of floodwaters, particularly the high velocity floodwaters; and a flood fringe
+which carries low velocity floodwaters that are not as deep as in the floodway.
+Slide A7. Terms for flood frequency
+The 100-year floodplain is the area that would be flooded by the 100-year flood. The
+100-year floodplain is a conventional measure of flood vulnerability and is used by
+FEMA as the basis for requirements in the National Flood Insurance Program. The
+slide defines a 100-year flood and a 1% flood. The terms are two ways of saying
+exactly the same thing. The 100-year flood is a statistical approximation saying that
+over many, many centuries such a flood will occur on the average of once every 100
+years. It has a 1% chance of being equaled or exceeded in any one year. Two points are
+important:  1) Floods much larger than the 100-year flood can and do occur, and 2) It is
+possible for a 100-year flood to occur two or three years in a row. It has the same
+probability of occurring each year.
+Slide A8. Flood insurance map showing A, B, and C zones
+FEMA provides flood-prone communities with maps showing the 100-year floodplain.
+The most commonly used maps are called Flood Insurance Rate Maps or FIRM's. This
+slide shows a FIRM. Zone A on the map is the 100-year floodplain. The numbers
+shown in Zone A are elevations above sea level. Zone B is the 500-year floodplain and
+Zone C is outside the 500-year floodplain. Interestingly, more than 30% of the flood
+insurance claims have been for damage to properties outside Zone A.
+
+Vulnerability to
+floods does not stop at the 100-year flood line or even the 500-year flood line. The map
+shows gradations in risk from flooding. Local officials must evaluate the information
+they receive about the severity of the approaching flood and decide what areas to
+evacuate.
+Slide A9. Evacuating people, Elmira, New York
+People are often in danger in homes and businesses located in low-lying areas, but may
+be reluctant to leave. Communities need a plan for evacuation before a flood strikes.
+The plan should identify the steps needed to evacuate those in danger and avoid
+desperate, last-minute attempts to help people to safety like you see here. These people
+are being evacuated by boat from downtown businesses in Elmira, New York long after
+the arrival of floodwaters. You may decide to exercise your community's emergency
+powers by ordering evacuation. People need to know safe routes to take and where
+they can go until the emergency has passed. You may need to assist the elderly,
+handicapped or other people with special needs. You also may be asked to provide
+some security for evacuated properties.
+Slide A10. Flood-damaged vehicles
+This shows cars and trucks swept up in a flood. When a flood is expected, it is very
+important to direct traffic to high and dry roads. About 90% of the people killed in
+flood disasters in the United States have been in cars swept away by floodwaters. It is
+easy to mistake both the depth and velocity of water on a road.
+Slide A11. Sandbagging in downtown Salt Lake City
+The first priority is always to ensure the safety of people, but with warning of a flood, it
+is often possible to protect property from flooding, too. This shows a street in
+downtown Salt Lake City before the flood in 1984. Sandbags line both sides of the
+street creating a channel for floodwaters to pass through the city. Thousands of people
+were mobilized within hours to place the sandbags overnight. The frantic effort saved
+many millions of dollars in property damage.
+Slide A12. Moving furniture from a house
+Here furniture is being moved from a house about to be flooded. Individuals and
+business can use warning time to move important records, furniture and other items to
+upper stories of buildings or to high ground.
+
+Local government can prepare the
+Emergency Operations Center or relocate it if, like so many, it is in a basement subject
+to flooding. Anything that can be done to prevent damage will make your life easier in
+the days, weeks, and months after the flood.
+Slide A13. Now begin Task A.
+Now turn to the instructions for Task A in your packet. Take time to read the steps
+before you begin. Please ask for help, if you need it. You have 30 minutes to decide
+how to respond to this morning's flood warning.
+Reminder to Facilitator:  Be sure to set the timer for 30 minutes.
+INSTRUCTIONS -- TASK A. WARNING AND EVACUATION
+(Time to complete the task:  30 minutes)
+Purpose
+Anticipate the impacts of a 100-year flood on your community and determine
+appropriate actions to respond to a flood warning.
+Materials
+oBase map o f the community showing parcels, roads, bridges, major facilities, and
+topography, if available.
+oThe most recent maps issued by the Federal Emergency Management Agency
+(FEMA) for the National Flood Insurance Program (NFIP). Most communities have
+Flood Insurance Rate Maps (FIRM's); however, some communities still use earlier
+maps called Flood Hazard Boundary Maps (FHBM's). In this exercise, NFIP maps
+are called FIRM's.
+oHandout A. Actions to Respond to a Flood Warning
+Steps
+1.Transfer the boundarie s of the 100-year floodplain from your FIRM to the base map
+using a solid line ( yellow ). If your FIRM shows the floodway, transfer those
+boundaries to the base map using a dotted line ( yellow ).
+2.Assume you have just received a warning from the National  Weather Service that
+the stream passing through your community is expected to reach flood stage at 9:30
+a.m. List on Handout A the actions you will take to protect people and property.
+3.On the base map, outline the road and bridges you will blockade  (orange ) and the
+areas you will evacuate, including those that you think will be flooded and those
+that will lose access ( brown ).
+4.How well prepared are you to respond to a flood warning?
+
+Discuss any problems
+you uncovered in your system for responding to a flood warning, and on Handout 4.
+Recommended Actions, list actions you can take now to improve the system.
+Products
+oBase map showing: 1) boundaries of the floodway and 100-year floodplain, 2) roads
+and bridges closed, and 3) areas evacuated
+oCompleted Handout A. Actions in Response to Flood Warning
+oEntries on Handout 4. Recommended Actions
+Instructions--Task A
+Handout A
+ACTIONS IN RESPONSE TO FLOOD WARNING
+Who receives the warning and has responsibility to act?
+What areas will you warn and how? How will you warn those with special needs
+(handicapped, elderly, etc.)?
+What areas will you evacuate? How long do you think it will take?
+Where will you send the evacuated people? What routes will you designate?
+What actions will you take to protect property from flood damage?
+Handout A
+SCRIPT -- TASK B. EMERGENCY SHELTER
+(You have 5 minutes to read the script. )
+Slide B1. Task B. Emergency Shelter
+Task B is to estimate shelter needs and identify safe buildings and locations for shelters.
+Emergency shelters address the immediate and pressing human needs for food, shelter,
+and care for people who have been evacuated from their homes.
+Slide B2. Red Cross disaster services center tent
+The Red Cross is responsible under Congressional charter for setting up and managing
+emergency shelters. This shows a Red Cross disaster services center tent. The Red
+Cross mobilizes quickly and is typically on the scene before the flood hits.
+Slide B3. Emergency shelter, Santa Cruz, California
+Here you see the inside of an emergency shelter in a community center. Shelter
+locations are usually predetermined; schools, churches, armories, and other public
+buildings can be used, but schools are the most common. If shelter costs are to be
+reimbursed by FEMA, Red Cross must approve shelter sites before they are opened.
+Slide B4. People entering emergency shelter in Elmira, New York
+These people are entering an emergency shelter in a high school in Elmira, New York
+during the 1972 flood. As you can see, rain is still falling and floodwaters are
+perilously close to the building.
+
+The shelter may have to be abandoned and the people
+evacuated a second time. It is important to select shelter sites that are safe from
+flooding and other hazards. Also, note the dog headed for the shelter with its owner.
+Pets are not permitted in Red Cross shelters, and local officials are often called on to
+provide shelter for pets as well as people.
+Slide B5. RV in front yard
+Not all displaced people use shelters. Lower-income people and people without family
+or social ties in the community are most likely to need shelter. According to the Red
+Cross, about 25% of the people displaced by any disaster (including floods) seek public
+shelter. The rest find shelter with family or friends or make other arrangements. This
+shows an RV placed in the front yard of a flooded property for shelter. Motels can also
+be an important source of emergency shelter. Red Cross can issue vouchers, ultimately
+paid for by FEMA, for short stays in motels.
+Slide B6. Now begin Task B.
+Now turn to the instructions for Task B. You have 15 minutes to define the need for
+emergency shelters and decide which ones to open.
+Reminder to Facilitator:  Be sure to set the timer for 15 minutes.
+INSTRUCTIONS -- TASK B. EMERGENCY SHELTER
+(Time to complete the task:  15 minutes)
+Purpose
+Determine emergency shelter needs and how to meet them.
+Materials
+oBase map with information from Task A
+oEmergency response plan
+Steps
+1.Look at the evacuated areas on the base map and estimate how many housing units
+have been evacuated and how many people are without shelter (number of
+households  X  persons per household). On the average, about 25% of people
+displaced by a disaster seek public shelter. From the information provided in the
+script and your knowledge of your community, decide what percentage of the
+evacuees will need emergency shelter and enter the number of people below.
+Number of people needing emergency she lter:  ____________
+2.Decide how many shelters to open to accommodate those in need, using the best
+information you have about shelter capacities. Then choose which shelters to open,
+making sure that you select ones that are outside the floodplain, accessible in times
+of flooding, and safe from other hazards.
+
+Outline the selected sites on the base map
+(green ).
+3.Discuss any problems you identified in your planning for emergency shelter, and
+on Handout 4. Recommended Actions, list actions you can take now to improve your
+ability to shelter displaced people.
+Products
+oBase map showing location of emergency shelters you have opened
+oEntries on Handout 4. Recommended Actions
+Instructions -- Task B
+SCRIPT -- TASK C. DAMAGE SCENARIO
+(You have 1 5 minutes to read the script. )
+Slide C1. Task C. Damage Scenario
+The flood warning proved warranted. A 100-year flood has struck your community.
+Along the _________________ (river or stream), water, mud, and debris are
+everywhere. Debris blocks the passage of floodwaters through culverts and under
+bridges and areas thought to be out of harm's way are flooded. Some bridges are out
+and at least one flood control structure has failed (if there are flood control structures
+on the stream). Many residences and commercial and industrial buildings are heavily
+damaged. Several public buildings can no longer be used. Buildings constructed
+before _______________ entered the National Flood Insurance Program in 19___ fared
+poorly.
+The rest of this script presents information about the types of flooding and the areas
+and buildings most vulnerable to flood damage. This is to help you decide how a large
+flood would impact your community and where the damage will be located.
+Slide C2. Rivers converging at Pittsburgh, Pennsylvania
+Here is the confluence of the Allegheny and Monongahela rivers at downtown
+Pittsburgh, Pennsylvania. They join here to form the Ohio River. It's hard to believe
+looking at this peaceful scene that these rivers can become raging torrents.
+Slide C3. Same scene with rivers flooding
+Here is the same scene with the rivers on the rampage. Over 22,000 communities in the
+United States are subject to flooding from rivers and streams. Year in and year out,
+floods cost the federal government more money in disaster assistance than all other
+types of disasters put together. Flooding in the Mississippi River system in 1993 caused
+almost $20 billion in damage. Riverine flooding is a serious problem throughout the
+nation.
+Slide C4. Chemung River flooding in Elmira, New York
+Riverine flooding has many faces.
+
+This shows the Chemung River flooding in Elmira,
+New York in 1972. River flooding is most often caused by too much rain falling over a
+prolonged period of time. The stream channels cannot contain the runoff and overflow
+their banks. Flooding occurs in areas adjacent to the streams.
+Slide C5. Flash flood in Buffalo Creek, West Virginia
+Some floods are flash floods. This shows damage from a flash flood which struck
+Buffalo Creek in West Virginia. Flash flooding is a very dangerous form of riverine
+flooding. It typically occurs following intense rain over a short time in a small
+watershed. The flooding often comes unannounced and the floodwaters are fast-
+moving and destructive.
+Slide C6. Failed dam in Rocky Mountain National Park
+Flash flooding can also occur because of the failure of a dam or other water retention
+structure. Here you see the Lawn Lake Dam which broke in Rocky Mountain National
+Park. The resulting flood struck the town of Estes Park, Colorado, causing extensive
+damage.
+Slide C7. Floodwater channel in mountainside, Rocky Mountain National Park
+This shows the channel scoured by water surging down the mountain following the
+dam break. The channel, shown here years after the dam failure, is still completely
+denuded of trees, underbrush, and soil. Inundation maps showing the areas that
+would be flooded if a dam totally fails with a reservoir at full capacity have been
+prepared for all "high-hazard" federal dams.
+Slide C8. Ice-covered river at Oil City, Pennsylvania
+Flooding can be caused by ice jams breaking up in the spring or on warm winter days.
+Here you see the ice-covered Allegheny River at Oil City, Pennsylvania. As the ice
+begins to thaw, it breaks into large blocks which begin to tumble downstream and can
+jam the river channel at natural bends, bridges, culverts, and other constricted areas.
+Slide C9. House damaged by ice in Peoria, Illinois
+This shows a house in Peoria, Illinois damaged by ice carried in the floodwaters on the
+Illinois River.
+Slide C10.
+
+Alluvial fan adjacent to the Colorado River
+Flooding can be particularly severe on alluvial fans--fan-shaped, areas formed by
+streams at the base of mountains or the mouths of ravines where the water abruptly
+loses speed, spreads out, and deposits sediment. This shows an alluvial fan on the
+California side of the Colorado River below Lake Havasu.
+Slide C11. Factors contributing to flood damage
+Factors that determine how damaging a flood will be include its depth , velocity ,
+duration , amount and kind of debris , the integrity of flood control structures , land uses
+in the watershed and floodplain, and the quality of building construction . The first
+three factors are primarily a function of the characteristics of the storm. Other things
+being equal, deep water, fast moving water, and water that stays for a long time cause
+extra damage.
+Slide C12. Debris in floodwaters, West Virginia
+The kind and amount of debris in flood waters is a critical damage factor. Here you see
+the impact of debris carried by floodwaters in West Virginia. Water-borne debris--
+trees, cars, parts of buildings--acts as battering rams, capable of demolishing bridges,
+levees, and buildings. Debris can dam up culverts and other restricted areas in a
+stream channel causing overflows to be deeper and more extensive than predicted on
+flood hazard maps. When hydrologists map 100-year floodplains for FEMA, they
+consider only clear-water flooding; however, floodwaters are rarely free of debris.
+Slide C13. Broken floodgate, Folsom Dam
+The integrity of flood control structures is also a critical damage factor. This is a 1995
+photo of a broken floodgate at Folsom Dam above Sacramento, California. People in
+the highly urbanized area downstream were lucky--the dam did not fail completely
+and little damage was done. However, damage can be very severe when structures
+designed to prevent flooding fail or are overtopped by floods larger than they were
+designed to handle. The FIRM's are drawn assuming that flood control structures will
+work as intended. This is not always the case. During the 1993 Midwest floods, over
+1,000 of the 1,500 levees along the upper Mississippi River and lower Missouri River
+broke or were overtopped.
+
+About one-third of damaging floods in the United States
+involve the failure or overtopping of a levee or floodwall intended to protect a
+community from flooding.
+Slide C14. New houses behind a dike along the Sacramento River
+Another problem with flood control structures is shown here. This man is standing on
+a dike along the Sacramento River. He lives in one of the new homes, shown on the
+right, that were built after the dike was constructed. The homes are in a frequently-
+flooded basin totally surrounded by rivers and, now, dikes. With the dikes in place,
+these houses and a 17,000-seat sports arena were built and developers are proposing to
+built another 33,000 houses in the basin. Property and lives are now at risk in this
+previously undeveloped floodplain. Another homeowner in this area, a city council
+woman, recognizes the inherent risk by storing a rowboat on her roof.
+Slide C15. Watershed development, Laguna Beach, California
+This shows a developed hillside in southern California. Watershed development can
+increase the frequency and height of floods. Paved surfaces prevent the soil from
+absorbing rainfall, thus increasing runoff. The runoff is collected in storm drains and
+storm channels and sped to streams and rivers, contributing to flood flows. Sometimes,
+existing storm drains are too small to handle the runoff from new development causing
+backups and local flooding.
+Slide C16. Structures in the floodway, Guerneville, California
+Some buildings and facilities are particularly prone to flood damage because of their
+locations, construction, or function. Buildings located in the floodway, such as these
+houses on the Russian River in northern California, are flooded frequently. Structures
+like these in the floodplain, particularly in the floodway, can also raise the height of
+floodwaters by reducing the carrying capacity of the floodway. They can also redirect
+floodwaters to areas that might otherwise be out of danger.
+Slide C17. Pre-FIRM building
+"Older" buildings like this one, called pre-FIRM buildings, are those constructed before
+the community entered the National Flood Insurance Program usually sometime in the
+1970's.
+
+As a condition for entering the program, the city had to adopt floodplain
+regulations requiring new residential buildings in the 100-year floodplain to be
+elevated to or above the level of the 100-year flood. New commercial buildings must
+be either elevated or floodproofed. Buildings constructed before the city adopted such
+regulations are usually more vulnerable to flood damage.
+Slide C18. Elevated houses in floodplain
+This shows buildings in the floodplain. The two houses at the bottom of the slide are
+constructed on fill and the gray house across the road from them is elevated. Access to
+the elevated houses is lost, but people in the houses and their contents appear secure.
+Elevated buildings like these are obviously less vulnerable to flooding than non-
+elevated structures.
+Slide C19. Damaged mobilehome in Estes Park, Colorado
+Mobilehomes are particularly vulnerable to flood damage. The force of the water can
+knock them off their supports or foundations and toss them about like toys. This
+mobilehome in Estes Park, Colorado was destroyed by a flash flood in 1982.
+Slide C20. Scenic river road in northern California
+Scenic roads like this one in northern California, as well as busy interstate highways,
+often follow the course of rivers and streams. Floodwaters can overrun the roads, wash
+out sections, and leave them impassable for days and weeks after a flood.
+Slide C21. Submerged bridge
+Bridges are a critical lifeline in many cities tying two parts of a community together or
+providing an essential link to the outside world. This shows a bridge in the Midwest
+submerged by flooding in 1979. People living in the houses in the background are now
+cut off from the other side of the river.
+Slide C22. Sewage treatment plant during flood
+Water and sewage systems are especially vulnerable to flood damage. This shows a
+sewage treatment plant which just escaped flooding because it is elevated on fill.
+Treated sewage is typically discharged into the nearest body of water. This means that
+treatment plants are usually located in floodplains next to rivers or streams. Damage to
+the plants often means that untreated sewage is discharged into the floodwaters
+leading to potential health hazards and pollution problems.
+Slide C23. Water pumping station in Hull, Illinois
+Other utilities are also vulnerable to flood damage.
+
+This shows a water pumping
+station in Hull, Illinois, protected by sandbags from flooding in 1993. Without the
+emergency sandbagging, the community would have been without water.
+Slide C24. Unlabeled drum on Mississippi River
+Floodwaters and hazardous materials don't mix well. This shows an unlabeled drum
+floating down the Mississippi River near Hannibal, Missouri. The dilemma for
+emergency responders in situations like this is deciding what to do. The drum could
+carry explosive or toxic materials, posing an additional danger to riverside
+communities already faced with flooding. All tanks and drums holding hazardous
+materials must be labeled and tied down.
+Slide C25. Now begin Task C.
+Now it's time to begin Task C and create your own flood damage scenario. You have
+45 minutes to complete this task.
+Reminder to Facilitator:  Be sure to set the timer for 45 minutes.
+INSTRUCTIONS -- TASK C. DAMAGE SCENARIO
+(Time to complete the task:  45 minutes)
+Purpose
+Identify the significant impacts of the flood, using judgment and the best information
+available to you.
+Materials
+oBase  map showing information from Tasks A and B
+oInformation on the effects of previous floods in your community
+Steps
+1.Identify at least one culvert or bridge where debris has piled up obst ructing the
+passage of floodwaters. Also, identify at least one flood control structure that has
+failed (if there are any on the stream). This could be a berm, levee, floodwall, dam,
+or channel modifications.
+
+Then, draw the boundaries of the area actually flooded
+considering the failed flood control structure(s), clogged culvert(s), and low-lying
+areas with drainage problems ( blue ).
+2.Outline flood damage on the base map as follows:
+a)all flooded areas with a concentration of unelevated or non-flood- proofed
+buildings in the floodplain ( orange ).
+b)major facilities, such as hospitals, schools, emergency operations centers, police
+and fire stations, and other government buildings that have at least temporarily
+lost access or function ( purple ).
+c)bridge s, roads, and other transportation facilities which have been washed out
+by the flood ( red).
+d)utilities including water and sewage treatment facilities and pipelines, power
+substations, and gas and electric distribution lines damaged in the flood ( black ).
+3.Review your evacuation areas and redraw the boundaries if needed ( brown ).
+Estimate how many additional people will need emergency shelter: __________. On
+the base map, show any additional emergency shelters that will be opened ( green ).
+4.Could any of this damage have been avoided? On Handout 4. Recommended Actions,
+list actions you can take now to avert damage in future floods.
+Products
+oBase map showing the major impacts of the flood
+oEntries on Handout 4. Recommended Actions
+Instructions -- Task C
+SCRIPT -- TASK D. REROUTING TRAFFIC
+(You have 5 minutes to read the script. )
+Slide D1. Task D. Rerouting Traffic
+In Task D you decide how to manage the flow of traffic to compensate for washed-out
+bridges and roads.
+Slide D2. Washed-out bridge in Puerto Rico
+The loss of bridges and roads severely hampers a community's return to normal
+functioning after a damaging flood. Here is a bridge washed out in Puerto Rico in
+1985. Its loss prevented travel on the major east-west highway in Puerto Rico, forcing
+long detours. Most flood damaged bridges and roads can be quickly patched up and
+reopened, but a major bridge or highway can take months, even years, to replace. In
+the meantime, alternate routes must be found.
+Slide D3.
+
+Traffic control at a washed-out road
+The first task in managing traffic flow is to prevent travel on unsafe roads or bridges.
+This shows a barricade alerting drivers that the road is impassable. Local officials may
+need to close low-lying roads and vulnerable bridges when a flood warning has been
+received. Control of traffic continues during the flood and on into the recovery period.
+Slide D4. Map of emergency traffic routes, Salt Lake City
+Once the flood has passed, the emphasis shifts to adjusting traffic patterns to the fact of
+washed out roads and bridges. New routes around the damaged sections need to be
+selected and designated so that drivers know what to do. This is a map designating
+emergency traffic routes through Salt Lake City during the 1984 flood. As you will
+recall, the city used a main street through town as a channel for floodwaters. Traffic
+was diverted to either side of the flooded street, as shown here.
+Slide D5. Detour graded around washed-out road
+As we see here, traffic patterns can sometimes be restored temporarily pending
+permanent repairs. Sometimes detours can be quickly graded around washed out
+portions of roads.
+Slide D6. Temporary "Bailey" bridge
+Sometimes temporary bridges can be installed. This temporary "Bailey" bridge was
+quickly erected by the U.S. Army Corps of Engineers to replace a washed-out bridge
+over the Carmel River after northern California floods of March 1995. This one-way
+bridge permitted traffic flow across the river until a permanent bridge could be built. It
+can take many months to design and construct new bridges and major highways.
+Slide D7. Railroad cars used as temporary bridge
+One interesting way to provide a temporary bridge is to use railroad cars. This
+clipping tells of using 12 flatbed railroad cars welded together to form a temporary
+bridge in California's Central Valley. Flooding in March 1995 washed out the bridge on
+Interstate 5 crossing Pasajaro Creek. With the temporary bridge in place, travel
+resumed less than a week after the flood on Interstate 5--California's most heavily-
+traveled north-south truck route. Permanent replacement is expected to take at least six
+months.
+Slide D8.
+
+Boat used for access
+Another temporary way to ease the impact of a lost bridge or highway is to use boats.
+The only way to get to this house is by boat. Ferries can be used to carry people across
+rivers where bridges have been washed away.
+Slide D9. Now begin Task D.
+Now, turn to the instructions for Task D. Your primary tool is the base map. You have
+15 minutes to complete this task.
+Reminder to Facilitator:  Be sure to set the timer for 15 minutes.
+INSTRUCTIONS -- TASK D. REROUTING TRAFFIC
+(Time to complete the task:  15 minutes)
+Purpose
+Reroute traffic to provide temporary access to areas of the community cutoff by
+washed-out bridges or roads.
+Materials
+oBase map with information from Tasks A-C
+Steps
+1.On the base map, review the roads and bridges lost in the flood and areas evacuated
+because of loss of access. Mark where roadblocks will be needed and draw in
+detours ( green ).
+2.Note below other possible ways, such as ferries, temporary bridges, etc., to restore
+access to the areas you have identified. Consider the impacts of the flood on other
+means of transportation including rail, boat and airplane:
+_________________________________________________________________
+_________________________________________________________________
+_________________________________________________________________
+______________________ ___________________________________________
+_________________________________________________________________
+3.What problems rerouting traffic and providing access do you foresee? Could any
+be averted by planning ahead? On Handout 4. Recommended Actions,  list actions that
+might be taken now to avoid the problems identified.
+Products
+oBase map marked to show alternative traffic routes
+oList of actions to overcome access problems
+oEntries on Handout 4. Recommended Actions
+Instructions -- Task D
+SCRIPT -- TASK E. RESTORING SERVICES
+(You have 5 minutes to read the script.)
+Slide E1. Task E. Restoring Services
+The ability to deliver essential services to people is often destroyed by a flood. Quick
+restoration is essential to protect public health and safety. Task E is to identify areas
+without services and determine how to restore services quickly.
+Slide E2. Severed utility lines to house in Farmington, Utah
+Utility systems are particularly vulnerable to flood damage. This shows a house in
+Farmington, Utah flooded in 1982.
+
+All the underground utility lines serving the house-
+-water, sewer, gas and electric have been severed. A debris blockage diverted
+floodwaters to the road. The road was undermined and collapsed, destroying the
+buried utility lines.
+Slide E3. Flooded electric power substation, Keithsburg, Illinois
+Areas without essential services need to be identified quickly to plan for meeting the
+needs. This electric power substation in Keithsburg, Illinois was flooded in the
+Midwest floods of 1993. Residences and businesses in Keithsburg lost power as a
+result.
+Slide E4. Temporary above-ground water connection in Inverness, California
+Floods and mudslides in the small Tomales Bay community of Inverness in northern
+California destroyed the water pipes feeding water from a spring into the distribution
+system. This shows a temporary above-ground water line which restored water service
+to residents and businesses. In areas left without water, the Red Cross can arrange for
+water to be trucked in. If it appears that repairs to the system will take weeks or
+months, a temporary, above-ground distribution system like this one makes sense.
+Slide E5. Damaged city hall/EOC, Hull, Illinois
+The loss of other public facilities also brings the need for immediate adjustments. This
+shows the city hall, containing the EOC, in Hull, Illinois damaged in the 1993 Midwest
+floods. The man is standing in front of the Post Office, next door to City Hall, pointing
+out the high water mark on the building. Obviously emergency response operations
+needed to based somewhere else during the flood.
+Slide E6. Sandbagged school
+This shows a school flooded in the Midwest floods of 1993 in spite of community
+efforts to protect it with sandbags. Damage to school buildings is particularly difficult
+for a community. Schools are often needed for emergency shelter. Also, after the flood
+has passed, the ability to resume normal school hours and activities is a crucial step in
+restoring a sense of normality to family and community life after the trauma of the
+disaster.
+Slide E7. Now begin Task E.
+You have 15 minutes to decide how to handle  service disruptions caused by this
+morning's flood.
+Reminder to Facilitator:  Be sure to set the timer for 15 minutes.
+INSTRUCTIONS -- TASK E.
+
+RESTORING SERVICES
+(Time to complete the task:  15 minutes)
+Purpose
+Make plans to temporarily restore essential utilities and public services until permanent
+repairs to the flooded facilities are completed.
+Materials
+oBase map with information from Tasks A-D
+Steps
+1.On the base map, review the information you have added showing flooded utility
+facilities and lines and public facilities. Outline areas that would be affected by
+service disruptions, especially water and sewer ( red).
+2.In the space provided below, note the key actions you will take to restore utilities
+and public services until permanent repairs can be completed.
+_________________________________________________________________
+____________ _____________________________________________________
+_________________________________________________________________
+_________________________________________________________________
+________________________________________________________________ _
+_________________________________________________________________
+3.What problems do you foresee in restoring vital utilities and public services to the
+community? On Handout 4. Recommended Actions, list actions that might be taken
+now to avoid the problems identified.
+Products
+oBase map marked to show areas with disrupted utility service
+oList of actions to restore essential utilities and public services
+oEntries on Handout 4. Recommended Actions
+Instructions  -- Task E
+SCRIPT -- TASK F. DAMAGE ASSESSMENT
+(You have 5 minutes to read the script.)
+Slide F1. Task F. Damage Assessment
+Task F is to assess the flood damage. This task fine tunes the damage scenario
+completed in Task C, looking beyond areas to individual buildings. After a real flood,
+your state emergency management office will want detailed damage assessments of
+flooded facilities to determine what disaster assistance your jurisdiction will be eligible
+for. You also need this information to determine needs for recovery and rebuilding.
+Slide F2. Helicopter used to assess damage, Thistle, Utah
+This helicopter is being used for the initial assessment of damage from the flood which
+engulfed Thistle, Utah in 1983. The town was totally inaccessible except by air. This
+initial assessment is often done as a "windshield" survey by the Red Cross, police chief
+or other local officials. The purposes are to grasp the overall magnitude of the damage,
+identify situations requiring immediate emergency response, and begin to assess
+recovery needs.
+
+It is followed by a more formal "preliminary damage assessment" to
+estimate numbers of flooded buildings and the dollar value of the damage.
+Information from the preliminary damage assessment is forwarded to the state and
+possibly to the federal government as the basis for a disaster declaration.
+Slide F3. Building with red tag in Albany, Georgia
+The assessment of individual structures results in the posting of all inspected buildings,
+usually with a red, yellow, or green tag. Here you see a flood-damaged building in
+Albany, Georgia with a red tag just beneath the eave on the righthand door. This
+means "unsafe, do not enter or occupy."  A yellow tag means "limited entry, off limits
+to unauthorized personnel." A green tag means "inspected, no restriction on use or
+occupancy."  When in doubt, it is wise to err on the side of safety by using a red tag. It
+can be changed later to yellow or green based on more careful evaluation.
+Slide F4. Classifying flood damage to buildings
+This list shows information you need to collect about each flooded building-- use or
+occupancy, location with respect to the floodway and 100-year floodplain, percent
+damage, historic status . In assessing damage, it is important to classify flooded
+buildings according to their use and occupancy so you can anticipate the recovery
+needs of displaced residents, businesses, and public services. Also, building use is
+important because the flood insurance program has different requirements for
+residential structures than for other buildings. Let's look at the reasons for the other
+items on the list.
+Slide F5. Houses flooded in Thistle, Utah
+First, all flooded buildings need to be assessed, whether or not they are in the 100-year
+floodplain. This shows houses damaged by a flood in Thistle, Utah caused by a
+landslide which blocked the river, creating a lake where before there was a town. In a
+world that operated according to statistical models, these buildings would not be
+flooded. They are outside the 100-year floodplain. However, more than 30% of claims
+for flood insurance are for damage to properties located beyond the 100-year
+floodplain. This is because no flood is exactly like the model 100-year flood chosen as
+the basis for flood disaster planning and mitigation.
+Slide F6.
+
+Building in 100-year floodplain
+This is a building in a 100-year floodplain. Damaged properties in the 100-year
+floodplain, as shown on maps issued by FEMA, come under the requirements of the
+National Flood Insurance Program. As a participant in the program, your community
+has a floodplain management ordinance specifying conditions for the repair and
+reconstruction of flood-damaged buildings in the 100-year floodplain.
+Slide F7. Building with more than 50% damage
+Here is a flooded house with damage obviously exceeding 50% of its market value.
+Under FEMA's minimum requirements for local floodplain management ordinances,
+buildings like this can be repaired only if they are brought up to full code compliance
+including elevation to or above the 100-year flood level.
+Slide F8. Categories for percent damage
+Many communities use three categories in assessing percent damage, as shown here--
+up to 40%, 40% to 60%, and more than 60%. The middle group (40%-60%) brackets the
+buildings which might have 50% or more damage. Making this determination is
+strictly a local responsibility under the National Flood Insurance Program. Often real
+estate appraisers are needed to assist with this difficult and politically-sensitive task.
+Slide F9. Flood-damaged historic building
+This shows an historic building damaged in the 1993 Midwest floods. Procedures for
+handling damaged historic buildings are more complex than for non-historic
+structures. Local governments are constrained by both federal and state regulations
+from permitting the demolition of historic buildings after disasters. So, it is important
+to identify historic buildings in the damage assessment.
+Slide F 10. FEMA GPS system for damage assessment
+FEMA is beginning to apply a new "high-tech" way to assess damage quickly after a
+natural disaster. Using a global positioning system (GPS) giving latitude and longitude
+combined with digital photos, FEMA is able to accurately locate flooded areas and
+damaged structures. In the 1994 floods in Atlanta, Georgia, FEMA provided the city
+with a data file of 5,000 flooded buildings two weeks or so after the flood. This shows
+a similar product developed following the 1993 Midwest floods.
+Slide F11. Now begin Task F.
+Please turn to the instructions for Task F to conduct your own damage assessment. You
+will also find Handout F --a table to record the information.
+
+You have 25 minutes to
+complete this task.
+Reminder to Facilitator:  Be sure to set the timer for 25 minutes.
+INSTRUCTIONS -- TASK F. DAMAGE ASSESSMENT
+(Time to complete the task:  25 minutes)
+Purpose
+Determine the extent of damage and number of damaged buildings.
+Materials
+oBase map with information from Tasks A-E
+oExisting land use map or land use plan
+oLists of historic build ings
+oHandout F. Damage Assessment
+Steps
+1.Based on information you have recorded on the base map and your knowledge of
+the community's building stock, fill out Handout F. Damage Assessment  as follows:
+a)In column 1, enter your estimate of the tota l number of flood-damaged buildings
+in each land use category.
+b)In column 2, enter your estimate of the number of flood-damaged buildings in
+each land use category that are located in the 100-year floodplain.
+c)In column 3, enter your estimate of the number of flood-damaged buildings in
+each land use category with damage amounting to 50% or more of their pre-
+flood market value. As a rule of thumb, consider that at least 10% of the
+damaged buildings in the 100-year floodplain will have 50% or more damage.
+Buildings constructed before about 1975 (or whenever your community entered
+the NFIP) are most vulnerable.
+d)In column 4, enter your estimate of the number of flood-damaged historic
+buildings in each land use category.
+e)Estimate the number of build ing inspectors you will need to complete the
+damage assessment in 3 to 5 days. Enter the number on Handout F .
+2.On the base map, outline in blue  parcels with buildings damaged 50% or more.
+Place an orange "H"  on parcels with damaged historic buildings.
+3.Could you be better prepared to conduct a post-flood damage assessment? On
+Handout 4. Recommended Actions, list actions that might be taken now to make this
+task easier after a flood.
+Products
+oBase map showing buildings damaged 50% or more and damaged historic
+buildings
+oCompleted Handout F. Damage Assessment
+oEntries on Handout 4.
+
+Recommended Actions
+Instructions -- Task F
+Handout F
+DAMAGE ASSESSMENT
+1
+# Damaged
+buildings2
+In 100-year
+floodplain3
+50% +
+damage4
+Historic
+Residential
+Commercial
+Industrial
+Public
+Totals
+Number of building inspectors needed to complete assessment in 3-5 days:
+_____________
+Handout F
+SCRIPT -- TASK G. TEMPORARY BUSINESS LOCATIONS
+(You have 5 minutes to read the script.)
+Slide G1. Task G. Temporary Business Locations
+In Task G, you will select facilities and sites for temporary business locations.
+Businesses that cannot open their doors soon after a flood usually fail, losing clients to
+competing businesses--often in other jurisdictions. Quickly providing a place where
+displaced businesses can set up shop can help prevent business failures and allow
+businesses to provide necessary goods and services to the community during recovery.
+Slide G2. Flooded retail street in Georgia
+Not all damaged businesses will needed new locations. Many, like these stores flooded
+in Georgia in 1994, will be able to clean up and reopen quickly, if only on the sidewalk.
+Local government can help this process by quickly removing mud and debris so that
+commercial streets can be opened.
+Slide G3. Flooded businesses along the Russian River, Guerneville, California
+If you look closely you will see the tops of a sign and light standards belonging to a gas
+station in Guerneville, California during the January 1995 flood on the Russian River.
+This commercial area is in obvious trouble.
+Slide G4. Businesses operating from trailer in Guerneville, California
+Here is the same location a month later. The owner installed a temporary building to
+house the gas station, deli and mini-market and was back in business about two weeks
+after the flood. Workers are replacing floors, wallboard, and wiring in the flooded
+building shown on the right and the owners expect to reoccupy it in another month.
+Slide G5. Flood sale in Guerneville, California
+Here we see a parking lot, also in Guerneville, being used by local merchants as a
+makeshift outdoor market. Sometimes a community has vacant commercial space or
+land that can be used temporarily for displaced businesses.
+
+Cities can work with local
+business associations and property owners to identify sites that might be used
+temporarily by displaced businesses.
+Slide G6. Portable janitor in Montpelier, Vermont
+You also may need to provide space for businesses coming into the community to help
+with recovery. This is a "portable janitor" set up in a park in Montpelier, Vermont in
+1992 to help people clean up after a flood.
+Slide G7. Napa Auto Parts, Guerneville, California
+Outlets that are part of a chain have resources for recovery not available to
+independent, local businesses. This shows a Napa Auto Parts store in Guerneville,
+California set up for business in a temporary building with a trailer to store inventory.
+This outlet can draw on resources from its parent company and is likely to recovery
+more quickly than local stores. After a flood, residents receive help from a variety of
+sources including the Red Cross and FEMA, but local businesses are basically left on
+their own to recover. Cities can help most by effectively managing overall recovery
+and working cooperatively with local businesses.
+Slide G8. Criteria for temporary business locations
+Good temporary business locations are vacant , accessible  and safe from further flood
+damage. They should be close to the damaged commercial district  to encourage
+retention of patrons. The facilities or sites should be readily provided with utilities  and
+parking . If private property is used, it is best if it is planned and zoned for commercial
+uses .
+Slide G9. Now begin Task G.
+The instruction page for Task G tells you how to find temporary business locations.
+You have 15 minutes to complete the task.
+Reminder to Facilitator:  Be sure to set the timer for 15 minutes.
+INSTRUCTIONS -- TASK G. TEMPORARY BUSINESS LOCATIONS
+(Time to complete this task:  15 minutes)
+Purpose
+Provide sites and facilities for business operations until damaged commercial buildings
+can be repaired or replaced.
+Materials
+oHandout F. Damage Assessment
+oBase map with information from Tasks A-F
+oCommunity plan, redevelopment or downtown plan
+oZoning map
+Steps
+1.Assume that several small businesses have been flooded and the buildings cannot
+be immediately reoccupied after the flood. Select vacant facilities suitable as
+temporary business locations, if available.
+
+Also select suitable sites for temporary
+commercial structures. Look for vacant and available sites that are accessible and
+close to the pre-flood location of displaced businesses. The sites should have
+utilities available, and plenty of parking. Outline the facilities and sites in brown
+on the base map.
+2.Could the businesses in your community be better prepared to survive a flood? On
+Handout 4. Recommended Actions, list actions that the community might take now to
+improve post-flood business survival.
+Products
+oBase map showing facilities and sites selected for temporary business locations
+oEntries on Handout 4. Recommended Actions
+Instructions -- Task G
+SCRIPT -- TASK H. TEMPORARY HOUSING
+(You have  5 minutes to read the script )
+Slide H1. Task H. Temporary Housing
+In Task H, you estimate the need for temporary housing and identify resources,
+including sites for temporary housing, to meet the need. Temporary housing bridges
+the gap between the time emergency shelters close and people are able to find long-
+term housing. It is important to help keep that gap as short as possible for as many
+people as possible.
+Slide H2. Bucket brigade in Utah
+After a flood, the first step is to help as many people as possible return to their homes
+quickly. This means doing many of the things noted earlier--removing mud and debris
+from streets, providing access, and restoring utility services. Community efforts can
+help people get back into their homes. Here we see a bucket brigade bailing out a
+flooded basement of a house in Utah.
+Slide H3. Person bailing out his house
+This man in Cheyenne, Wyoming is bailing out his house on his own. In many cases,
+cleanup is all that is needed for a family to reoccupy a flooded house or apartment.
+Local officials can help by providing information about how to dry and clean water-
+soaked and muddy wallboard, flooring, carpeting, appliances, and other household
+possessions.
+Slide H4.
+
+Vacancy sign
+Vacant apartments, like this one, and hotel or motel rooms can serve as temporary
+housing for people who cannot move quickly back into their flooded residences.
+Housing vouchers are sometimes issued by HUD to help families pay the rent for this
+kind of temporary housing.
+Slide H5. People applying for housing assistance at a DAC
+In some cases, you may have no alternative but to provide temporary housing
+structures. Generally, low-income households have the greatest and longest need for
+temporary housing. This shows people applying for housing and other assistance at a
+Disaster Assistance Center.
+Slide H6. FEMA trailers
+This is a FEMA trailer. FEMA considers trailers a last resort and makes them available
+sparingly. The agency prefers that they be placed on the individual flooded properties,
+but sometimes this is not possible. You may need to create a temporary housing
+development using trailers, RV's, prefab housing, or some other easily erected
+structures. Once the infrastructure for housing is in place, such property typically
+continues to be used for similar housing after the temporary housing has been
+removed.
+Slide H7. Criteria for temporary housing sites
+Good temporary housing sites are vacant , accessible , and safe. They can be easily
+provided with utilities . If possible, they should be close to public services  and the
+former neighborhoods  of those being housed. Available public land  is often used
+giving public control over reuse of the property when housing is removed. If private
+land is used, it should be planned and zoned for housing .
+Slide H8. Now begin Task H.
+In the next 15 minutes, you are to estimate the need and select locations for temporary
+housing. Please turn to the instructions for Task H.
+Reminder to Facilitator:  Be sure to set the timer for 15 minutes.
+INSTRUCTIONS -- TASK H. TEMPORARY HOUSING
+(Time to complete the task:  15 minutes)
+Purpose
+Help people find housing after the emergency shelters have closed and before
+damaged housing is repaired or replaced.
+Materials
+oNumber of people needing emergency shelter from Task B
+oBase map with information from Tasks A-G
+oHandout F. Damage Assessment
+oCommunity plan and zoning map
+Steps
+1.Revi ew Handout F.
+
+Damage Assessment  and your estimate of shelter population from
+Task B. From this information and your general knowledge of the income,
+ethnicity, age, and special needs of the community's population, estimate the
+number of households needing temporary housing. As a rule of thumb, you can
+assume that about 10 percent of the shelter population will need assistance with
+temporary housing (divide by average number of persons per household to get
+number of units).
+2.Identify on the base map ap artment buildings, hotels, and motels which were not
+flooded and are likely to have vacant units which could be used to meet part of the
+need for temporary housing ( yellow ).
+3.Select sites with suitable infrastructure to be used for trailers or prefab ho using,
+considering that the selected sites could continue to be used for housing after the
+need for temporary housing has passed. Outline the selected temporary housing
+sites in yellow  on the base map.
+4.Does your community have adequate housing progr ams now which could be used
+to aid flood victims? On Handout 4. Recommended Actions, list actions that the
+community might take now to help people bridge the gap between emergency
+shelters and permanent rehousing.
+Products
+oBase map showing sites selec ted for temporary housing
+oEntries on Handout 4. Recommended Actions
+Instructions -- Task H
+SCRIPT -- TASK I. POLICIES FOR DAMAGED BUILDINGS
+(You have 5 minutes to read this script.)
+Slide I 1. Task I. Policies for Damaged Buildings
+In Task I you apply policies in your local floodplain management ordinance to
+determine the fate of flood-damaged buildings. FEMA establishes minimum policies
+which must be incorporated in local ordinances as a condition for participation of the
+community in the National Flood Insurance Program. This script describes those
+policies.
+Slide I2. Broken levee, Midwest
+Here we see a levee broken in the 1993 Midwest floods. Until decisions are made about
+rebuilding the levees, property owners cannot make informed decisions about
+damaged buildings.
+
+An important policy question at this point is, "Is public money
+better spent relocating vulnerable uses out of the floodplain or reconstructing levees or
+other flood protection works?"  In some cases, you may need to defer decisions about
+buildings until the fate of flood protection structures is decided.
+Slide I3. Options for flood-damaged buildings
+This slide lists the policy options a community has when faced with flood-damaged
+buildings. Buildings may be removed  from the floodplain, that is, demolished or
+physically relocated; repaired  with or without additional flood protection such as
+elevation or floodproofing; rebuilt  on the same site meeting standards in the current
+building code and floodplain management ordinance. The choices depend on the
+amount of damage, the location of the building, and the preferences of the community
+and building owners.
+Slide I4. Building in the floodway, Old Woman's Bend, Michigan
+This shows a building in Old Woman's Bend, Michigan constructed in the floodway. It
+was severely damaged in a flood in 1986. Building owners often want to repair and
+reoccupy such buildings; however, under minimum local floodplain management
+regulations, buildings that cause an increase in flood elevations may not be constructed
+in the floodway. This floodway building is an obvious candidate for removal.
+Slide I5. House being moved
+This house is being moved to a new location outside the floodplain. Removal or
+elevation are the two options for houses damaged more than 50%. It may be less
+expensive to move a building than to elevate it or try to control the source of flooding.
+Slide  I6. Elevated houses in Guerneville, California on the Russian River
+The other option for severely damaged houses is elevating them so that the living areas
+are at or above the 100-year flood level. This shows elevated houses in Guerneville,
+California on the Russian River. These houses escaped damaged in the January 1995
+flooding, although floodwaters almost reached the elevated living space and access to
+the houses was cut off during the flooding.
+Slide I7. Floodproofed restaurant
+Owners of commercial buildings have the option to floodproof rather than elevate their
+buildings in the 100-year floodplain. Floodproofing can take many forms.
+
+This shows
+a restaurant in the Midwest protected from flooding by a flood wall. The flood has cut
+off its access, but the building remains undamaged.
+Slide I8. Wet floodproofed building in Morgan City, Louisiana
+This shows a "wet" floodproofed commercial structure in Morgan City, Louisiana. The
+building is designed to let floodwaters inside, but you can see the electrical panels and
+office are raised above the flood level. Although located in the 100-year floodplain,
+buildings like this should have less damage than unprotected buildings.
+Slide I9. Pre-FIRM building with less than 50% damage
+This pre-FIRM building in Illinois was damaged less than 50% of its value in the 1987
+Midwest floods. Under minimum floodplain management regulations, this building
+may be repaired to its pre-flood condition without elevation or floodproofing.
+Buildings like this pose difficult policy questions. Approximately 40% of flood
+insurance claims are for properties which have received payments in previous floods.
+Pre-FIRM buildings can receive 20-30% damage over and over. Their owners can still
+buy flood insurance and are not required to increase the buildings' flood resistance.
+Local governments must decide when enough is enough. They can adopt regulations
+more stringent than mandated by FEMA to require the removal, elevation, or
+floodproofing of moderately-damaged, pre-FIRM structures in the 100-year floodplain.
+Slide I10. Flood-damaged historic building, Keithsburg, Illinois
+Historic buildings need special consideration. This historic building in Keithsburg,
+Illinois was severely damaged in the 1993 Midwest floods. It cannot be removed or
+altered without review by the State Historic Preservation Officer (known as the
+SHipPO). The historic integrity of such buildings should be preserved as they are
+being repaired or brought up to code. Local policy is important in determining what
+buildings are considered historic and how they can be modified to increase resistance
+to flood damage.
+Slide I11. Now begin Task I.
+Now turn to the instruction page for Task I. You will also find a table in Handout I for
+recording your policy decisions about flood-damaged buildings.
+
+You have 40 minutes
+to complete the task.
+Reminder to Facilitator:  Be sure to set the timer for 40 minutes.
+INSTRUCTIONS -- TASK I. POLICIES FOR DAMAGED BUILDINGS
+(Time to complete the task:  40 minutes)
+Purpose
+Apply or revise provisions in your floodplain management ordinance to determine the
+fate of flood-damaged buildings.
+Materials
+oBase map with information from Tasks A-H
+oFloodplain management ordinance
+oHandout I. Policies for Damaged Buildings
+Steps
+1.On the base map, outline areas where you would consider a temporary moratorium
+on repairs and rebuilding pending damage assessment of individual structures and
+decisions about the repair or replacement of flood control structures ( black ).
+2.In Column 1 of Handout I. Policies for Damaged Buildings , enter brief summaries of
+your current policies as contained in the floodplain management ordinance and any
+other relevant plans or ordinances as they pertain to decisions about flood-damaged
+structures in the floodway, the 100-year floodplain, and outside the floodplain.
+Also note existing policies pertaining to the repair or demolition of flood-damaged
+historic buildings regardless of location.
+3.Next, review your current policies and identify any changes you would make to
+guide repairs, demolitions and rebuilding after this flood. Record your changes in
+Column 2 of Handout I.
+4.On the base map, identify damaged buildings to be removed with a black "X" .
+These should include most buildings in the floodway and at least 1/3 of the
+buildings in the 100-year floodplain with more than 50% damage.
+5.Are there  changes in your existing policies and regulations that could be made now
+to improve decisions about damaged buildings after the real flood? On Handout 4.
+Recommended Actions, list actions that might be taken now to make this task easier
+after a flood.
+Products
+oBase map showing moratorium areas and buildings to be removed
+oHandout I. Policies for Damaged Buildings
+oEntries on Handout 4.
+
+Recommended Actions
+Instructions -- Task I
+Handout I
+POLICIES FOR DAMAGED BUILDINGS
+Damaged Buildings Local Floodplain Management
+RegulationsYour Policy Recommendations
+In Floodway
+100-year Floodplain
+50% or More
+Damage
+100-year Floodplain
+Less than 50%
+Damage
+Outside 100-year
+Floodplain
+Historic
+Handout I
+SCRIPT -- TASK J. PERMIT PROCESSING
+(You have 5 minutes to read the script.)
+Slide J1. Task J. Permit Processing
+Task J is to estimate work load and staff needs to process permits for repair and
+rebuilding after the flood and recommend procedures for handling the work load.
+After a flood, the number of applications for building permits is many times the usual
+volume. You may face pressures to compromise standards and cut short your review
+to speed the permitting process. Yet, the safety of the rebuilt community depends on
+maintaining good building practices and competent review of permit applications.
+Slide J2. Plan checking at counter, Santa Clara County, California
+Here is a property owner applying for a building permit in Santa Clara County,
+California to repair her flood-damaged building. Local governments find that they
+usually need extra staff to help process the heavy volume of permit applications. Some
+jurisdictions have hired consultants to supplement their staffs or hired temporary
+employees.
+Slide J3. Permit processing on the scene, Guerneville, California
+Usually some changes in procedures are needed after a flood. The building
+department in Sonoma County, California manned this table in Guerneville after the
+1995 flood on the Russian River. Building inspectors interviewed owners of damaged
+properties to determine if damaged approached 50% of market value. If not, permits
+were issued on the spot. If so, an inspector visited the site and owners were asked to
+provide additional information to establish pre-flood market values.
+Slide J4. Information center in Hardin, Illinois
+After the 1993 Midwest floods, the city of Hardin, Illinois set up a center where owners
+could find out the elevation of their properties. This information was necessary to
+design repairs and apply for building permits. Some local governments have tried to
+make the process easier for victims by setting up "one-stop" permit centers.
+
+Other
+options are to waive public hearings for some types of permits, waive building permit
+fees for a period of time, and increase staffing to improve turnaround time.
+Slide J5. Booklet on protecting homes from flooding
+Local governments can speed recovery by providing information on techniques for
+elevating and floodproofing structures. For example, this FEMA booklet on retrofitting
+houses to reduce flood damage can be offered to those seeking permits to repair flood-
+damaged houses.
+Slide J6. Now begin Task J.
+Please turn to the instructions for Task J. You have 15 minutes to complete this task.
+Reminder to Facilitator:  Be sure to set the timer for 15 minutes.
+INSTRUCTIONS -- TASK J. PERMIT PROCESSING
+(Time to complete the task:  15 minutes)
+Purpose
+Review your organization and procedures to handle plan checks, building permits, and
+building inspections for repairs and rebuilding.
+Materials
+oHandout F. Damage Assessment and Handout I. Policies for Damaged Buildings
+oBase map with information from Tasks A-I
+oExisting plan check and building permit processing procedures
+Steps
+1.Based on your estimates of the number of damaged buildings  (Handout F)  and
+policies for damaged buildings (Handout I) , estimate the number of building permit
+applications you expect for repairs and rebuilding. Enter your estimate below.
+Number of Building Permit Applications: ________
+2.From Step 1 above and your knowledge of the permit process, estimate the number
+of plan checkers, building inspectors and other staff needed to handle the work
+load. Enter your estimate below and discuss how you will obtain the help needed.
+Plan Checkers: ______ Building Inspectors : _______ Other: ______
+3.List below any changes in procedures that you think will be needed after a flood:
+_____ ______________________________________________________________________
+___________________________________________________________________________
+___________________________________________________________________________
+4.What problems do you anti cipate in processing permits for repairs? On Handout 4.
+Recommended Actions,  list actions that the community might take now to prepare for
+the work load.
+Products
+oEstimates of work load and staffing needs
+oRecommended changes in permit processing pr ocedures
+oEntries on Handout 4. Recommended Actions
+Instructions -- Task J
+SCRIPT -- TASK K.
+
+RECONSTRUCTION PLANNING
+(15 minutes to read the script)
+Slide K1. Task K. Reconstruction Planning
+In Task K, you will use all the information you have developed so far to prepare a
+reconstruction plan for the flooded areas. This task marks the beginning of a planning
+and rebuilding process that will dominate staff and political time for several years to
+come. In the previous tasks we explored in increasing detail the damage caused by
+your flood and the fate of individual buildings. Now we stand back and take a broader
+perspective. The question you will be asking during this task is: "What are the best
+uses of the floodplain in our community?"
+Slide K2. Thebes, Illinois on banks of Mississippi River
+In their natural state, floodplains carry floodwaters, provide wetlands and wildlife
+habitats, and offer sites for camping, fishing, hiking, and picnicking. People originally
+settled on floodplains for access to water, transportation, flat land for easy building,
+and fertile agricultural soils. This shows the town of Thebes, Illinois settled on the
+banks of the Mississippi River many decades ago.
+Slide K3. Downtown Elmira, New York protected by floodwall
+When floods came, people in riverside towns usually responded by trying to control
+the floodwaters. They built flood levees and floodwalls (like the one shown here
+protecting downtown Elmira, New York); they built dams and reservoirs to impound
+water upstream for measured release into the stream channel; they lined stream
+channels with rocks or concrete to regulate the flow of floodwaters; they diverted
+channels. For decades, people living in floodplains have turned to engineered flood
+protection systems to alleviate losses caused by periodic flooding.
+Slide K4. Floodwall overtopped, Elmira, New York
+After several generations of a structural approach to flood hazard reduction, we are
+discovering that flood losses are increasing rather than decreasing. This shows water
+spilling over the floodwall designed to protect downtown Elmira, New York from
+flooding. One reason flood losses are growing is that once a flood control structure is
+in place, people seem to believe that the floodplain is now safe, and construction in the
+floodplain increases.
+
+Sooner or later, comes a flood larger than the structure was
+designed to contain.
+Slide K5. Planning context for post-flood reconstruction plan
+A damaging flood gives you a chance to reconsider land uses in the floodplain. This
+diagram shows how post-flood reconstruction planning is linked to typical community
+planning. Ideally, a community's comprehensive plan is the umbrella defining land
+uses and circulation in the floodplain in relation to the rest of the community. A
+comprehensive plan may contain or be supplemented by a floodplain area plan
+recommending land uses and development practices in the floodplain to reduce flood
+losses. A post-flood reconstruction plan is completed after a damaging flood and
+essentially revises the comprehensive community plan and floodplain area plan (if
+there is one). The rest of this introduction gives examples of how some cities have
+planned and implemented new floodplain uses after major floods.
+Slide K6. Downtown buildings on riverfront, Elmira, New York
+Elmira, New York is a city of about 40,000 people on the Chemung River in the
+"southern tier" of New York state. A main downtown street, aptly named Water Street,
+runs next to the river. This pre-1970 slide shows buildings on the south side of Water
+Street which are backed up to the river and theoretically protected by the flood wall
+just shown. The first floor of the buildings contained stores and the upper floors either
+contained offices or were vacant.
+Slide K7. Flood in Elmira, New York, 1972
+Tropical storm Agnes stalled over the region in June 1972 causing major flooding in the
+Chemung River basin. Here you see the buildings on Water Street with water up to
+their second stories. A breach in the dike contributed to the flooding.
+Slide K8. Sketch of redevelopment plan
+After the floodwaters receded, the city decided to pursue redevelopment of the
+downtown area with funding from HUD and help from the New York State
+Development Corporation. An outlying shopping mall and stagnant economy had
+caused a typical decline in downtown retail sales, and the area was in need of help
+before the flood. The redevelopment plan, shown here, features a linear riverside
+promenade incorporating the flood wall.
+
+The plan also proposes rehabilitation of many
+historic buildings, a new four-lane arterial through downtown, closing Main Street to
+create a park and pedestrian shopping mall, and other features to address the
+economic, transportation, and social needs of the community as well as flood
+protection.
+Slide K9. Riverfront park along the Chemung River
+This shows the riverfront park in downtown Elmira in 1994. The buildings on the river
+side of Water Street were removed to open views to the river from the city center and
+create this pleasant promenade. Many of the buildings were in poor condition and
+under-used before the flood. Viable businesses were relocated elsewhere in
+downtown. Federal funds available for recovery allowed the city to undertake a major
+redevelopment project that would not have been politically or economically feasible
+before the flood. Downtown still serves as the region's business center. Although not
+all of the plan was implemented and downtown is still subject to flooding, the
+combination of a new upstream dam and removal of floodplain buildings means that
+the city is less vulnerable than before.
+Slide K10. Flood-damaged house, Rapid City, South Dakota, 1972
+Rapid City, South Dakota also endured a flood in 1972. Storms stalled over the Black
+Hills dumping up to 10 inches of rain in the Rapid Creek watershed. An earthen dam
+above Rapid City was washed out and a wall of water descended on the city killing 238
+people and destroying 770 houses and 565 mobilehomes. This shows one of the
+destroyed houses.
+Slide K11. House knocked from foundation, Rapid City, 1972
+This house was knocked off its foundation and tipped into its basement.
+Slide K12. Owners teeing off on former home site, Rapid City, 1992
+This is the same location 20 years later. The property is now part of a golf course and
+the former homeowners are teeing off where their house used to stand.
+Slide K13. Green belt in Rapid Creek floodplain, 1992
+The golf course is part of a green belt running the length of Rapid City along the creek.
+In addition to the golf course, the green belt contains hiking trails, a bike path and
+facilities for picnicking, soccer, polo, ice skating, horseshoes, and volleyball.
+
+With an
+infusion of funds from several federal agencies during an election year, Rapid City was
+able to acquire and transform its floodplain lands. Rapid City is safer from floods,
+more beautiful, and much better supplied with recreational facilities than before the
+devastating flood.
+Slide K14. Flood damage in Estes Park, Colorado, 1982
+Ten years after the Rapid City flood, Estes Park, Colorado got its turn. This shows
+damage from the 1982 flood which struck this tourist town at the entrance to Rocky
+Mountain National Park. A dam above the town failed sending a wall of water down
+Fall River into town.
+Slide K15. Clean up in Estes Park
+Clean up began almost immediately. The flood arrived just 3 days into the 3-month
+long summer tourist season which produces 95% of the annual income for town
+businesses. So, the town leaders were very anxious to get back in business quickly.
+Slide K16. Redevelopment plan, Estes Park
+After the town was cleaned up and most businesses operating, the townspeople set
+about planning for reuse of part of the floodplain. This shows a plan for a riverside
+park in an area occupied by a gas station, army surplus store and a motel before the
+flood. The plan was adopted about 18 months after the flood.
+Slide K17. Riverside park, Estes Park
+This shows the finished riverside park during spring runoff. The park, complete with a
+walkway, now extends along Fall River through Estes Park.
+Slide K18. Redevelopment sign, Estes Park
+In addition to the new park, which decreases the town's vulnerability to flood damage,
+Estes Park took the opportunity to strengthen its sign code, add new sidewalks,
+benches and street lights. The result is a more attractive central business district which
+is friendlier to tourists and pedestrians. The district is also a financial success. In 1995,
+the town's director of public works delivered a paper entitled, "Estes Park:  From
+Destruction to Economic Success."
+Slide K19. Soldiers Grove, Wisconsin before the flood
+Repeated flooding on the Kickapoo River led to an Army Corps of Engineers proposal
+in 1970 for a $3.5 million levee to protect $1 million in floodplain property in Soldiers
+Grove, Wisconsin.
+
+The town's share of the cost was estimated at $220,000 for
+construction plus a $10,000 annual maintenance fee. With an annual budget of about
+$14,000 a year, the village could not come up with the local share. Repeated flooding
+had left the business district in a state of blight and, between 1975 and 1978, village
+leaders embarked on a plan to relocate the downtown district to higher ground. They
+hired an architect to plan a new business district and purchased a farm field on the
+edge of town as a site; however, federal funds to finance the relocation were not
+approved.
+Slide K20. 1978 flood at Soldiers Grove
+Then, in 1978, a flood struck destroying much of the business district. Because the
+community was unified behind its plan and ready for action, within week of the flood,
+HUD awarded Soldiers Grove $1 million to start the relocation.
+Slide K21. Construction at new downtown site, Soldiers Grove
+Here you see construction underway at the new downtown site. The old site is in the
+background. The village also received funds to move its water well out of the
+floodplain and to reroute roads to provide emergency access around the river in times
+of flooding.
+Slide K22. New Soldiers Grove business district
+This shows the new business district. The project was completed in 1983 at a total cost
+of $6.6 million. The new buildings are constructed for energy efficiency and
+landscaping is designed to blunt the force of winter winds. By local ordinance, all new
+commercial buildings must receive at least half their heat from solar power. The new
+district is more energy efficient, attractive, barrier-free, and successful than the old one.
+Slide K23. Park along the Kickapoo River at Soldiers Grove
+And, here is the previous business district site, now developed as the Beauford T.
+Anderson Memorial Park with a war memorial and recreational facilities as shown
+here. Like other successful reconstruction planning programs, post-flood
+reconstruction in Soldiers Grove meets many community objectives in addition to
+flood-hazard reduction.
+Slide K24.
+
+Suggestions for reconstruction planning
+This slide summarizes a few suggestions from these examples to keep in mind as you
+start working on plans for rebuilding in your floodplain.
+oIdentify beneficial uses of the floodplain .
+oBe sure new and repaired buildings are safer from flood damage.
+oAvoid grandiose plans. Rebuilding plans should address only the specific needs of
+rebuilding.
+oCapitalize on achievable opportunities. These will be specific and clearly related to
+the flood damage.
+oUse redevelopment powers. Most rebuilding plans are redevelopment plans using
+tax increments to help finance public improvements.
+oUnderstand and accept economic realities. Floods change the economics of doing
+business. It is rarely possible to simply restore things exactly as they were.
+oWork closely with private sector. Remember that local governments plan, but the
+private sector will do most of the rebuilding.
+Slide K25. Now begin Task K.
+With that as background to stimulate thinking, you are ready to create your own plans
+for _______________________. Please turn to the instructions for Task K and Handout K.
+The handout is a table to help you identify opportunities for land use change. You
+have about an hour to identify opportunities and create a reconstruction plan for your
+community's floodplain.
+Reminder for Facilitator:  Be sure to set the timer for 60 minutes.
+INSTRUCTIONS -- TASK K. RECONSTRUCTION PLANNING
+(Time to complete the task:  60 minutes)
+Purpose
+Identify opportunities for land use change and prepare a reconstruction plan for your
+community's 100-year floodplain.
+Materials
+oBase ma p with information from Tasks A-J
+oHandout F. Damage Assessment
+oHandout I. Policies for Damaged Buildings
+oComprehensive plan, redevelopment plan, other plans, zoning maps
+oFloodplain management ordinance
+oHandout K. Planning Opportunities
+Steps
+1.Using the information accumulated on the base map and handouts and your
+knowledge of the community and its plans, identify opportunities for changes in
+land use and structures in the floodplain that could improve safety from floods and
+achieve other community objectives. List the planning opportunities on Handout K.
+Planning Opportunities .
+2.Draw a proposed reconstruction plan for the floodplain on an overlay of the base
+map.
+
+Show land uses, transportation changes, design features and other relevant
+information.
+3.Estimate how long you think it would take to complete and adopt a reconstruction
+plan allowing for public hearings and full citizen participation. How long do you
+think it will be before the damaged areas of your community are completely
+rebuilt?
+Months for floodplain planning: ______  Years for reconstruction: ________
+4.What problems did you have in preparing a reconstruction plan? On Handout 4.
+Recommended Actions,  list actions that the community might take now to prepare for
+this task.
+Products
+oHandout K. Planning Opportunities
+oOverlay of base map showing major features of the reconstruction plan
+oEntries on Handout 4. Recommended Actions
+Instructions -- Task K
+Handout K
+PLANNING OPPORTUNITIES
+Types of Opportunity Potential Opportunities
+Reducing risks from
+floods; other hazards
+Eliminating non-
+conforming uses
+Correcting plan/zoning
+inconsistency
+Realigning or improving
+roads
+Improving housing
+conditions or
+affordability
+Enhancing the local
+economy
+Upgrading inadequate
+commercial, industrial, or
+public facilities
+Improving urban design
+Providing open space
+Preserving historic
+buildings
+Others (list)
+Handout K
+SCRIPT -- TASK L. MITIGATING FLOOD HAZARDS
+(10 minutes to read the script )
+Slide L1. Task L  Mitigating Flood Hazards
+Task L explores how recovery can be made easier by reducing the potential for flood
+damage in advance of a flood and preparing for recovery tasks. FEMA sets aside an
+amount equal to 15% of disaster assistance funds for mitigation projects. To qualify for
+the funds, jurisdictions must have a mitigation plan. You will work out the key features
+of your mitigation plan in Task L.
+Slide L2. Ways to Mitigate Flood Losses
+What is mitigation? It basically means taking actions to reduce the long-term
+vulnerability to disaster losses. Flood hazard mitigation usually involves one or more
+of the "A" actions listed on the slide:  AVERT  the flood, ADAPT  to the flood, AVOID
+the flood, and ANTICIPATE  the flood.
+
+Averting the flood includes all types of
+structural flood control; adapting to the flood hazard includes elevating and
+floodproofing buildings; avoiding the flood hazard means keeping vulnerable land
+uses out of areas prone to flooding; and anticipating the flood means preparing for
+emergency response, recovery and rebuilding after a flood.
+Slide L3. Flood insurance policy
+This shows a flood insurance policy issued under the National Flood Insurance
+Program. Normally, insurance is not considered mitigation. However, the NFIP has
+mitigation built in. Communities must join the program before property owners are
+eligible for insurance. To join, communities must adopt a floodplain management
+ordinance meeting specific minimum standards. However, the standards are
+minimums; nothing precludes a community from adopting more stringent
+requirements. In fact, the NFIP rewards property owners in cities that exceed the
+minimum standards with lower insurance premiums.
+Slide L4. Elevated houses in Snoqualmie, Washington
+For example, in the town of Snoqualmie in Washington State, 12 houses were
+repeatedly flooded. Damage did not reach 50% of pre-flood value of any of the houses.
+So, under the terms of its local floodplain management ordinance, the town did not
+require elevation. Finally, after a flood in 1987, the town amended its zoning code to
+require elevation of any of the 12 houses which received flood damage exceeding 10%
+of market value. Here you see a house in this district being elevated after the flood.
+The one behind it has not yet been elevated. Because the 10% standard was adopted as
+part of the town's zoning code, the cost of elevation was financed with SBA low-interest
+loans.
+Slide L5. Greenway along Mingo Creek in Tulsa, Oklahoma
+This shows the greenway along Mingo Creek in Tulsa, Oklahoma. Tulsa used to have
+the worst record of any community in the flood insurance program. Property along
+Mingo Creek had been flooded in 9 out of 15 years. Finally, the city began to relocate
+buildings out of the 100-year floodplain, creating this greenway. The city also adopted
+new floodplain management regulations substantially exceeding the NFIP minimum
+requirements and now Tulsa property owners have the lowest flood insurance
+premiums in the nation--25% lower than its prior rates.
+Slide L6.
+
+Boulder Creek, Boulder, Colorado
+To the extent that the reconstruction plan you just completed reduces the potential for
+future flooding, it is a plan for mitigation. One point of this task is that you do not
+need to wait for a flood to plan and carry out mitigation actions. This shows Boulder
+Creek winding its way through the City of Boulder, Colorado. The last serious
+flooding on the creek was Memorial Day 1894--100 years ago. However, the flood
+potential was documented by the Army Corps of Engineers and a 1977 study
+recommended lining the creek channel with concrete to control flooding.
+Slide L7. Houses being removed from floodplain, Boulder
+Boulder residents fought to keep the creek channel in its natural state and, in 1987, the
+council adopted an ordinance prohibiting the issuance of building permits for any
+structure with sleeping quarters in the high-hazard zone along Boulder Creek. In 1992,
+Boulder also initiated a program to purchase and remove buildings in order to reduce
+the size of the high-hazard area, particularly at the high school site. This shows a house
+being removed.
+Slide L8. Soccer field on former house sites, Boulder
+This shows a soccer field developed in 1994 on the sites from which the houses were
+removed.
+Slide L9. Map showing the high-hazard zone before the relocation project, Boulder
+The purple areas on this map show the high-hazard zone along Boulder Creek before
+the relocation of buildings. The largest building, shown on the right side of the slide, is
+the high school.
+Slide L10. Map showing the high-hazard zone after the relocation project, Boulder
+The purple areas on this map show the high-hazard zone after the buildings were
+removed. As you can see, the zone is much smaller than in the previous slide. Note
+that the high school building is now out of the high-hazard zone. With the removal of
+the buildings, more floodplain is now available for the floodwaters to spread out and
+slow down, and the high school building can remain with assurance that students can
+safely evacuate the building if flooding occurs.
+Slide L11. Boulder Creek bike and walking path
+In addition to the relocation project, the city purchased or acquired easements over
+creekside property extending for six miles along the creek and five tributaries.
+
+The
+centerpiece of this project is bike and pedestrian paths which allow you to walk or
+bicycle almost anywhere in Boulder without crossing a street.
+Slide L12. Sign announcing Annual Boulder Creek Festival
+Every year, the residents of Boulder gather in the creek corridor for the Annual Boulder
+Creek Festival on Memorial Day to celebrate the creek and the greenbelt including the
+creek path.
+Slide L13. Rubber duck race on Boulder Creek
+A popular event during the festival is a rubber duck race. People pay $5 to enter a
+duck in the race with the proceeds going to provide handicapped access to the creek.
+Boulder's creekside project reduces the city's vulnerability to flood losses while at the
+same time providing a safe and pleasant alternative to the automobile and a focal point
+for community activities.
+Slide L14. Wetlands along Charles River in Massachusetts
+Protecting the ability of wetlands and marshes to store floodwaters is an important
+aspect of flood hazard mitigation. This shows wetlands which are part of an 8,500-acre
+preserve along the Charles River in Massachusetts. The Army Corps of Engineers
+acquired the land and easements for $10 million. This was far less than the $100
+million estimated for upstream dams and levees needed to control an equivalent
+amount of floodwater. The Corps report states that "nature has already provided the
+least-cost solution to future flooding . . ."
+Slide L15. Cluster development in Portola Valley, California
+Development practices in watersheds can affect the frequency and height of floods on
+rivers and streams. This shows a carefully planned cluster development in Portola
+Valley, California featuring generous open space, native vegetation, limitations on
+impervious surfaces and other features to reduce runoff from the site.
+Slide L16. Drying basement of historic building, Darlington, Wisconsin
+Protecting historic buildings and places from flood damage is an important mitigation
+task. The historic district in Darlington, Wisconsin was flooded in 1993. This shows an
+industrial dehumidifier installed to dry out the wood joists in the basement of an
+historic brick building in the district.
+Slide L17. Diagram of floodproofing technique useful for historic buildings
+To reduce future flood damage, Darlington completed a floodproofing study and
+evaluated 38 buildings.
+
+A floodproofing alternative being used in Darlington for
+historic buildings is to fill in the basements and elevate the first floor and utilities above
+the 100-year flood level as shown in this diagram. From the outside, the historic
+character of the buildings is preserved, but they will be far less vulnerable to flood
+damage.
+Slide L18. Flood emergency response and recovery plans
+Most cities have preparedness and response plans that detail the responsibilities of
+various city departments in the immediate response to a flood. Some cities, however,
+have thought through the requirements of long-term recovery and rebuilding. Here
+you see the Post-Flood Recovery Assistance Plan for Arvada, Colorado along with two
+more typical response plans. As you have experienced today, many of the recovery
+tasks would be more readily done if planned in advance. A part of any flood hazard
+mitigation plan should be a statement of actions a city will take before a flood comes to
+better handle both emergency response and long-term recovery.
+Slide L19. FEMA's E-Net studio
+FEMA has established a educational network to convey hazard and recovery
+information to local governments and others in need of the information. This shows the
+studio in Emmitsburg, Maryland. Efforts like this to educate the public and support
+private decisions to reduce flood vulnerability are very important parts of any
+mitigation program. Most mitigation will actually be done by private businesses and
+individuals. Local governments can help by providing information, incentives, and
+sometimes requirements.
+Slide L20. Now begin Task L.
+This is your last task. Throughout the day you have been listing actions to improve
+your ability to handle the recovery tasks in this exercise. During this task, you will
+review your recommended actions, assign them priorities and detail the most
+important actions. You have 30 minutes to complete this task. Please turn to the
+instructions and copies of Handouts L1  and L2.
+Reminder to Facilitator:  Be sure to set the timer for 30 minutes.
+INSTRUCTIONS -- TASK L. MITIGATING FLOOD HAZARDS
+(Time to complete this task:  30 minutes)
+Purpose
+Identify and describe high-priority actions to include in a flood hazard mitigation plan,
+drawing on the entries on Handout 4.
+
+Recommended Actions and major points from
+working Tasks A - K.
+Materials
+obase map with information from Tasks A-K and all handouts
+oHandout L1. High-Priority Action to Reduce Flood Risk
+oHandout L2. Contacts for Technical and Financial Assistance
+Steps
+1.Listen to your recorder recap the actions listed on Handout 4. Recommended Actions.
+Discuss the actions and make changes in the list as needed. Then, check the actions
+you decide are high-priority needs to reduce flood risk or the burdens of recovery.
+Be sure to check at least 5 actions.
+2.For each checked a ction, fill out a copy of Handout L1. High-Priority Action to Reduce
+Flood Risk , indicating who should be responsible for carrying out the action, who
+should be involved in the decisions, resources needed and available to accomplish
+it, and when it should be started and completed.
+3.Seek information from those present at the exercise to fill out Handout L2. Contacts
+for Technical and Financial Assistance.
+Products
+oHandout 4. Recommended Actions with high-priority actions checked
+oAt least five cop ies of Handout L1. High-Priority Action to Reduce Flood Risk
+oHandout L2. Contacts for Technical and Financial Assistance
+Instructions --Task L
+Handout L1
+HIGH-PRIORITY ACTION TO REDUCE THE RISK OF FLOODING
+Description of the Action
+Agencies Responsible for Carrying Out the Action
+People and Organizations Who Should be Involved in the Decisionmaking
+Resources Needed (funds, expertise, equipment, etc.,)
+Possible Sources for Resources
+Time to Start_____________________________________
+Time to Complete _________________________________
+Handout L1
+Handout L2.
+CONTACTS FOR TECHNICAL AND FINANCIAL ASSISTANCE
+The true measure of effectiveness of the Flood Recovery Exercise, which you have just
+completed, will be in the actions that your community now takes. Throughout the day, you
+have identified potential problems that your community is likely to face following a flood.
+
+You
+have also identified a series of high-priority actions that will lessen the impact of those
+problems, if you pursue them prior to the next flood.
+FEMA, your state emergency management agency, and your state floodplain management
+officials stand ready to help you carry out these actions. Below is a list of agencies to contact
+for technical and financial assistance to help your community meet its flood-hazard reduction
+goals. Add the appropriate names and telephone numbers to the list with the help of those
+present at the exercise. Then, keep this page with your copies of Handout L1. You are now
+ready to begin implementing the actions!
+FEMA REGIONAL OFFICE  (location: ___________________________________________)
+Telephone Number: _______________________________________________________
+Hazard Mitigation Officer : _____________________________________________________
+Telephone Number: _______________________________________________________
+STATE EMERGENCY MANAGEMENT AGENCY
+Telephone: ___________________________________________________________________
+State Hazard Mitigation Officer:  ________________________________________________
+Telephone Number: _______________________________________________________
+STATE FLOODPLAIN MANAGEMENT AGENCY
+Telephone Number: ___________________________________________________________
+State Floodplain Manager: _____________________________________________________
+Telephone Number: _______________________________________________________
+Floodplain Management Resource Center --A Service of the Association of State Floodplain
+Managers, University of Colorado. Telephone:  303-492-6818.
+Handout L2
+Slide Index
+A complete listing of slides used in the exercise follows. The text slides were prepared
+by DAE Corporation based on text provided by Martha Tyler, Spangle Associates.
+Other sources are noted with numbers in parentheses and full citations are given at the
+end of this section.
+Introduction
+1. Flood Mitigation and Recovery--An Interactive Exercise for Local Governments
+2. Exercise tasks
+3. Exercise schedule
+4. Exercise purpose
+5. Topics  not covered
+6. Flood recovery timeline
+7. Task structure
+8. What players need
+9. Getting started
+Task A. Flood Warning and Evacuation
+A1. Task A. Warning and Evacuation
+A2. Woman with child watching storm clouds (5)
+A3. National Weather Service office ( 1)
+A4. Form for an official flood warning (1)
+A5 Flood warning siren (1)
+A6. Cross section of floodplain (4)
+A7.
+
+Terms for flood frequency (2)
+A8. Flood insurance map showing A, B, and C zones (2)
+A9. Evacuating people, Elmira, New York (6)
+A10. Flood-dama ged vehicles (1)
+A11. Sandbagging in downtown Salt Lake City (1)
+A12. Moving furniture from a house (5)
+A13. Now begin Task A.
+Task B. Emergency Shelter
+B1. Task B. Emergency Shelter
+B2. Red Cross disaster services center tent (12)
+B3. Emergency shelter,  Santa Cruz, California (13)
+B4. People entering emergency shelter in Elmira, New York (6)
+B5. RV in front yard (1)
+B6. Now begin Task B.
+Slide Index, page 2Task C. Damage Scenario
+C1. Task C. Damage Scenario
+C2. Rivers converging at Pittsburgh, Pennsylvania (2)
+C3. Same  scene with rivers flooding (2)
+C4. Chemung River flooding in Elmira, New York (9)
+C5. Flash flood in Buffalo Creek, West Virginia (2)
+C6. Failed dam in Rocky Mountain National Park (1)
+C7. Floodwater channel in mountainside, Rocky Mountain National Park ( 1)
+C8. Ice-covered river at Oil City, Pennsylvania (2)
+C9. House damaged by ice in Peoria, Illinois (5)
+C10. Alluvial fan adjacent to Colorado River (14)
+C11. Factors contributing to flood damage
+C12. Debris in floodwaters, West Virginia (2)
+C13. Broken fl oodgate, Folsom Dam (15)
+C14. New houses behind a dike along the Sacramento River (16)
+C15. Watershed development, Laguna Beach, California (3)
+C16. Structures in the floodway, Guerneville, California (3)
+C17. Pre-FIRM building (2)
+C18. Elevated houses in floodplain (5)
+C19. Damaged mobilehome in Estes Park, Colorado (1)
+C20. Scenic river road in northern California (3)
+C21. Submerged bridge (2)
+C22.
+
+Sewage treatment plant during flood (5)
+C23. Water pumping station in Hull, Illinois (4)
+C24. Unlabeled drum  on Mississippi River (10)
+C25. Now begin Task C.
+Task D. Rerouting Traffic
+D1. Task D. Rerouting Traffic
+D2. Washed-out bridge in Puerto Rico (1)
+D3. Traffic control at washed-out road (2)
+D4. Map of emergency traffic routes, Salt Lake City (1)
+D5. Detour graded around washed-out road (1)
+D6. Temporary "Bailey" bridge (17)
+D7. Railroad cars used as temporary bridge (1)
+D8. Boat used for access (2)
+D9. Now begin Task D.
+Task E. Restoring Services
+E1. Task E. Restoring Services
+E2. Severed utility lines  to house in Farmington, Utah (1)
+E3. Flooded electric power substation, Keithsburg, Illinois (4)
+E4. Temporary above-ground water connection in Inverness, California (3)
+E5. Damaged city hall/EOC, Hull, Illinois (4)
+E6. Sandbagged school (4)
+E7. Now begin  Task E.
+Slide Index, page 3Task F. Damage Assessment
+F1. Task F. Damage Assessment
+F2. Helicopter used to assess damage, Thistle, Utah (1)
+F3. Building with red tag in Albany, Georgia (2)
+F4. Classifying flood damage to buildings
+F5. Houses flooded in Thistle, Utah (1)
+F6. Building in 100-year floodplain (2)
+F7. Building with more than 50% damage (2)
+F8. Categories for percent damage
+F9. Flood-damaged historic building (4)
+F10. FEMA GPS system for damage assessment (18)
+F11. Now begin Task F.
+Task G. Temporary Business Locations
+G1. Task G. Temporary Business Locations
+G2. Flooded retail street in Georgia (4)
+G3. Flooded businesses along the Russian River, Guerneville, California (3)
+G4.
+
+Businesses operating from trailer in Guerneville, California (3)
+G5. Flood sale in Guerneville, California (3)
+G6. Portable janitor in Montpelier, Vermont (4)
+G7. Napa Auto Parts, Guerneville, California (3)
+G8. Criteria for temporary business locations
+G9. Now begin Task G.
+Task H. Temporary Housing
+H1. Task H. Temporary Housing
+H2. Bucket brigade in Utah  (1)
+H3. Person bailing out his house (1)
+H4. Vacancy sign (3)
+H5. People applying for housing assistance at a DAC (3)
+H6. FEMA trailers  (4)
+H7. Criteria for temporary housing sites
+H8. Now begin Task H.
+Task I. Policies for Damaged Buildings
+I1. Task I. Policies for Damaged Buildings
+I2. Broken levee, Midwest (10)
+I3. Options for flood-damaged buildings
+I4. Building in the floodway, Old Woman's Bend, Michigan (19)
+I5. House being moved (4)
+I6. Elevated houses in Guerneville, Ca lifornia on the Russian River (3)
+I7. Floodproofed restaurant (2)
+I8. Wet floodproofed building in Morgan City, Louisiana (2)
+I9. Pre-FIRM building with less than 50% damage (5)
+I10. Flood-damaged historic building, Keithsburg, Illinois (4)
+I11. Now begin Task I.
+Slide Index, page 4Task J. Permit Processing
+J1. Task J. Permit Processing
+J2. Plan checking at counter, Santa Clara County, California (3)
+J3. Permit processing on the scene, Guerneville, California (3)
+J4. Information center in Hardin, Illinois (4)
+J5. Booklet on  protecting homes from flooding (4)
+J6. Now begin Task J.
+Task K. Reconstruction Planning
+K1. Task K. Reconstruction Planning
+K2. Thebes, Illinois on banks of Mississippi River (5)
+K3. Downtown Elmira protected by floodwall (9)
+K4.
+
+Floodwall overtoppe d, Elmira, New York (6)
+K5. Planning context for post-flood reconstruction plan
+K6. Downtown buildings on riverfront, Elmira, New York (9)
+K7. Flood in Elmira, New York, 1972 (6)
+K8. Sketch of redevelopment plan  (6)
+K9. Riverfront park along Chemung River  (20)
+K10. Flood-damaged house, Rapid City, South Dakota, 1972 (8)
+K11. House knocked from foundation, Rapid City, 1972 (9)
+K12. Owners teeing off on former home site, Rapid City, 1992 (8)
+K13. Green belt in Rapid Creek floodplain, 1992 (8)
+K14. Flood dama ge in Estes Park, Colorado, 1982 (1)
+K15. Clean up in Estes Park (1)
+K16. Redevelopment plan, Estes Park (1)
+K17. Riverside park, Estes Park (1)
+K18. Redevelopment sign, Estes Park (1)
+K19. Soldiers Grove, Wisconsin before the flood (7)
+K20. 1978 flood at Soldiers Grove (7)
+K21. Construction at new downtown site, Soldiers Grove (7)
+K22. New Soldiers Grove business district (7)
+K23. Park along the Kickapoo River at Soldiers Grove (21)
+K24. Suggestions for reconstruction planning
+K25. Now begin Task K.
+Task L. Mitigating Flood Hazards
+L1. Task L. Mitigating Flood Hazards
+L2. Ways to Mitigate Flood Losses
+L3. Flood insurance policy (5)
+L4. Elevated houses in Snoqualmie, Washington (2)
+L5. Greenway along Mingo Creek in Tulsa, Oklahoma (22)
+L6. Boulder Creek, Boulder, Colorado (1)
+L7. Houses being removed from floodplain, Boulder (11)
+L8. Soccer field on former house sites, Boulder (11)
+L9. Map showing the high-hazard zone before the relocation project, Boulder (1)
+L10. Map showing the high-hazard zone after th e relocation project, Boulder (1)
+L11.
+
+Boulder Creek bike and walking path (1)
+L12. Sign announcing Annual Boulder Creek Festival (1)
+Slide Index, page 5L13. Rubber duck race on Boulder Creek (1)
+L14 Wetlands along Charles River in Massachusetts (23)
+L15. Cluster developmen t in Portola Valley, California (3)
+L16. Drying basement of historic building, Darlington, Wisconsin (24)
+L17. Diagram of floodproofing technique useful for historic buildings (25)
+L18. Flood emergency response and recovery plans (1)
+L19. FEMA's E-Net stud io  (1)
+L20. Now begin Task L.
+Sources
+(1) Clancy Philipsborn, The Mitigation Assistance Corporation, Boulder, Colorado
+(2) Federal Emergency Management Agency, General Collection, Washington, DC
+(3) Spangle Associates, Portola Valley, California
+(4) Cliff Oliver, Federal Emergency Management Agency, Washington, DC
+(5) Illinois Department of Transportation, Water Resources Division, Chicago, After
+the Flood  slide show
+(6) Chemung County Historical Society, Elmira, New York
+(7) Thomas Hirsch, Madison, Wi sconsin
+(8) Dr. Keith T. Johnson, Rapid City, South Dakota
+(9) Slides taken by Spangle Associates from photographs in Rebuilding after Agnes
+in The Chemung Historical Journal , December 1972, Elmira, New York
+(10) Richard M. Gaffney, Water Resources Progra m, Division of Geology and Land
+Survey, Missouri Department of Natural Resources
+(11) David Love, Love & Associates, Inc., Boulder, Colorado
+(12) California Office of Emergency Services, Coastal Region, Earthquake Program
+(13) Slide taken by Spangle Asso ciates from a photo in the Santa Cruz Sentinel.
+Permission granted for use in this collection.
+(14) Terri Miller, Engineering Division, Arizona Department of Water Resources
+(15) Rick Roach, photographer for the Vacaville Reporter . Photo used with
+permission.
+(16) Vince Maggiora, photographer for the San Francisco Chronicle .
+
+Photo used with
+permission.
+(17) Steve Blair, Water Wilderness Photography, Pacific Grove, California
+(18) Geo-Research, Inc., Billings, Montana
+(19) Elizabeth Lemersal, Federal  Emergency Management Agency, Washington, DC
+(20) Lynda and Philip Carpentier, Elmira, New York
+(21) Roddy Dull, Roddy's Signs, Boscobel, Wisconsin
+(22) Ann Patton, City of Tulsa, Oklahoma
+(23) U.S. Army Corps of Engineers, New England Division Waltham, Ma ssachusetts
+(24) Susan Boldt, FEMA Hazard Mitigation Coordinator, Wisconsin Interagency
+Disaster Recovery Office, Madison, Wisconsin
+(25) Slide taken by The Mitigation Assistance Corporation from original design
+drawing developed by Dewberry & Davis, F airfax, Virginia.
+

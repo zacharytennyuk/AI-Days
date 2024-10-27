@@ -2,6 +2,8 @@ import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 import Navbar from './components/Navbar';
 import Links from './routes/Links';
+import LocationTracker from './components/LocationTracker';
+import "./App.css"
 
 
 const theme = createTheme({
@@ -30,6 +32,7 @@ function App() {
         <CssBaseline />
         <Navbar />
         <Links />
+        <LocationTracker />
       </ThemeProvider>
     </>
   )

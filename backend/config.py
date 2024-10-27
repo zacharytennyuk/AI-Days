@@ -9,6 +9,8 @@ class Settings(BaseSettings):
 
     # Pinecone
     PINECONE_API_KEY: str
+    
+    GOOGLE_PLACES_API_KEY: str
 
     # Google
     GOOGLE_PLACES_API_KEY: str
