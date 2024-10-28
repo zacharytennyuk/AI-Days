@@ -8,8 +8,8 @@ PrepPal is a disaster preparedness assistant that utilizes Retrieval-Augmented G
 Clone the repository:
 
 ```bash
-git clone https://github.com/zacharytennyuk/AI-Days.git
-cd AI-Days
+git clone https://github.com/zacharytennyuk/PrepPal.git
+cd PrepPal
 ```
 
 Install the required Python packages:
